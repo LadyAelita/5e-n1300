@@ -85,7 +85,7 @@ function generateTable(data, skipHeaders = false) {
 	if (!skipHeaders) {
 		const headerRow = data[0];
 		headerRow.forEach(function (header) {
-			const headerHTML = '<th scope="col" class="columnHeader" sort="0" columnName="' + header + '">' + header + '</th>';
+			const headerHTML = '<th scope="col" class="columnHeader" columnName="' + header + '">' + header + '</th>';
 			$('#indexTableHeaderRow').append(headerHTML);
 		});
 	}
@@ -168,20 +168,6 @@ function sortDataArrayByColName(data, colName, descending=false) {
 	}
 }
 
-/**
- * Sorts the given data with respect to the given column name and updates the
- * 	table with it.
- * @param {Array.<Array>} data - A 2d array containing the rows, which then contain the columns to sort.
- * @param {String} colName - The name of the column with respect to which the data shall be sorted.
- * @param {?Boolean} [descending=false] - Whether the sort order should be reversed.
- * @throws {RangeError}
- * @returns {undefined}
- */
-function sortByColNameAndUpdateTable(data, colName, descending=false) {
-	const sortedData = sortDataArrayByColName(data, colName, descending);
-	generateTable(sortedData, true);
-}
-
 // ### Script ###
 
 // Get URL query params first
@@ -192,6 +178,11 @@ const indexName = urlQueryParams.get(INDEX_NAME_PARAM);
 const indexFilePath = INDEX_DIR + '/' + indexName + INDEX_EXT;
 const indexFileRaw = loadFile(indexFilePath);
 
+let sorting = {
+	column: null,
+	descending: null
+};
+
 $(document).ready(function () {
 	if (indexFileRaw) {
 		try {
@@ -201,15 +192,22 @@ $(document).ready(function () {
 
 			$('#indexTableHeaderRow').on('click', '.columnHeader', function () {
 				const columnName = $(this).attr('columnName');
-				const sortDirection = $(this).attr('sort');
 				let descending = false;
-				if (sortDirection === '+') {
-					descending = true;
-					$(this).attr('sort', '-');
-				} else {
-					$(this).attr('sort', '+');
+				if (sorting.column === columnName) {
+					descending = !sorting.descending;
 				}
-				sortByColNameAndUpdateTable(indexRows, columnName, descending);
+				sorting = {
+					column: columnName,
+					descending: descending
+				}
+				const sortingSymbol = descending ? '↓' : '↑';
+				const sortedData = sortDataArrayByColName(indexRows, columnName, descending);
+				generateTable(sortedData);
+				$('.columnHeader').each(function () {
+					if ($(this).html() === columnName) {
+						$(this).append(' ' + sortingSymbol);
+					}
+				});
 			});
 		} catch(error) {
 			displayGenericError(error);

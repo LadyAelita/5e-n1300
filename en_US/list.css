@@ -4,4 +4,5 @@ body {
 
 th.columnHeader:hover {
 	color: #888;
+	cursor: pointer;
 }
