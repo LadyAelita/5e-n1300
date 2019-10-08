@@ -178,6 +178,7 @@ const indexName = urlQueryParams.get(INDEX_NAME_PARAM);
 const indexFilePath = INDEX_DIR + '/' + indexName + INDEX_EXT;
 const indexFileRaw = loadFile(indexFilePath);
 
+// This is used to keep track of the current sorting settings
 let sorting = {
 	column: null,
 	descending: null
@@ -193,6 +194,8 @@ $(document).ready(function () {
 			$('#indexTableHeaderRow').on('click', '.columnHeader', function () {
 				const columnName = $(this).attr('columnName');
 				let descending = false;
+				// If the user clicks the same header with respect to which the data
+				//  is already being sorted, just flip the direction.
 				if (sorting.column === columnName) {
 					descending = !sorting.descending;
 				}
@@ -200,11 +203,15 @@ $(document).ready(function () {
 					column: columnName,
 					descending: descending
 				}
-				const sortingSymbol = descending ? '↓' : '↑';
 				const sortedData = sortDataArrayByColName(indexRows, columnName, descending);
 				generateTable(sortedData);
+				// Look for the header with the same column name as the previous one,
+				//  and add the fancy arrow symbol next to it.
+				// generateTable() resets headers in this case, so the addition has to
+				//  be done after that.
+				const sortingSymbol = descending ? '↓' : '↑';
 				$('.columnHeader').each(function () {
-					if ($(this).html() === columnName) {
+					if ($(this).attr('columnName') === columnName) {
 						$(this).append(' ' + sortingSymbol);
 					}
 				});
