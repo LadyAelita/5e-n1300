@@ -4,6 +4,7 @@ const INDEX_DIR = 'indices';
 const INDEX_NAME_PARAM = 'indexName';
 const INDEX_EXT = '.csv';
 const CSV_SEPARATOR = ';';
+const ERROR_HEADER = 'Fuck that shit';
 
 // ### Helper functions ###
 
@@ -25,31 +26,69 @@ function loadFile(filePath) {
 }
 
 /**
+ * Displays the given message, by setting the header and description to it.
+ * @param {String} header - The header to display.
+ * @param {String} description - The description to display.
+ * @returns {undefined}
+ */
+function display(header, description) {
+	clearTable(true);
+	$('#indexName').html(header);
+	$('#indexDescription').html(description);
+}
+
+/**
+ * Displays a generic error message.
+ * @param {String} message - The message to display.
+ * @returns {undefined}
+ */
+function displayGenericError(message) {
+	display(ERROR_HEADER, message);
+}
+
+/**
  * Handles a situation where the given index couldn't have been found.
  * @param {String} name - The name of the index that wasn't found.
  * @returns {undefined}
  */
 function handleIndexNotFound(name) {
-	$('#indexName').html('Not found!');
-	$('#indexDescription').html('The index "' + name + '" doesn\'t exist on the server.');
+	display('Not found!', 'The index "' + name + '" doesn\'t exist on the server.');
+}
+
+/**
+ * Clears the contents of the displayed table.
+ * @param {?Boolean} [clearHeaders=false] Whether to clear the header row as well.
+ * @returns {undefined}
+ */
+function clearTable(clearHeaders = false) {
+	if (clearHeaders) {
+		$('#indexTableHeaderRow').empty();
+	}
+	$('#indexTableBody').empty();
 }
 
 /**
  * Generates a visible table from the given data.
  * @param {Array.<Array.<String>>} data - A 2d-array containing the parsed CSV data.
+ * @param {?Boolean} [skipHeaders=false] - Whether to keep the current header row.
  * @returns {undefined}
  */
-function generateTable(data) {
+function generateTable(data, skipHeaders = false) {
 	if (!data || !data.length) {
 		return;
 	}
 
-	// First handle the header;
-	const headerRow = data[0];
-	headerRow.forEach(function (header) {
-		const headerHTML = '<th scope="col">' + header + '</th>';
-		$('#indexTableHeaderRow').append(headerHTML);
-	});
+	// First, clear the table contents
+	clearTable(!skipHeaders);
+
+	// Handle the header separately
+	if (!skipHeaders) {
+		const headerRow = data[0];
+		headerRow.forEach(function (header) {
+			const headerHTML = '<th scope="col" class="columnHeader" sort="0" columnName="' + header + '">' + header + '</th>';
+			$('#indexTableHeaderRow').append(headerHTML);
+		});
+	}
 
 	for (let i = 1; i < data.length; i++) {
 		const row = data[i];
@@ -71,6 +110,78 @@ function generateTable(data) {
 	}
 }
 
+/**
+ * Sorts an array of arrays with respect to the column of the given index.
+ * @param {Array.<Array.<String>>} data - A 2d array containing the rows, which then contain the columns to sort.
+ * @param {Number} colIndex - The index of the column with respect to which the data shall be sorted.
+ * @param {?Boolean} [descending=false] - Whether the sort order should be reversed.
+ * @throws {RangeError}
+ * @returns {Array.<Array.<String>>} The sorted array.
+ */
+function sortDataArray(data, colIndex, descending = false) {
+	if (!data || !data.length) {
+		return [];
+	}
+	const headerRow = data[0];
+	if (colIndex >= headerRow.length) {
+		throw new RangeError('Column index ' + colIndex + ' out of range');
+	}
+	// Get rid of the header, it's not being sorted
+	const result = data.slice(1);
+
+	function _sortSingleRowPair(x, y) {
+		if (x[colIndex].toLowerCase() < y[colIndex].toLowerCase()) {
+			return -1;
+		} else if (x[colIndex].toLowerCase() === y[colIndex].toLowerCase()) {
+			return 0;
+		} else {
+			return 1;
+		}
+	}
+	timsort.sort(result, (x, y) => descending ? -1 * _sortSingleRowPair(x, y) : _sortSingleRowPair(x, y));
+
+	// Add the copy of the header row back
+	result.unshift(headerRow.slice());
+
+	return result;
+}
+
+/**
+ * Sorts an array of arrays with respect to the column of the given column name..
+ * @param {Array.<Array>} data - A 2d array containing the rows, which then contain the columns to sort.
+ * @param {String} colName - The name of the column with respect to which the data shall be sorted.
+ * @param {?Boolean} [descending=false] - Whether the sort order should be reversed.
+ * @throws {RangeError}
+ * @returns {Array.<Array>} The sorted array.
+ */
+function sortDataArrayByColName(data, colName, descending=false) {
+	if (!data || !data.length) {
+		return [];
+	}
+	const headerRow = data[0];
+	const colIndex = headerRow.indexOf(colName);
+
+	if (colIndex >= 0) {
+		return sortDataArray(data, colIndex, descending);
+	} else {
+		throw new RangeError('No such column: ' + colName);
+	}
+}
+
+/**
+ * Sorts the given data with respect to the given column name and updates the
+ * 	table with it.
+ * @param {Array.<Array>} data - A 2d array containing the rows, which then contain the columns to sort.
+ * @param {String} colName - The name of the column with respect to which the data shall be sorted.
+ * @param {?Boolean} [descending=false] - Whether the sort order should be reversed.
+ * @throws {RangeError}
+ * @returns {undefined}
+ */
+function sortByColNameAndUpdateTable(data, colName, descending=false) {
+	const sortedData = sortDataArrayByColName(data, colName, descending);
+	generateTable(sortedData, true);
+}
+
 // ### Script ###
 
 // Get URL query params first
@@ -83,11 +194,27 @@ const indexFileRaw = loadFile(indexFilePath);
 
 $(document).ready(function () {
 	if (indexFileRaw) {
-		const indexRows = $.csv.toArrays(indexFileRaw, {
-			separator: CSV_SEPARATOR
-		});
-		$('#indexName').html(indexName);
-		generateTable(indexRows);
+		try {
+			const indexRows = $.csv.toArrays(indexFileRaw, { separator: CSV_SEPARATOR });
+			$('#indexName').html(indexName);
+			generateTable(indexRows);
+
+			$('#indexTableHeaderRow').on('click', '.columnHeader', function () {
+				const columnName = $(this).attr('columnName');
+				const sortDirection = $(this).attr('sort');
+				let descending = false;
+				if (sortDirection === '+') {
+					descending = true;
+					$(this).attr('sort', '-');
+				} else {
+					$(this).attr('sort', '+');
+				}
+				sortByColNameAndUpdateTable(indexRows, columnName, descending);
+			});
+		} catch(error) {
+			displayGenericError(error);
+			throw error;
+		}
 	} else {
 		handleIndexNotFound();
 	}
