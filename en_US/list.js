@@ -203,6 +203,24 @@ function filterData(data, criteria) {
 	return filteredData;
 }
 
+function gatherSpecialColumnInfo(data) {
+	if (!data || !data.length) {
+		return new Map();
+	}
+	const headerRow = data[0];
+
+	// Gather special column info
+	const specialColIndices = new Map();
+	for (let i = 0; i < headerRow.length; i++) {
+		const header = headerRow[i];
+		if (header.startsWith('!')) {
+			specialColIndices.set(i, header.slice(1).trim().toLowerCase());
+		}
+	}
+
+	return specialColIndices;
+}
+
 // ### Script ###
 
 // Get URL query params first
