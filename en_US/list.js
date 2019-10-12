@@ -209,7 +209,7 @@ $(document).ready(function () {
 				//  and add the fancy arrow symbol next to it.
 				// generateTable() resets headers in this case, so the addition has to
 				//  be done after that.
-				const sortingSymbol = descending ? '↓' : '↑';
+				const sortingSymbol = descending ? '↑' : '↓';
 				$('.columnHeader').each(function () {
 					if ($(this).attr('columnName') === columnName) {
 						$(this).append(' ' + sortingSymbol);
