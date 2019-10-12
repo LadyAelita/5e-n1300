@@ -158,6 +158,9 @@ function sortDataArrayByColName(data, colName, descending=false) {
 	if (!data || !data.length) {
 		return [];
 	}
+	if (!colName) {
+		return data.map((row) => row.slice());
+	}
 	const headerRow = data[0];
 	const colIndex = headerRow.indexOf(colName);
 
