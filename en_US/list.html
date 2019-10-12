@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<title>CSV Index</title>
 	<meta charset="UTF-8">
@@ -12,9 +13,11 @@
 	<script src="https://rawgithub.com/mziccard/node-timsort/master/build/timsort.js"></script>
 	<script src="list.js"></script>
 </head>
+
 <body>
 	<h1 id="indexName"></h1>
 	<p id="indexDescription"></p>
+	<input type="text" class="form-control" id="indexSearchInput" placeholder="Search" aria-label="Search" />
 	<table class="table table-striped">
 		<thead>
 			<tr id="indexTableHeaderRow"></tr>
@@ -23,4 +26,5 @@
 		</tbody>
 	</table>
 </body>
+
 </html>

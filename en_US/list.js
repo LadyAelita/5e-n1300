@@ -168,6 +168,38 @@ function sortDataArrayByColName(data, colName, descending=false) {
 	}
 }
 
+/**
+ * Filters an array of arrays, leaving only those rows, that contain the given
+ *  criteria.
+ * @param {Array.<Array.<String>>} data - A 2d array containing the rows to be filtered.
+ * @param {Array.<String>} criteria - An array of criteria joint with a logical AND.
+ * @returns {Array.<Array.<String>>} A filtered array.
+ */
+function filterData(data, criteria) {
+	if (!data || !data.length) {
+		return [];
+	}
+	if (!criteria || !criteria.length) {
+		return data.map((row) => row.slice());
+	}
+
+	// Trim & convert all criteria to lowercase at this point, to avoid doing that
+	//  multiple times in the loop below
+	criteria = criteria.map((criterion) => criterion.trim().toLowerCase());
+
+	// Never filter out the header
+	let filteredData = [];
+	filteredData.push(data[0].slice());
+
+	for (let i = 1; i < data.length; i++) {
+		const row = data[i];
+		if (criteria.every((criterion) => row.some((cell) => cell.toLowerCase().includes(criterion)))) {
+			filteredData.push(row);
+		}
+	}
+	return filteredData;
+}
+
 // ### Script ###
 
 // Get URL query params first
@@ -190,6 +222,8 @@ $(document).ready(function () {
 			const indexRows = $.csv.toArrays(indexFileRaw, { separator: CSV_SEPARATOR });
 			$('#indexName').html(indexName);
 			generateTable(indexRows);
+			// Create a deep(ish) copy of the data
+			let filteredRows = indexRows.map((row) => row.slice());
 
 			$('#indexTableHeaderRow').on('click', '.columnHeader', function () {
 				const columnName = $(this).attr('columnName');
@@ -203,7 +237,7 @@ $(document).ready(function () {
 					column: columnName,
 					descending: descending
 				}
-				const sortedData = sortDataArrayByColName(indexRows, columnName, descending);
+				const sortedData = sortDataArrayByColName(filteredRows, columnName, descending);
 				generateTable(sortedData);
 				// Look for the header with the same column name as the previous one,
 				//  and add the fancy arrow symbol next to it.
@@ -215,6 +249,20 @@ $(document).ready(function () {
 						$(this).append(' ' + sortingSymbol);
 					}
 				});
+			});
+
+			// Handle the search input
+			$('#indexSearchInput').change(function () {
+				const criterion = $(this).val();
+				if (criterion) {
+					filteredRows = filterData(indexRows, [ criterion ]);
+				} else {
+					filteredRows = filterData(indexRows, []);
+				}
+				const sortedData = sortDataArrayByColName(filteredRows, sorting.column, sorting.descending);
+				// We skip the headers here, no need to change them as the sorting
+				//  hasn't changed.
+				generateTable(sortedData, true);
 			});
 		} catch(error) {
 			displayGenericError(error);
