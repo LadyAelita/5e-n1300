@@ -4,6 +4,8 @@ const INDEX_DIR = 'indices';
 const INDEX_NAME_PARAM = 'indexName';
 const INDEX_EXT = '.csv';
 const CSV_SEPARATOR = ';';
+const TAG_SEPARATOR = ',';
+const SEARCH_CRITERIA_SEPARATOR = ',';
 const ERROR_HEADER = 'Fuck that shit';
 
 // ### Helper functions ###
@@ -85,6 +87,10 @@ function generateTable(data, skipHeaders = false) {
 	if (!skipHeaders) {
 		const headerRow = data[0];
 		headerRow.forEach(function (header) {
+			if (header.charAt(0) === '!') {
+				// Ignore special column headers
+				return;
+			}
 			const headerHTML = '<th scope="col" class="columnHeader" columnName="' + header + '">' + header + '</th>';
 			$('#indexTableHeaderRow').append(headerHTML);
 		});
@@ -93,20 +99,42 @@ function generateTable(data, skipHeaders = false) {
 	for (let i = 1; i < data.length; i++) {
 		const row = data[i];
 		let rowHTML = '<tr>';
+		let href; // For potential hyperlinks
 
-		for (let j = 0; j < row.length; j++) {
+		// jNonSpecial is the index of the current column in the array, but only
+		//  if the array contained nothing but non-special columns
+		for (let j = 0, jNonSpecial = 0; j < row.length; j++) {
 			const cell = row[j];
+
+			if (cell.columnType === 'href') {
+				href = cell.value;
+			}
+
+			// Don't render any special columns
+			if (cell.columnType) {
+				continue;
+			}
+
 			let cellHTML;
-			if (j === 0) {
-				cellHTML = '<th scope="row">' + cell + '</th>';
+			const cellID = 'cell' + jNonSpecial + 'x' + i;
+			if (jNonSpecial === 0) {
+				cellHTML = '<th scope="row" id="' + cellID + '">' + cell.value + '</th>';
 			} else {
-				cellHTML = '<td>' + cell + '</td>';
+				cellHTML = '<td>' + cell.value + '</td>';
 			}
 			rowHTML += cellHTML;
+
+			jNonSpecial++;
 		}
 
 		rowHTML += '</tr>';
 		$('#indexTableBody').append(rowHTML);
+
+		// If there was a hyperlink given, apply it
+		if (href) {
+			const hrefTargetCellID = 'cell0x' + i;
+			$('#' + hrefTargetCellID).wrapInner('<a href="' + href + '"></a>');
+		}
 	}
 }
 
@@ -130,9 +158,9 @@ function sortDataArray(data, colIndex, descending = false) {
 	const result = data.slice(1);
 
 	function _sortSingleRowPair(x, y) {
-		if (x[colIndex].toLowerCase() < y[colIndex].toLowerCase()) {
+		if (x[colIndex].value.toLowerCase() < y[colIndex].value.toLowerCase()) {
 			return -1;
-		} else if (x[colIndex].toLowerCase() === y[colIndex].toLowerCase()) {
+		} else if (x[colIndex].value.toLowerCase() === y[colIndex].value.toLowerCase()) {
 			return 0;
 		} else {
 			return 1;
@@ -196,7 +224,16 @@ function filterData(data, criteria) {
 
 	for (let i = 1; i < data.length; i++) {
 		const row = data[i];
-		if (criteria.every((criterion) => row.some((cell) => cell.toLowerCase().includes(criterion)))) {
+		if (criteria.every((criterion) => row.some(function (cell) {
+			if (!cell.columnType) {
+				return cell.value.toLowerCase().includes(criterion);
+			} else if (cell.columnType === 'tags') {
+				const tags = cell.value.split(TAG_SEPARATOR);
+				return tags.some((tag) => tag.toLowerCase() === criterion);
+			} else {
+				return false;
+			}
+		}))) {
 			filteredData.push(row);
 		}
 	}
@@ -221,6 +258,29 @@ function gatherSpecialColumnInfo(data) {
 	return specialColIndices;
 }
 
+function parseCSVData(rawData) {
+	const data = $.csv.toArrays(rawData, { separator: CSV_SEPARATOR });
+	const specialColIndices = gatherSpecialColumnInfo(data);
+
+	let parsedData = [];
+	// Don't convert headers into objects, start from the next row
+	parsedData.push(data[0]);
+	for (let i = 1; i < data.length; i++) {
+		const row = data[i];
+		let newRow = [];
+		for (let j = 0; j < row.length; j++) {
+			const cell = row[j];
+			const cellObject = {
+				value: cell,
+				columnType: specialColIndices.get(j)
+			};
+			newRow.push(cellObject);
+		}
+		parsedData.push(newRow);
+	}
+	return parsedData;
+}
+
 // ### Script ###
 
 // Get URL query params first
@@ -240,8 +300,8 @@ let sorting = {
 $(document).ready(function () {
 	if (indexFileRaw) {
 		try {
-			const indexRows = $.csv.toArrays(indexFileRaw, { separator: CSV_SEPARATOR });
 			$('#indexName').html(indexName);
+			const indexRows = parseCSVData(indexFileRaw);
 			generateTable(indexRows);
 			// Create a deep(ish) copy of the data
 			let filteredRows = indexRows.map((row) => row.slice());
@@ -274,9 +334,9 @@ $(document).ready(function () {
 
 			// Handle the search input
 			$('#indexSearchInput').change(function () {
-				const criterion = $(this).val();
-				if (criterion) {
-					filteredRows = filterData(indexRows, [ criterion ]);
+				const criteria = $(this).val().split(SEARCH_CRITERIA_SEPARATOR);
+				if (criteria && criteria.length) {
+					filteredRows = filterData(indexRows, criteria);
 				} else {
 					filteredRows = filterData(indexRows, []);
 				}
