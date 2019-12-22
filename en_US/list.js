@@ -350,6 +350,6 @@ $(document).ready(function () {
 			throw error;
 		}
 	} else {
-		handleIndexNotFound();
+		handleIndexNotFound(indexName);
 	}
 });
