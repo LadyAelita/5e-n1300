@@ -1,0 +1,5 @@
+!tags;Name;Level;School;Element;Casting time;Concentration;Ritual;Duration;Components;Classes;!href
+no conc,no concentration,no ritual;Guidance;0;Divination;Light;1 reaction;;;;Instantaneous;V, S;Cleric, Druid;#!spells/Guidance.md
+no conc,no concentration,no ritual;Resistance;0;Abjuration;Earth;1 reaction;;;;Instantaneous;V, S;Cleric, Druid, Sorcerer (Earth Elemental);#!spells/Resistance.md
+no conc,no concentration,no ritual;Spare the Dying;0;Necromancy (White);Light;1 action;;;;Instantaneous;V, S;Cleric, Sorcerer (Angel);#!spells/Spare the Dying.md
+no conc,no concentration,no ritual;Virtue;0;Abjuration;Light;1 action;;;;1 minute;V, S;Cleric;#!spells/Virtue.md
