@@ -7,6 +7,8 @@ const CSV_SEPARATOR = ';';
 const TAG_SEPARATOR = ',';
 const SEARCH_CRITERIA_SEPARATOR = ',';
 const ERROR_HEADER = 'Fuck that shit';
+const LOCALE = window.location.pathname.split('/')[1];
+const URL_BASE = window.location.protocol + '//' + window.location.hostname + '/' + LOCALE;
 
 // ### Helper functions ###
 
@@ -132,8 +134,18 @@ function generateTable(data, skipHeaders = false) {
 
 		// If there was a hyperlink given, apply it
 		if (href) {
+			let hrefFinal;
+
+			// Check if the given hyperlink is absolute
+			if (href.split('://').length > 1) {
+				hrefFinal = href;
+			} else {
+				// If not absolute, make it absolute, assuming the locale directory as
+				//  the point of reference.
+				hrefFinal = URL_BASE + '/' + href;
+			}
 			const hrefTargetCellID = 'cell0x' + i;
-			$('#' + hrefTargetCellID).wrapInner('<a href="' + href + '"></a>');
+			$('#' + hrefTargetCellID).wrapInner('<a href="' + hrefFinal + '"></a>');
 		}
 	}
 }
