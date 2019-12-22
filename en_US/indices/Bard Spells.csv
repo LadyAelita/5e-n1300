@@ -1,0 +1,112 @@
+!tags;Name;Level;School;Element;Casting time;Concentration;Ritual;Duration;Components;!href
+no conc,no concentration,no ritual;Blade Ward;0;Abjuration;Earth;1 action;;;1 round;V, S;#!spells/Cantrips/Blade Ward.md
+no ritual;Dancing Lights;0;Evocation;Light;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Cantrips/Dancing Lights.md
+no ritual;Friends;0;Enchantment (Charm);Darkness;1 action;Concentration;;Concentration, up to 1 minute;S, M (a small amount of makeup applied to the face as this spell is cast);#!spells/Cantrips/Friends.md
+no conc,no concentration,no ritual;Light;0;Evocation;Light;1 action;;;1 hour;V, S;#!spells/Cantrips/Light.md
+no conc,no concentration,no ritual;Mage Hand;0;Conjuration (Creation);Aether;1 action;;;1 minute;V, S;#!spells/Cantrips/Mage Hand.md
+no conc,no concentration,no ritual;Mending;0;Transmutation;Aether;1 minute;;;Instantaneous / 1 minute;V, S;#!spells/Cantrips/Mending.md
+no conc,no concentration,no ritual;Message;0;Transmutation;Darkness;1 action;;;1 round;V, S;#!spells/Cantrips/Message.md
+no conc,no concentration,no ritual;Minor Illusion;0;Illusion (Figment);Darkness;1 action;;;1 minute;S;#!spells/Cantrips/Minor Illusion.md
+no conc,no concentration,no ritual;Prestidigitation;0;Transmutation;Aether;1 action;;;Up to 1 hour;V, S;#!spells/Cantrips/Prestidigitation.md
+no conc,no concentration,no ritual;Thunderclap;0;Evocation;Air;1 action;;;Instantaneous;S;#!spells/Cantrips/Thunderclap.md
+no ritual;True Strike;0;Divination;Aether;1 action;Concentration;;Concentration, up to 1 round;S;#!spells/Cantrips/True Strike.md
+no conc,no concentration,no ritual;Vicious Mockery;0;Enchantment (Compulsion);Darkness;1 action;;;Instantaneous;V;#!spells/Cantrips/Vicious Mockery.md
+no conc,no concentration,no ritual;Animal Friendship;1;Enchantment (Charm);Light;1 action;;;24 hours;V, S, F, M (some food, which the target consumes);#!spells/Level1/Animal Friendship.md
+no ritual;Bane;1;Evocation;Death;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level1/Bane.md
+no conc,no concentration,no ritual;Charm Person;1;Enchantment (Charm);Darkness;1 action;;;1 hour;V, S;#!spells/Level1/Charm Person.md
+no ritual;Comprehend Languages;1;Divination;Aether;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level1/Comprehend Languages.md
+no conc,no concentration,no ritual;Cure Wounds;1;Necromancy (White);Light;1 action;;;Instantaneous;V, S;#!spells/Level1/Cure Wounds.md
+;Detect Magic;1;Divination;Aether;1 action;Concentration;Ritual;Concentration, up to 10 minutes;V, S;#!spells/Level1/Detect Magic.md
+no conc,no concentration,no ritual;Disguise Self;1;Illusion (Glamer);Darkness;1 action;;;1 hour;V, S;#!spells/Level1/Disguise Self.md
+no conc,no concentration,no ritual;Dissonant Whispers;1;Enchantment (Compulsion);Darkness;1 action;;;Instantaneous;V;#!spells/Level1/Dissonant Whispers.md
+no conc,no concentration,no ritual;Earth Tremor;1;Evocation;Earth;1 action;;;Instantaneous;V, S;#!spells/Level1/Earth Tremor.md
+no ritual;Faerie Fire;1;Evocation;Light;1 action;Concentration;;Concentration, up to 10 minutes;V;#!spells/Level1/Faerie Fire.md
+no conc,no concentration,no ritual;Feather Fall;1;Transmutation;Air;1 reaction;;;1 minute;V, F;#!spells/Level1/Feather Fall.md
+;Guiding Hand;1;Divination;Aether;1 minute;Concentration;Ritual;Concentration, up to 8 hours;V, S;#!spells/Level1/Guiding Hand.md
+no ritual;Heroism;1;Enchantment (Compulsion);Light;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level1/Heroism.md
+no ritual;Hideous Laughter;1;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level1/Hideous Laughter.md
+no conc,no concentration;Identify;1;Divination;Water;1 minute;;Ritual;Instantaneous;V, S, M (a mystic quartz worth at least 100 gp);#!spells/Level1/Identify.md
+no conc,no concentration;Illusory Script;1;Illusion (Phantasm);Darkness;1 minute;;Ritual;10 days;S, M (an amethyst-based ink worth at least 10 gp, which the spell consumes);#!spells/Level1/Illusory Script.md
+no conc,no concentration,no ritual;Longstrider;1;Transmutation;Air;1 action;;;1 hour;V, S, F;#!spells/Level1/Longstrider.md
+no conc,no concentration,no ritual;Puppet;1;Enchantment (Compulsion);Darkness;1 action;;;Instantaneous / 1 round;S;#!spells/Level1/Puppet.md
+no ritual;Silent Image;1;Illusion (Figment);Light;1 action;Concentration;;Concentration, up to 10 minute;V, S, F;#!spells/Level1/Silent Image.md
+no conc,no concentration,no ritual;Sleep;1;Enchantment (Compulsion);Darkness;1 action;;;1 minute;V, S, F;#!spells/Level1/Sleep.md
+no conc,no concentration;Speak with Animals;1;Divination;Fire;1 action;;Ritual;10 minutes;V, S;#!spells/Level1/Speak with Animals.md
+no conc,no concentration,no ritual;Sudden Awakening;1;Enchantment (Compulsion);Light;1 bonus action;;;Instantaneous;V;#!spells/Level1/Sudden Awakening.md
+no conc,no concentration,no ritual;Thunderwave;1;Evocation;Air;1 action;;;Instantaneous;V, S;#!spells/Level1/Thunderwave.md
+no ritual;Unearthly Chorus;1;Illusion (Pattern);Darkness;1 action;Concentration;;Concentration, up to 10 minutes;V;#!spells/Level1/Unearthly Chorus.md
+no conc,no concentration;Unseen Servant;1;Conjuration;Aether;1 action;;Ritual;1 hour;V, S, F;#!spells/Level1/Unseen Servant.md
+no conc,no concentration;Animal Messenger;2;Enchantment (Compulsion);Fire;1 action;;Ritual;24 hours;V, S, F;#!spells/Level2/Animal Messenger.md
+no conc,no concentration,no ritual;Blindness/Deafness;2;Necromancy (Black);Death;1 action;;;1 minute;V;#!spells/Level2/Blindness-Deafness.md
+no ritual;Calm Emotions;2;Enchantment (Compulsion);Water;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level2/Calm Emotions.md
+no ritual;Cloud of Daggers;2;Illusion (Shadow);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Cloud of Daggers.md
+no ritual;Crown of Madness;2;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level2/Crown of Madness.md
+no ritual;Detect Thoughts;2;Divination;Aether;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Detect Thoughts.md
+no ritual;Enhance Ability;2;Transmutation;Light;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Enhance Ability.md
+no ritual;Enthrall;2;Enchantment;Darkness;1 action;Concentration;;Concentration, 1 minute;V, S;#!spells/Level2/Enthrall.md
+no conc,no concentration,no ritual;Healing Word;2;Necromancy (White);Light;1 reaction;;;Instantaneous;V;#!spells/Level2/Healing Word.md
+no ritual;Heat Metal;2;Transmutation;Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Heat Metal.md
+no ritual;Hold Person;2;Enchantment;Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Hold Person.md
+no ritual;Invisibility;2;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Invisibility.md
+no conc,no concentration,no ritual;Knock;2;Transmutation;Darkness;1 action;;;Instantaneous;V;#!spells/Level2/Knock.md
+no conc,no concentration,no ritual;Lesser Restoration;2;Abjuration;Light;1 action;;;Instantaneous;V, S, F;#!spells/Level2/Lesser Restoration.md
+no conc,no concentration; Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;#!spells/Level2/ Locate Animals or Plants.md
+no ritual;Locate Object;2;Divination;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level2/Locate Object.md
+no conc,no concentration;Magic Mouth;2;Illusion (Glamer);Aether;1 minute;;Ritual;Until dispelled;V, S, M (tanzanite dust worth at least 10 gp, which the spell consumes);#!spells/Level2/Magic Mouth.md
+no ritual;Phantasmal Force;2;Illusion (Phantasm);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Phantasmal Force.md
+no conc,no concentration,no ritual;Pyrotechnics;2;Transmutation;Fire;1 action;;;Instantaneous;V, S;#!spells/Level2/Pyrotechnics.md
+no conc,no concentration,no ritual;See Invisibility;2;Divination;Aether;1 action;;;1 hour;V, S, F;#!spells/Level2/See Invisibility.md
+no conc,no concentration,no ritual;Shatter;2;Evocation;Air;1 action;;;Instantaneous;V, S, F;#!spells/Level2/Shatter.md
+;Silence;2;Illusion (Glamer);Darkness;1 action;Concentration;Ritual;Concentration, up to 10 minutes;V, S;#!spells/Level2/Silence.md
+;Skywrite;2;Transmutation;Air;1 action;Concentration;Ritual;Concentration, up to 1 hour;V, S;#!spells/Level2/Skywrite.md
+no ritual;Suggestion;2;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 8 hours;V, F;#!spells/Level2/Suggestion.md
+no ritual;Warding Wind;2;Evocation;Air;1 action;Concentration;;Concentration, up to 10 minutes;V;#!spells/Level2/Warding Wind.md
+no conc,no concentration,no ritual;Zone of Truth;2;Enchantment (Compulsion);Water;1 action;;;10 minutes;V;#!spells/Level2/Zone of Truth.md
+no ritual;Bestow Curse;3;Necromancy (Black);Death;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level3/Bestow Curse.md
+no conc,no concentration,no ritual;Catnap;3;Enchantment (Compulsion);Darkness;1 action;;;10 minutes;S, F;#!spells/Level3/Catnap.md
+no ritual;Clairvoyance;3;Divination (Scrying);Water;10 minutes;Concentration;;Concentration, up to 10 minutes;V, S, M (a cosmic opal worth at least 100 gp);#!spells/Level3/Clairvoyance.md
+no conc,no concentration,no ritual;Dispel Magic;3;Abjuration;Water;1 action;;;Instantaneous;V, S;#!spells/Level3/Dispel Magic.md
+no conc,no concentration,no ritual;Enemies Abound;3;Enchantment (Compulsion);Fire;1 action;;;1 minute;V, S;#!spells/Level3/Enemies Abound.md
+no conc,no concentration,no ritual;Fear;3;Illusion (Phantasm);Death;1 action;;;1 minute;V, S, F;#!spells/Level3/Fear.md
+no conc,no concentration;Feign Death;3;Necromancy (Black);Death;1 action;;Ritual;1 hour;V, S, F;#!spells/Level3/Feign Death.md
+no conc,no concentration,no ritual;Glyph of Warding;3;Abjuration;Earth;1 hour;;;Until dispelled or triggered;V, S, M (incense and powdered gemstone worth at least 200 gp, which the spell consumes);#!spells/Level3/Glyph of Warding.md
+no ritual;Hypnotic Pattern;3;Illusion (Pattern);Light;1 action;Concentration;;Concentration, up to 1 minute;S, M (incense imbued with mystic quartz dust);#!spells/Level3/Hypnotic Pattern.md
+no conc,no concentration;Kaine's Refuge;3;Evocation;Light;1 minute;;Ritual;8 hours;V, S, F;#!spells/Level3/Kaines Refuge.md
+no conc,no concentration,no ritual;Major Image;3;Illusion (Figment);Darkness;1 action;;;10 minutes;V, S, F;#!spells/Level3/Major Image.md
+no conc,no concentration,no ritual;Mass Healing Word;3;Necromancy (White);Light;1 reaction;;;Instantaneous;V;#!spells/Level3/Mass Healing Word.md
+no conc,no concentration,no ritual;Nondetection;3;Abjuration;Darkness;1 action;;;8 hours;V, S, M (apatite dust worth at least 25 gp sprinkled over the target, which the spell consumes);#!spells/Level3/Nondetection.md
+no conc,no concentration,no ritual;Plant Growth;3;Transmutation;Earth;1 action or 8 hours;;;Instantaneous;V, S;#!spells/Level3/Plant Growth.md
+no ritual;Speak with Plants;3;Transmutation;Earth;1 action;Concentration;;Concentration, 10 minutes;V, S, F;#!spells/Level3/Speak with Plants.md
+no ritual;Speak with the Dead;3;Necromancy (Black);Death;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F, M (burning incense imbued with onyx dust);#!spells/Level3/Speak with the Dead.md
+no ritual;Stinking Cloud;3;Conjuration (Creation);Death;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (a skull, a plaguestone, or a piece of material soaked in tainted water);#!spells/Level3/Stinking Cloud.md
+no conc,no concentration,no ritual;Charm Monster;4;Enchantment (Charm);Fire;1 action;;;1 hour;V, S;#!spells/Level4/Charm Monster.md
+no ritual;Compulsion;4;Enchantment (Compulsion);Darkness;1 action;Concentration;;1 minute;V, S;#!spells/Level4/Compulsion.md
+no ritual;Confusion;4;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level4/Confusion.md
+no conc,no concentration,no ritual;Dimension Door;4;Conjuration (Teleportation);Aether;1 action;;;Instantaneous;V;#!spells/Level4/Dimension Door.md
+no conc,no concentration,no ritual;Freedom of Movement;4;Abjuration;Air;1 action;;;1 hour;V, S, F;#!spells/Level4/Freedom of Movement.md
+no ritual;Greater Invisibility;4;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level4/Greater Invisibility.md
+no conc,no concentration,no ritual;Hallucinatory Terrain;4;Illusion (Glamer);Light;10 minutes;;;24 hours;V, S, F;#!spells/Level4/Hallucinatory Terrain.md
+no ritual;Locate Creature;4;Divination;Water;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level4/Locate Creature.md
+no ritual;Polymorph;4;Transmutation;Aether;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level4/Polymorph.md
+no ritual;Animate Objects;5;Transmutation;Aether;1 action;Concentration;;Concentration, up to 10 minutes;V, S;#!spells/Level5/Animate Objects.md
+no conc,no concentration,no ritual;Awaken;5;Transmutation;Light;8 hours;;;Instantaneous;V, S, M (a mystic quartz worth at least 1,000 gp, which the spell consumes);#!spells/Level5/Awaken.md
+no conc,no concentration,no ritual;Dominate Person;5;Enchantment (Compulsion);Darkness;1 action;;;1 minute;V, S;#!spells/Level5/Dominate Person.md
+no conc,no concentration,no ritual;Dream;5;Illusion (Phantasm);Aether;1 minute;;;8 hours;V, S, F;#!spells/Level5/Dream.md
+no conc,no concentration,no ritual;Geas;5;Enchantment (Compulsion);Darkness;1 minute;;;28 days;V;#!spells/Level5/Geas.md
+no conc,no concentration,no ritual;Greater Restoration;5;Abjuration;Light;1 action;;;Instantaneous;V, S, M (diamond dust worth 100 gp, which the spell consumes);#!spells/Level5/Greater Restoration.md
+no ritual;Hold Monster;5;Enchantment (Compulsion);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level5/Hold Monster.md
+no conc,no concentration,no ritual;Legend Lore;5;Divination;Aether;10 minutes;;;Instantaneous;V, S, M (incense worth at least 500 gp and four gems, all of which the spell consumes);#!spells/Level5/Legend Lore.md
+no ritual;Mislead;5;Illusion (Figment);Darkness;1 action;Concentration;;Concentration, up to 1 hour;S;#!spells/Level5/Mislead.md
+no ritual;Modify Memory;5;Enchantment (Charm);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level5/Modify Memory.md
+no conc,no concentration,no ritual;Planar Binding;5;Abjuration;Aether;1 hour;;;24 hours;V, S, F, M (a gemstone worth at least 1,000 gp, which the spell consumes);#!spells/Level5/Planar Binding.md
+no conc,no concentration,no ritual;Raise Dead;5;Necromancy (White);Light;1 hour;;;Instantaneous;V, S, M (a diamond worth at least 500 gp, which the spell consumes);#!spells/Level5/Raise Dead.md
+no ritual;Scrying;5;Divination (Scrying);Darkness;10 minutes;Concentration;;Concentration, up to 10 minutes;V, S, M (either a focus worth at least 10,000 gp, such as a crystal ball,  a silver mirror, or a font filled with holy water, or a cosmic opal worth at least 1,000 gp);#!spells/Level5/Scrying.md
+no conc,no concentration,no ritual;Seeming;5;Illusion (Glamer);Light;1 action;;;8 hours;V, S;#!spells/Level5/Seeming.md
+no conc,no concentration,no ritual;Teleportation Circle;5;Conjuration (Teleportation);Aether;1 minute;;;1 round;V, M (rare chalks and lapis lazuli ink worth 50 gp, which the spell consumes);#!spells/Level5/Teleportation Circle.md
+no ritual;Convulsive Paroxysm;6;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V;#!spells/Level6/Convulsive Paroxysm.md
+no ritual;Eyebite;6;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level6/Eyebite.md
+no ritual;Find the Path;6;Divination;Aether;1 minute;Concentration;;Concentration, up to 1 day;V, S, M (a map, compasses worth at least 100 gp and an object from the location you wish to find);#!spells/Level6/Find the Path.md
+no conc,no concentration,no ritual;Guards and Wards;6;Abjuration;Aether;10 minutes;;;24 hours;V, S, M (burning incense imbued with grey spinel, emerald and amethyst dust worth at least 150 gp each);#!spells/Level6/Guards and Wards.md
+no conc,no concentration,no ritual;Mass Suggestion;6;Enchantment (Compulsion);Darkness;1 action;;;24 hours;V, F;#!spells/Level6/Mass Suggestion.md
+no conc,no concentration,no ritual;Programmed Illusion;6;Illusion (Figment);Darkness;1 action;;;Until dispelled;V, S, M (tanzanite dust worth at least 25 gp);#!spells/Level6/Programmed Illusion.md
+no conc,no concentration,no ritual;True Seeing;6;Divination;Aether;1 action;;;1 hour;V, S, M (an ointment for the eyes that contains mystic quartz dust worth at least 25 gp and is consumed by the spell);#!spells/Level6/True Seeing.md

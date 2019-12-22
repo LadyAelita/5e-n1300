@@ -1,0 +1,163 @@
+!tags;Name;Level;School;Element;Casting time;Concentration;Ritual;Duration;Components;!href
+no conc,no concentration,no ritual;Control Flames;0;Transmutation;Fire;1 action;;;Instantaneous or 1 hour (see below);S;#!spells/Cantrips/Control Flames.md
+no ritual;Create Bonfire;0;Evocation;Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Cantrips/Create Bonfire.md
+no conc,no concentration,no ritual;Druidcraft;0;Transmutation;Light;1 action;;;Instantaneous;V, S;#!spells/Cantrips/Druidcraft.md
+no conc,no concentration,no ritual;Frostbite;0;Evocation;Water;1 action;;;Instantaneous;V, S;#!spells/Cantrips/Frostbite.md
+no conc,no concentration,no ritual;Guidance;0;Divination;Light;1 reaction;;;Instantaneous;V, S;#!spells/Cantrips/Guidance.md
+no conc,no concentration,no ritual;Gust;0;Transmutation;Air;1 action;;;Instantaneous;V, S;#!spells/Cantrips/Gust.md
+no conc,no concentration,no ritual;Infestation;0;Conjuration (Summoning);Death;1 action;;;Instantaneous;V, S;#!spells/Cantrips/Infestation.md
+no conc,no concentration,no ritual;Magic Stone;0;Transmutation;Earth;1 bonus action;;;1 minute;V, S, M (one to three pebbles);#!spells/Cantrips/Magic Stone.md
+no conc,no concentration,no ritual;Mending;0;Transmutation;Aether;1 minute;;;Instantaneous / 1 minute;V, S;#!spells/Cantrips/Mending.md
+no conc,no concentration,no ritual;Mold Earth;0;Transmutation;Earth;1 action;;;Instantaneous or 1 hour (see below);S;#!spells/Cantrips/Mold Earth.md
+no conc,no concentration,no ritual;Poison Spray;0;Conjuration (Creation);Darkness;1 action;;;Instantaneous;V, S;#!spells/Cantrips/Poison Spray.md
+no conc,no concentration,no ritual;Primal Savagery;0;Transmutation;Earth;1 action;;;Instantaneous;S;#!spells/Cantrips/Primal Savagery.md
+no conc,no concentration,no ritual;Produce Flame;0;Evocation;Fire;1 action;;;10 minutes;V, S;#!spells/Cantrips/Produce Flame.md
+no conc,no concentration,no ritual;Resistance;0;Abjuration;Earth;1 reaction;;;Instantaneous;V, S;#!spells/Cantrips/Resistance.md
+no conc,no concentration,no ritual;Shape Water;0;Transmutation;Water;1 action;;;Instantaneous or 1 hour (see below);S;#!spells/Cantrips/Shape Water.md
+no conc,no concentration,no ritual;Shillelagh;0;Transmutation;Earth;1 bonus action;;;1 minute;V, S, M (a club or quarterstaff);#!spells/Cantrips/Shillelagh.md
+no conc,no concentration,no ritual;Thorn Whip;0;Transmutation;Earth;1 action;;;Instantaneous;V, S;#!spells/Cantrips/Thorn Whip.md
+no conc,no concentration,no ritual;Thunderclap;0;Evocation;Air;1 action;;;Instantaneous;S;#!spells/Cantrips/Thunderclap.md
+no conc,no concentration,no ritual;Absorb Elements;1;Abjuration;Aether;1 reaction, which you take when you take acid, cold, ethereal, fire, lightning, shadow or sonic damage;Optional;;1 round / Concentration, up to 2 rounds;S;#!spells/Level1/Absorb Elements.md
+no conc,no concentration,no ritual;Animal Friendship;1;Enchantment (Charm);Light;1 action;;;24 hours;V, S, F, M (some food, which the target consumes);#!spells/Level1/Animal Friendship.md
+no ritual;Beast Bond;1;Divination;Fire;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level1/Beast Bond.md
+no conc,no concentration,no ritual;Charm Person;1;Enchantment (Charm);Darkness;1 action;;;1 hour;V, S;#!spells/Level1/Charm Person.md
+no conc,no concentration,no ritual;Create or Destroy Water;1;Conjuration (Creation) / Transmutation;Water;1 action;;;Instantaneous;V, S, F, M (a drop of water if creating water);#!spells/Level1/Create or Destroy Water.md
+no conc,no concentration,no ritual;Cure Wounds;1;Necromancy (White);Light;1 action;;;Instantaneous;V, S;#!spells/Level1/Cure Wounds.md
+;Detect Magic;1;Divination;Aether;1 action;Concentration;Ritual;Concentration, up to 10 minutes;V, S;#!spells/Level1/Detect Magic.md
+;Detect Poison and Disease;1;Divination;Darkness;1 action;Concentration;Ritual;Concentration, up to 10 minutes;V, S, F;#!spells/Level1/Detect Poison and Disease.md
+no conc,no concentration,no ritual;Earth Tremor;1;Evocation;Earth;1 action;;;Instantaneous;V, S;#!spells/Level1/Earth Tremor.md
+no conc,no concentration,no ritual;Entangle;1;Conjuration (Creation);Earth;1 action;;;1 minute;V, S;#!spells/Level1/Entangle.md
+no ritual;Faerie Fire;1;Evocation;Light;1 action;Concentration;;Concentration, up to 10 minutes;V;#!spells/Level1/Faerie Fire.md
+no ritual;Fog Cloud;1;Conjuration (Creation);Air;1 action;Concentration;;1 hour;V, S;#!spells/Level1/Fog Cloud.md
+no conc,no concentration,no ritual;Goodberry;1;Transmutation;Light;1 action;;;Instantaneous;V, S, F;#!spells/Level1/Goodberry.md
+;Guiding Hand;1;Divination;Aether;1 minute;Concentration;Ritual;Concentration, up to 8 hours;V, S;#!spells/Level1/Guiding Hand.md
+no conc,no concentration,no ritual;Ice Knife;1;Conjuration (Creation);Water;1 action;;;Instantaneous;S, F;#!spells/Level1/Ice Knife.md
+no conc,no concentration,no ritual;Jump;1;Transmutation;Air;1 action;;;1 minute;V, S, F;#!spells/Level1/Jump.md
+no conc,no concentration,no ritual;Longstrider;1;Transmutation;Air;1 action;;;1 hour;V, S, F;#!spells/Level1/Longstrider.md
+no conc,no concentration;Purify Food and Drink;1;Abjuration;Light;1 action;;Ritual;Instantaneous;V, S;#!spells/Level1/Purify Food and Drink.md
+no conc,no concentration,no ritual;Snare;1;Transmutation;Darkness;1 minute;;;1 day;V, S, M (25 feet of rope, which the spell consumes);#!spells/Level1/Snare.md
+no conc,no concentration;Soil Food and Drink;1;Transmutation;Death;1 action;;Ritual;Instantaneous;V, S;#!spells/Level1/Soil Food and Drink.md
+no conc,no concentration;Speak with Animals;1;Divination;Fire;1 action;;Ritual;10 minutes;V, S;#!spells/Level1/Speak with Animals.md
+no conc,no concentration,no ritual;Thunderwave;1;Evocation;Air;1 action;;;Instantaneous;V, S;#!spells/Level1/Thunderwave.md
+no conc,no concentration;Wild Cunning;1;Conjuration (Calling);Fire;10 minutes;;Ritual;Instantaneous;V, S, F;#!spells/Level1/Wild Cunning.md
+no conc,no concentration;Animal Messenger;2;Enchantment (Compulsion);Fire;1 action;;Ritual;24 hours;V, S, F;#!spells/Level2/Animal Messenger.md
+no conc,no concentration,no ritual;Barkskin;2;Transmutation;Earth;1 action;;;1 hour;V, S, F;#!spells/Level2/Barkskin.md
+;Beast Sense;2;Divination;Fire;1 action;Concentration;Ritual;Concentration, up to 1 hour;S;#!spells/Level2/Beast Sense.md
+no ritual;Blur;2;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level2/Blur.md
+no ritual;Darkness;2;Evocation;Darkness;1 action;Concentration;;Concentration, up to 10 minutes;V, F;#!spells/Level2/Darkness.md
+no conc,no concentration,no ritual;Darkvision;2;Transmutation;Light;1 action;;;8 hours;V, S, F;#!spells/Level2/Darkvision.md
+no ritual;Dust Devil;2;Conjuration (Creation);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (a handful of dust/sand/powder, which the spell consumes);#!spells/Level2/Dust Devil.md
+no ritual;Earthbind;2;Evocation;Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level2/Earthbind.md
+no ritual;Earthen Grasp;2;Conjuration (Creation);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Earthen Grasp.md
+no ritual;Enhance Ability;2;Transmutation;Light;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Enhance Ability.md
+no conc,no concentration,no ritual;Find Traps;2;Divination;Aether;1 action;;;Instantaneous;V, S;#!spells/Level2/Find Traps.md
+no ritual;Flame Blade;2;Evocation;Fire;1 bonus action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level2/Flame Blade.md
+no ritual;Flaming Sphere;2;Conjuration;Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Flaming Sphere.md
+no ritual;Gust of Wind;2;Evocation;Air;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Gust of Wind.md
+no conc,no concentration,no ritual;Healing Spirit;2;Conjuration (Summoning);Light;1 bonus action;;;30 seconds;V, S;#!spells/Level2/Healing Spirit.md
+no conc,no concentration,no ritual;Healing Word;2;Necromancy (White);Light;1 reaction;;;Instantaneous;V;#!spells/Level2/Healing Word.md
+no ritual;Heat Metal;2;Transmutation;Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Heat Metal.md
+no ritual;Hold Person;2;Enchantment;Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Hold Person.md
+no ritual;Invisibility;2;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Invisibility.md
+no conc,no concentration,no ritual;Khaalt's Acid Arrow;2;Evocation;Darkness;1 action;;;Instantaneous;V, S, F;#!spells/Level2/Khaalts Acid Arrow.md
+no conc,no concentration,no ritual;Lesser Restoration;2;Abjuration;Light;1 action;;;Instantaneous;V, S, F;#!spells/Level2/Lesser Restoration.md
+no conc,no concentration; Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;#!spells/Level2/ Locate Animals or Plants.md
+no ritual;Locate Object;2;Divination;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level2/Locate Object.md
+no conc,no concentration,no ritual;Mirror Image;2;Illusion (Figment);Darkness;1 action;;;1 minute;V, S;#!spells/Level2/Mirror Image.md
+no conc,no concentration,no ritual;Misty Step;2;Conjuration (Teleportation);Air;1 bonus action;;;Instantaneous;S;#!spells/Level2/Misty Step.md
+no ritual;Moonbeam;2;Evocation;Light;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar);#!spells/Level2/Moonbeam.md
+no ritual;Pass Without Trace;2;Abjuration;Earth;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Pass Without Trace.md
+no conc,no concentration,no ritual;Protection from Poison;2;Abjuration;Light;1 action;;;1 hour;V, S;#!spells/Level2/Protection from Poison.md
+;Silence;2;Illusion (Glamer);Darkness;1 action;Concentration;Ritual;Concentration, up to 10 minutes;V, S;#!spells/Level2/Silence.md
+;Skywrite;2;Transmutation;Air;1 action;Concentration;Ritual;Concentration, up to 1 hour;V, S;#!spells/Level2/Skywrite.md
+no ritual;Spider Climb;2;Transmutation;Earth;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Spider Climb.md
+no ritual;Spike Growth;2;Transmutation;Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level2/Spike Growth.md
+no ritual;Warding Wind;2;Evocation;Air;1 action;Concentration;;Concentration, up to 10 minutes;V;#!spells/Level2/Warding Wind.md
+no conc,no concentration,no ritual;Web;2;Conjuration (Creation);Darkness;1 action;;;1 hour;V, S, F;#!spells/Level2/Web.md
+no ritual;Call Lightning;3;Conjuration (Creation);Air;1 action;Concentration;;Concentration, up to 10 minutes;V, S;#!spells/Level3/Call Lightning.md
+no conc,no concentration,no ritual;Create Food and Water;3;Conjuration (Creation);Water;1 action;;;Instantaneous;V, S;#!spells/Level3/Create Food and Water.md
+no conc,no concentration,no ritual;Daylight;3;Evocation;Light;1 action;;;1 hour;V, S;#!spells/Level3/Daylight.md
+no conc,no concentration,no ritual;Dispel Magic;3;Abjuration;Water;1 action;;;Instantaneous;V, S;#!spells/Level3/Dispel Magic.md
+no conc,no concentration,no ritual;Endurion's Cold Arrows;3;Transmutation;Water;1 action;;;1 hour;V, S;#!spells/Level3/Endurions Cold Arrows.md
+no conc,no concentration,no ritual;Erupting Earth;3;Transmutation;Earth;1 action;;;Instantaneous;V, S, M (a piece of obsidian);#!spells/Level3/Erupting Earth.md
+no conc,no concentration;Feign Death;3;Necromancy (Black);Death;1 action;;Ritual;1 hour;V, S, F;#!spells/Level3/Feign Death.md
+no conc,no concentration,no ritual;Flame Arrows;3;Transmutation;Fire;1 action;;;1 hour;V, S;#!spells/Level3/Flame Arrows.md
+no ritual;Gaseous Form;3;Transmutation;Air;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level3/Gaseous Form.md
+no ritual;Haste;3;Transmutation;Air;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level3/Haste.md
+no conc,no concentration,no ritual;Hydraulic Torrent;3;Conjuration (Creation);Water;1 action;;;Instantaneous;V, S, F;#!spells/Level3/Hydraulic Torrent.md
+no conc,no concentration,no ritual;Lightning Bolt;3;Evocation;Air;1 action;;;Instantaneous;V, S, F;#!spells/Level3/Lightning Bolt.md
+no conc,no concentration,no ritual;Mass Healing Word;3;Necromancy (White);Light;1 reaction;;;Instantaneous;V;#!spells/Level3/Mass Healing Word.md
+no conc,no concentration;Meld into Stone;3;Transmutation;Earth;1 action;;Ritual;8 hours;V, S;#!spells/Level3/Meld into Stone.md
+no conc,no concentration,no ritual;Plant Growth;3;Transmutation;Earth;1 action or 8 hours;;;Instantaneous;V, S;#!spells/Level3/Plant Growth.md
+no conc,no concentration,no ritual;Protection from Energy;3;Abjuration;Water;1 action;;;10 minutes;V, S;#!spells/Level3/Protection from Energy.md
+no ritual;Sleet Storm;3;Conjuration (Creation);Water;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level3/Sleet Storm.md
+no ritual;Slow;3;Transmutation;Water;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level3/Slow.md
+no ritual;Speak with Plants;3;Transmutation;Earth;1 action;Concentration;;Concentration, 10 minutes;V, S, F;#!spells/Level3/Speak with Plants.md
+no ritual;Stinking Cloud;3;Conjuration (Creation);Death;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (a skull, a plaguestone, or a piece of material soaked in tainted water);#!spells/Level3/Stinking Cloud.md
+no conc,no concentration,no ritual;Summon Animals;3;Conjuration (Summoning);Fire;1 action;;;1 hour;V, S, M (a handful of diaspore dust, which the spell consumes, or a diaspore);#!spells/Level3/Summon Animals.md
+no conc,no concentration,no ritual;Tidal Wave;3;Conjuration (Creation);Water;1 action;;;Instantaneous;V, S, F;#!spells/Level3/Tidal Wave.md
+no ritual;Wall of Water;3;Conjuration (Creation);Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level3/Wall of Water.md
+no ritual;Wall of Wind;3;Evocation;Air;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level3/Wall of Wind.md
+no conc,no concentration;Water Breathing;3;Transmutation;Water;1 action;;Ritual;24 hours;V, S, F;#!spells/Level3/Water Breathing.md
+no conc,no concentration;Water Walk;3;Transmutation;Water;1 action;;Ritual;1 hour;V, S, F;#!spells/Level3/Water Walk.md
+no conc,no concentration,no ritual;Water Whip;3;Conjuration (Creation);Water;1 action;;;Instantaneous;S, F;#!spells/Level3/Water Whip.md
+no conc,no concentration,no ritual;Blight;4;Necromancy (Black);Death;1 action;;;Instantaneous;V, S;#!spells/Level4/Blight.md
+no conc,no concentration,no ritual;Charm Monster;4;Enchantment (Charm);Fire;1 action;;;1 hour;V, S;#!spells/Level4/Charm Monster.md
+no conc,no concentration,no ritual;Cone of Cold;4;Evocation;Water;1 action;;;Instantaneous;V, S, F;#!spells/Level4/Cone of Cold.md
+no ritual;Confusion;4;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level4/Confusion.md
+no conc,no concentration,no ritual;Control Water;4;Transmutation;Water;1 action;;;10 minutes;V, S, F;#!spells/Level4/Control Water.md
+no conc,no concentration;Divination;4;Divination;Water;1 action;;Ritual;Instantaneous;V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes);#!spells/Level4/Divination.md
+no ritual;Dominate Beast;4;Enchantment (Compulsion);Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level4/Dominate Beast.md
+no ritual;Elemental Bane;4;Transmutation;Fire;1 action;Concentration;;1 minute;V, S;#!spells/Level4/Elemental Bane.md
+no conc,no concentration,no ritual;Freedom of Movement;4;Abjuration;Air;1 action;;;1 hour;V, S, F;#!spells/Level4/Freedom of Movement.md
+no ritual;Giant Insect;4;Transmutation;Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S;#!spells/Level4/Giant Insect.md
+no conc,no concentration,no ritual;Grasping Vine;4;Conjuration (Creation);Earth;1 bonus action;;;1 minute;V, S;#!spells/Level4/Grasping Vine.md
+no ritual;Greater Invisibility;4;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level4/Greater Invisibility.md
+no ritual;Guardian of Nature;4;Transmutation;Earth;1 bonus action;Concentration;;Concentration, up to a minute;V;#!spells/Level4/Guardian of Nature.md
+no conc,no concentration,no ritual;Hailstorm;4;Evocation;Water;1 action;;;Instantaneous;V, S, F;#!spells/Level4/Hailstorm.md
+no conc,no concentration,no ritual;Hallucinatory Terrain;4;Illusion (Glamer);Light;10 minutes;;;24 hours;V, S, F;#!spells/Level4/Hallucinatory Terrain.md
+no ritual;Locate Creature;4;Divination;Water;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level4/Locate Creature.md
+no ritual;Polymorph;4;Transmutation;Aether;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level4/Polymorph.md
+no conc,no concentration,no ritual;Stone Shape;4;Transmutation;Earth;1 action;;;Instantaneous;V, S, F;#!spells/Level4/Stone Shape.md
+no conc,no concentration,no ritual;Stoneskin;4;Abjuration;Earth;1 action;;;1 hour;V, S, M (a peridot worth 100 gp, which the spell consumes);#!spells/Level4/Stoneskin.md
+no conc,no concentration,no ritual;Summon Minor Elementals;4;Conjuration (Summoning);Aether;1 minute;;;1 hour;V, S, M (opal dust worth at least 25 gp, which the spell consumes, or a whole opal gemstone);#!spells/Level4/Summon Minor Elementals.md
+no conc,no concentration,no ritual;Summon Woodland Beings;4;Conjuration (Summoning);Light;1 action;;;1 hour;V, S, F, M (diaspore dust, which the spell consumes, or a whole diaspore gemstone);#!spells/Level4/Summon Woodland Beings.md
+no ritual;Wall of Fire;4;Evocation;Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level4/Wall of Fire.md
+no ritual;Watery Sphere;4;Conjuration (Creation);Water;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (an aquamarine worth at least 100 gp);#!spells/Level4/Watery Sphere.md
+no ritual;Antilife Shell;5;Abjuration;Death;1 action;Concentration;;Concentration, up to 1 hour;V, S;#!spells/Level5/Antilife Shell.md
+no conc,no concentration,no ritual;Awaken;5;Transmutation;Light;8 hours;;;Instantaneous;V, S, M (a mystic quartz worth at least 1,000 gp, which the spell consumes);#!spells/Level5/Awaken.md
+no ritual;Cloudkill;5;Conjuration (Creation);Death;1 action;Concentration;;Concentration, up to 10 minutes;V, S;#!spells/Level5/Cloudkill.md
+no conc,no concentration;Commune with Nature;5;Divination;Aether;1 minute;;Ritual;Instantaneous;V, S;#!spells/Level5/Commune with Nature.md
+no conc,no concentration,no ritual;Contagion;5;Necromancy (Black);Death;1 action;;;7 days;V, S;#!spells/Level5/Contagion.md
+no ritual;Control Winds;5;Transmutation;Air;1 action;Concentration;;Concentration, up to 1 hour;V, S;#!spells/Level5/Control Winds.md
+no ritual;Creation;5;Illusion (Shadow);Darkness;1 minute;Concentration;;Concentration, up to 1 hour;V, S;#!spells/Level5/Creation.md
+no conc,no concentration,no ritual;Dream;5;Illusion (Phantasm);Aether;1 minute;;;8 hours;V, S, F;#!spells/Level5/Dream.md
+no conc,no concentration,no ritual;Geas;5;Enchantment (Compulsion);Darkness;1 minute;;;28 days;V;#!spells/Level5/Geas.md
+no conc,no concentration,no ritual;Greater Restoration;5;Abjuration;Light;1 action;;;Instantaneous;V, S, M (diamond dust worth 100 gp, which the spell consumes);#!spells/Level5/Greater Restoration.md
+no ritual;Insect Plague;5;Conjuration (Summoning);Darkness;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level5/Insect Plague.md
+no ritual;Maelstrom;5;Evocation;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level5/Maelstrom.md
+no conc,no concentration,no ritual;Passwall;5;Transmutation;Earth;1 action;;;1 hour;V, S, M (a pinch of sesame seeds);#!spells/Level5/Passwall.md
+no conc,no concentration,no ritual;Planar Binding;5;Abjuration;Aether;1 hour;;;24 hours;V, S, F, M (a gemstone worth at least 1,000 gp, which the spell consumes);#!spells/Level5/Planar Binding.md
+no conc,no concentration,no ritual;Reincarnate;5;Necromancy (White);Light;1 hour;;;Instantaneous;V, S, M (a diamond and a diaspore, each worth at least 500 gp, both of which the spell consumes);#!spells/Level5/Reincarnate.md
+no ritual;Scrying;5;Divination (Scrying);Darkness;10 minutes;Concentration;;Concentration, up to 10 minutes;V, S, M (either a focus worth at least 10,000 gp, such as a crystal ball,  a silver mirror, or a font filled with holy water, or a cosmic opal worth at least 1,000 gp);#!spells/Level5/Scrying.md
+no conc,no concentration,no ritual;Summon Elemental;5;Conjuration (Summoning);Aether;1 action/1 minute;;;Up to 1 minute/8 hours;V, S, M (either an opal, or consumed gem dust worth 25 gp);#!spells/Level5/Summon Elemental.md
+no conc,no concentration,no ritual;Transmute Rock;5;Transmutation;Earth;1 action;;;Until dispelled;V, S, F;#!spells/Level5/Transmute Rock.md
+no ritual;Tree Stride;5;Conjuration (Teleportation);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level5/Tree Stride.md
+no ritual;Wall of Stone;5;Evocation;Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level5/Wall of Stone.md
+no ritual;Wrath of Nature;5;Conjuration (Calling);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level5/Wrath of Nature.md
+no conc,no concentration,no ritual;Bones of the Earth;6;Conjuration (Creation);Earth;1 action;;;Instantaneous;V, S;#!spells/Level6/Bones of the Earth.md
+no conc,no concentration,no ritual;Druid Grove;6;Abjuration;Light;10 minutes;;;24 hours;V, S, M (diaspore dust and moonstone dust, both of which the spell consumes);#!spells/Level6/Druid Grove.md
+no ritual;Find the Path;6;Divination;Aether;1 minute;Concentration;;Concentration, up to 1 day;V, S, M (a map, compasses worth at least 100 gp and an object from the location you wish to find);#!spells/Level6/Find the Path.md
+no conc,no concentration,no ritual;Heal;6;Necromancy (White);Light;1 action;;;Instantaneous;V, S;#!spells/Level6/Heal.md
+no conc,no concentration,no ritual;Heroes' Feast;6;Conjuration (Creation);Light;10 minutes;;;Instantaneous;V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes);#!spells/Level6/Heroes Feast.md
+no ritual;Investiture of Flame;6;Transmutation;Fire;1 action;Concentration;;Concentration, up to 10 minutes;V, S;#!spells/Level6/Investiture of Flame.md
+no ritual;Investiture of Ice;6;Transmutation;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S;#!spells/Level6/Investiture of Ice.md
+no ritual;Investiture of Stone;6;Transmutation;Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S;#!spells/Level6/Investiture of Stone.md
+no ritual;Investiture of Wind;6;Transmutation;Air;1 action;Concentration;;Concentration, up to 10 minutes;V, S;#!spells/Level6/Investiture of Wind.md
+no ritual;Move Earth;6;Transmutation;Earth;1 action;Concentration;;Concentration, up to 2 hours;V, S, F;#!spells/Level6/Move Earth.md
+no ritual;Primordial Ward;6;Abjuration;Water;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level6/Primordial Ward.md
+no ritual;Summon Fey;6;Conjuration (Summoning);Light;1 minute;Concentration;;1 hour;V, S, M (diaspore dust, which the spell consumes, or a whole diaspore gemstone);#!spells/Level6/Summon Fey.md
+no ritual;Sunbeam;6;Evocation;Light;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level6/Sunbeam.md
+no conc,no concentration,no ritual;Transport via Plants;6;Conjuration (Teleportation);Earth;1 action;;;1 round;V, S;#!spells/Level6/Transport via Plants.md
+no ritual;Wall of Thorns;6;Conjuration (Creation);Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level6/Wall of Thorns.md
+no conc,no concentration,no ritual;Wind Walk;6;Transmutation;Air;1 minute;;;8 hours;V, S, F;#!spells/Level6/Wind Walk.md

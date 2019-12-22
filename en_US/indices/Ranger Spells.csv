@@ -1,0 +1,60 @@
+!tags;Name;Level;School;Element;Casting time;Concentration;Ritual;Duration;Components;!href
+no conc,no concentration,no ritual;Absorb Elements;1;Abjuration;Aether;1 reaction, which you take when you take acid, cold, ethereal, fire, lightning, shadow or sonic damage;Optional;;1 round / Concentration, up to 2 rounds;S;#!spells/Level1/Absorb Elements.md
+no conc,no concentration;Alarm;1;Abjuration;Aether;1 minute;;Ritual;8 hours;V, S, F;#!spells/Level1/Alarm.md
+no conc,no concentration,no ritual;Animal Friendship;1;Enchantment (Charm);Light;1 action;;;24 hours;V, S, F, M (some food, which the target consumes);#!spells/Level1/Animal Friendship.md
+no conc,no concentration,no ritual;Attract or Repulse Missiles;1;Transmutation;Air;1 action;;;1 round;S;#!spells/Level1/Attract or Repulse Missiles.md
+no ritual;Beast Bond;1;Divination;Fire;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level1/Beast Bond.md
+no conc,no concentration,no ritual;Cure Wounds;1;Necromancy (White);Light;1 action;;;Instantaneous;V, S;#!spells/Level1/Cure Wounds.md
+;Detect Magic;1;Divination;Aether;1 action;Concentration;Ritual;Concentration, up to 10 minutes;V, S;#!spells/Level1/Detect Magic.md
+;Detect Poison and Disease;1;Divination;Darkness;1 action;Concentration;Ritual;Concentration, up to 10 minutes;V, S, F;#!spells/Level1/Detect Poison and Disease.md
+no conc,no concentration,no ritual;Ensnaring Strike;1;Conjuration (Creation);Earth;1 bonus action;;;1 minute;V, S;#!spells/Level1/Ensnaring Strike.md
+no ritual;Fog Cloud;1;Conjuration (Creation);Air;1 action;Concentration;;1 hour;V, S;#!spells/Level1/Fog Cloud.md
+no conc,no concentration,no ritual;Goodberry;1;Transmutation;Light;1 action;;;Instantaneous;V, S, F;#!spells/Level1/Goodberry.md
+no conc,no concentration,no ritual;Hail of Thorns;1;Conjuration (Creation);Earth;1 bonus action;Optional;;1 round / Concentration, up to 1 minute;V;#!spells/Level1/Hail of Thorns.md
+no ritual;Hunter's Mark;1;Divination;Fire;1 bonus action;Concentration;;Concentration, up to 1 hour;V;#!spells/Level1/Hunters Mark.md
+no conc,no concentration,no ritual;Jump;1;Transmutation;Air;1 action;;;1 minute;V, S, F;#!spells/Level1/Jump.md
+no conc,no concentration,no ritual;Longstrider;1;Transmutation;Air;1 action;;;1 hour;V, S, F;#!spells/Level1/Longstrider.md
+no conc,no concentration,no ritual;Snare;1;Transmutation;Darkness;1 minute;;;1 day;V, S, M (25 feet of rope, which the spell consumes);#!spells/Level1/Snare.md
+no conc,no concentration;Speak with Animals;1;Divination;Fire;1 action;;Ritual;10 minutes;V, S;#!spells/Level1/Speak with Animals.md
+no conc,no concentration,no ritual;Sudden Awakening;1;Enchantment (Compulsion);Light;1 bonus action;;;Instantaneous;V;#!spells/Level1/Sudden Awakening.md
+no conc,no concentration;Wild Cunning;1;Conjuration (Calling);Fire;10 minutes;;Ritual;Instantaneous;V, S, F;#!spells/Level1/Wild Cunning.md
+no conc,no concentration,no ritual;Zephyr Strike;1;Transmutation;Air;1 bonus action;Optional;;1 round / Concentration, up to 1 minute;V;#!spells/Level1/Zephyr Strike.md
+no conc,no concentration;Animal Messenger;2;Enchantment (Compulsion);Fire;1 action;;Ritual;24 hours;V, S, F;#!spells/Level2/Animal Messenger.md
+no conc,no concentration,no ritual;Barkskin;2;Transmutation;Earth;1 action;;;1 hour;V, S, F;#!spells/Level2/Barkskin.md
+;Beast Sense;2;Divination;Fire;1 action;Concentration;Ritual;Concentration, up to 1 hour;S;#!spells/Level2/Beast Sense.md
+no conc,no concentration,no ritual;Cordon of Arrows;2;Transmutation;Air;1 action;;;8 hours;V, S, M (four or more arrows or bolts, which the spell consumes);#!spells/Level2/Cordon of Arrows.md
+no conc,no concentration,no ritual;Darkvision;2;Transmutation;Light;1 action;;;8 hours;V, S, F;#!spells/Level2/Darkvision.md
+no conc,no concentration,no ritual;Find Traps;2;Divination;Aether;1 action;;;Instantaneous;V, S;#!spells/Level2/Find Traps.md
+no conc,no concentration,no ritual;Healing Spirit;2;Conjuration (Summoning);Light;1 bonus action;;;30 seconds;V, S;#!spells/Level2/Healing Spirit.md
+no conc,no concentration,no ritual;Lesser Restoration;2;Abjuration;Light;1 action;;;Instantaneous;V, S, F;#!spells/Level2/Lesser Restoration.md
+no conc,no concentration; Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;#!spells/Level2/ Locate Animals or Plants.md
+no ritual;Locate Object;2;Divination;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level2/Locate Object.md
+no ritual;Pass Without Trace;2;Abjuration;Earth;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Pass Without Trace.md
+no conc,no concentration,no ritual;Protection from Poison;2;Abjuration;Light;1 action;;;1 hour;V, S;#!spells/Level2/Protection from Poison.md
+;Silence;2;Illusion (Glamer);Darkness;1 action;Concentration;Ritual;Concentration, up to 10 minutes;V, S;#!spells/Level2/Silence.md
+no ritual;Spike Growth;2;Transmutation;Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level2/Spike Growth.md
+no conc,no concentration,no ritual;Daylight;3;Evocation;Light;1 action;;;1 hour;V, S;#!spells/Level3/Daylight.md
+no conc,no concentration,no ritual;Direct Barrage;3;Transmutation;Air;1 action;;;Instantaneous;V, S, M (pieces of ammunition or thrown weapons);#!spells/Level3/Direct Barrage.md
+no conc,no concentration,no ritual;Endurion's Cold Arrows;3;Transmutation;Water;1 action;;;1 hour;V, S;#!spells/Level3/Endurions Cold Arrows.md
+no conc,no concentration,no ritual;Flame Arrows;3;Transmutation;Fire;1 action;;;1 hour;V, S;#!spells/Level3/Flame Arrows.md
+no ritual;Lightning Arrow;3;Transmutation;Air;1 bonus action;Concentration;;1 round;V, S, M (a piece of ammunition that the spell consumes);#!spells/Level3/Lightning Arrow.md
+no conc,no concentration,no ritual;Nondetection;3;Abjuration;Darkness;1 action;;;8 hours;V, S, M (apatite dust worth at least 25 gp sprinkled over the target, which the spell consumes);#!spells/Level3/Nondetection.md
+no conc,no concentration,no ritual;Plant Growth;3;Transmutation;Earth;1 action or 8 hours;;;Instantaneous;V, S;#!spells/Level3/Plant Growth.md
+no conc,no concentration,no ritual;Protection from Energy;3;Abjuration;Water;1 action;;;10 minutes;V, S;#!spells/Level3/Protection from Energy.md
+no ritual;Speak with Plants;3;Transmutation;Earth;1 action;Concentration;;Concentration, 10 minutes;V, S, F;#!spells/Level3/Speak with Plants.md
+no conc,no concentration,no ritual;Summon Animals;3;Conjuration (Summoning);Fire;1 action;;;1 hour;V, S, M (a handful of diaspore dust, which the spell consumes, or a diaspore);#!spells/Level3/Summon Animals.md
+no ritual;Wall of Wind;3;Evocation;Air;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level3/Wall of Wind.md
+no conc,no concentration;Water Breathing;3;Transmutation;Water;1 action;;Ritual;24 hours;V, S, F;#!spells/Level3/Water Breathing.md
+no conc,no concentration;Water Walk;3;Transmutation;Water;1 action;;Ritual;1 hour;V, S, F;#!spells/Level3/Water Walk.md
+no conc,no concentration,no ritual;Freedom of Movement;4;Abjuration;Air;1 action;;;1 hour;V, S, F;#!spells/Level4/Freedom of Movement.md
+no conc,no concentration,no ritual;Grasping Vine;4;Conjuration (Creation);Earth;1 bonus action;;;1 minute;V, S;#!spells/Level4/Grasping Vine.md
+no ritual;Guardian of Nature;4;Transmutation;Earth;1 bonus action;Concentration;;Concentration, up to a minute;V;#!spells/Level4/Guardian of Nature.md
+no ritual;Locate Creature;4;Divination;Water;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level4/Locate Creature.md
+no conc,no concentration,no ritual;Stoneskin;4;Abjuration;Earth;1 action;;;1 hour;V, S, M (a peridot worth 100 gp, which the spell consumes);#!spells/Level4/Stoneskin.md
+no conc,no concentration,no ritual;Summon Woodland Beings;4;Conjuration (Summoning);Light;1 action;;;1 hour;V, S, F, M (diaspore dust, which the spell consumes, or a whole diaspore gemstone);#!spells/Level4/Summon Woodland Beings.md
+no conc,no concentration;Commune with Nature;5;Divination;Aether;1 minute;;Ritual;Instantaneous;V, S;#!spells/Level5/Commune with Nature.md
+no conc,no concentration,no ritual;Shadow Volley;5;Illusion (Shadow);Darkness;1 action;;;Instantaneous;V, S, M (one piece of ammunition or one thrown weapon);#!spells/Level5/Shadow Volley.md
+no conc,no concentration,no ritual;Steel Wind Strike;5;Conjuration (Teleportation);Air;1 action;;;Instantaneous;S, M (a metal melee weapon worth at least 0.1 gp);#!spells/Level5/Steel Wind Strike.md
+no ritual;Swift Quiver;5;Conjuration (Teleportation);Air;1 bonus action;Concentration;;Concentration, up to 1 minute;V, S, M (a quiver containing at least two pieces of ammunition);#!spells/Level5/Swift Quiver.md
+no ritual;Tree Stride;5;Conjuration (Teleportation);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level5/Tree Stride.md
+no ritual;Wrath of Nature;5;Conjuration (Calling);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S;#!spells/Level5/Wrath of Nature.md
