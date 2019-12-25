@@ -27,7 +27,7 @@ no conc,no concentration,no ritual;Darkvision;2;Transmutation;Light;1 action;;;8
 no conc,no concentration,no ritual;Find Traps;2;Divination;Aether;1 action;;;Instantaneous;V, S;#!spells/Level2/Find Traps.md
 no conc,no concentration,no ritual;Healing Spirit;2;Conjuration (Summoning);Light;1 bonus action;;;30 seconds;V, S;#!spells/Level2/Healing Spirit.md
 no conc,no concentration,no ritual;Lesser Restoration;2;Abjuration;Light;1 action;;;Instantaneous;V, S, F;#!spells/Level2/Lesser Restoration.md
-no conc,no concentration; Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;#!spells/Level2/ Locate Animals or Plants.md
+no conc,no concentration;Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;#!spells/Level2/Locate Animals or Plants.md
 no ritual;Locate Object;2;Divination;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level2/Locate Object.md
 no ritual;Pass Without Trace;2;Abjuration;Earth;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Pass Without Trace.md
 no conc,no concentration,no ritual;Protection from Poison;2;Abjuration;Light;1 action;;;1 hour;V, S;#!spells/Level2/Protection from Poison.md

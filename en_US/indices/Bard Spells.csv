@@ -50,7 +50,7 @@ no ritual;Hold Person;2;Enchantment;Earth;1 action;Concentration;;Concentration,
 no ritual;Invisibility;2;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;#!spells/Level2/Invisibility.md
 no conc,no concentration,no ritual;Knock;2;Transmutation;Darkness;1 action;;;Instantaneous;V;#!spells/Level2/Knock.md
 no conc,no concentration,no ritual;Lesser Restoration;2;Abjuration;Light;1 action;;;Instantaneous;V, S, F;#!spells/Level2/Lesser Restoration.md
-no conc,no concentration; Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;#!spells/Level2/ Locate Animals or Plants.md
+no conc,no concentration;Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;#!spells/Level2/Locate Animals or Plants.md
 no ritual;Locate Object;2;Divination;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;#!spells/Level2/Locate Object.md
 no conc,no concentration;Magic Mouth;2;Illusion (Glamer);Aether;1 minute;;Ritual;Until dispelled;V, S, M (tanzanite dust worth at least 10 gp, which the spell consumes);#!spells/Level2/Magic Mouth.md
 no ritual;Phantasmal Force;2;Illusion (Phantasm);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;#!spells/Level2/Phantasmal Force.md

@@ -174,7 +174,7 @@ no conc,no concentration,no ritual;Khaalt's Acid Arrow;2;Evocation;Darkness;1 ac
 no conc,no concentration,no ritual;Knock;2;Transmutation;Darkness;1 action;;;Instantaneous;V;Bard, Wizard;#!spells/Level2/Knock.md
 no conc,no concentration,no ritual;Lesser Restoration;2;Abjuration;Light;1 action;;;Instantaneous;V, S, F;Bard, Cleric, Cleric (Life), Druid, Paladin, Paladin (Devotion), Ranger, Warlock (Eternal Flame);#!spells/Level2/Lesser Restoration.md
 no ritual;Levitate;2;Transmutation;Air;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;Wizard, Warlock (Seeker);#!spells/Level2/Levitate.md
-no conc,no concentration; Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;Bard, Druid, Ranger;#!spells/Level2/ Locate Animals or Plants.md
+no conc,no concentration;Locate Animals or Plants;2;Divination;Earth;1 action;;Ritual;Instantaneous;V, S, F;Bard, Druid, Ranger;#!spells/Level2/Locate Animals or Plants.md
 no ritual;Locate Object;2;Divination;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;Bard, Cleric, Druid, Paladin, Ranger, Wizard, Warlock (Seeker);#!spells/Level2/Locate Object.md
 no conc,no concentration;Magic Mouth;2;Illusion (Glamer);Aether;1 minute;;Ritual;Until dispelled;V, S, M (tanzanite dust worth at least 10 gp, which the spell consumes);Bard, Wizard;#!spells/Level2/Magic Mouth.md
 no conc,no concentration,no ritual;Magic Weapon;2;Transmutation;Aether;1 bonus action;;;1 hour;V, S;Paladin, Wizard, Cleric (Arcana), Cleric (War), Cleric (Forge), Cleric (Zeal);#!spells/Level2/Magic Weapon.md
