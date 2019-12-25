@@ -211,6 +211,46 @@ function sortDataArrayByColName(data, colName, descending=false) {
 	}
 }
 
+function sortDataArrayByCriteria(data, criteria) {
+	if (!data || !data.length) {
+		return [];
+	}
+	if (!criteria || criteria.length === 0) {
+		return data.map((row) => row.slice());
+	}
+	const headerRow = data[0];
+	idxCriteria = criteria.map(function(criterion) {
+		const colIndex = headerRow.indexOf(criterion.column);
+		return {
+			index: colIndex,
+			column: criterion.column,
+			descending: criterion.descending
+		};
+	});
+
+	// Get rid of the header, it's not being sorted
+	const result = data.slice(1);
+
+	function _sortSingleRowPair(x, y) {
+		for (let i = idxCriteria.length - 1; i >= 0; i--) {
+			const colIndex = idxCriteria[i].index;
+			const descendingMul = idxCriteria[i].descending ? -1 : 1;
+			if (x[colIndex].value.toLowerCase() < y[colIndex].value.toLowerCase()) {
+				return -1 * descendingMul;
+			} else if (x[colIndex].value.toLowerCase() > y[colIndex].value.toLowerCase()) {
+				return 1 * descendingMul;
+			}
+		}
+		return 0;
+	}
+	timsort.sort(result, (x, y) => _sortSingleRowPair(x, y));
+
+	// Add the copy of the header row back
+	result.unshift(headerRow.slice());
+
+	return result;
+}
+
 /**
  * Filters an array of arrays, leaving only those rows, that contain the given
  *  criteria.
@@ -304,10 +344,7 @@ const indexFilePath = INDEX_DIR + '/' + indexName + INDEX_EXT;
 const indexFileRaw = loadFile(indexFilePath);
 
 // This is used to keep track of the current sorting settings
-let sorting = {
-	column: null,
-	descending: null
-};
+let sorting = [];
 
 $(document).ready(function () {
 	if (indexFileRaw) {
@@ -320,28 +357,51 @@ $(document).ready(function () {
 
 			$('#indexTableHeaderRow').on('click', '.columnHeader', function () {
 				const columnName = $(this).attr('columnName');
-				let descending = false;
-				// If the user clicks the same header with respect to which the data
-				//  is already being sorted, just flip the direction.
-				if (sorting.column === columnName) {
-					descending = !sorting.descending;
-				}
-				sorting = {
+				let newCriterion = {
 					column: columnName,
-					descending: descending
+					descending: false
+				};
+				// Try to see if the given column is already used in any of the
+				//  sorting criteria.
+				let criterionIdx = 0;
+				let sortingCriterion;
+				for (let i = 0; i < sorting.length; i++) {
+					const element = sorting[i];
+					if (element.column === columnName) {
+						sortingCriterion = element;
+						criterionIdx = i;
+						break;
+					}
 				}
-				const sortedData = sortDataArrayByColName(filteredRows, columnName, descending);
+
+				// If it is, flip the direction.
+				if (typeof(sortingCriterion) !== 'undefined') {
+					newCriterion.descending = !sortingCriterion.descending;
+
+					// We always want to push the changd/added criterion to the end,
+					//  which is why, if it exists, we remove the old one here.
+					sorting.splice(criterionIdx, 1);
+				}
+
+				// Push the new criterion to the back
+				sorting.push(newCriterion);
+
+				// Sort by each criterion individually
+				const sortedData = sortDataArrayByCriteria(filteredRows, sorting)
 				generateTable(sortedData);
-				// Look for the header with the same column name as the previous one,
+				// Look for the headers with corresponding column names to search criteria,
 				//  and add the fancy arrow symbol next to it.
 				// generateTable() resets headers in this case, so the addition has to
 				//  be done after that.
-				const sortingSymbol = descending ? '↑' : '↓';
-				$('.columnHeader').each(function () {
-					if ($(this).attr('columnName') === columnName) {
-						$(this).append(' ' + sortingSymbol);
-					}
+				sorting.forEach(function(criterion) {
+					const sortingSymbol = criterion.descending ? '↑' : '↓';
+					$('.columnHeader').each(function () {
+						if ($(this).attr('columnName') === criterion.column) {
+							$(this).append(' ' + sortingSymbol);
+						}
+					});
 				});
+
 			});
 
 			// Handle the search input
