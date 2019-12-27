@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](yetir)
+[gimmick:theme](yeti)
 
 
 <!--
@@ -22,6 +22,15 @@
 [Spells]()
 
   * [All spells](http://unelith.github.io/en_US/list.html?indexName=Spells)
+  - - - -
+  * # Spells by class
+  * [Bard](https://unelith.github.io/en_US/list.html?indexName=Bard Spells)
+  * [Cleric](https://unelith.github.io/en_US/list.html?indexName=Cleric Spells)
+  * [Druid](https://unelith.github.io/en_US/list.html?indexName=Druid Spells)
+  * [Paladin](https://unelith.github.io/en_US/list.html?indexName=Paladin Spells)
+  * [Ranger](https://unelith.github.io/en_US/list.html?indexName=Ranger Spells)
+  * [Warlock](https://unelith.github.io/en_US/list.html?indexName=Warlock Spells)
+  * [Wizard/Sorcerer](https://unelith.github.io/en_US/list.html?indexName=Wizard%20%26%20Sorcerer%20Spells)
 
 
 <!-- A more complex navigation example: ----------------------------------------
