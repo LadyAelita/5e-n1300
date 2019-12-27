@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](yeti)
+[gimmick:theme](yetir)
 
 
 <!--
@@ -19,8 +19,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Spells]()
+
+	* [All spells](list.html?indexName=Spells)
 
 <!-- A more complex navigation example: ----------------------------------------
 
