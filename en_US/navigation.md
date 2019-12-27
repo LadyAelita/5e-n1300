@@ -21,7 +21,8 @@
 
 [Spells]()
 
-	* [All spells](list.html?indexName=Spells)
+  * [All spells](http://unelith.github.io/en_US/list.html?indexName=Spells)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
