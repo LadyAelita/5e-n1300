@@ -350,6 +350,10 @@ $(document).ready(function () {
 	if (indexFileRaw) {
 		try {
 			$('#indexName').html(indexName);
+
+			const oldTitle = document.title;
+			document.title = oldTitle + (oldTitle !== '' ? ' - ' : '') + indexName;
+
 			const indexRows = parseCSVData(indexFileRaw);
 			generateTable(indexRows);
 			// Create a deep(ish) copy of the data
