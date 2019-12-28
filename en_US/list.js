@@ -424,6 +424,7 @@ $(document).ready(function () {
 				generateTable(filteredRows);
 			});
 			$('#fullResetButton').click(function () {
+				$('#indexSearchInput').val('');
 				filteredRows = filterData(indexRows, []);
 				sorting = [];
 				generateTable(filteredRows);
