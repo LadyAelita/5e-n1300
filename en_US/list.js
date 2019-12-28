@@ -412,10 +412,21 @@ $(document).ready(function () {
 				} else {
 					filteredRows = filterData(indexRows, []);
 				}
-				const sortedData = sortDataArrayByColName(filteredRows, sorting.column, sorting.descending);
+				const sortedData = sortDataArrayByCriteria(filteredRows, sorting)
 				// We skip the headers here, no need to change them as the sorting
 				//  hasn't changed.
 				generateTable(sortedData, true);
+			});
+
+			// Handle the reset buttons
+			$('#sortingResetButton').click(function () {
+				sorting = [];
+				generateTable(filteredRows);
+			});
+			$('#fullResetButton').click(function () {
+				filteredRows = filterData(indexRows, []);
+				sorting = [];
+				generateTable(filteredRows);
 			});
 		} catch(error) {
 			displayGenericError(error);
