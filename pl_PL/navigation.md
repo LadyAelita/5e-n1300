@@ -21,17 +21,18 @@
 
 [Czary]()
 
-  * [Wszystkie czary](http://unelith.github.io/en_US/list.html?indexName=Spells)
+  * [Wszystkie czary](../en_US/list.html?indexName=Spells)
   - - - -
   * # Względem klas
-  * [Bard](https://unelith.github.io/en_US/list.html?indexName=Bard Spells)
-  * [Druid](https://unelith.github.io/en_US/list.html?indexName=Druid Spells)
-  * [Inkantator/Profeta](https://unelith.github.io/en_US/list.html?indexName=Wizard%20%26%20Sorcerer%20Spells)
-  * [Kleryk](https://unelith.github.io/en_US/list.html?indexName=Cleric Spells)
-  * [Łowca](https://unelith.github.io/en_US/list.html?indexName=Ranger Spells)
-  * [Paladyn](https://unelith.github.io/en_US/list.html?indexName=Paladin Spells)
-  * [Vilos](https://unelith.github.io/en_US/list.html?indexName=Warlock Spells)
+  * [Bard](../en_US/list.html?indexName=Bard Spells)
+  * [Druid](../en_US/list.html?indexName=Druid Spells)
+  * [Inkantator/Profeta](../en_US/list.html?indexName=Wizard%20%26%20Sorcerer%20Spells)
+  * [Kleryk](../en_US/list.html?indexName=Cleric Spells)
+  * [Łowca](../en_US/list.html?indexName=Ranger Spells)
+  * [Paladyn](../en_US/list.html?indexName=Paladin Spells)
+  * [Vilos](../en_US/list.html?indexName=Warlock Spells)
 
+[Atuty](../en_US/Pages/Rules/Feats.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 

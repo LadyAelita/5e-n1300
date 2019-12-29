@@ -21,17 +21,18 @@
 
 [Spells]()
 
-  * [All spells](http://unelith.github.io/en_US/list.html?indexName=Spells)
+  * [All spells](../en_US/list.html?indexName=Spells)
   - - - -
   * # Spells by class
-  * [Bard](https://unelith.github.io/en_US/list.html?indexName=Bard Spells)
-  * [Cleric](https://unelith.github.io/en_US/list.html?indexName=Cleric Spells)
-  * [Druid](https://unelith.github.io/en_US/list.html?indexName=Druid Spells)
-  * [Paladin](https://unelith.github.io/en_US/list.html?indexName=Paladin Spells)
-  * [Ranger](https://unelith.github.io/en_US/list.html?indexName=Ranger Spells)
-  * [Warlock](https://unelith.github.io/en_US/list.html?indexName=Warlock Spells)
-  * [Wizard/Sorcerer](https://unelith.github.io/en_US/list.html?indexName=Wizard%20%26%20Sorcerer%20Spells)
+  * [Bard](../en_US/list.html?indexName=Bard Spells)
+  * [Cleric](../en_US/list.html?indexName=Cleric Spells)
+  * [Druid](../en_US/list.html?indexName=Druid Spells)
+  * [Paladin](../en_US/list.html?indexName=Paladin Spells)
+  * [Ranger](../en_US/list.html?indexName=Ranger Spells)
+  * [Warlock](../en_US/list.html?indexName=Warlock Spells)
+  * [Wizard/Sorcerer](../en_US/list.html?indexName=Wizard%20%26%20Sorcerer%20Spells)
 
+[Feats](Pages/Rules/Feats.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
