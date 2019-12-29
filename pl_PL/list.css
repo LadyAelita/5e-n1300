@@ -1,0 +1,12 @@
+body {
+	margin: 10px;
+}
+
+th.columnHeader:hover {
+	color: #888;
+	cursor: pointer;
+}
+
+#indexSearchInput {
+	margin-bottom: 10px;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Northland 1300</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" type="text/css"></link>
+	<link rel="stylesheet" href="//yandex.st/highlightjs/7.3/styles/github.min.css" type="text/css"></link>
+	<link rel="stylesheet" href="list.css" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://unelith.github.io/js/jquery.csv.min.js"></script>
+	<script src="https://rawgithub.com/mziccard/node-timsort/master/build/timsort.js"></script>
+	<script src="list.js"></script>
+</head>
+
+<body>
+	<h1 id="indexName"></h1>
+	<p id="indexDescription"></p>
+	<input type="text" class="form-control" id="indexSearchInput" placeholder="Search" aria-label="Search" />
+	<button id="sortingResetButton" class="btn btn-primary" type="button">Reset sorting</button>
+	<button id="fullResetButton" class="btn btn-primary" type="button">Reset all</button>
+	<table class="table table-striped">
+		<thead>
+			<tr id="indexTableHeaderRow"></tr>
+		</thead>
+		<tbody id="indexTableBody">
+		</tbody>
+	</table>
+</body>
+
+</html>
