@@ -58,7 +58,6 @@
   -- Could be useful when there's more than one language wiki.
   -->
 
-
 [Język]()
 
   * [Angielski (Stany Zjednoczone)](/en_US/)
