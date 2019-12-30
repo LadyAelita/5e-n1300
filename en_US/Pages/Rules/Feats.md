@@ -330,7 +330,8 @@ You gain proficiency in any combination of three skills of your choice.
 ### Dazzling Outfit
 
 *Prerequisite: Charisma score of 13 or higher*
-When you wear your fanciest clothing, you are so dazzling that no one will be able to hit you. As long as you are wearing clothes worth at least 60 gp, your AC is equal to 10 + your Dexterity modifier + your Charisma modifier.
+*When you wear your fanciest clothing, you are so dazzling that no one will be able to hit you.*
+As long as you are wearing clothes worth at least 60 gp, your AC is equal to 10 + your Dexterity modifier + your Charisma modifier.
 
 ### Lightly Armored
 
