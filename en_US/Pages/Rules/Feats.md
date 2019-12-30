@@ -33,13 +33,6 @@
 • Increase your Constitution score by 1, to a maximum of 20.
 • When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
-### Elemental Adept
-
-*Prerequisite: The ability to cast at least one spell*
-When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
-Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
-You can select this feat multiple times. Each time you do so, you must choose a different damage type.
-
 ### Grappler
 
 *Prerequisite: Strength 13 or higher*
@@ -90,13 +83,6 @@ You regain your expended luck points when you finish a long rest.
 • When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
 • You have advantage on saving throws against spells cast by creatures within your reach.
 
-### Magic Initiate
-
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard.
-You learn two cantrips of your choice from that class’s spell list.
-In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
-Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
-
 ### Martial Adept
 
 *You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:*
@@ -137,13 +123,6 @@ Your spellcasting ability for these spells depends on the class you chose: Chari
 • Increase the chosen ability score by 1, to a maximum of 20.
 • You gain proficiency in saving throws using the chosen ability.
 
-### Ritual Caster
-
-*Prerequisite: Intelligence or Wisdom 13 or higher*
-You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
-When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class’s spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
-If you come across a spell in written form, such as a magical spell scroll or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book is the same as if you were a Wizard (see Wizard's class page). The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
-
 ### Savage Attacker
 
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
@@ -163,15 +142,6 @@ Once per turn when you roll damage for a melee weapon attack, you can reroll the
 • When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
 • Dim light doesn’t impose disadvantage on your Wisdom (Perception) checks relying on sight.
 
-### Spell Sniper
-
-*Prerequisite: The ability to cast at least one spell*
-*You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:*
-• When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
-• Your ranged spell attacks ignore half cover and three-quarters cover.
-• You learn one cantrip that requires an attack roll.
-Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
-
 ### Tavern Brawler
 
 *Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:*
@@ -180,13 +150,6 @@ Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard sp
 • Your unarmed strike uses a d4 for damage.
 • When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
 
-### Telekinetic
-
-*You learn to move things with your mind. You gain the following benefits:*
-• Increase your Intelligence score by 1, to a maximum of 20.
-• You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible.
-• As a bonus action, you can try to shove one creature you can see within 5 feet of the spectral hand created by your mage hand spell. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Intelligence modifier) or be pushed 5 feet away from you.
-
 ### Telepathic
 
 *You awaken the ability to mentally connect with others. You gain the following benefits:*
@@ -194,24 +157,9 @@ Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard sp
 • You gain proficiency in one skill of your choice from the following list: Deception, Insight, Intimidation, or Persuasion.
 • You can communicate telepathically with any creature you can see within 30 feet of you. If it understands at least one language, it can respond to you telepathically.
 
-### Theologian
-
-*Your extensive study of religion rewards you with the following benefits:*
-• Increase your Intelligence score by 1, to a maximum of 20.
-• You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
-• You learn the thaumaturgy and detect evil and good spells. You can cast detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
-
 ### Tough
 
 Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
-
-### War Caster
-
-*Prerequisite: The ability to cast at least one spell*
-*You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:*
-• You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
-• You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
-• When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
 
 ## Skill feats
 
@@ -350,6 +298,13 @@ You gain proficiency in any combination of three skills of your choice.
 • You gain proficiency in the Survival skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 • You learn the alarm spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
+### Theologian
+
+*Your extensive study of religion rewards you with the following benefits:*
+• Increase your Intelligence score by 1, to a maximum of 20.
+• You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You learn the thaumaturgy and detect evil and good spells. You can cast detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+
 ## Armor feats
 
 ### Shield Master
@@ -469,6 +424,53 @@ When you are wielding a finesse weapon with which you are proficient and another
 *You have practiced extensively with a variety of weapons, gaining the following benefits:*
 • Increase your Strength or Dexterity score by 1, to a maximum of 20.
 • You gain proficiency with four weapons of your choice.
+
+## Spellcasting feats
+
+### Elemental Adept
+
+*Prerequisite: The ability to cast at least one spell*
+When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
+Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
+You can select this feat multiple times. Each time you do so, you must choose a different damage type.
+
+### Magic Initiate
+
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard.
+You learn two cantrips of your choice from that class’s spell list.
+In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
+Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
+
+### Ritual Caster
+
+*Prerequisite: Intelligence or Wisdom 13 or higher*
+You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class’s spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+If you come across a spell in written form, such as a magical spell scroll or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book is the same as if you were a Wizard (see Wizard's class page). The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+
+### Spell Sniper
+
+*Prerequisite: The ability to cast at least one spell*
+*You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:*
+• When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
+• Your ranged spell attacks ignore half cover and three-quarters cover.
+• You learn one cantrip that requires an attack roll.
+Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+
+### Telekinetic
+
+*You learn to move things with your mind. You gain the following benefits:*
+• Increase your Intelligence score by 1, to a maximum of 20.
+• You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible.
+• As a bonus action, you can try to shove one creature you can see within 5 feet of the spectral hand created by your mage hand spell. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Intelligence modifier) or be pushed 5 feet away from you.
+
+### War Caster
+
+*Prerequisite: The ability to cast at least one spell*
+*You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:*
+• You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+• You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+• When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
 
 ## Racial feats
 
