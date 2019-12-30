@@ -446,6 +446,15 @@ When you are wielding a finesse weapon with which you are proficient and another
 
 ## Spellcasting feats
 
+### Double Concentration
+
+*Prerequisite: The ability to cast at least one spell*
+*You've spent countless hours training your mind in focusing on multiple spells at the same time. You gain the following:*
+• You can cast a concentration spell if you're already concentrating on another one, without breaking concentration on the previous spell. In that case you end up concentrating on both at the same time.
+• Whenever you cast a concentration spell, if you're already concentrating on two other concentration spells, you must break concentration on one of those two spells.
+• Whenever, while concentrating on two spells simultaneously, you are required to make a concentration save to see if you can keep concentrating on your magic, you make a separate save for each of the spells.
+• During double concentration, casting spells in general becomes more difficult. Whenever, while concentrating on two spells at the same time, you cast a spell that doesn't require concentration and is not a cantrip, you must make a concentration save against DC equal to 10 + the level of the spell being cast. On a failure, the spell's effects don't take place, while you still lose the expended spell slot. On a success, you cast the spell as normal.
+
 ### Elemental Adept
 
 *Prerequisite: The ability to cast at least one spell*
@@ -465,6 +474,12 @@ Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard.
 You learn two cantrips of your choice from that class’s spell list.
 In addition, choose one 1st-level spell from that same list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again.
 Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid: or Intelligence for wizard.
+
+### Rapid Casting
+
+*Prerequisite: The ability to cast at least one spell*
+*You've learnt techniques that make it possible for you to cast multiple powerful spells within short periods of time.*
+You can now cast more than one non-cantrip spell per turn (when one has a cast time of action, and the other one - a bonus action), as long as the base level of the spell cast using the action is not higher than the base level of the spell cast as the bonus action. Spells cast using a reaction during a turn are not restricted in any way and do not restrict future spells that can be cast within the same turn.
 
 ### Ritual Caster
 
