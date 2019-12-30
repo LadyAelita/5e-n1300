@@ -620,3 +620,54 @@ As a bonus action, you can move up to your speed toward an enemy of your choice 
 
 *Prerequisite: Elf (wood)*
 You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the long strider and pass without trace spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
+
+## Advanced crafting feats
+
+### Master Alchemist
+
+*You have studied the secrets of alchemy and have become an expert in that field, gaining the following benefits:*
+• Increase your Intelligence score by 1, to a maximum of 20.
+• Whenever you make a Craftsmanship check related to alchemy, you add your proficiency bonus an additional time, regardless of whether you're already proficient in that skill or not.
+• As an action, you can identify an alchemical product as if you had digested it, without doing so. You need to be able to inspect the product from up close in order to do that.
+• During a short rest, you can amplify one healing potion, provided that you have access to alchemist's tools. If the potion is consumed within 1 hour of doing that, the value of its healing is maximized.
+
+### Master Armorer
+
+*You're immensely talented in the armorer's trade, gaining the following benefits:*
+• Increase your Strength score by 1, to a maximum of 20.
+• Whenever you make a Craftsmanship check related to crafting armor, you add your proficiency bonus an additional time, regardless of whether you're already proficient in that skill or not. You can also optionally use your Strength bonus in place of Intelligence for the purposes of that check.
+• All the sets of metal armor you make have a +1 bonus for good workmanship.
+• As an action, you can identify a set of metal armor with regards to the materials it's made of and the methods that have been used to make it. You need to be able to inspect the armor from up close in order to do that.
+
+### Master Blacksmith
+
+*You're immensely talented in the blacksmith's trade, gaining the following benefits:*
+• Increase your Strength score by 1, to a maximum of 20.
+• Whenever you make a Craftsmanship check related to smithery, you add your proficiency bonus an additional time, regardless of whether you're already proficient in that skill or not. You can also optionally use your Strength bonus in place of Intelligence for the purposes of that check.
+• All the weapons you make have a +1 bonus for good workmanship.
+• As an action, you can identify a weapon with regards to the materials it's made of and the methods that have been used to make it. You need to hold the weapon in order to do that.
+
+### Master Enchanter
+
+*You're trained in the art of enchanting items, gaining the following benefits:*
+• Increase your Intelligence score by 1, to a maximum of 20.
+• Whenever you make an Arcana check related to enchanting, you add your proficiency bonus an additional time, regardless of whether you're already proficient in that skill or not.
+• Whenever you roll for the random enchantment being applied to an item, you instead roll twice and take either of the two results.
+• You can attempt to transfer an enchantment from one item to another.
+
+### Master Jeweler
+
+*You're trained in dealing with metals and gemstones, gaining the following benefits:*
+• Increase your Dexterity score by 1, to a maximum of 20.
+• Whenever you make a Craftsmanship check related to jewelcrafting, you add your proficiency bonus an additional time, regardless of whether you're already proficient in that skill or not. You can also optionally use your Dexterity bonus in place of Intelligence for the purposes of that check.
+• You know and are able to carry out the processes of gem reduction and gem augmentation.
+• You have knowledge of all the gemstones.
+• You can tell at a glance the authenticity and value of precious metal creations.
+
+### Master Leatherworker
+
+*You're an expert in the trade of leatherworking, gaining the following benefits:*
+• Increase your Dexterity score by 1, to a maximum of 20.
+• Whenever you make a Craftsmanship check related to leatherworking, you add your proficiency bonus an additional time, regardless of whether you're already proficient in that skill or not. You can also optionally use your Dexterity bonus in place of Intelligence for the purposes of that check.
+• All the sets of leather armor you make have a +1 bonus for good workmanship.
+• As an action, you can identify a set of leather armor with regards to the materials it's made of and the methods that have been used to make it. You need to be able to inspect the armor from up close in order to do that.
