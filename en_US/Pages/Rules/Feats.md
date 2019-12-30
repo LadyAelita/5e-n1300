@@ -18,6 +18,14 @@
 • Climbing doesn’t halve your speed.
 • You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
+### Cruel
+
+*The challenges and struggles you’ve faced throughout your life have left you ruthless in combat, relishing in the pain you inflict.*
+• You have a number of cruelty points equal to your proficiency modifier. Once per turn, whenever you deal damage to a creature with an attack, you can spend one cruelty point to deal an additional 1d6 damage of the attack damage type to that creature.
+• You can also spend one cruelty point when you score a critical hit against a creature to regain 1d6 hit points.
+• While making a Charisma (Intimidation) check that involves inflicting pain, you can spend one cruelty point to gain advantage on the roll.
+• You regain your expended cruelty points when you finish a long rest.
+
 ### Dungeon Delver
 
 *Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:*
@@ -109,6 +117,12 @@ You regain your expended luck points when you finish a long rest.
 • You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
 • You can force an attack targeted at your mount to target you instead.
 • Your mount has Evasion.
+
+### Mystic Conflux
+
+*Through your repeated exposure to the natural flow of arcane magic, you’ve adapted to attune with additional enchantments, though the process can be physically taxing. You gain the following benefits:*
+• You have advantage on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
+• You can now be attuned to a maximum of four magical items, rather than the normal limit of three. Other attunement limitations still apply.
 
 ### Observant
 
@@ -313,6 +327,11 @@ You gain proficiency in any combination of three skills of your choice.
 • If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
 • As a reaction to being subjected to an effect requiring a Dexterity saving throw, you can gain Evasion until the start of your next turn.
 
+### Dazzling Outfit
+
+*Prerequisite: Charisma score of 13 or higher*
+When you wear your fanciest clothing, you are so dazzling that no one will be able to hit you. As long as you are wearing clothes worth at least 60 gp, your AC is equal to 10 + your Dexterity modifier + your Charisma modifier.
+
 ### Lightly Armored
 
 *You have trained to use of light armor, gaining the following benefits:*
@@ -433,6 +452,12 @@ When you are wielding a finesse weapon with which you are proficient and another
 When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
 Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 You can select this feat multiple times. Each time you do so, you must choose a different damage type.
+
+### Flash Recall
+
+*Prerequisite: The ability to prepare spells, and cast at least one spell*
+*You’ve developed the ability to instantly recall an unprepared spell in moments of sudden necessity.*
+As an action, you can instantly prepare a spell from your available class spell list (or spellbook, if you prepare spells from one) that you did not have prepared. This spell choice must be of a level for which you have spell slots. You then lose preparation of a different spell of your choice of equal or higher spell level. If you are multiclassed, you can only Flash Recall spells from a class that prepares spells. Once you use this ability, you must finish a short or long rest before you can use it again.
 
 ### Magic Initiate
 
