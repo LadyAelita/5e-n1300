@@ -48,7 +48,7 @@
 
 ### 4: Dead
 
-• A dead creature has been **killed** and is **not alive** as a result of either **death** or **demise**. It's life has been **terminated** and therefore has come to an **end**, rendering it a **casualty**. Because of that, it cannot take any action.
+• A dead creature has been **killed** and is **not alive** as a result of either **death** or **demise**. Its life has been **terminated** and therefore has come to an **end**, rendering it a **casualty**. Because of that, it cannot take any action.
 • The creature stops being dead when it's resurrected with magic or other special effects.
 
 ## Fear
