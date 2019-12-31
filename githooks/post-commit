@@ -1,0 +1,16 @@
+#!/bin/sh
+echo
+if [ -a .spellIndicesRebuilt ]
+	then
+	rm .spellIndicesRebuilt
+	git add en_US/indices/Spells.csv
+	git add "en_US/indices/Bard Spells.csv"
+	git add "en_US/indices/Cleric Spells.csv"
+	git add "en_US/indices/Druid Spells.csv"
+	git add "en_US/indices/Paladin Spells.csv"
+	git add "en_US/indices/Ranger Spells.csv"
+	git add "en_US/indices/Warlock Spells.csv"
+	git add "en_US/indices/Wizard & Sorcerer Spells.csv"
+	git commit --allow-empty --amend -C HEAD --no-verify
+fi
+exit 0
