@@ -34,6 +34,8 @@
 
 [Atuty](../en_US/Pages/Rules/Feats.md)
 
+[Stany](Strony/Zasady/Stany.md)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
