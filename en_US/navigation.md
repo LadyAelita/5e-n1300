@@ -34,6 +34,8 @@
 
 [Feats](Pages/Rules/Feats.md)
 
+[Conditions](Pages/Rules/Conditions.md)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
