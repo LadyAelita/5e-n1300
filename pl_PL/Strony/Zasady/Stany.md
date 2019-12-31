@@ -15,7 +15,7 @@
 * Leżąca istota może się poruszać tylko czołgając się, co kosztuje dodatkowo 1 ft dostępnej szybkości na każdą pokonaną 1 ft odległości.
 * Leżąca istota ma utrudnione testy ataków.
 * Ataki wykonane ~~z odległości 5 ft~~ bez broni lub z użyciem broni do walki wręcz przeciwko leżącej istocie są wykonywane z przewagą. Ataki dystansowe przeciw leżącej istocie są utrudnione.
-* **NOWE:** Jedyna akcja główna jaką może wykonać leżąca istota to **atak bronią**, **rzucenie zaklęcia**, **aktywacja przedmiotu** lub **wycofanie się**.
+* **NOWE:** Jedyna akcja główna jaką może wykonać leżąca istota to **atak**, **rzucenie zaklęcia**, **aktywacja przedmiotu** lub **wycofanie się**.
 * **NOWE:** Leżąca istota może spróbować wstać, poświęcając ~~połowę swojej szybkości~~ swoją akcję ruchu. Taka próba prowokuje ataki okazyjne. Jeśli dowolny z ataków przebije KP o więcej niż 5, istota na powrót zostaje powalona.
 * **NOWE:** Leżąca istota może wykonać akcję **wycofania się** aby wstać bez prowokowania ataków okazyjnych.
 * **NOWE:** Leżąca istota wykonuje rzuty obronne na Zręczność z utrudnieniem.
@@ -39,7 +39,7 @@
 
 * Ogłuszona istota jest **obezwładniona**, nie może się przemieszczać i mówi bardzo niewyraźnie.
 * Ogłuszona istota ponosi automatyczną porażkę w rzutach obronnych na **Siłę** i **Zręczność**.
-* Testy ataku przeciwko ogłuszonej istocie są wykonywane z **przewagą**.
+* Testy ataku przeciwko ogłuszonej istocie są wykonywane z przewagą.
 
 ## Oszołomiony
 
@@ -47,7 +47,7 @@
 * Oszołomiona istota nie może używać akcji **doskoku**.
 * Oszołomiona istota wykonuje testy **ataku**, testy **Akrobatyki** oraz rzuty obronne na **Siłę** i **Zręczność** z **utrudnieniem**.
 * Oszołomiona istota **zawsze** wykonuje testy koncentracji z **utrudnieniem**, które nie skraca się z przewagą.
-* Ataki przeciwko oszołomionej istocie są wykonywane z **przewagą**.
+* Ataki przeciwko oszołomionej istocie są wykonywane z przewagą.
 
 ## Oślepiony
 
@@ -80,7 +80,7 @@
 
 ## Strach
 
-Stan przerażenia został rozdzielony na kilka różnych poziomów, podobnie jak stan **wyczerpania**. W przeciwieństwie do stanu wyczerpania, przerażenie zazwyczaj trwa tylko określoną ilość czasu i może zostać zlikwidowane sukcesem w rzucie obronnym przeciwko efektowi wywołującemu owy stan.
+Stan przerażenia został rozdzielony na kilka różnych poziomów, podobnie jak stan **wyczerpania**. Tak jak poziomy wyczerpania, **poziomy strachu nakładają się** na siebie. W przeciwieństwie do stanu wyczerpania, przerażenie zazwyczaj trwa tylko określoną ilość czasu i może zostać zlikwidowane sukcesem w rzucie obronnym przeciwko efektowi wywołującemu owy stan.
 
 Jeśli istota **przerwie** (zamiast całkowicie go uniknąć przy pierwszej okazji) dowolny efekt związany ze strachem poprzez udany rzut obronny, wszystkie poziomy strachu zostają usunięte.
 
@@ -151,7 +151,6 @@ Jest to stary stan **frightened** z D&D 5e.
 * Szybkość unieruchomionej istoty przyjmuje wartość 0 i **nie może zostać zwiększona** w żaden sposób.
 * Ataki przeciwko unieruchomionej istocie wykonywane są z **przewagą**. Unieruchomiona istota **zawsze** wykonuje ataki z **utrudnieniem**, które się nie skraca z przewagą z innych źródeł.
 * Unieruchomiona istota wykonuje rzuty obronne na **Zręczność** z utrudnieniem.
-* **NOWE:** Unieruchomiona istota wykonuje testy **Atletyki** i **Akrobatyki** z utrudnieniem.
 
 ## Zatruty
 
