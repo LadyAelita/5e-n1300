@@ -10,7 +10,7 @@ ifeq ($(OS),Windows_NT)     # is Windows_NT on XP, 2000, 7, Vista, 10...
 	@cmd //C "mklink .git\hooks\post-merge ..\..\githooks\post-merge"
 	@cmd //C "mklink .git\hooks\utils\spellsConverter.py ..\..\..\githooks\utils\spellsConverter.py"
 else
-	-@mkdir -p -- .git/hooks/utils
+	@mkdir -p -- .git/hooks/utils ||:
 	@ln -s -f ../../githooks/post-merge .git/hooks/post-merge
 	@ln -s -f ../../githooks/pre-commit .git/hooks/pre-commit
 	@ln -s -f ../../githooks/post-commit .git/hooks/post-commit
