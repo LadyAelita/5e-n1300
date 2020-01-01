@@ -36,6 +36,14 @@
 
 [Conditions](Pages/Rules/Conditions.md)
 
+[Adventuring]()
+
+  * [Travel](Pages/Rules/Adventuring/Travel.md)
+
+[Combat]()
+
+  * [Movement and Positioning](Pages/Rules/Combat/Movement and Positioning.md)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
