@@ -42,7 +42,7 @@
 
 [Combat]()
 
-  * [Movement and Positioning](Pages/Rules/Combat/Movement and Positioning.md)
+  * [Movement and positioning](Pages/Rules/Combat/Movement and Positioning.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
