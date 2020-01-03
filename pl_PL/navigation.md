@@ -36,6 +36,14 @@
 
 [Stany](Strony/Zasady/Stany.md)
 
+[Przygody]()
+
+  * [Podróżowanie](../en_US/Pages/Rules/Adventuring/Travel.md)
+
+[Walka]()
+
+  * [Ruch i pozycja](../en_US/Pages/Rules/Combat/Movement and Positioning.md)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
