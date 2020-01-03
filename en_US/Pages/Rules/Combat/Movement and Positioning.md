@@ -2,7 +2,7 @@
 
 # Movement and Positioning
 
-Every creature has a **speed**, which is the distance in feet that the character or monster can walk in 1 round (**1 square tile** has a side of **5 feet**). This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
+Every creature has a **speed**, which is the distance in feet that the character or monster can walk in 1 round (**1 square tile** has a side of **5 feet**). This number assumes short bursts of energetic movement in the midst of a life-threatening situation. It's written on your character sheet.
 
 You don't need to spend the entirety of your speed when taking your movement. However, the unused movement goes to waste as you end your turn.
 

@@ -2,7 +2,7 @@
 
 # Travel
 
-Every creature has a **speed**, which is the distance in feet that the character or monster can walk in 1 round (**1 square tile** has a side of **5 feet**). This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
+Every creature has a **speed**, which is the distance in feet that the character or monster can walk in 1 round (**1 square tile** has a side of **5 feet**). This number assumes short bursts of energetic movement in the midst of a life-threatening situation. It's written on your character sheet.
 
 However, while traveling long distances, characters don't move with as much urgency as during a combat, and the travel might see the party stop to take a break once in a while. As a result, the net speed is smaller than could be expected based on the characters' walking speed.
 
