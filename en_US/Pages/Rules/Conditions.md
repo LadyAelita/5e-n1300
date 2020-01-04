@@ -32,18 +32,21 @@
 • An unconscious creature is **incapacitated** (see the condition), can’t move or speak, and is unaware of its surroundings.
 • The creature drops whatever it’s holding and falls **prone**.
 • The creature regains consciousness after 1d8 hours, when it's firmly woken up, or when it regains a positive amount of HP. Then, it's **stunned** until it spends its entire turn to compose itself by making a Composure check against DC 10. Such attempts can be repeated until success.
+• If the creature takes **physical** (slashing, piercing or bludgeoning) damage from a **non-magical weapon** attack, or **slashing** or **piercing** damage from a **non-magical unarmed attack** (such as a claw or bite attack), and the attack **was not a critical hit**, it becomes **battered**. If the creature takes any other kind of damage, it becomes **dying**.
 
 ### 2: Battered
 
 • The creature is also **unconscious**.
 • The creature makes a **death saving throw** immediately and then once every **10 minutes**. A successful makeshift first aid attempt (no healer's kit, a Survival or Medicine check against DC 10) gives the creature advantage on those saves.
 • The creature stops being battered and becomes **unconscious** instead after a successful first aid attempt with a healer's kit (a Survival or Medicine check with advantage against DC 10) or when it regains a positive amount of HP.
+• The creature stops being battered and becomes **dying** instead if it takes damage.
 
 ### 3: Dying
 
 • The creature is also **unconscious**.
 • The creature makes a **death saving throw** immediately and then once **every turn**. A successful makeshift first aid attempt (no healer's kit, a Survival or Medicine check against DC 10) gives the creature advantage on those saves.
-• The creature stops dying and becomes **battered** instead after a successful first aid attempt with a healer's kit (a Survival or Medicine check with advantage against DC 10).
+• The creature makes a **death saving throw** every time it takes damage.
+• The creature stops dying and becomes **battered** instead after a successful first aid attempt with a healer's kit (a Survival or Medicine check with advantage against DC 10). It also gets advantage on death saving throws it makes as part of the battered condition.
 • The creature stops dying and becomes **unconscious** instead when it regains a positive amount of HP.
 
 ### 4: Dead

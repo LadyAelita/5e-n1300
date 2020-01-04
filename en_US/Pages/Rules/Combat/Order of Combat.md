@@ -103,3 +103,7 @@ The GM might require you to use an action for any of these activities when it ne
 * turn a key in a lock
 * tap the floor with a 10-foot pole
 * hand an item to another character
+
+### Full round actions
+
+Some special actions might require you to do **nothing else** on the given turn, bar that action. This is called a **full round** action.
