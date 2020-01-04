@@ -44,7 +44,7 @@ The formula can be easily found by replacing every "**d**" with a **multiplicati
 
 ### Average damage
 
-Sometimes it's useful to calculate the average result of a damage roll. To find the formula, replace every "d**X**" with "times **Y**", where **Y = half of X + ½**. For example, the average result of **3d6 + 4** is 3 * (½ * 6 + ½) + 4 = 3 * 3 ½ + 4 = 10 ½ + 4 = **14 ½**.
+Sometimes it's useful to calculate the average result of a damage roll. To find the formula, replace every "d**X**" with "times **Y**", where **Y = half of X + ½**. For example, the average result of **3d6 + 4** is 3 \* (½ \* 6 + ½) + 4 = 3 \* 3½ + 4 = 10½ + 4 = **14½**.
 
 ## Critical hits
 
