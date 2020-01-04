@@ -22,7 +22,7 @@ A **surprised** creature **cannot do anything** on their first turn of combat an
 
 ## Initiative
 
-When combat starts, every participant makes an Initiative roll to determine their place in the initiative order. Most of the time, this is just a regular Dexterity check of **d20 + Dexterity modifier**. 
+When combat starts, every participant makes an Initiative roll to determine their place in the initiative order. Most of the time, this is just a regular Dexterity check of **d20 + Dexterity modifier**.
 
 Combatants are ranked in order **from** the one with the **highest** Initiative total **to** the one with the **lowest**. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round.
 
@@ -62,7 +62,7 @@ Anything that deprives you of your ability to take **actions** also **prevents y
 
 ### Reactions
 
-Certain special abilities, spells, and situations allow you to take a special action called a **reaction**. A reaction is an **instant response to a trigger** of some kind, which can occur **on your turn or on someone else's**. 
+Certain special abilities, spells, and situations allow you to take a special action called a **reaction**. A reaction is an **instant response to a trigger** of some kind, which can occur **on your turn or on someone else's**.
 
 The **opportunity attack** is the most common type of reaction.
 
@@ -107,3 +107,5 @@ The GM might require you to use an action for any of these activities when it ne
 ### Full round actions
 
 Some special actions might require you to do **nothing else** on the given turn, bar that action. This is called a **full round** action.
+
+Full round actions render you **unable** to use your **reaction** until the start of your next turn as well.
