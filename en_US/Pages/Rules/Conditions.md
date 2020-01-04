@@ -37,7 +37,7 @@
 ### 2: Battered
 
 • The creature is also **unconscious**.
-• The creature makes a **death saving throw** immediately and then once every **10 minutes**. A successful makeshift first aid attempt (no healer's kit, a Survival or Medicine check against DC 10) gives the creature advantage on those saves.
+• The creature makes a **death saving throw** at the start of every **10 minutes**. A successful makeshift first aid attempt (no healer's kit, a Survival or Medicine check against DC 10) gives the creature advantage on those saves.
 • The creature stops being battered and becomes **unconscious** instead after a successful first aid attempt with a healer's kit (a Survival or Medicine check with advantage against DC 10) or when it regains a positive amount of HP.
 • The creature stops being battered and becomes **dying** instead if it takes damage.
 
