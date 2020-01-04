@@ -42,7 +42,12 @@
 
 [Walka]()
 
+  * [Akcje w walce](../en_US/Pages/Rules/Combat/Actions in Combat.md)
+  * [Ataki](../en_US/Pages/Rules/Combat/Attacks.md)
+  * [Kolejność w walce](../en_US/Pages/Rules/Combat/Order of Combat.md)
+  * [Obrażenia i zdrowie](../en_US/Pages/Rules/Combat/Damage and Health.md)
   * [Ruch i pozycja](../en_US/Pages/Rules/Combat/Movement and Positioning.md)
+  * [Zasłona](../en_US/Pages/Rules/Combat/Cover.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 

@@ -45,6 +45,7 @@
   * [Actions in combat](Pages/Rules/Combat/Actions in Combat.md)
   * [Attacks](Pages/Rules/Combat/Attacks.md)
   * [Cover](Pages/Rules/Combat/Cover.md)
+  * [Damage and health](Pages/Rules/Combat/Damage and Health.md)
   * [Movement and positioning](Pages/Rules/Combat/Movement and Positioning.md)
   * [Order of combat](Pages/Rules/Combat/Order of Combat.md)
 
