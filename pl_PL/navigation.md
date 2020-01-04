@@ -47,6 +47,7 @@
   * [Kolejność w walce](../en_US/Pages/Rules/Combat/Order of Combat.md)
   * [Obrażenia i zdrowie](../en_US/Pages/Rules/Combat/Damage and Health.md)
   * [Ruch i pozycja](../en_US/Pages/Rules/Combat/Movement and Positioning.md)
+  * [Śmierć](../en_US/Pages/Rules/Combat/Death.md)
   * [Zasłona](../en_US/Pages/Rules/Combat/Cover.md)
 
 <!-- A more complex navigation example: ----------------------------------------
