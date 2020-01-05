@@ -38,7 +38,10 @@
 
 [Przygody]()
 
+  * [Odpoczynek](../en_US/Pages/Rules/Adventuring/Resting.md)
   * [Podróżowanie](../en_US/Pages/Rules/Adventuring/Travel.md)
+  * [Środowisko](../en_US/Pages/Rules/Adventuring/Environment.md)
+  * [Żywność i woda](../en_US/Pages/Rules/Adventuring/Food and Water.md)
 
 [Walka]()
 
