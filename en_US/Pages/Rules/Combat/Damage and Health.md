@@ -87,38 +87,6 @@ Damage **origin** depends on how otherworldly the effect is. There exist three d
 
 Non-magical is the most mundane origin and the simplest one to resist, while resisting supernatural damage is close to impossible. By default, weapons are **non-magical**, unless specified otherwise. Similarly, spells are, by default, **magical**. Generally nothing is **supernatural** by default.
 
-### Fall damage
-
-Like noted previously, **fall** damage is generally not reduced.
-
-At the end of a fall, a creature takes **1d6** bludgeoning damage for every **10 feet** it fell, to a **maximum of 20d6**. The creature lands prone, unless it somehow avoids taking damage from the fall.
-
-The following table describes the downward velocity **V<sub>i</sub>**, with which the creature hit the ground, based on the fall damage roll, which corresponds to specific fall distances.
-
-| Fall distance | Roll | V<sub>i</sub> |
-| ------------- | ---- | ------------- |
-| 0-9 ft        | 0    | 0-25 ft/s     |
-| 10-19 ft      | 1d6  | 30 ft/s       |
-| 20-29 ft      | 2d6  | 40 ft/s       |
-| 30-39 ft      | 3d6  | 45 ft/s       |
-| 40-49 ft      | 4d6  | 50 ft/s       |
-| 50-59 ft      | 5d6  | 60 ft/s       |
-| 60-69 ft      | 6d6  | 65 ft/s       |
-| 70-79 ft      | 7d6  | 70 ft/s       |
-| 80-89 ft      | 8d6  | 75 ft/s       |
-| 90-99 ft      | 9d6  | 77 ft/s       |
-| 100-109 ft    | 10d6 | 82 ft/s       |
-| 110-119 ft    | 11d6 | 85 ft/s       |
-| 120-129 ft    | 12d6 | 89 ft/s       |
-| 130-139 ft    | 13d6 | 93 ft/s       |
-| 140-149 ft    | 14d6 | 96 ft/s       |
-| 150-159 ft    | 15d6 | 100 ft/s      |
-| 160-169 ft    | 16d6 | 102 ft/s      |
-| 170-179 ft    | 17d6 | 105 ft/s      |
-| 180-189 ft    | 18d6 | 109 ft/s      |
-| 190-199 ft    | 19d6 | 110 ft/s      |
-| 200+ ft       | 20d6 | 113 ft/s      |
-
 ## Resistance, Immunity and Vulnerability
 
 If a creature or an object has **resistance** to a damage type, damage of that type is **halved** against it. If a creature or an object is **immune** to a damage type, it takes **no damage** of that type. If a creature or an object has **vulnerability** to a damage type, damage of that type is **doubled** against it.
