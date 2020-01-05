@@ -38,6 +38,12 @@ At the **end of each additional hour** of travel **beyond the limit**, the chara
 
 **Note:** Having **2 or more** levels of exhaustion **halves the speed**. Having **5** renders the character **unable to move at all**.
 
+## High altitude
+
+Traveling at altitudes of **10,000 feet (about 3,000 km)** or higher **above sea level** is taxing for a creature that needs to breathe. **Each hour** such a creature spends traveling at high altitude **counts as 2 hours** for the purpose of determining how long that creature can travel. 
+
+Breathing creatures can become acclimated to a high altitude by **spending 30 days or more** at this elevation. Breathing creatures **can't** become acclimated to elevations above **20,000 feet (6,000 km)** **unless** they are **native** to such environments.
+
 ## Mounts and vehicles
 
 Characters can ride **mounts** instead of going by foot. This only gives an advantage when going at the **combat** or **dash** pace, where the mount's speed is used instead of the characters' speed. In such case, it is the **mounts** that are subject to the respective **hours until exhaustion** limit, using **their** Constitution modifier, while the characters are treated as if they were travelling at merely a **fast** pace and are only limited by the regular 10 hours.
