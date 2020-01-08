@@ -83,6 +83,8 @@ You can avoid provoking an opportunity attack for the rest of your turn by takin
 
 **Warning:** Bear in mind, that there might exist creatures which are **immune** to opportunity attacks.
 
+If a creature **is hit** with an **opportunity attack**, it **cannot attack** anybody **other than the attacker** until the start of its next turn.
+
 ### Dual wielding
 
 You can dual wield two one-handed weapons as long as they have the **light** property. When you take the **Attack action** to attack with one of those wepaons, you can also use your **bonus action** to attack once with the other one. You **don't add your ability modifier** to the **damage** of that **additional attack**, unless that modifier is negative.

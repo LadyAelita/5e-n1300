@@ -10,6 +10,8 @@ To **charge** another creature, you must **move in a straight line at least 20 f
 
 When you **charge**, your **next melee attack** is made with **advantage**, but all **opportunity attacks against you**, triggered by **your charging movement** are made with **advantage**.
 
+While charging, you also **ignore** the **opportunity attack** rule that **prevents you from attacking** anybody, bar the opportunity-attacker.
+
 ## Grapple
 
 The **target** of a **grapple** must be **no more than one size larger** than you and must be within your reach.
