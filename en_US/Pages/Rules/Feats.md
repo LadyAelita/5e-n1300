@@ -181,117 +181,117 @@ Your hit point maximum increases by an amount equal to twice your level when you
 
 *You become more nimble, gaining the following benefits:*
 • Increase your Dexterity score by 1, to a maximum of 20.
-• You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn't cost you extra movement until the end of the current turn.
 
 ### Animal Handler
 
 *You master the techniques needed to train and handle animals. You gain the following benefits:*
 • Increase your Wisdom score by 1, to a maximum of 20.
-• You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
 
 ### Arcanist
 
 *You study the arcane arts, gaining the following benefits:*
 • Increase your Intelligence score by 1, to a maximum of 20.
-• You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Arcana skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • You learn the prestidigitation and detect magic spells. You can cast detect magic once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 ### Brawny
 
 *You become stronger, gaining the following benefits:*
 • Increase your Strength score by 1, to a maximum of 20.
-• You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Athletics skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • You count as if you were one size larger for the purpose of determining your carrying capacity.
 
 ### Burglar
 
 *You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:*
 • Increase your Dexterity score by 1, to a maximum of 20.
-• You gain proficiency in the Disabling Devices skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Disabling Devices skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 
 ### Diplomat
 
 *You master the arts of diplomacy, gaining the following benefits:*
 • Increase your Charisma score by 1, to a maximum of 20.
-• You gain proficiency in the Persuasion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Persuasion skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature's Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
 
 ### Empathic
 
 *You possess keen insight into how other people think and feel. You gain the following benefits:*
 • Increase your Wisdom score by 1, to a maximum of 20.
-• You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Insight skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target's Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.
 
 ### Historian
 
 *Your study of history rewards you with the following benefits:*
 • Increase your Intelligence score by 1, to a maximum of 20.
-• You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the History skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • When you take the Help action to aid another creature's ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature's check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
 
 ### Investigator
 
 *You have an eye for detail and can pick out the smallest clues. You gain the following benefits:*
 • Increase your Intelligence score by 1, to a maximum of 20.
-• You gain proficiency in the Investigation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Investigation skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • You can take the Search action as a bonus action.
 
 ### Medic
 
 *You master the physician's arts, gaining the following benefits:*
 • Increase your Wisdom score by 1, to a maximum of 20.
-• You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Medicine skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
 
 ### Menacing
 
 *You become fearsome to others, gaining the following benefits:*
 • Increase your Charisma score by 1, to a maximum of 20.
-• You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can't be frightened by you in this way for 1 hour.
 
 ### Naturalist
 
 *Your extensive study of nature rewards you with the following benefits:*
 • Increase your Intelligence score by 1, to a maximum of 20.
-• You gain proficiency in the Nature skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Nature skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • You learn the druidcraft and detect poison and disease spells. You can cast detect poison and disease once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 ### Perceptive
 
 *You hone your senses until they become razor sharp. You gain the following benefits:*
 • Increase your Wisdom score by 1, to a maximum of 20.
-• You gain proficiency in the Perception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Perception skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • Being in a lightly obscured area doesn't impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.
 
 ### Performer
 
 *You master performance so that you can command any stage. You gain the following benefits:*
 • Increase your Charisma score by 1, to a maximum of 20.
-• You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Performance skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid's Wisdom (Insight) check. If your check succeeds, you grab the humanoid's attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
 
 ### Prodigy
 
 *You have a knack for learning new things. You gain the following benefits:*
 • You gain two skill proficiencies of your choice and fluency in one language of your choice.
-• Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn’t already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
+• Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that you don't already have expertise in.
 
 ### Quick-Fingered
 
 *Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits:*
 • Increase your Dexterity score by 1, to a maximum of 20.
-• You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.
 
 ### Silver-Tongued
 
 *You develop your conversational skill to better deceive others. You gain the following benefits:*
 • Increase your Charisma score by 1, to a maximum of 20.
-• You gain proficiency in the Deception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Deception skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target's Wisdom (Insight) check. If your check succeeds, your movement doesn't provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can't be deceived by you in this way for 1 hour.
 
 ### Skilled
@@ -302,21 +302,21 @@ You gain proficiency in any combination of three skills of your choice.
 
 *You know how best to hide. You gain the following benefits:*
 • Increase your Dexterity score by 1, to a maximum of 20.
-• You gain proficiency in the Stealth skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Stealth skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you're not clearly visible.
 
 ### Survivalist
 
 *You master wilderness lore, gaining the following benefits:*
 • Increase your Wisdom score by 1, to a maximum of 20.
-• You gain proficiency in the Survival skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Survival skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • You learn the alarm spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 ### Theologian
 
 *Your extensive study of religion rewards you with the following benefits:*
 • Increase your Intelligence score by 1, to a maximum of 20.
-• You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Religion skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 • You learn the thaumaturgy and detect evil and good spells. You can cast detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 ## Armor feats
@@ -521,7 +521,7 @@ Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard sp
 *One of your ancestors was a spiky fiend. Barbs protrude from your head. You gain the following benefits:*
 • Increase your Constitution or Charisma by 1, to a maximum of 20.
 • As a bonus action, you can cause small barbs to protrude all over your body or cause them to retract. At the start of each of your turns while the barbs are out, you deal 1d6 piercing damage to any creature grappling you or any creature grappled by you.
-• You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+• You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you gain expertise in the skill instead.
 
 ### Bountiful Luck
 
@@ -570,7 +570,7 @@ You develop your magnetic personality to ease your way through the world. You ga
 • Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
 • During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage.
 • When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage.
-• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you’re not normally proficient.
+• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check (as if you had expertise in the respective skill), even if you’re not normally proficient.
 
 ### Human Determination
 
