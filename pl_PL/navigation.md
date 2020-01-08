@@ -56,6 +56,7 @@
 
 [Mechanika]()
 
+  * [Biegłość i mistrzostwo](../en_US/Pages/Rules/Mechanics/Proficiency and Expertise.md)
   * [Doświadczenie i poziomy](../en_US/Pages/Rules/Mechanics/Experience and Levels.md)
   * [Inspiracja](../en_US/Pages/Rules/Mechanics/Inspiration.md)
   * [Przewaga i utrudnienie](../en_US/Pages/Rules/Mechanics/Advantage and Disadvantage.md)

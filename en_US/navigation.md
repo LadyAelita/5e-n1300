@@ -59,6 +59,7 @@
   * [Advantage and disadvantage](Pages/Rules/Mechanics/Advantage and Disadvantage.md)
   * [Experience and levels](Pages/Rules/Mechanics/Experience and Levels.md)
   * [Inspiration](Pages/Rules/Mechanics/Inspiration.md)
+  * [Proficiency and expertise](Pages/Rules/Mechanics/Proficiency and Expertise.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
