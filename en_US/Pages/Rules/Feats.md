@@ -570,7 +570,7 @@ You develop your magnetic personality to ease your way through the world. You ga
 • Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
 • During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage.
 • When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage.
-• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check (as if you had expertise in the respective skill), even if you’re not normally proficient.
+• Whenever you make an Arcana, History, Medicine, Nature, Politics, Religion or Warcraft check to recall information about your chosen foes, you add double your proficiency bonus to the check (as if you had expertise in the respective skill), even if you’re not normally proficient.
 
 ### Human Determination
 
