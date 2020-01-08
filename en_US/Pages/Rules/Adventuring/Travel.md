@@ -10,13 +10,19 @@ However, while traveling long distances, characters don't move with as much urge
 
 A group of characters might opt to travel faster or slower than normally. Each pace comes with different benefits or penalties, as shown in the table below.
 
-| Pace       | Distance (1 hour)        | Distance (1 day) | Hours until exhaustion        | Description                              |
-| ---------- | ------------------------ | ---------------- | ----------------------------- | ---------------------------------------- |
-| **Dash**   | 6 miles                  | 60 miles         | Constitution modifier         | -10 penalty to passive Perception scores |
-| **Combat** | 3 miles                  | 30 miles         | 2 times Constitution modifier | -5 penalty to passive Perception scores  |
-| **Fast**   | 1.5 mile                 | 15 miles         | 10                            | -5 penalty to passive Perception scores  |
-| **Normal** | 1 mile (approx. 5000 ft) | 10 miles         | 10                            | -                                        |
-| **Slow**   | 0.5 mile                 | 5 miles          | 10                            | Able to use stealth                      |
+| Pace       | Distance (1 hour)         | Distance (1 day)          | Hours until exhaustion        | Description                              |
+| ---------- | ------------------------- | ------------------------- | ----------------------------- | ---------------------------------------- |
+| **Dash**   | 6 miles\*                 | 60 miles\*                | Constitution modifier         | -10 penalty to passive Perception scores |
+| **Combat** | 3 miles\*                 | 30 miles\*                | 2 times Constitution modifier | -5 penalty to passive Perception scores  |
+| **Fast**   | 1.5 mile / 1.25 miles\*\* | 15 miles / 12.5 miles\*\* | 10                            | -5 penalty to passive Perception scores  |
+| **Normal** | 1 mile (approx. 5000 ft)  | 10 miles                  | 10                            | -                                        |
+| **Slow**   | 0.5 mile                  | 5 miles                   | 10                            | Able to use stealth                      |
+
+<sup>\* The given per-hour and per-day distances for **combat** and **dash** paces hold only for creatures with walking speed of 30 feet. A creature can travel a **number of miles per hour** equal to a **tenth of their walking speed** when traveling at **combat** pace, and twice that total for **dash** pace.</sup>
+
+<sup>\*\* Smaller creatures that have a base walking speed of 25 feet use the reduced distances when traveling at **fast** pace.</sup>
+
+Creatures that are **encumbered** or for other reasons had their walking **speed reduced** to **20 feet or less**, can **only** travel at **normal** or **slow** pace.
 
 ## Difficult terrain
 
