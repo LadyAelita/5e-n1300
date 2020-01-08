@@ -29,7 +29,7 @@ Your **total level** is the sum of your levels in each class. For example, if yo
 | **19** | 305,000           | +6                |
 | **20** | 355,000           | +6                |
 
-**Note:** **Proficiency bonus** can also be calculated as **1 + level / 4 (rounded up)**.
+**Note:** **Proficiency bonus** can also be calculated as **1 + level / 4**, rounded up.
 
 ## Benefits of gaining a level
 
