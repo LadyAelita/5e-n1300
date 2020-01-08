@@ -53,6 +53,7 @@
   * [Mounted combat](Pages/Rules/Combat/Mounted Combat.md)
   * [Movement and positioning](Pages/Rules/Combat/Movement and Positioning.md)
   * [Order of combat](Pages/Rules/Combat/Order of Combat.md)
+  * [Special attacks](Pages/Rules/Combat/Special Attacks.md)
 
 [Mechanics]()
 
