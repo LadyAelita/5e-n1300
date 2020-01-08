@@ -4,6 +4,12 @@
 
 There exist certain **special attacks** that can be attempted by any character **in place** of a regular attack.
 
+## Charge
+
+To **charge** another creature, you must **move in a straight line at least 20 feet long** within **one turn**.
+
+When you **charge**, your **next melee attack** is made with **advantage**, but all **opportunity attacks against you**, triggered by **your charging movement** are made with **advantage**.
+
 ## Grapple
 
 The **target** of a **grapple** must be **no more than one size larger** than you and must be within your reach.
