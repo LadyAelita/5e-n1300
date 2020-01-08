@@ -57,7 +57,9 @@
 
 [Mechanics]()
 
+  * [Abilities](Pages/Rules/Mechanics/Abilities.md)
   * [Advantage and disadvantage](Pages/Rules/Mechanics/Advantage and Disadvantage.md)
+  * [Checks](Pages/Rules/Mechanics/Checks.md)
   * [Experience and levels](Pages/Rules/Mechanics/Experience and Levels.md)
   * [Inspiration](Pages/Rules/Mechanics/Inspiration.md)
   * [Proficiency and expertise](Pages/Rules/Mechanics/Proficiency and Expertise.md)
