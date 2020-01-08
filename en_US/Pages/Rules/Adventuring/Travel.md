@@ -59,3 +59,61 @@ Characters can ride **mounts** instead of going by foot. This only gives an adva
 An animal mount can also pull a carriage, chart, chariot, sled or a wagon. It can move weight up to **5 times** its **base pulling Capacity** (the base pulling Capacity is **30 times Strength** for medium-sized creatures), including the weight of the vehicle. If multiple animals pull the same vehicle, they add their results together.
 
 Traveling with a **mechanized vehicle** is different in many aspects. Such a vehicle cannot get conventionally exhausted, but it might run out of **fuel** or **energy**. It might also not be suited to be driven in the wilderness, and a character needs to be skilled in the usage of the specific vehicle.
+
+## Seas and oceans
+
+For traversing large bodies of water (mainly seas and oceans), there exist **two** different types of ships - **oar powered** ships and **sailing** ships. Except when making port to restock supplies, both are capable of traveling continuously 24 hours per day without penalty.
+
+### Sailing ships
+
+**Sailing ships** require **fewer sailors** to operate and can **spend more time at sea** before needing to make port to restock supplies. However, their travel **speed** is entirely **dependent on the wind**, which can be **unpredictable**. 
+
+When winds are **favorable**, sailing ships can travel **up to 6 mph**. **Unfavorable** winds generally result in a traveling speed of **only 2 mph** (occasionally even less).
+
+In the case of longer voyages (those taking **more than a few days**), sailing ships fairly reliably **average 4 mph** over the course of the entire trip.
+
+### Oar powered ships
+
+**Oar powered ships** are much more **flexible** and **reliable** when it comes to their travel **speed**. However, their **high man power requirements** necessitate **much more frequent** trips to port to **restock** supplies, making them the **more expensive** option.
+
+Oar powered ships have **two different modes** of travel that can be chosen: **even shifts** and **uneven shifts**. 
+
+The **even shifts mode** has the number of rowers remain **constant** throughout the whole 24 hour period. This results in a **constant speed of 4 mph**. 
+
+The **uneven shifts mode** has one shift with significantly more rowers than the rest. During the **main 10 hour shift** the ship has a speed of **6 mph**. For the remaining **14 hours**, the ship has a speed of **2 mph**.
+
+Changing from **even** to **uneven** shifts can be done **at any time** and takes about a minute to complete. However, changing from **uneven** to **even** can **only** be done **after the smaller 14 hour shift ends**. Switching to the even mode takes no additional time to complete.
+
+## Lakes and rivers
+
+Boats used for traversing smaller bodies of water, such as lakes and rivers, are **smaller** and **slower** than their larger seafaring counterparts. Additionally, they may not be able to travel continuously for 24 hours, especially when traveling upstream. There exist three types of such boats: **sail boats**, **row boats** and **simple rafts**.
+
+Navigable rivers' currents move at approximately **1 to 3 mph** (speeds above 2 mph are relatively rare) depending on the river and the section.
+
+### Sail boats
+
+**Sail boats** don't require much energy to operate and, as such, can be operated all day, **as long as the operator is awake**, **without invoking** the **forced march** rule. 
+
+They are **very useful** on **lakes**, despite the unpredictability of wind. 
+
+Their usefulness on **rivers** is **greatly dependent on the wind** patterns observed along each river. When the wind is observed to **most often blow** in the direction **opposite** of the **flow** of the current (where it can help when traveling upstream), sail boats are **the most effective** means of traveling up a river. **Otherwise**, they are rather **poor** at negotiating rivers.
+
+Sail boats travel at **5 mph** when wind conditions are **favorable**, and **1 mph** when wind conditions are **unfavorable**. This is taken into account **before** the **speed of the current** is applied. On an average day, they travel at **3 to 4 mph** (they are generally only used on rivers where wind conditions are likely to be favorable).
+
+For **up to their hours until exhaustion limit** (usually 10 hours) a day, the party can **row** to **increase the speed** of a sail boat **by 1 mph** if **proper oars** are available or **0.5 mph** if **makeshift oars** are used.
+
+### Row boats
+
+**Row boats** are **much more consistent** than sailboats (especially on rivers with poor wind conditions) in terms of speed. However, lacking a large crew, they can only be operated for **up to the hours until exhaustion limit** (usually 10 hours) **per day**. 
+
+Row boats travel at **4 mph**, which is taken into account **before** the **speed of the current**.
+
+### Simple rafts
+
+**Simple rafts** are **extremely slow** and have **very little maneuverability**. As such, they are almost **completely ineffective** at traveling **up a river** (they can, however, be pulled upstream by another boat). 
+
+Unlike other types of boats, rafts can be **built** (if appropriate materials are available nearby) in a relatively **short time** (a few hours). As a result, they function as a quick and (relatively) reliable way of either **crossing** a river/lake or **traveling downstream** of a river. 
+
+When traveling **along a river** in a raft, the **speed** of the raft is **equal to the speed of the current**. 
+
+For **up to their hours until exhaustion limit** (usually 10 hours) a day, the party can **row** to **increase the speed** of a raft **by 1 mph** if **proper oars** are available or **0.5 mph** if **makeshift oars** are used. This rowing can also be used to make **larger adjustments** to a raft's **direction** (avoiding rocks in a section of rapids). Small corrections made throughout the day to keep the raft on course (in calm waters with few obstacles) do not count towards the maximum daily travel time.
