@@ -5,6 +5,16 @@ exec < /dev/tty
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
+SRC_PATTERN="en_US/spells/"
+if git diff --cached --name-only | grep --quiet "$SRC_PATTERN"
+then
+	echo Spell changes detected.
+else
+	echo No spell changes detected, no need to rebuild the indices. Run \"make spells\" to rebuild manually.
+	exit 0
+fi
+
+echo "Hint: Run git commit with the --no-verify flag to skip the automatic rebuild suggestion"
 read -r -p "Re-build spell index? [y/N] " response
 if [[ "$response" =~ ^([yY][eE][sS]|[yY])+$ ]]
 then
