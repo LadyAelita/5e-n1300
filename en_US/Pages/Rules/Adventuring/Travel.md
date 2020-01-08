@@ -38,7 +38,7 @@ Similarly, they can keep taking the **dash** action on each "turn" of the travel
 
 Creatures that **do not suffer from exhaustion** (such as most undead) **ignore** that limitation and can travel for as many hours as they want.
 
-Other creatures may push on beyond that limit, at the risk of exhaustion. Once a character reaches their limit of hours that can be traveled without getting exhausted, travelling farther will count as a **forced march**.
+Other creatures may push on beyond that limit, at the risk of exhaustion. Once a character reaches their limit of hours that can be traveled without getting exhausted, traveling farther will count as a **forced march**.
 
 At the **end of each additional hour** of travel **beyond the limit**, the character must make a **Constitution saving throw** against the DC of **10 + the number of hours traveled beyond the limit**. On a failed saving throw, the character suffers **1 level of exhaustion**. If the character has been **dashing** for the last hour, the throw is made with a **disadvantage** and a failure adds **2 levels of exhaustion** instead of one.
 
@@ -52,7 +52,7 @@ Breathing creatures can become acclimated to a high altitude by **spending 30 da
 
 ## Mounts and vehicles
 
-Characters can ride **mounts** instead of going by foot. This only gives an advantage when going at the **combat** or **dash** pace, where the mount's speed is used instead of the characters' speed. In such case, it is the **mounts** that are subject to the respective **hours until exhaustion** limit, using **their** Constitution modifier, while the characters are treated as if they were travelling at merely a **fast** pace and are only limited by the regular 10 hours.
+Characters can ride **mounts** instead of going by foot. This only gives an advantage when going at the **combat** or **dash** pace, where the mount's speed is used instead of the characters' speed. In such case, it is the **mounts** that are subject to the respective **hours until exhaustion** limit, using **their** Constitution modifier, while the characters are treated as if they were traveling at merely a **fast** pace and are only limited by the regular 10 hours.
 
 **Hint:** A good mount will likely have a combat speed **twice as fast** as your characters and a **Constitution modifier** of **+1**, while **undead** mounts don't get exhausted at all.
 
