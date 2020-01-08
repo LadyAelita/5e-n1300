@@ -54,6 +54,12 @@
   * [Walka z wierzchowca](../en_US/Pages/Rules/Combat/Mounted Combat.md)
   * [Zasłona](../en_US/Pages/Rules/Combat/Cover.md)
 
+[Mechanika]()
+
+  * [Doświadczenie i poziomy](../en_US/Pages/Rules/Mechanics/Experience and Levels.md)
+  * [Inspiracja](../en_US/Pages/Rules/Mechanics/Inspiration.md)
+  * [Przewaga i utrudnienie](../en_US/Pages/Rules/Mechanics/Advantage and Disadvantage.md)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()

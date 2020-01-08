@@ -54,6 +54,12 @@
   * [Movement and positioning](Pages/Rules/Combat/Movement and Positioning.md)
   * [Order of combat](Pages/Rules/Combat/Order of Combat.md)
 
+[Mechanics]()
+
+  * [Advantage and disadvantage](Pages/Rules/Mechanics/Advantage and Disadvantage.md)
+  * [Experience and levels](Pages/Rules/Mechanics/Experience and Levels.md)
+  * [Inspiration](Pages/Rules/Mechanics/Inspiration.md)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
