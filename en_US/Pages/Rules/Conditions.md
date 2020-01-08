@@ -92,6 +92,7 @@ Whenever a creature that has fear levels is subject to yet another fear-inducing
 
 • A grappled creature’s **speed becomes 0**, and it can't benefit from any bonus to its speed.
 • The condition ends if the grappler is **incapacitated** or if an effect **removes** the **grappled** creature **from the reach** of the grappler or grappling effect (such as when a creature is hurled away by the thunderwave spell).
+• **NEW:** A grappled creature cannot take the **Disengage** action.
 
 ## Helpless
 
@@ -136,7 +137,7 @@ Whenever a creature that has fear levels is subject to yet another fear-inducing
 • The creature has **disadvantage** on **attack** rolls.
 • An attack roll against the creature has advantage if the attacker ~~is within 5 feet of the creature~~ is using either no weapon or a melee weapon. Otherwise (ranged attacks), the attack roll has disadvantage.
 • **NEW:** The only main actions that the creature can take are: **attack**, **cast a spell**, **activate item** and **disengage**.
-• **NEW:** The creature can get up by spending ~~half of its speed~~ its entire movement. Such an attempt to get up **provokes** opportunity attacks. If any of such opportunity attacks beats the creature's AC by more than 5, the creature is knocked right back down.
+• **NEW:** The creature can get up by spending ~~half of its speed~~ its entire movement. If the creature's speed is **reduced to 0**, it **cannot** get up. Such an attempt to get up **provokes** opportunity attacks. If any of such opportunity attacks beats the creature's AC by more than 5, the creature is knocked right back down.
 • **NEW:** The creature can take the **disengage** action to get up instantly without provoking opportunity attacks.
 • **NEW:** The creature has **disadvantage** on **Dexterity** saving throws.
 
