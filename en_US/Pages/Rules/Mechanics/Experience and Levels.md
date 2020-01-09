@@ -40,6 +40,7 @@ Your **total level** is the sum of your levels in each class. For example, if yo
   * increase **two different ability scores** by **1**,
   * gain **a feat**, which is an additional special feature you select from the list of feats.
 * If your **Constitution modifier** has **increased** by **1**, your **hit point maximum** increases by **your total level**.
+* If your **Intelligence** **modifier** has increased by **1**, you become **proficient** in **one additional skill** of your choice.
 * Your **Proficiency bonus** potentially increases by **1**.
 
 ## Multiclassing
