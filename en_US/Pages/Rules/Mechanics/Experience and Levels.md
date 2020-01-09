@@ -47,7 +47,7 @@ Your **total level** is the sum of your levels in each class. For example, if yo
 
 When gaining a level, you might choose to gain a level in a **different class** instead of the one you've had up to that point, so that you have levels in multiple classes. However, if you opt to take levels in a class you don't currently have any levels in, you must first gain **one empty level** as a penalty.
 
-An **empty level** is a level that gives you **no benefits** and **doesn't count toward your total level**, but is **taken into account** when **determining** the number of expierence points needed to **level up**.
+An **empty level** is a level that gives you **no benefits** and **doesn't count toward your total level**, but is **taken into account** when **determining** the number of experience points needed to **level up**.
 
 **Note:** If you multiclass, you are effectively **behind the rest of the party** by the **number of levels** equal to the **number of classes you have past your first class**.
 
@@ -108,7 +108,7 @@ To determine your **spellcaster level**:
 * add **half** your levels (rounded down) in **half-caster** classes (paladin and ranger),
 * add **one third** of your levels (rounded down) in **third-caster** classes, such as fighter (eldritch knight) or rogue (arcane trickster).
 
-You can then use the acquired spellcaster level to determine the spell slots you have by consluting the table below.
+You can then use the acquired spellcaster level to determine the spell slots you have by consulting the table below.
 
 If you have more than one spellcasting class, this table might give you spell slots of a level that is **higher** than the **spells you know or can prepare**. You can **use** those slots, but **only to cast your lower-level spells**. If a lower-level spell that you cast has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
@@ -169,4 +169,4 @@ For example, if you are an 8th level Fighter with a +3 Constitution modifier, yo
 3. Determine which class you've picked at **1st level**. Add the **hit die max** of that class to the total. Then subtract the **hit die higher average** of that class from the total.
 4. Now the total is equal to your **hit point maximum**.
 
-**Hint:** To potentially speed up the calculations, you can bundle classes that use the same hit die together, treating them as one and summing their levels. You will seldom have levles in that many different classes, though.
+**Hint:** To potentially speed up the calculations, you can bundle classes that use the same hit die together, treating them as one and summing their levels. You will seldom have levels in that many different classes, though.
