@@ -36,6 +36,11 @@
 
 [Conditions](Pages/Rules/Conditions.md)
 
+[Classes]()
+
+  * # Core classes
+  * [Sorcerer (Prophetus)](Pages/Rules/Classes/Sorcerer.md)
+
 [Adventuring]()
 
   * [Environment](Pages/Rules/Adventuring/Environment.md)

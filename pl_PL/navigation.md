@@ -36,6 +36,11 @@
 
 [Stany](Strony/Zasady/Stany.md)
 
+[Klasy]()
+
+  * # Podstawowe klasy
+  * [Profeta](../en_US/Pages/Rules/Classes/Sorcerer.md)
+
 [Przygody]()
 
   * [Odpoczynek](../en_US/Pages/Rules/Adventuring/Resting.md)
