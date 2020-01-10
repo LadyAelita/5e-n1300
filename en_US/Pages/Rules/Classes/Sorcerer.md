@@ -2,7 +2,7 @@
 
 # Sorcerer
 
-**Sorcerers**, also known as propheti (which is plural of **prophetus**) carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. No one chooses sorcery - the power chooses the sorcerer. Like a humanoid just simply having legs, a sorcerer just *has* magic - it's driven by their **innate talent** and **force of will **rather than years of study.
+**Sorcerers**, also known as propheti (which is plural of **prophetus**) carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. No one chooses sorcery - the power chooses the sorcerer. Like a humanoid just simply having legs, a sorcerer just *has* magic - it's driven by their **innate talent** and **force of will** rather than years of study.
 
 ## The Sorcerer's leveling table
 
@@ -89,18 +89,18 @@ A single **spell slot** is worth **1 Sorcery Point per spell slot’s level**.
 
 ## Metamagic I & II (3rd level)
 
-*You learn how to manipulate your energy in a more precise way in order to modify spells.* 
+*You learn how to manipulate your energy in a more precise way in order to modify spells.*
 
-You get to learn **two** of the following **Metamagic modifiers**, which you can apply to a spell as you cast it, at a cost in **Sorcery Points**. Only **one** Metamagic can be used on a spell, unless otherwise noted. The cost of each modifier was provided in the brackets next to the name. 
+You get to learn **two** of the following **Metamagic modifiers**, which you can apply to a spell as you cast it, at a cost in **Sorcery Points**. Only **one** Metamagic can be used on a spell, unless otherwise noted. The cost of each modifier was provided in the brackets next to the name.
 
 * **Careful Spell (1):** You force the energy of the spell to omit a number of creatures of your choice, smaller than or equal to your Charisma modifier.
 * **Distant Spell (1):** Increase the range of the spell to the larger of the two values: the double of the spell’s normal range or 30 feet.
-* **Empowered Spell (1):** You get advantage on all rolls that are used directly in the spell’s description. 
-* **Extended Spell (1):** Double the duration of the spell. 
-* **Penetrative Spell (3):** The spell’s targets have disadvantage on the first saving throw made against the spell. 
-* **Quickened Spell (2):** Change the spell’s casting time from 1 action to 1 bonus action. 
-* **Quiet Spell (1):** The spell doesn’t require the verbal component. This can be used along with any other modifier. 
-* **Subtle Spell (1):** The spell doesn’t require the somatic component. This can be used along with any other modifier. 
+* **Empowered Spell (1):** You get advantage on all rolls that are used directly in the spell’s description.
+* **Extended Spell (1):** Double the duration of the spell.
+* **Penetrative Spell (3):** The spell’s targets have disadvantage on the first saving throw made against the spell.
+* **Quickened Spell (2):** Change the spell’s casting time from 1 action to 1 bonus action.
+* **Quiet Spell (1):** The spell doesn’t require the verbal component. This can be used along with any other modifier.
+* **Subtle Spell (1):** The spell doesn’t require the somatic component. This can be used along with any other modifier.
 * **Twinned Spell (X):** A spell that targets only 1 target and doesn’t have a range of self now affects a second creature in range. **X** is equal to the level at which the spell is cast, with 1 for cantrips.
 
 ## Metamagic III (10th level)
@@ -206,7 +206,7 @@ You gain the option to learn the following spells, which count as part of your S
 
 Whenever you get to select a Metamagic modifier from your *Metamagic* class feature, you have the option to learn the following modifier in addition to the default choices:
 
-**Altered Spell (X):** Upon learning this modifier, you select one damage type associated with your ancestor. Change the element of a damaging spell to that of your ancestor, and the type of damage dealt to that previously selected. 
+**Altered Spell (X):** Upon learning this modifier, you select one damage type associated with your ancestor. Change the element of a damaging spell to that of your ancestor, and the type of damage dealt to that previously selected.
 
 **X** is equal to the level of the spell, 1 for cantrips.
 
@@ -314,7 +314,7 @@ You also gain the option to learn the following spells, which count as part of y
 
 You get **advantage** on **Charisma** checks. You get **disadvantage** on **Composure** checks *not related* to the features of this origin.
 
-Whenever your characters feels strong emotion outside of a fight, the DM might prompt you to make a **Composure** check. 
+Whenever your characters feels strong emotion outside of a fight, the DM might prompt you to make a **Composure** check.
 
 On a failure, roll a d20. The following effect occurs, depending on the result:
 
@@ -341,7 +341,7 @@ You don't need to know the specified spells in order for them to be cast through
 
 You can voluntarily fail the check, in which case you are free to select which spells are released by your character as a manifestation of their rage. If the DM rules your selection inappropriate (for example: *mage armor* or *cure wounds* (unless targeted at an undead) doesn't quite represent a sudden urge to cause destruction), they might have you roll the d20 instead, except you get to roll twice and select either result.
 
-### Unleash (1st level) 
+### Unleash (1st level)
 
 Once per day, as a bonus action, you can enter a rage-like state for 1 minute. You cannot use this feature if you have used *Suppress* earlier that same day.
 
@@ -422,7 +422,7 @@ You also gain the option to learn the following spells, which count as part of y
 | 5th    | Commune*         |
 | 6th    | Find the Path*   |
 
-<sup>*Whenever you cast one of these spells as a ritual, instead of the usual 10 minute casting time, you need to be asleep for at least an hour.</sup>
+<sup>Whenever you cast one of these spells as a ritual, instead of the usual 10 minute casting time, you need to be asleep for at least an hour.</sup>
 
 ### Bonus proficiencies (1st level)
 
@@ -450,7 +450,7 @@ Moreover, as part of your *Vivid Dreams* feature, you can recall and revisit ver
 
 ### Dream Walking (14th level)
 
-You gain the ability to cast an improved version of *Dream* at will, without expending spell slots. This can also be combined with your regular long rest sleep, provided that you aren't using *Vivid Dreams* to get a pleasant dream at the same time. 
+You gain the ability to cast an improved version of *Dream* at will, without expending spell slots. This can also be combined with your regular long rest sleep, provided that you aren't using *Vivid Dreams* to get a pleasant dream at the same time.
 
 If you cast that spell through this feature, you can switch freely between creatures once every 10 minutes and can also opt not to shape the target's dreams, but instead just observe and watch them unfold.
 
@@ -460,7 +460,7 @@ If you have already learned the *Dream* spell, you replace it with another 5th l
 
 ### Clarity (20th level)
 
-You become immune to mind affecting effects and can never be surprised. Even if you are asleep, you are aware of your body's surroundings and can wake up at any time. 
+You become immune to mind affecting effects and can never be surprised. Even if you are asleep, you are aware of your body's surroundings and can wake up at any time.
 
 You get expertise or proficiency in Perception, depending on if you're already proficient or not, and you always see true within 30 feet of you.
 
