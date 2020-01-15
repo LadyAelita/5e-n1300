@@ -52,6 +52,10 @@
 
 Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefical**. You know that language and it becomes the language that you use for the verbal component of your spells.
 
+### Multiclass requirement
+
+You must have a **Charisma** score of **13 or higher** in order to multiclass into this class.
+
 ## Spellcasting (1st level)
 
 | Property                  | Value/description                                            |
@@ -117,20 +121,11 @@ You regain **5** of the expended **Sorcery Points** on a **short rest**.
 
 # Sorcerous Origins
 
-## Subclass feature summary
+## List of Sorcerous Origins
 
-|                              | Planar Bloodline                                             | Roaring Rampage                                              | Dream Walker                                                 |
-| ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Description**              | Your talent comes from having a creature from another plane among your ancestors. | Your emotions are the trigger to your unlimited destructive power – provided that you manage to control them. | Your dreams are always meaningful – you see the past, the present and the future. The door is open for you to invade other people’s dreams, as you learn how to control this power. |
-| **Expanded spell list**      | Too long for the summary, depends on the element.            | Thaumaturgy (0), Hellish Rebuke (1), Maelstrom (5), Fire Storm (7), Earthquake (8), Storm of Vengeance (9) | Sudden Awakening (1), Augury (2), Divination (4), Commune (5), Find the Path (6) |
-| **Free proficiencies**       | One of the following, depending on the element: Athletics & Acrobatics, Composure, Medicine & Insight, Stealth, Insight & Politics, Acrobatics, Composure & Insight, Deception & Politics, Deception & Persuasion | -                                                            | Insight                                                      |
-| **Free languages**           | One of the followng, depending on the element: Ignan, Petran, Celestial, Umbral, Venefical, Caelian, Neritian, Infernal | -                                                            | -                                                            |
-| **Feature I (1st level)**    | Your Hit Die is d8.<br />Earth element grants 13 base AC when no armor. Darkness gives darkvision (60 ft). Air gives +1 dodge AC.<br />You also unlock ability to learn Altered Spell metamagic modifier which slightly changes the damage type.<br />You can spend 1 SP to get elemental resistances, but also opposite vulnerabilities for an hour. | You can produce random magic effects when mad.<br />You can either Unleash, which is a rage-like feature that trades stability for more damage, or Suppress which is the safer but less spectacular route that limits some of your features and sees you use Wis instead of Cha as your spell ability. Suppress also blocks the random effects gimmick.<br />You stick with the choice for the rest of the day. | When you sleep, you can force a pleasant dream, which gives you +1 to rolls the next day, or you can roll a d20 to try and get a meaningful dream.<br />You can also spend 1 SP to cast Guidance on yourself. |
-| **Feature II (6th level)**   | Damage/heal rolls of your spells of the element you took now scale with Charisma. | Using either Unleash or Suppress gives you advantage on saves vs mind control. | Once a day you can beat a save, avoid an attack or get +10 to an attack.<br />You can also try to "replay" dreams from the past now. |
-| **Feature III (14th level)** | You gain a lesser elemental form which provides some utility and which you activate with a bonus action. | You get boosted metamagic - you can use two modifiers together and have a few additional modifier options to learn. | You get an improved version of Dream spell for free, which costs no spell slots. |
-| **Feature IV (20th level)**  | You can reroll a save once a day and add your Cha mod to the rerolled value (even if it was a Cha save already).<br />You get improved version of the resistance/vulnerability gimimck which costs 5 SP and has additional synergy with the elemental form. | Unleash and Suppress don't impose any restrictions anymore. When you Unleash you glow and have expertise in Cha saves, when you suppress you have expertise in Wis saves. | You are immune to mind affecting effects, you cannot be surprised and are aware even when asleep.<br />You get proficiency or expertise in Perception and get truesight (30 ft).<br />You can cast Astral Projection for free as part of your sleep. |
-
-
+* **Planar Bloodline:** Your talent comes from having a creature from another plane among your ancestors. 
+* **Roaring Rampage:** Your emotions are the trigger to your unlimited destructive power – provided that you manage to control them.
+* **Dream Walker:** Your dreams are always meaningful – you see the past, the present and the future. The door is open for you to invade other people’s dreams, as you learn how to control this power.
 
 ## Sorcerous Origin: Planar Bloodline
 
