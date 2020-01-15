@@ -219,10 +219,45 @@ Alternatively, you can choose a **space within range** that is **occupied** by a
 
 Once you use this feature, you can't use it again until you finish a **long rest** or you **cast a Conjuration spell of 1st level or higher**.
 
-### Improved Abjuration (10th level)
+### Focused Conjuration (10th level)
 
-When you cast an Abjuration spell that requires you to make an **ability check** as a part of casting that spell (as in Counterspell and Dispel Magic), you **add your proficiency** bonus to that ability check.
+While you are **concentrating** on a **Conjuration spell**, your **concentration can't be broken** as a result of **taking damage**.
 
-### Spell Resistance (14th level)
+### Durable Summons (14th level)
 
-You have **advantage** on **saving throws against spells**. Furthermore, you have **resistance** against the **damage of spells**.
+Any **creature** that you **summon** or **create** with a **Conjuration spell** has **30 temporary hit points**.
+
+## Arcane Tradition: School of Divination
+
+### Divination Savant (2nd level)
+
+The **gold and time** you must spend to copy a Divination spell into your spellbook is **halved**.
+
+### Portent (2nd level)
+
+*Glimpses of the future begin to press in on your awareness.*
+
+When you **finish a long rest**, roll **two d20s** and **record the numbers rolled**. You can **replace any check** made by you or a creature that you can see with **one of these foretelling rolls**. You must choose to do so **before the roll**, and you can replace a roll in this way only **once per turn**.
+
+Each foretelling roll can be used only **once**. When you **finish a long rest**, you **lose** any **unused foretelling rolls**.
+
+### Expert Divination (6th level)
+
+*Casting Divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts.* 
+
+When you cast a **Divination spell** of **2nd level or higher** using a **spell slot**, you **regain one expended spell slot**. The slot you regain must be of a **level lower than the spell you cast** and **can't be higher than 5th level**.
+
+### The Third Eye (10th level)
+
+**Once between rests,** you can use your **action** to increase your powers of perception. When you do so, **choose one** of the following benefits, which lasts until you are **incapacitated** or you **take** a short or long **rest**.
+
+* **Darkvision:** You gain darkvision out to a range of **60 feet**.
+* **Ethereal Sight:** You can **see into the Astral Projection** within **60 feet** of you.
+* **Greater Comprehension:** You can read any language.
+* **See Invisibility:** You can see invisible creatures and objects within **10 feet** of you that are **within line of sight**.
+
+### Greater Portent (14th level)
+
+*The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come.*
+
+You roll **three d20s** for your **Portent** feature, rather than two.
