@@ -433,17 +433,15 @@ The following spells are added to the warlock spell list for you, giving you the
 
 ### Far Wanderer (10th level)
 
-You no longer need to breathe, and you gain resistance to fire damage and cold damage.
+You no longer need to breathe, and you gain **resistance** to **fire** damage and **cold** damage.
 
 ### Astral Sequestration (18th level)
 
-You gain the ability to sequester yourself and your allies on the Astral Plane.
+*You gain the ability to sequester yourself and your allies on the Ethereal Plane.*
 
-By performing a special ritual over the course of 1 minute, you shift yourself and up to ten willing creatures you can see to the Astral Plane. You and those creatures gain the benefits of a short rest while sequestered on the Astral Plane. You then return to the spaces you all occupied when you used this ability, with no time having passed in the world.
+**Once per day**, by performing a special **ritual** over the course of **1 minute**, you shift **yourself** and **up to ten willing creatures** you can see to the Ethereal Plane. You and those creatures gain the **benefits of a long rest**, other than refreshing this feature's cooldown, while sequestered. You then return to the spaces you all occupied when you used this ability, with **no time having passed** in the world.
 
-During this short rest, you and the creatures you sequester can make use of any options available during a rest that affect only you and the creatures you sequester.
-
-Once you use this ability, you cannot use it again until you complete a long rest.
+During this long rest, you and the creatures you sequester can make use of any options available during a rest that affect only you and the creatures you sequester.
 
 ## Otherworldly Patron: The Undying
 
@@ -465,25 +463,31 @@ The following spells are added to the warlock spell list for you, giving you the
 
 ### One of Us (1st level)
 
-Undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of Fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.
+*Undead have difficulty harming you.*
+
+If an undead **targets you directly** with an attack or a harmful spell, that creature must make a **Wisdom saving throw** against your **spell save DC** (the undead needn't make the save when it includes you in an area effect, such as the explosion of Fireball). On a **failed save**, the creature must **choose a new target** or **forfeit** targeting someone instead of you, potentially **wasting** the attack or spell. On a **successful save**, the creature is **immune to this effect for 24 hours**. An undead is also **immune to this effect for 24 hours** if **you** target it with an attack or a harmful spell.
 
 ### Spiritual Conduit (6th level)
 
-Once per day, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with Spare the Dying.
+*You can give yourself vitality when you cheat death or when you help someone else cheat it*
+
+**Once per day**, you can **regain hit points** equal to **1d8 + your Constitution modifier** (minimum of 1 hit point) when you **succeed** on a **death saving throw** or when you **stabilize a creature** with **Spare the Dying**.
 
 ### Undying Nature (10th level)
 
-You can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
+You can hold your breath indefinitely, and you **don't require food**, **water**, or **sleep**, although you **still require rest** to reduce exhaustion and still **benefit** from finishing short and long **rests**.
 
-In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
+In addition, you age at a slower rate. For **every 10 years** that pass, your body **ages only 1 year**, and you are **immune** to being **magically aged**.
 
-Moreover, you are resistant to necrotic damage.
+Moreover, you are **resistant** to **necrotic** damage.
 
 ### They Always Come Back (18th level)
 
-You know how to channel the power of undeath to relentlessly preserve your own existence. At the start of your turn, if you have 0 hit points, you can regain a hit point and immediately rise up, even if your body has been mutilated, as long as it still has enough parts to let you perform any type of action.
+*You know how to channel the power of undeath to relentlessly preserve your own existence.*
 
-You can use this feature a number of times equal to your Charisma modifier per day.
+At the **start of your turn**, if you have **0 hit points**, you can **regain a hit point** and **immediately rise up**, even if your body has been mutilated, as long as it still has enough parts to let you perform any type of action.
+
+You can use this feature a number of times equal to **your Charisma modifier per day**.
 
 ## Otherworldly Patron: The Void
 
@@ -505,22 +509,21 @@ The following spells are added to the warlock spell list for you, giving you the
 
 ### Void Aura (1st Level)
 
-All your spells are of **demonic** source.
-
-When you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your Warlock level (minimum of 1).
+When you reduce a hostile creature **to 0 hit points**, you gain **temporary hit points** equal to your **Charisma modifier + your Warlock level** (minimum of 1).
 
 ### Nullification (6th level)
 
-Once between rests, you can completely ignore an attack or an incoming effect. You can make the decision after the attack or effect hits, but before any damage or other numerical values describing the magnitude of the effect are rolled.
+**Once between rests**, you can **completely ignore** an attack or an incoming effect. You can make the decision **after** the attack or effect **hits**, but **before** any damage or other numerical values describing the magnitude of the effect are **rolled**.
 
 ### Vacant Resilience (10th level)
 
-You can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
+You can hold your breath indefinitely, and you **don't require** **food**, **water**, or **sleep**, although you **still require rest** to reduce exhaustion and still benefit from finishing short and long rests.
 
-Moreover, you are resistant to cold and shadow damage.
+Moreover, you are **resistant** to **cold** and **shadow** damage.
 
 ### Veil of Antienergy (18th level)
 
-Once per day, you can expend all your current pact magic spell slots to create a veil around yourself, through which no magical energy can pass. As long as the veil surrounds you, you are immune to magic and resistant to all damage, but cannot cast spells.
+**Once per day**, you can expend **all** your current **pact magic spell slots** to create a veil around yourself (no action required), through which no magical energy can pass. As long as the **veil surrounds you**, you are **immune to magic** and **resistant** to **all damage**, but **cannot cast spells**.
 
-The veil disappears after absorbing a number of spell levels equal or greater than 5 times the number of spell slots expended.
+The veil **disappears** after **absorbing** a **number of spell levels equal or greater** than **5 times the number of spell slots expended**.
+
