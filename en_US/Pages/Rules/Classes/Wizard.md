@@ -565,3 +565,38 @@ Moreover, you now **no longer have** to **create separate spells** when changing
 Once per day, as a **bonus action**, you can call to mind the ability to cast **one spell** of your choice from **any class’s spell list**. The spell must be of a level for which you have spell slots, you **mustn’t have it prepared**, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn’t a Wizard spell, it counts as a Wizard spell when you cast it. The ability to cast the spell **vanishes** from your mind **when you cast it** or when the **current turn ends**.
 
 You can also use this feature as an **action** after the **enemy casts a spell** instead. You then make an **Arcana check** in attempt to identify the spell, with the **DC** equal to **15 + the spell's level**. If you **succeed**, you can **later attempt to recreate the spell** (this takes **twice the time of normal spell addition**). The spell is **fresh** in your memory **until the next long rest**. Past that point, you need to make an **Intelligence check** in order to recall the details, against the **DC of 10 + twice the number of long rests since identifying the spell**. On a **failure**, you **forget the spell**, however you keep the progress achieved up to this point (in hours). On a success, you can continue the process.
+
+## Arcane Tradition: School of Necromancy
+
+### Necromancy Savant (2nd level)
+
+The **gold and time** you must spend to copy a Necromancy spell into your spellbook is **halved**.
+
+### Grim Harvest (2nd level)
+
+*You gain the ability to reap life energy from creatures you kill with your spells.*
+
+**Once per turn** when you **kill one or more** creatures with a **spell of 1st level or higher**, you **regain hit points** equal to **twice the spell's level**, or **three times its level** if the spell belongs to the School of **Necromancy**. You don't gain this benefit for killing constructs or undead.
+
+### Undead Thralls (6th level)
+
+You add the **Animate Dead** spell to your **spellbook** if it is not there already. When you **cast Animate Dead**, you can target **one additional corpse** or **pile of bones**, creating **another zombie or skeleton**, as appropriate.
+
+Whenever you **create an undead** using a **Necromancy spell**, it has additional benefits:
+
+* The creature's **hit point maximum** is **increased** by an amount equal to **your Wizard level**.
+* The creature **adds your proficiency bonus** to its **weapon damage rolls**.
+
+### Inured to Undeath (10th level)
+
+*You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.*
+
+You have **resistance** to **necrotic damage**, and your **hit point maximum** can't be reduced. 
+
+### Command Undead (14th level)
+
+*You can use magic to bring undead under your control, even those created by other wizards.*
+
+As an **action**, you can **choose one undead** that you can see **within 60 feet** of you. That creature must make a **Charisma saving throw** against your **Wizard spell save DC**. If it **succeeds**, you **can't use this feature on it again**. If it **fails**, it becomes friendly to you and o**beys your commands** until **you use this feature again**.
+
+**Intelligent undead** are harder to control in this way. If the target has an **Intelligence of 8 or higher**, it has **advantage** on the saving throw. If it **fails** the saving throw and has an **Intelligence of 12 or higher**, it can **repeat** the saving throw at the **end of every hour** until it succeeds and breaks free.
