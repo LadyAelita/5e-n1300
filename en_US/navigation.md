@@ -40,6 +40,7 @@
 
   * # Core classes
   * [Sorcerer (Prophetus)](Pages/Rules/Classes/Sorcerer.md)
+  * [Warlock (Vilos)](Pages/Rules/Classes/Warlock.md)
 
 [Adventuring]()
 

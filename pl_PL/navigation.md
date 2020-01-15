@@ -40,6 +40,7 @@
 
   * # Podstawowe klasy
   * [Profeta](../en_US/Pages/Rules/Classes/Sorcerer.md)
+  * [Vilos](../en_US/Pages/Rules/Classes/Warlock.md)
 
 [Przygody]()
 
