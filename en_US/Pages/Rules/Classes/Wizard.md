@@ -266,7 +266,7 @@ You roll **three d20s** for your **Portent** feature, rather than two.
 
 ### Enchantment Savant (2nd level)
 
-The **gold and time** you must spend to copy a Enchantment spell into your spellbook is **halved**.
+The **gold and time** you must spend to copy an Enchantment spell into your spellbook is **halved**.
 
 ### Hypnotic Gaze (2nd level)
 
@@ -297,3 +297,33 @@ When you cast an **Enchantment spell** of **1st level or higher** that **targets
 When you cast an **Enchantment spell** to **charm** one or more creatures, you can alter **one** creature's understanding so that it remains **unaware of being charmed**.
 
 Additionally, **once** before the spell expires, you can use your **action** to try to make the chosen creature **forget some** of the time it spent charmed. The creature must **succeed** on an **Intelligence saving throw** against your **Wizard spell save DC** or **lose a number of hours of its memories** equal to **1 + your Charisma modifier** (minimum 1). You can make the creature forget less time, and the amount of time **can't exceed the duration** of your Enchantment spell.
+
+## Arcane Tradition: School of Evocation
+
+### Evocation Savant (2nd level)
+
+The **gold and time** you must spend to copy an Evocation spell into your spellbook is **halved**.
+
+### Sculpt Spells (2nd level)
+
+*You can create pockets of relative safety within the effects of your evocation spells.*
+
+When you cast an **Evocation spell** that **affects other creatures** that you can see, you can choose a number of them equal to **1 + the spell's level**. The **chosen creatures automatically succeed** on their **saving throws** against the spell, and they **take no damage** if they would **normally take half damage** on a successful save.
+
+### Potent Cantrip (6th level)
+
+*Your damaging cantrips affect even creatures that avoid the brunt of the effect.*
+
+When a creature **succeeds** on a **saving throw** against your **cantrip**, the creature takes **half the cantrip's damage** (if any) but suffers **no additional effect** from the cantrip.
+
+### Empowered Evocation (10th level)
+
+You can add your **Intelligence modifier** (minimum of +1) to the **damage roll** of any **Evocation spell** that you cast. The damage bonus applies to **one damage roll** of a spell, not multiple rolls.
+
+### Overchannel (14th level)
+
+*You can increase the power of your simpler spells.*
+
+When you cast an **Evocation spell** of **5th level or lower** that **deals damage** and **isn't a cantrip**, you can **deal maximum damage** with that spell.
+
+The **first time** you do so, you suffer **no adverse effect**. If you use this feature **again** before you finish a **long rest**, you take **2d12 true damage times level of the spell**, immediately after you cast it. **Each time** you use this feature **again** before finishing a long rest, the **damage per spell level increases by 1d12**.
