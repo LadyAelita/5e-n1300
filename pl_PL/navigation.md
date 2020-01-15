@@ -34,6 +34,8 @@
 
 [Atuty](../en_US/Pages/Rules/Feats.md)
 
+[Inwokacje](../en_US/Pages/Rules/Invocations.md)
+
 [Stany](Strony/Zasady/Stany.md)
 
 [Klasy]()

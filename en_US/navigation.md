@@ -34,6 +34,8 @@
 
 [Feats](Pages/Rules/Feats.md)
 
+[Invocations](Pages/Rules/Invocations.md)
+
 [Conditions](Pages/Rules/Conditions.md)
 
 [Classes]()
