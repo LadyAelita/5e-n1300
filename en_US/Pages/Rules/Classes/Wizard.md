@@ -164,3 +164,37 @@ When you cast an Abjuration spell that requires you to make an **ability check**
 
 You have **advantage** on **saving throws against spells**. Furthermore, you have **resistance** against the **damage of spells**.
 
+## Arcane Tradition: School of Bladesinging
+
+### Bonus Proficiencies
+
+You are **proficient** with **light armor** and **one** type of **one-handed melee weapon** of your choice.
+
+You also gain **proficiency** in the **Performance** skill if you don't already have it.
+
+### Bladesong (2nd level)
+
+*You can invoke an elven technique called the Bladesong, which graces you with supernatural speed, agility, and focus.*
+
+**Twice between rests**, provided that you **aren't wearing medium or heavy armor** or **using a shield**, you can use a **bonus action** to start the **Bladesong**, which lasts for **1 minute**. It **ends** early if you are **incapacitated**, if you don **medium or heavy armor or a shield**, or if you **use two hands to make an attack** with a weapon. You can also **dismiss** the Bladesong at any time you choose (no action required).
+
+While your Bladesong is active, you gain the following benefits:
+
+* You gain a **bonus to your AC** equal to your **Intelligence modifier (**minimum of +1).
+* Your **walking speed** increases by **10 feet**.
+* You have **advantage** on **Acrobatics checks**.
+* You gain a **bonus** to **Concentration saving throws**. The bonus equals your **Intelligence modifier** (minimum of +1).
+
+### Extra Attack (6th level)
+
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Song of Defense (10th level)
+
+*You can direct your magic to absorb damage while your Bladesong is active.*
+
+When you **take damage**, you can use your **reaction** to **expend one spell slot** and **reduce that damage** by an amount equal to **5 times the spell slot's level**.
+
+### Song of Victory (14th level)
+
+You add your **Intelligence modifier** (minimum of +1) to the **damage** of your **melee weapon attacks** while your **Bladesong is active**.
