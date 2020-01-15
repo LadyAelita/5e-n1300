@@ -198,3 +198,31 @@ When you **take damage**, you can use your **reaction** to **expend one spell sl
 ### Song of Victory (14th level)
 
 You add your **Intelligence modifier** (minimum of +1) to the **damage** of your **melee weapon attacks** while your **Bladesong is active**.
+
+## Arcane Tradition: School of Conjuration
+
+### Conjuration Savant (2nd level)
+
+The **gold and time** you must spend to copy a Conjuration spell into your spellbook is **halved**.
+
+### Minor Conjuration (2nd level)
+
+You can use your **action** to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see **within 10 feet** of you. This object can be **no larger** than **3 feet on a side** and **weigh no more** than **10 pounds**, and its form must be that of **a nonmagical object that you have seen**. The object is visibly magical, radiating **dim light out to 5 feet**.
+
+The object **disappears after 1 hour**, when you **use this feature again**, or if it **takes any damage**.
+
+### Benign Transportation (6th level)
+
+You can use your **action** to **teleport up to 30 feet** to an unoccupied space that you can see.
+
+Alternatively, you can choose a **space within range** that is **occupied** by a **Small or Medium creature**. If that creature is **willing**, you **both teleport**, **swapping** places.
+
+Once you use this feature, you can't use it again until you finish a **long rest** or you **cast a Conjuration spell of 1st level or higher**.
+
+### Improved Abjuration (10th level)
+
+When you cast an Abjuration spell that requires you to make an **ability check** as a part of casting that spell (as in Counterspell and Dispel Magic), you **add your proficiency** bonus to that ability check.
+
+### Spell Resistance (14th level)
+
+You have **advantage** on **saving throws against spells**. Furthermore, you have **resistance** against the **damage of spells**.
