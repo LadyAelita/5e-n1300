@@ -130,6 +130,7 @@ If you want to cast either spell at a **higher level**, you must **expend a spel
 * **Bladesinging:** Bladesingers are wizards who master a school of sword fighting grounded in a tradition of arcane magic. In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.
 * **Conjuration:** As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
 * **Divination:** The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+* **Dread Magic:** While the arcane school of Necromancy allows one to manipulate life, death and undeath, the Dread Magi research ancient, forbidden techniques that increase that control tenfold. However, it doesn't come without a price to pay.
 * **Enchantment:** You have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.
 * **Evocation:** You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
 * **Illusion:** You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.
@@ -263,6 +264,56 @@ When you cast a **Divination spell** of **2nd level or higher** using a **spell 
 *The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come.*
 
 You roll **three d20s** for your **Portent** feature, rather than two.
+
+## Arcane Tradition: School of Dread Magic
+
+### Restriction: Undead Only
+
+Only undead can choose the Dread Magic arcane tradition.
+
+Your GM can lift this restriction to better suit the campaign. In the world of Northland, however, all Dread Magi are undead. While there exist other, both living *and* undead creatures that utilize Black Magic, they are very few and they aren't classified as Dread Magi, using an entirely different approach to achieve this kind of power.
+
+Alternatively, your GM can allow you to begin as a living creature and only turn undead at the 14th level.
+
+### Speech of Horror (2nd level)
+
+You can speak, read and write in **Black Speech**. Whenever you speak this language, you have advantage on **Intimidation** checks.
+
+### Wizard's Grimoire (2nd level)
+
+All the spells in your spellbook are now written in **Black Speech**. Moreover, you can now add **Black Magic** spells into your spellbook.
+
+The DC of all **Black Magic** spells you cast is your normal spell DC increased by **3**. Moreover, Black Magic spells **ignore necrotic damage resistances** of all creatures, except undead, and they generally deal more damage or have much more powerful effects than a typical arcane spell of the same level would.
+
+In return, whenever you **cast a Black Magic spell**, you risk **permanently** losing a part of your **Wisdom** score, which **cannot be regained** through spells that normally remove that type of effects. You have to make **Wisdom saving throw** against the **DC** equal to **13 + the level of the spell being cast**.
+
+On a failure you are sapped an amount of **Wisdom** equal to the spell's **Insanity Risk** value, provided in the description. That saving throw is a **Corruption** saving throw.
+
+Losing **Wisdom** this way sees your character slowly being driven insane and toward **evil** by the corruption. If your Wisdom reaches the score of **0** through this effect, your character becomes completely **corrupted**. They regain a score of **10 Wisdom**, but they also become **Evil** (if they aren't already) and you completely and permanently **lose control** of them, as they become consumed by their hunger for power, turning hostile toward everyone, seeking to make everybody a mindless husk under their control.
+
+### Deterrent Incantation (6th level)
+
+*You learn arcane techniques that let you oppose the corruption more effeciently.*
+
+Whenever you **cast a Black Magic spell**, you can **expend an additional spell slot** of the same level. If you do so, you make the **Corruption saving throw** with **advantage**.
+
+### Ravenous Incantation (6th level)
+
+*In face of great adversity, and if there is no other way, you know how to harness the Black Arts even without any arcane energy left, by voluntarily sacrificing a part of yourself.*
+
+Whenever you **cast a Black Magic spell**, you can do so **without expanding a spell slot**, as long as the spell **is of a level of which you have Wizard spell slots**. If you do so, you **get no saving throw** against the corruption, and you **suffer the ability score sap** as if you had failed.
+
+### The Dreadful Don't Kneel (10th level)
+
+You become **proficient** in **Charisma saving throws** and are **immune** to **mind control**, including the effects that specifically affect undead, such as **Turn Undead**.
+
+### Conduit of Corruption (14th level)
+
+*You have already been corrupted by Black Magic, but you have managed to seize control of the corruption and embrace your insanity. It will take significantly more vile energy to push you through yet another threshold.*
+
+Whenever you have to make a **Corruption saving throw**, you can **change the targeted ability**. If you do so, you make the **saving throw** with the **ability of your choice** and on a **failure**, the score of **that** ability is sapped instead of the original one. The ability you choose must be different than the ability that was the initial target (generally Wisdom).
+
+If you see your ability score sapped after **failing a save** for which **you have used this feature**, the sap becomes **temporary** rather than permanent. Whenever you take a **long rest**, you can **revoke a point of sap** attached to one of your abilities. This is **the only way** for you to remove this effect.
 
 ## Arcane Tradition: School of Enchantment
 
