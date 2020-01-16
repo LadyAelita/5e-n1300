@@ -600,3 +600,53 @@ You have **resistance** to **necrotic damage**, and your **hit point maximum** c
 As an **action**, you can **choose one undead** that you can see **within 60 feet** of you. That creature must make a **Charisma saving throw** against your **Wizard spell save DC**. If it **succeeds**, you **can't use this feature on it again**. If it **fails**, it becomes friendly to you and o**beys your commands** until **you use this feature again**.
 
 **Intelligent undead** are harder to control in this way. If the target has an **Intelligence of 8 or higher**, it has **advantage** on the saving throw. If it **fails** the saving throw and has an **Intelligence of 12 or higher**, it can **repeat** the saving throw at the **end of every hour** until it succeeds and breaks free.
+
+## Arcane Tradition: School of Theurgy
+
+### Prerequisite: Wisdom
+
+*Combining divine and arcane magic requires advanced comprehension of both.*
+
+You must have at least **13 Wisdom** to choose this subclass.
+
+### Arcane Initiate (2nd level)
+
+Choose a **cleric domain** from your chosen deity’s list of eligible domains. At later levels, you will gain features from that domain.
+
+Whenever you **gain a Wizard level**, you can **replace one** of the Wizard **spells you add** to your spellbook with a **Cleric domain spell for your chosen domain**. The spell must be of a level for which you have Wizard spell slots.
+
+If you add **all of your domain spells** to your spellbook, you can subsequently **add any spell from the base Cleric spell list** instead. The spell must still be of a level for which you have Wizard spell slots.
+
+Any Cleric spell you gain from this feature is considered a Wizard spell for you, but other Wizards can’t copy Cleric spells from your spellbook into their own spellbooks.
+
+### Channel Arcana (2nd, 6th, 18th level)
+
+*You gain the ability to channel arcane energy directly from your deity, using that energy to fuel magical effects.*
+
+You start with two effects: **Divine Arcana** and the **Channel Divinity** option **granted at 2nd level by your chosen domain**. You employ that Channel Divinity option by using your Channel Arcana ability.
+
+You can use Channel Arcana **once between rests**. When you use your Channel Arcana, you choose which effect to create.
+
+Some Channel Arcana effects require saving throws. When you use such an effect, the **save DC** equals your **Wizard spell save DC**.
+
+Beginning at **6th level**, you can use your Channel Arcana **twice between rests**, and beginning at **18th level**, you can use it **three times between rests**.
+
+If you gain additional Channel Divinity options from your domain, you can employ them by using your Channel Arcana feature.
+
+### Domain Feature I (6th level)
+
+You gain your chosen domain’s **1st-level** benefits. However, you do not gain any weapon or armor **proficiencies** from the domain.
+
+### Domain Feature II (10th level)
+
+*Your faith and your understanding of magic allow you to delve into your god’s secrets.*
+
+You gain your chosen domain’s **6th-level** benefits.
+
+### Domain Feature IV (14th level)
+
+*Your academic nature and understanding of magic and doctrine allow you to master this ability sooner than a cleric of your domain.*
+
+You gain your chosen domain’s **17th-level** benefits.
+
+**Note:** **Domain Feature III** being skipped is not an error - Cleric domains provide a feature at 8th level, which theurgists **don't** acquire.
