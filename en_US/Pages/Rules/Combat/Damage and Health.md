@@ -79,6 +79,8 @@ Damage **type** is given in the description of the weapon or the spell that is b
 | shadow          | force         |
 | ethereal        | fall          |
 
+Whenever an **undead** takes **necrotic** damage, they are **healed** for that amount instead.
+
 There also exists a **true** damage type. **True** damage and **fall** damage is **not** reduced by effects that reduce all damage regardless of type, unless it is explicitly stated that true/fall damage is reduced by that effect.
 
 **Note:** **Slashing**, **piercing** and **bludgeoning** damage are relatively often bundled together and simply called **physical** damage.
