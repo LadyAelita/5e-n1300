@@ -650,3 +650,87 @@ You gain your chosen domain’s **6th-level** benefits.
 You gain your chosen domain’s **17th-level** benefits.
 
 **Note:** **Domain Feature III** being skipped is not an error - Cleric domains provide a feature at 8th level, which theurgists **don't** acquire.
+
+## Arcane Tradition: School of Transmutation
+
+### Transmutation Savant (2nd level)
+
+The **gold and time** you must spend to copy a Transmutation spell into your spellbook is **halved**.
+
+### Minor Alchemy (2nd level)
+
+*You can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another.*
+
+You perform a special alchemical procedure on one object composed entirely of **wood**, **stone** (but not a gemstone), **iron**, **copper**, or **silver**, transforming it into a different one of those materials. For each **10 minutes** you spend performing the procedure, you can transform **up to 1 cubic foot** of material. After **1 hour**, or until you **lose your concentration** (as if you were concentrating on a spell), the material **reverts** to its original substance.
+
+### Transumter's Stone (6th level)
+
+You can spend **8 hours** creating a **transmuter's stone** that stores Transmutation magic. You can benefit from the stone **yourself** or **give it to another** creature. A creature gains a **benefit of your choice** as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:
+
+* **Darkvision** out to a range of **60 feet**
+* An **increase to speed of 10 feet** while the creature is unencumbered
+* **Proficiency** in **Constitution saving throws**
+* **Resistance** to **acid**, **cold**, **fire**, **lightning**, or **thunder** damage (your choice whenever you choose this benefit)
+
+Each time you cast a **Transmutation spell** of **1st level or higher**, you can **change the effect** of your stone **if the stone is on your person**.
+
+If you **create a new** transmuter's stone, the **previous one ceases to function**.
+
+### Shapechanger (10th level)
+
+*You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.*
+
+You add the **Polymorph** spell to your spellbook, if it is not there already. 
+
+Once between rests, you can cast Polymorph **without expending a spell slot**. When you do so, you can **target only yourself** and transform into a **beast** whose **CR is 1 or lower**.
+
+### Master Transmuter (14th level)
+
+You can use your **action** to consume the reserve of Transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose **one** of the following effects. Your **transmuter's stone** is **destroyed** and **can't be remade** until you finish a **long rest**.
+
+* **Major Transformation:** You can transmute **one nonmagical object** – **no larger than a 5-foot cube** – into **another nonmagical object** of **similar size and mass** and of **equal or lesser value**. You must spend **10 minutes** handling the object to transform it.
+* **Panacea:** You remove **all curses**, **diseases**, and **poisons** affecting a creature that you **touch** with the **transmuter's stone**. The creature also **regains all its hit points**.
+* **Restore Life:** You cast the **Raise Dead** spell on a creature you **touch** with the **transmuter's stone**, **without expending a spell slot** or **needing to have the spell** in your spellbook.
+* **Restore Youth:** You **touch** the **transmuter's stone** to a **willing** creature, and that creature's **apparent age is reduced** by **3d10 years**, to a **minimum of 13 years**. This effect **doesn't extend** the creature's **lifespan**.
+
+## Arcane Tradition: School of War Magic
+
+**Bonus Proficiencies**
+
+You become **proficient** with **light armor** and **shields**.
+
+### Arcane Deflection (2nd level)
+
+*You have learned to weave your magic to fortify yourself against harm.*
+
+When you are **hit by an attack** or you **fail a saving throw**, you can use your **reaction** to gain a **+2** bonus to your **AC** **against that attack** or a +**4** bonus to that **saving throw**.
+
+When you use this feature, you **can’t cast spells other than cantrips** until the **end of your next turn**.
+
+### Tactical Wit (2nd level)
+
+*Your keen ability to assess tactical situations allows you to act quickly in battle.*
+
+You can give yourself a **bonus** to your **Initiative rolls** equal to your **Intelligence modifier**.
+
+### Power Surge (6th level)
+
+*You can store magical energy within yourself to later empower your damaging spells.*
+
+You can store a **maximum number** of **power surges** equal to your **Intelligence modifier** (minimum of one). Whenever you **finish a long rest**, your number of **power surges** **resets to one**. Whenever you **successfully** end a spell with **Dispel Magic** or **Counterspell**, you **gain one power surge**, as you steal magic from the spell you foiled.
+
+If you end a **short rest** with **no power surges**, you **gain one power surge**.
+
+**Once per turn** when you **deal damage** to a creature or object with a **Wizard spell**, you can **spend one power surge** to deal **extra force damage** to that target. The extra damage equals **half your Wizard level**.
+
+### Durable Magic (10th level)
+
+*The magic you channel helps ward off harm.*
+
+While you **maintain concentration** on a spell, you have a **+2** bonus to **AC** and **all saving throws**.
+
+### Deflecting Shroud (14th level)
+
+*Your Arcane Deflection becomes infused with deadly magic.*
+
+When you use your **Arcane Deflection** feature, you can cause **magical energy** to **arc** from you. **Up to three** creatures of your choice **within 60 feet** of you each **take force damage** equal to **half your Wizard level**.
