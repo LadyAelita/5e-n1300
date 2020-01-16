@@ -1,6 +1,6 @@
 ## Hellish Rebuke
 
-Classes: **Paladin (Oathbreaker), Warlock**  
+Classes: **Paladin (Oathbreaker), Sorcerer (Roaring Rampage), Warlock**  
 Level: **1**  
 
 School: **Evocation**  

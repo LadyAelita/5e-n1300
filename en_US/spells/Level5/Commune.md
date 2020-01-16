@@ -1,6 +1,6 @@
 ## Commune
 
-Classes: **Cleric, Paladin (Devotion), Sorcerer (Djinni), Warlock (Seeker), Warlock (Undying)**  
+Classes: **Cleric, Paladin (Devotion), Sorcerer (Djinni), Sorcerer (Dream Walker), Warlock (Seeker), Warlock (Undying)**  
 Level: **5**  
 
 School: **Divination**  

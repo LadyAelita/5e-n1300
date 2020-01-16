@@ -1,6 +1,6 @@
 ## Divination
 
-Classes: **Cleric, Druid (Forest), Druid (Grassland)**  
+Classes: **Cleric, Druid (Forest), Druid (Grassland), Sorcerer (Dream Walker)**  
 Level: **4**  
 
 School: **Divination**  

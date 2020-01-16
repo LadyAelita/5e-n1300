@@ -1,6 +1,6 @@
 ## Maelstrom
 
-Classes: **Druid, Sorcerer (Water Elemental)**  
+Classes: **Druid, Sorcerer (Roaring Rampage), Sorcerer (Water Elemental)**  
 Level: **5**  
 
 School: **Evocation**  

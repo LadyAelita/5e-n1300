@@ -48,7 +48,7 @@ no conc,no concentration,no ritual,Wizard*;False Life;1;Necromancy (Black);Death
 no conc,no concentration,no ritual,Bard*,Wizard*;Feather Fall;1;Transmutation;Air;1 reaction;;;1 minute;V, F;Bard, Warlock (Seeker), Wizard;#!spells/Level1/Feather Fall.md
 no ritual,Druid*,Ranger*,Wizard*;Fog Cloud;1;Conjuration (Creation);Air;1 action;Concentration;;1 hour;V, S;Cleric (Tempest), Druid, Ranger, Warlock (Void), Wizard;#!spells/Level1/Fog Cloud.md
 no conc,no concentration,no ritual,Cleric*;Guiding Bolt;1;Evocation;Light;1 action;;;1 round;V, S;Cleric, Cleric (Solidarity), Sorcerer (Angel), Warlock (Aeonian Flame);#!spells/Level1/Guiding Bolt.md
-no conc,no concentration,no ritual,Warlock*;Hellish Rebuke;1;Evocation;Fire;1 reaction;;;Instantaneous;V, S;Paladin (Oathbreaker), Warlock;#!spells/Level1/Hellish Rebuke.md
+no conc,no concentration,no ritual,Warlock*;Hellish Rebuke;1;Evocation;Fire;1 reaction;;;Instantaneous;V, S;Paladin (Oathbreaker), Sorcerer (Roaring Rampage), Warlock;#!spells/Level1/Hellish Rebuke.md
 no ritual,Warlock*;Hex;1;Necromancy (Black);Death;1 bonus action;Concentration;;Concentration, up to 1 hour;V, S, F;Warlock;#!spells/Level1/Hex.md
 no ritual,Bard*,Wizard*;Hideous Laughter;1;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Bard, Warlock (Great Old One), Wizard;#!spells/Level1/Hideous Laughter.md
 no conc,no concentration,Bard*,Wizard*;Identify;1;Divination;Water;1 minute;;Ritual;Instantaneous;V, S, M (a mystic quartz worth at least 100 gp);Bard, Cleric (Knowledge), Warlock (Seeker), Wizard;#!spells/Level1/Identify.md
@@ -67,7 +67,7 @@ no conc,no concentration,Cleric*,Druid*,Warlock*,Wizard*;Soil Food and Drink;1;T
 no conc,no concentration,Bard*,Warlock*,Wizard*;Unseen Servant;1;Conjuration;Aether;1 action;;Ritual;1 hour;V, S, F;Bard, Warlock, Wizard;#!spells/Level1/Unseen Servant.md
 no ritual,Warlock*,Wizard*;Witch Bolt;1;Evocation;Air;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Warlock, Wizard;#!spells/Level1/Witch Bolt.md
 no ritual,Warlock*,Wizard*;Arcane Hacking;2;Transmutation;Aether;1 action;Concentration;;Concentration, up to 1 hour;V, S, M (hacking tools);Warlock, Wizard, Warlock (Ghost in the Machine);#!spells/Level2/Arcane Hacking.md
-no conc,no concentration,Cleric*;Augury;2;Divination;Aether;1 minute;;Ritual;Instantaneous;V, S, F, M (a holy symbol worth at least 25 gp);Cleric, Cleric (Knowledge), Warlock (Seeker);#!spells/Level2/Augury.md
+no conc,no concentration,Cleric*;Augury;2;Divination;Aether;1 minute;;Ritual;Instantaneous;V, S, F, M (a holy symbol worth at least 25 gp);Cleric, Cleric (Knowledge), Sorcerer (Dream Walker), Warlock (Seeker);#!spells/Level2/Augury.md
 no conc,no concentration,no ritual,Wizard*;Blazing Burst;2;Evocation;Fire;1 action;;;Instantaneous;V, S, F;Warlock (Fiend), Wizard;#!spells/Level2/Blazing Burst.md
 no conc,no concentration,no ritual,Bard*,Cleric*,Wizard*;Blindness/Deafness;2;Necromancy (Black);Death;1 action;;;1 minute;V;Bard, Cleric, Cleric (Death), Warlock (Great Old One), Warlock (Undying), Warlock (Void), Wizard;#!spells/Level2/Blindness-Deafness.md
 no ritual,Wizard*;Blur;2;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;Druid (Desert), Warlock (Void), Wizard;#!spells/Level2/Blur.md
@@ -170,7 +170,7 @@ no ritual,Druid*;Antilife Shell;5;Abjuration;Death;1 action;Concentration;;Conce
 no ritual,Paladin*;Circle of Protection;5;Abjuration;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, F;Cleric (Solidarity), Paladin, Warlock (Void);#!spells/Level5/Circle of Protection.md
 no ritual,Wizard*;Cloudkill;5;Conjuration (Creation);Death;1 action;Concentration;;Concentration, up to 10 minutes;V, S;Cleric (Death), Druid (Subterranean), Warlock (Undying), Wizard;#!spells/Level5/Cloudkill.md
 no conc,no concentration,Warlock*,Wizard*;Commune with City;5;Divination;Aether;1 minute;;Ritual;Instantaneous;V, S;Warlock, Wizard, Cleric (City);#!spells/Level5/Commune with City.md
-no conc,no concentration,Cleric*;Commune;5;Divination;Aether;1 minute;;Ritual;1 minute;V, S, M (incense and a vial of holy or unholy water);Cleric, Paladin (Devotion), Sorcerer (Djinni), Warlock (Seeker), Warlock (Undying);#!spells/Level5/Commune.md
+no conc,no concentration,Cleric*;Commune;5;Divination;Aether;1 minute;;Ritual;1 minute;V, S, M (incense and a vial of holy or unholy water);Cleric, Paladin (Devotion), Sorcerer (Djinni), Sorcerer (Dream Walker), Warlock (Seeker), Warlock (Undying);#!spells/Level5/Commune.md
 no conc,no concentration,Warlock*,Wizard*;Contact Other Plane;5;Divination;Aether;1 minute;;Ritual;1 minute;V;Warlock, Wizard;#!spells/Level5/Contact Other Plane.md
 no conc,no concentration,no ritual,Cleric*,Druid*,Warlock*;Contagion;5;Necromancy (Black);Death;1 action;;;7 days;V, S;Cleric, Druid, Paladin (Oathbreaker), Warlock;#!spells/Level5/Contagion.md
 no conc,no concentration,no ritual,Warlock*,Wizard*;Danse Macabre;5;Necromancy (Black);Death;1 action;;;1 hour;V, S;Warlock, Wizard;#!spells/Level5/Danse Macabre.md

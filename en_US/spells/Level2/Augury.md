@@ -1,6 +1,6 @@
 ## Augury
 
-Classes: **Cleric, Cleric (Knowledge), Warlock (Seeker)**  
+Classes: **Cleric, Cleric (Knowledge), Sorcerer (Dream Walker), Warlock (Seeker)**  
 Level: **2**  
 
 School: **Divination**  
