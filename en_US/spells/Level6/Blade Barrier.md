@@ -1,6 +1,6 @@
 ## Blade Barrier
 
-Classes: **Cleric**  
+Classes: **Cleric, Sorcerer (Blade Barrier)**  
 Level: **6**  
 
 School: **Illusion (Shadow)**  

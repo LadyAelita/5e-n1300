@@ -1,6 +1,6 @@
 ## Flame Blade
 
-Classes: **Druid**  
+Classes: **Druid, Sorcerer (Fire Elemental)**  
 Level: **2**  
 
 School: **Evocation**  

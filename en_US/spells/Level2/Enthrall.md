@@ -1,6 +1,6 @@
 ## Enthrall
 
-Classes: **Bard, Warlock**  
+Classes: **Bard, Sorcerer (Desire Demon), Warlock**  
 Level: **2**  
 
 School: **Enchantment**  

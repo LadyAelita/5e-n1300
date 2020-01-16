@@ -1,6 +1,6 @@
 ## Elemental Weapon
 
-Classes: **Paladin, Cleric (Forge), Wizard**  
+Classes: **Paladin, Cleric (Forge), Sorcerer (Darkness Elemental), Sorcerer (Fire Elemental), Sorcerer (Water Elemental), Wizard**  
 Level: **3**  
 
 School: **Transmutation**  

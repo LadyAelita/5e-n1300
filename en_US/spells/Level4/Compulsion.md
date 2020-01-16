@@ -1,6 +1,6 @@
 ## Compulsion
 
-Classes: **Bard**  
+Classes: **Bard, Sorcerer (Desire Demon)**  
 Level: **4**  
 
 School: **Enchantment (Compulsion)**  

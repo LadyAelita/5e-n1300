@@ -1,6 +1,6 @@
 ## Soil Food and Drink
 
-Classes: **Cleric, Druid, Warlock, Wizard**  
+Classes: **Cleric, Druid, Sorcerer (Darkness Elemental), Warlock, Wizard**  
 Level: **1**  
 
 School: **Transmutation**  

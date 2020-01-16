@@ -1,6 +1,6 @@
 ## Inflict Wounds
 
-Classes: **Cleric, Paladin (Oathbreaker), Warlock (Fiend)**  
+Classes: **Cleric, Paladin (Oathbreaker), Sorcerer (Desire Demon), Warlock (Fiend)**  
 Level: **1**  
 
 School: **Necromancy (Black)**  

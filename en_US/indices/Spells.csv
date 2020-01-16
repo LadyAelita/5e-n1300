@@ -87,7 +87,7 @@ no conc,no concentration,Wizard*;Floating Disk;1;Conjuration (Creation);Aether;1
 no ritual,Druid*,Ranger*,Wizard*;Fog Cloud;1;Conjuration (Creation);Air;1 action;Concentration;;1 hour;V, S;Cleric (Tempest), Druid, Ranger, Warlock (Void), Wizard;#!spells/Level1/Fog Cloud.md
 no conc,no concentration,no ritual,Druid*,Ranger*;Goodberry;1;Transmutation;Light;1 action;;;Instantaneous;V, S, F;Druid, Ranger;#!spells/Level1/Goodberry.md
 no conc,no concentration,no ritual,Wizard*;Grease;1;Conjuration (Creation);Earth;1 action;;;1 minute;V, S, F;Wizard;#!spells/Level1/Grease.md
-no conc,no concentration,no ritual,Cleric*;Guiding Bolt;1;Evocation;Light;1 action;;;1 round;V, S;Cleric, Cleric (Solidarity), Warlock (Aeonian Flame);#!spells/Level1/Guiding Bolt.md
+no conc,no concentration,no ritual,Cleric*;Guiding Bolt;1;Evocation;Light;1 action;;;1 round;V, S;Cleric, Cleric (Solidarity), Sorcerer (Angel), Warlock (Aeonian Flame);#!spells/Level1/Guiding Bolt.md
 Bard*,Cleric*,Druid*,Wizard*;Guiding Hand;1;Divination;Aether;1 minute;Concentration;Ritual;Concentration, up to 8 hours;V, S;Bard, Cleric, Druid, Wizard;#!spells/Level1/Guiding Hand.md
 no conc,no concentration,no ritual,Ranger*;Hail of Thorns;1;Conjuration (Creation);Earth;1 bonus action;Optional;;1 round / Concentration, up to 1 minute;V;Ranger;#!spells/Level1/Hail of Thorns.md
 no conc,no concentration,no ritual,Warlock*;Hellish Rebuke;1;Evocation;Fire;1 reaction;;;Instantaneous;V, S;Paladin (Oathbreaker), Warlock;#!spells/Level1/Hellish Rebuke.md
@@ -99,7 +99,7 @@ no conc,no concentration,no ritual,Druid*,Wizard*;Ice Knife;1;Conjuration (Creat
 no conc,no concentration,Bard*,Wizard*;Identify;1;Divination;Water;1 minute;;Ritual;Instantaneous;V, S, M (a mystic quartz worth at least 100 gp);Bard, Cleric (Knowledge), Warlock (Seeker), Wizard;#!spells/Level1/Identify.md
 no conc,no concentration,Bard*,Warlock*,Wizard*;Illusory Script;1;Illusion (Phantasm);Darkness;1 minute;;Ritual;10 days;S, M (an amethyst-based ink worth at least 10 gp, which the spell consumes);Bard, Warlock, Wizard;#!spells/Level1/Illusory Script.md
 no ritual,Wizard*;Infallible Relay;1;Divination;Aether;1 minute;Concentration;;Concentration, up to 10 minutes;V, S, M (a mobile phone);Warlock (Ghost in the Machine), Wizard;#!spells/Level1/Infallible Relay.md
-no conc,no concentration,no ritual,Cleric*;Inflict Wounds;1;Necromancy (Black);Death;1 action;;;Instantaneous;V, S;Cleric, Paladin (Oathbreaker), Warlock (Fiend);#!spells/Level1/Inflict Wounds.md
+no conc,no concentration,no ritual,Cleric*;Inflict Wounds;1;Necromancy (Black);Death;1 action;;;Instantaneous;V, S;Cleric, Paladin (Oathbreaker), Sorcerer (Desire Demon), Warlock (Fiend);#!spells/Level1/Inflict Wounds.md
 no conc,no concentration,no ritual,Druid*,Ranger*,Wizard*;Jump;1;Transmutation;Air;1 action;;;1 minute;V, S, F;Druid, Ranger, Wizard;#!spells/Level1/Jump.md
 no conc,no concentration,no ritual,Bard*,Druid*,Ranger*,Wizard*;Longstrider;1;Transmutation;Air;1 action;;;1 hour;V, S, F;Bard, Druid, Ranger, Wizard;#!spells/Level1/Longstrider.md
 no conc,no concentration,no ritual,Wizard*;Mage Armor;1;Abjuration;Aether;1 action;;;8 hours;V, S, F;Wizard;#!spells/Level1/Mage Armor.md
@@ -118,7 +118,7 @@ no conc,no concentration,no ritual,Wizard*;Shield;1;Abjuration;Aether;1 reaction
 no ritual,Bard*,Wizard*;Silent Image;1;Illusion (Figment);Light;1 action;Concentration;;Concentration, up to 10 minute;V, S, F;Bard, Warlock (Archfey), Wizard;#!spells/Level1/Silent Image.md
 no conc,no concentration,no ritual,Bard*,Wizard*;Sleep;1;Enchantment (Compulsion);Darkness;1 action;;;1 minute;V, S, F;Bard, Warlock (Archfey), Warlock (Void), Wizard;#!spells/Level1/Sleep.md
 no conc,no concentration,no ritual,Druid*,Ranger*,Wizard*;Snare;1;Transmutation;Darkness;1 minute;;;1 day;V, S, M (25 feet of rope, which the spell consumes);Druid, Ranger, Wizard;#!spells/Level1/Snare.md
-no conc,no concentration,Cleric*,Druid*,Warlock*,Wizard*;Soil Food and Drink;1;Transmutation;Death;1 action;;Ritual;Instantaneous;V, S;Cleric, Druid, Warlock, Wizard;#!spells/Level1/Soil Food and Drink.md
+no conc,no concentration,Cleric*,Druid*,Warlock*,Wizard*;Soil Food and Drink;1;Transmutation;Death;1 action;;Ritual;Instantaneous;V, S;Cleric, Druid, Sorcerer (Darkness Elemental), Warlock, Wizard;#!spells/Level1/Soil Food and Drink.md
 no conc,no concentration,Bard*,Druid*,Ranger*;Speak with Animals;1;Divination;Fire;1 action;;Ritual;10 minutes;V, S;Bard, Cleric (Nature), Druid, Paladin (Ancients), Ranger;#!spells/Level1/Speak with Animals.md
 no conc,no concentration,no ritual,Bard*,Ranger*;Sudden Awakening;1;Enchantment (Compulsion);Light;1 bonus action;;;Instantaneous;V;Bard, Ranger, Sorcerer (Dream Walker);#!spells/Level1/Sudden Awakening.md
 no conc,no concentration,no ritual,Paladin*;Thunderous Smite;1;Evocation;Air;1 bonus action;Optional;;1 round / Concentration, up to 1 minute;V;Cleric (Zeal), Paladin, Sorcerer (Earth Elemental);#!spells/Level1/Thunderous Smite.md
@@ -141,7 +141,7 @@ no conc,no concentration,no ritual,Wizard*;Blazing Burst;2;Evocation;Fire;1 acti
 no conc,no concentration,no ritual,Bard*,Cleric*,Wizard*;Blindness/Deafness;2;Necromancy (Black);Death;1 action;;;1 minute;V;Bard, Cleric, Cleric (Death), Warlock (Great Old One), Warlock (Undying), Warlock (Void), Wizard;#!spells/Level2/Blindness-Deafness.md
 no ritual,Wizard*;Blur;2;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;Druid (Desert), Warlock (Void), Wizard;#!spells/Level2/Blur.md
 no conc,no concentration,no ritual,Paladin*;Branding Smite;2;Evocation;Light;1 bonus action;Optional;;1 round / Concentration, up to 1 minute;V;Paladin;#!spells/Level2/Branding Smite.md
-no ritual,Bard*,Cleric*;Calm Emotions;2;Enchantment (Compulsion);Water;1 action;Concentration;;Concentration, up to 1 minute;V, S;Bard, Cleric, Warlock (Archfey);#!spells/Level2/Calm Emotions.md
+no ritual,Bard*,Cleric*;Calm Emotions;2;Enchantment (Compulsion);Water;1 action;Concentration;;Concentration, up to 1 minute;V, S;Bard, Cleric, Sorcerer (Water Elemental), Warlock (Archfey);#!spells/Level2/Calm Emotions.md
 no ritual,Bard*,Warlock*,Wizard*;Cloud of Daggers;2;Illusion (Shadow);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Bard, Warlock, Wizard;#!spells/Level2/Cloud of Daggers.md
 no conc,no concentration,no ritual,Wizard*;Cold Nova;2;Evocation;Water;1 action;;;Instantaneous;V, S, F;Warlock (Fiend), Wizard;#!spells/Level2/Cold Nova.md
 no conc,no concentration,no ritual,Cleric*,Wizard*;Continual Flame;2;Evocation;Fire;1 action;;;Until dispelled;V, S, M (ruby dust worth 50 gp, which the spell consumes);Cleric, Wizard;#!spells/Level2/Continual Flame.md
@@ -156,12 +156,12 @@ no conc,no concentration,no ritual,Wizard*;Dragon's Breath;2;Transmutation;Aethe
 no ritual,Druid*,Wizard*;Dust Devil;2;Conjuration (Creation);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (a handful of dust/sand/powder, which the spell consumes);Druid, Wizard;#!spells/Level2/Dust Devil.md
 no ritual,Druid*,Warlock*,Wizard*;Earthbind;2;Evocation;Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S;Druid, Warlock, Wizard;#!spells/Level2/Earthbind.md
 no ritual,Druid*,Wizard*;Earthen Grasp;2;Conjuration (Creation);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Druid, Wizard;#!spells/Level2/Earthen Grasp.md
-no ritual,Bard*,Cleric*,Druid*;Enhance Ability;2;Transmutation;Light;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;Bard, Cleric, Druid, Cleric (Strength);#!spells/Level2/Enhance Ability.md
+no ritual,Bard*,Cleric*,Druid*;Enhance Ability;2;Transmutation;Light;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;Bard, Cleric, Druid, Cleric (Strength), Sorcerer (Djinni);#!spells/Level2/Enhance Ability.md
 no ritual,Wizard*;Enlarge/Reduce;2;Transmutation;Aether;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Wizard;#!spells/Level2/Enlarge-Reduce.md
-no ritual,Bard*,Warlock*;Enthrall;2;Enchantment;Darkness;1 action;Concentration;;Concentration, 1 minute;V, S;Bard, Warlock;#!spells/Level2/Enthrall.md
+no ritual,Bard*,Warlock*;Enthrall;2;Enchantment;Darkness;1 action;Concentration;;Concentration, 1 minute;V, S;Bard, Sorcerer (Desire Demon), Warlock;#!spells/Level2/Enthrall.md
 no conc,no concentration,no ritual,Paladin*;Find Steed;2;Conjuration (Calling);Aether;10 minutes;;;Instantaneous;V, S, F, M (kaosite dust worth at least 25 gp, incense and herbs, all of which the spell consumes);Paladin;#!spells/Level2/Find Steed.md
 no conc,no concentration,no ritual,Cleric*,Druid*,Ranger*;Find Traps;2;Divination;Aether;1 action;;;Instantaneous;V, S;Cleric, Druid, Ranger;#!spells/Level2/Find Traps.md
-no ritual,Druid*;Flame Blade;2;Evocation;Fire;1 bonus action;Concentration;;Concentration, up to 10 minutes;V, S, F;Druid;#!spells/Level2/Flame Blade.md
+no ritual,Druid*;Flame Blade;2;Evocation;Fire;1 bonus action;Concentration;;Concentration, up to 10 minutes;V, S, F;Druid, Sorcerer (Fire Elemental);#!spells/Level2/Flame Blade.md
 no ritual,Druid*,Wizard*;Flaming Sphere;2;Conjuration;Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Cleric (Light), Druid, Wizard, Warlock (Eternal Flame);#!spells/Level2/Flaming Sphere.md
 no conc,no concentration,Cleric*,Wizard*;Gentle Repose;2;Necromancy (White);Light;1 action;;Ritual;10 days;V, S, M (holy water, which the spell consumes, and one coin placed on each of the corpse's eyes, which must remain there for the duration);Cleric, Wizard, Cleric (Grave);#!spells/Level2/Gentle Repose.md
 no ritual,Druid*,Wizard*;Gust of Wind;2;Evocation;Air;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Cleric (Tempest), Druid, Wizard;#!spells/Level2/Gust of Wind.md
@@ -216,10 +216,10 @@ no ritual,Bard*,Cleric*,Wizard*;Clairvoyance;3;Divination (Scrying);Water;10 min
 no conc,no concentration,no ritual,Warlock*,Wizard*;Counterspell;3;Abjuration;Water;1 reaction;;;Instantaneous;S;Warlock, Wizard;#!spells/Level3/Counterspell.md
 no conc,no concentration,no ritual,Cleric*,Druid*,Paladin*;Create Food and Water;3;Conjuration (Creation);Water;1 action;;;Instantaneous;V, S;Cleric, Druid, Druid (Desert), Paladin;#!spells/Level3/Create Food and Water.md
 no ritual,Paladin*;Crusader's Mantle;3;Evocation;Light;1 action;Concentration;;Concentration, up to 1 minute;V, F;Cleric (War), Paladin, Cleric (Solidarity);#!spells/Level3/Crusaders Mantle.md
-no conc,no concentration,no ritual,Cleric*,Druid*,Paladin*,Ranger*,Sorcerer*;Daylight;3;Evocation;Light;1 action;;;1 hour;V, S;Cleric, Cleric (Light), Druid, Druid (Grassland), Paladin, Ranger, Sorcerer, Warlock (Aeonian Flame);#!spells/Level3/Daylight.md
+no conc,no concentration,no ritual,Cleric*,Druid*,Paladin*,Ranger*;Daylight;3;Evocation;Light;1 action;;;1 hour;V, S;Cleric, Cleric (Light), Druid, Druid (Grassland), Paladin, Ranger, Sorcerer (Angel), Warlock (Aeonian Flame);#!spells/Level3/Daylight.md
 no conc,no concentration,no ritual,Ranger*;Direct Barrage;3;Transmutation;Air;1 action;;;Instantaneous;V, S, M (pieces of ammunition or thrown weapons);Ranger;#!spells/Level3/Direct Barrage.md
 no conc,no concentration,no ritual,Bard*,Cleric*,Druid*,Paladin*,Warlock*,Wizard*;Dispel Magic;3;Abjuration;Water;1 action;;;Instantaneous;V, S;Bard, Cleric, Cleric (Arcana), Cleric (Trickery), Druid, Paladin, Paladin (Devotion), Warlock, Wizard;#!spells/Level3/Dispel Magic.md
-no conc,no concentration,no ritual,Paladin*,Wizard*;Elemental Weapon;3;Transmutation;Aether;1 action;;;1 hour;V, S;Paladin, Cleric (Forge), Wizard;#!spells/Level3/Elemental Weapon.md
+no conc,no concentration,no ritual,Paladin*,Wizard*;Elemental Weapon;3;Transmutation;Aether;1 action;;;1 hour;V, S;Paladin, Cleric (Forge), Sorcerer (Darkness Elemental), Sorcerer (Fire Elemental), Sorcerer (Water Elemental), Wizard;#!spells/Level3/Elemental Weapon.md
 no conc,no concentration,no ritual,Druid*,Ranger*,Wizard*;Endurion's Cold Arrows;3;Transmutation;Water;1 action;;;1 hour;V, S;Druid, Ranger, Wizard;#!spells/Level3/Endurions Cold Arrows.md
 no conc,no concentration,no ritual,Bard*,Warlock*,Wizard*;Enemies Abound;3;Enchantment (Compulsion);Fire;1 action;;;1 minute;V, S;Bard, Warlock, Wizard;#!spells/Level3/Enemies Abound.md
 no conc,no concentration,no ritual,Druid*,Sorcerer*,Wizard*;Erupting Earth;3;Transmutation;Earth;1 action;;;Instantaneous;V, S, M (a piece of obsidian);Druid, Sorcerer, Wizard;#!spells/Level3/Erupting Earth.md
@@ -281,7 +281,7 @@ no ritual,Wizard*;Black Tentacles;4;Conjuration (Creation);Earth;1 action;Concen
 no conc,no concentration,no ritual,Druid*,Warlock*,Wizard*;Blight;4;Necromancy (Black);Death;1 action;;;Instantaneous;V, S;Cleric (Death), Druid, Druid (Desert), Paladin (Oathbreaker), Warlock, Wizard, Cleric (Grave), Paladin (Conquest);#!spells/Level4/Blight.md
 no ritual,Warlock*;Calamitous Shadows;4;Necromancy (Black);Darkness/Demonology;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (a doomstone worth at least 150 gp);Warlock;#!spells/Level4/Calamitous Shadows.md
 no conc,no concentration,no ritual,Bard*,Druid*,Warlock*,Wizard*;Charm Monster;4;Enchantment (Charm);Fire;1 action;;;1 hour;V, S;Bard, Druid, Warlock, Wizard;#!spells/Level4/Charm Monster.md
-no ritual,Bard*;Compulsion;4;Enchantment (Compulsion);Darkness;1 action;Concentration;;1 minute;V, S;Bard;#!spells/Level4/Compulsion.md
+no ritual,Bard*;Compulsion;4;Enchantment (Compulsion);Darkness;1 action;Concentration;;1 minute;V, S;Bard, Sorcerer (Desire Demon);#!spells/Level4/Compulsion.md
 no conc,no concentration,no ritual,Wizard*;Cone of Cold;4;Evocation;Water;1 action;;;Instantaneous;V, S, F;Druid (Arctic), Wizard;#!spells/Level4/Cone of Cold.md
 no ritual,Bard*,Druid*,Wizard*;Confusion;4;Enchantment (Compulsion);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Bard, Cleric (Knowledge), Druid, Paladin (Oathbreaker), Warlock (Great Old One), Wizard, Paladin (Treachery);#!spells/Level4/Confusion.md
 no conc,no concentration,Warlock*,Wizard*;Conjure Remote Access Software;4;Conjuration (Creation);Aether;1 action;;Ritual;10 minutes;V, S;Warlock, Wizard, Warlock (Ghost in the Machine);#!spells/Level4/Conjure Remote Access Software.md
@@ -290,7 +290,7 @@ no conc,no concentration,no ritual,Wizard*;Corpse Explosion;4;Necromancy (Black)
 no conc,no concentration,no ritual,Cleric*,Paladin*;Death Ward;4;Abjuration;Light;1 action;;;8 hours;V, S;Cleric, Cleric (Death), Cleric (Life), Paladin, Warlock (Undying), Cleric (Grave), Cleric (Ambition);#!spells/Level4/Death Ward.md
 no conc,no concentration,no ritual,Bard*,Warlock*,Wizard*;Dimension Door;4;Conjuration (Teleportation);Aether;1 action;;;Instantaneous;V;Bard, Cleric (Trickery), Paladin (Vengeance), Warlock, Wizard, Cleric (Ambition);#!spells/Level4/Dimension Door.md
 no conc,no concentration,Cleric*;Divination;4;Divination;Water;1 action;;Ritual;Instantaneous;V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes);Cleric, Druid (Forest), Druid (Grassland);#!spells/Level4/Divination.md
-no ritual,Druid*;Dominate Beast;4;Enchantment (Compulsion);Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S;Cleric (Nature), Druid, Warlock (Archfey), Paladin (Conquest), Cleric (Strength);#!spells/Level4/Dominate Beast.md
+no ritual,Druid*;Dominate Beast;4;Enchantment (Compulsion);Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S;Cleric (Nature), Druid, Warlock (Archfey), Paladin (Conquest), Cleric (Strength), Sorcerer (Earth Elemental), Sorcerer (Desire Demon);#!spells/Level4/Dominate Beast.md
 no ritual,Druid*,Warlock*,Wizard*;Elemental Bane;4;Transmutation;Fire;1 action;Concentration;;1 minute;V, S;Druid, Warlock, Wizard;#!spells/Level4/Elemental Bane.md
 no ritual,Wizard*;Enclosing Sphere;4;Evocation;Aether;1 action;Concentration;;Concentration, up to 1 minute;V, S, F, M (a prasiolite);Wizard, Cleric (Protection);#!spells/Level4/Enclosing Sphere.md
 no conc,no concentration,no ritual,Wizard*;Ethereal Guardian;4;Conjuration (Summoning);Aether;10 minutes;;;8 hours;V, S, M (emerald dust worth at least 500 gp, which the spell consumes);Wizard;#!spells/Level4/Ethereal Guardian.md
@@ -298,7 +298,7 @@ no conc,no concentration,no ritual,Wizard*;Ethereal Storage;4;Conjuration (Telep
 no conc,no concentration,no ritual,Wizard*;Fabricate;4;Transmutation;Earth;10 minutes;;;Instantaneous;V, S;Wizard, Cleric (Forge);#!spells/Level4/Fabricate.md
 no conc,no concentration,no ritual,Paladin*;Find Greater Steed;4;Conjuration (Calling);Aether;10 minutes;;;Instantaneous;V, S, F, M (kaosite dust worth at least 100 gp, incense and herbs all of which the spell consumes;Paladin;#!spells/Level4/Find Greater Steed.md
 no conc,no concentration,no ritual,Wizard*;Flame Shield;4;Evocation;Fire;1 action;;;10 minutes;V, S, F;Warlock (Aeonian Flame), Warlock (Fiend), Wizard, Cleric (Zeal);#!spells/Level4/Flame Shield.md
-no conc,no concentration,no ritual,Bard*,Cleric*,Ranger*;Freedom of Movement;4;Abjuration;Air;1 action;;;1 hour;V, S, F;Bard, Cleric, Cleric (War), Cleric (Zeal) Druid, Druid (Arctic), Druid (Coast), Druid (Forest), Druid (Grassland), Druid (Swamp), Paladin (Devotion), Ranger, Warlock (Void);#!spells/Level4/Freedom of Movement.md
+no conc,no concentration,no ritual,Bard*,Cleric*,Ranger*;Freedom of Movement;4;Abjuration;Air;1 action;;;1 hour;V, S, F;Bard, Cleric, Cleric (War), Cleric (Zeal) Druid, Druid (Arctic), Druid (Coast), Druid (Forest), Druid (Grassland), Druid (Swamp), Paladin (Devotion), Ranger, Sorcerer (Air Elemental), Warlock (Void);#!spells/Level4/Freedom of Movement.md
 no ritual,Druid*;Giant Insect;4;Transmutation;Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S;Druid;#!spells/Level4/Giant Insect.md
 no conc,no concentration,no ritual,Druid*,Ranger*;Grasping Vine;4;Conjuration (Creation);Earth;1 bonus action;;;1 minute;V, S;Cleric (Nature), Druid, Ranger;#!spells/Level4/Grasping Vine.md
 no ritual,Bard*,Wizard*;Greater Invisibility;4;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;Bard, Druid (Underdark), Warlock (Archfey), Warlock (Void), Wizard, Paladin (Treachery);#!spells/Level4/Greater Invisibility.md
@@ -331,13 +331,13 @@ no ritual,Paladin*;Circle of Protection;5;Abjuration;Water;1 action;Concentratio
 no ritual,Wizard*;Cloudkill;5;Conjuration (Creation);Death;1 action;Concentration;;Concentration, up to 10 minutes;V, S;Cleric (Death), Druid (Subterranean), Warlock (Undying), Wizard;#!spells/Level5/Cloudkill.md
 no conc,no concentration,Warlock*,Wizard*;Commune with City;5;Divination;Aether;1 minute;;Ritual;Instantaneous;V, S;Warlock, Wizard, Cleric (City);#!spells/Level5/Commune with City.md
 no conc,no concentration,Druid*,Ranger*;Commune with Nature;5;Divination;Aether;1 minute;;Ritual;Instantaneous;V, S;Druid, Paladin (Ancients), Ranger;#!spells/Level5/Commune with Nature.md
-no conc,no concentration,Cleric*;Commune;5;Divination;Aether;1 minute;;Ritual;1 minute;V, S, M (incense and a vial of holy or unholy water);Cleric, Paladin (Devotion), Warlock (Seeker), Warlock (Undying);#!spells/Level5/Commune.md
+no conc,no concentration,Cleric*;Commune;5;Divination;Aether;1 minute;;Ritual;1 minute;V, S, M (incense and a vial of holy or unholy water);Cleric, Paladin (Devotion), Sorcerer (Djinni), Warlock (Seeker), Warlock (Undying);#!spells/Level5/Commune.md
 no conc,no concentration,Warlock*,Wizard*;Contact Other Plane;5;Divination;Aether;1 minute;;Ritual;1 minute;V;Warlock, Wizard;#!spells/Level5/Contact Other Plane.md
 no conc,no concentration,no ritual,Cleric*,Druid*,Warlock*;Contagion;5;Necromancy (Black);Death;1 action;;;7 days;V, S;Cleric, Druid, Paladin (Oathbreaker), Warlock;#!spells/Level5/Contagion.md
 no ritual,Druid*,Wizard*;Control Winds;5;Transmutation;Air;1 action;Concentration;;Concentration, up to 1 hour;V, S;Druid, Wizard;#!spells/Level5/Control Winds.md
 no ritual,Druid*,Wizard*;Creation;5;Illusion (Shadow);Darkness;1 minute;Concentration;;Concentration, up to 1 hour;V, S;Druid, Wizard;#!spells/Level5/Creation.md
 no conc,no concentration,no ritual,Warlock*,Wizard*;Danse Macabre;5;Necromancy (Black);Death;1 action;;;1 hour;V, S;Warlock, Wizard;#!spells/Level5/Danse Macabre.md
-no ritual,Cleric*,Wizard*;Dawn;5;Evocation;Light;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (a fiery beryl worth at least 100 gp);Cleric, Wizard, Warlock (Aeonian Flame);#!spells/Level5/Dawn.md
+no ritual,Cleric*,Wizard*;Dawn;5;Evocation;Light;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (a fiery beryl worth at least 100 gp);Cleric, Wizard, Sorcerer (Angel), Warlock (Aeonian Flame);#!spells/Level5/Dawn.md
 no conc,no concentration,no ritual,Paladin*;Destructive Wave;5;Evocation;Earth;1 action;;;Instantaneous;V, S;Cleric (Tempest), Cleric (Strength), Cleric (Zeal), Warlock (The Sentient Sword), Paladin;#!spells/Level5/Destructive Wave.md
 no ritual,Cleric*,Paladin*;Dispel Evil or Good;5;Abjuration;Water;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (holy or unholy water, which this spell consumes);Cleric, Paladin;#!spells/Level5/Dispel Evil or Good.md
 no conc,no concentration,no ritual,Bard*,Wizard*;Dominate Person;5;Enchantment (Compulsion);Darkness;1 action;;;1 minute;V, S;Bard, Cleric (Ambition), Cleric (Trickery), Warlock (Great Old One), Paladin (Conquest), Paladin (Oathbreaker), Paladin (Treachery), Warlock (Great Old One), Wizard;#!spells/Level5/Dominate Person.md
@@ -352,9 +352,9 @@ no ritual,Bard*,Warlock*,Wizard*;Hold Monster;5;Enchantment (Compulsion);Earth;1
 no ritual,Cleric*,Paladin*;Holy Weapon;5;Evocation;Light;1 bonus action;Concentration;;Concentration, up to 1 hour;V, S;Cleric, Paladin, Warlock (Aeonian Flame);#!spells/Level5/Holy Weapon.md
 no conc,no concentration,no ritual,Wizard*;Immolation;5;Evocation;Fire;1 action;;;30 seconds;V, S;Warlock (Fiend), Wizard;#!spells/Level5/Immolation.md
 no conc,no concentration,no ritual,Warlock*,Wizard*;Infernal Calling;5;Conjuration (Calling);Aether/Demonology;1 minute;;;Instantaneous/Infinite;V, S, M (a garnet or a doomstone worth at least 999 gp);Warlock, Wizard;#!spells/Level5/Infernal Calling.md
-no ritual,Cleric*,Druid*,Paladin*;Insect Plague;5;Conjuration (Summoning);Darkness;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;Cleric, Druid, Paladin, Warlock (Fiend);#!spells/Level5/Insect Plague.md
+no ritual,Cleric*,Druid*,Paladin*;Insect Plague;5;Conjuration (Summoning);Darkness;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;Cleric, Druid, Paladin, Sorcerer (Darkness Elemental), Warlock (Fiend);#!spells/Level5/Insect Plague.md
 no conc,no concentration,no ritual,Bard*,Cleric*,Warlock*,Wizard*;Legend Lore;5;Divination;Aether;10 minutes;;;Instantaneous;V, S, M (incense worth at least 500 gp and four gems, all of which the spell consumes);Bard, Cleric, Warlock, Wizard;#!spells/Level5/Legend Lore.md
-no ritual,Druid*;Maelstrom;5;Evocation;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;Druid;#!spells/Level5/Maelstrom.md
+no ritual,Druid*;Maelstrom;5;Evocation;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;Druid, Sorcerer (Water Elemental);#!spells/Level5/Maelstrom.md
 no conc,no concentration,no ritual,Warlock*,Wizard*;Mass Cure Wounds;5;Necromancy (White);Light;1 action;;;Instantaneous;V, S;Warlock, Wizard;#!spells/Level5/Mass Cure Wounds.md
 no ritual,Bard*,Wizard*;Mislead;5;Illusion (Figment);Darkness;1 action;Concentration;;Concentration, up to 1 hour;S;Bard, Warlock (Archfey), Warlock (Void), Wizard;#!spells/Level5/Mislead.md
 no ritual,Bard*,Wizard*;Modify Memory;5;Enchantment (Charm);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;Bard, Cleric (Ambition), Cleric (Trickery), Warlock (Void), Wizard;#!spells/Level5/Modify Memory.md
@@ -383,8 +383,8 @@ no ritual,Warlock*,Wizard*;Wall of Light;5;Evocation;Light;1 action;Concentratio
 no ritual,Druid*,Wizard*;Wall of Stone;5;Evocation;Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;Druid, Wizard;#!spells/Level5/Wall of Stone.md
 no ritual,Druid*,Ranger*;Wrath of Nature;5;Conjuration (Calling);Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S;Druid, Ranger, Warlock (Archfey);#!spells/Level5/Wrath of Nature.md
 no ritual,Warlock*,Wizard*;Arcane Gate;6;Conjuration (Teleportation);Aether;1 action;Concentration;;Concentration, up to 10 minutes;V, S;Warlock, Wizard;#!spells/Level6/Arcane Gate.md
-no ritual,Cleric*;Blade Barrier;6;Illusion (Shadow);Darkness;1 action;Concentration;;Concentration, up to 10 minutes;V, S;Cleric;#!spells/Level6/Blade Barrier.md
-no conc,no concentration,no ritual,Druid*;Bones of the Earth;6;Conjuration (Creation);Earth;1 action;;;Instantaneous;V, S;Druid;#!spells/Level6/Bones of the Earth.md
+no ritual,Cleric*;Blade Barrier;6;Illusion (Shadow);Darkness;1 action;Concentration;;Concentration, up to 10 minutes;V, S;Cleric, Sorcerer (Blade Barrier);#!spells/Level6/Blade Barrier.md
+no conc,no concentration,no ritual,Druid*;Bones of the Earth;6;Conjuration (Creation);Earth;1 action;;;Instantaneous;V, S;Druid, Sorcerer (Earth Elemental);#!spells/Level6/Bones of the Earth.md
 no conc,no concentration,no ritual,Wizard*;Celeste's Freezing Sphere;6;Evocation;Water;1 action;;;Instantaneous;V, S, F;Wizard;#!spells/Level6/Celestes Freezing Sphere.md
 no conc,no concentration,no ritual,Wizard*;Chain Lightning;6;Evocation;Air;1 action;;;Instantaneous;V, S, F;Wizard;#!spells/Level6/Chain Lightning.md
 no conc,no concentration,no ritual,Warlock*,Wizard*;Circle of Death;6;Necromancy (Black);Death;1 action;;;Instantaneous;V, S, M (an onyx worth at least 500 gp);Warlock, Wizard;#!spells/Level6/Circle of Death.md

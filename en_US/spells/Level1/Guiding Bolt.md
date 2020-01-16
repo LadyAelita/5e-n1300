@@ -1,6 +1,6 @@
 ## Guiding Bolt
 
-Classes: **Cleric, Cleric (Solidarity), Warlock (Aeonian Flame)**  
+Classes: **Cleric, Cleric (Solidarity), Sorcerer (Angel), Warlock (Aeonian Flame)**  
 Level: **1**  
 
 School: **Evocation**  

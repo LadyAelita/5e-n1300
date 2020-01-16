@@ -1,6 +1,6 @@
 ## Bones of the Earth
 
-Classes: **Druid**  
+Classes: **Druid, Sorcerer (Earth Elemental)**  
 Level: **6**  
 
 School: **Conjuration (Creation)**  
