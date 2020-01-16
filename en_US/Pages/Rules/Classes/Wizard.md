@@ -122,7 +122,9 @@ Choose **two 3rd-level** Wizard spells **in your spellbook** as your **signature
 
 If you want to cast either spell at a **higher level**, you must **expend a spell slot** as normal.
 
-# List of Arcane Traditions
+# Arcane Traditions
+
+## List of Arcane Traditions
 
 * **Abjuration:** The School of Abjuration emphasizes magic that blocks, banishes, or protects. Detractors of this school say that its tradition is about denial, negation rather than positive assertion. You understand, however, that ending harmful effects, protecting the weak, and banishing evil influences is anything but a philosophical void. It is a proud and respected vocation. Called abjurers, members of this school are sought when baleful spirits require exorcism, when important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.
 * **Bladesinging:** Bladesingers are wizards who master a school of sword fighting grounded in a tradition of arcane magic. In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.
@@ -695,7 +697,7 @@ You can use your **action** to consume the reserve of Transmutation magic stored
 
 ## Arcane Tradition: School of War Magic
 
-**Bonus Proficiencies**
+### Bonus Proficiencies
 
 You become **proficient** with **light armor** and **shields**.
 
