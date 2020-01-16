@@ -1,6 +1,6 @@
 ## Cold Nova
 
-Classes: **Wizard**  
+Classes: **Warlock (Fiend), Wizard**  
 Level: **2**  
 
 School: **Evocation**  

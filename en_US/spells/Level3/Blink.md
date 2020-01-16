@@ -1,6 +1,6 @@
 ## Blink
 
-Classes: **Cleric (Trickery), Warlock (Archfey), Wizard, Warlock (Hexblade)**  
+Classes: **Cleric (Trickery), Warlock (Archfey), Warlock (Void), Wizard**  
 Level: **3**  
 
 School: **Conjuration (Teleportation)**  

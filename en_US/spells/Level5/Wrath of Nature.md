@@ -1,6 +1,6 @@
 ## Wrath of Nature
 
-Classes: **Druid, Ranger**  
+Classes: **Druid, Ranger, Warlock (Archfey)**  
 Level: **5**  
 
 School: **Conjuration (Calling)**  

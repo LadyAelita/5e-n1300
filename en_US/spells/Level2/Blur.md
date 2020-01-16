@@ -1,6 +1,6 @@
 ## Blur
 
-Classes: **Druid (Desert), Wizard**  
+Classes: **Druid (Desert), Warlock (Void), Wizard**  
 Level: **2**  
 
 School: **Illusion (Glamer)**  

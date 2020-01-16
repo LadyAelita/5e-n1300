@@ -1,6 +1,6 @@
 ## Bestow Curse
 
-Classes: **Bard, Cleric, Cleric (Ambition), Paladin (Oathbreaker), Wizard**  
+Classes: **Bard, Cleric, Cleric (Ambition), Paladin (Oathbreaker), Warlock (Great Old One), Wizard**  
 Level: **3**  
 
 School: **Necromancy (Black)**  

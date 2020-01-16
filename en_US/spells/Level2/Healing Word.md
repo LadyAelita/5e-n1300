@@ -1,6 +1,6 @@
 ## Healing Word
 
-Classes: **Bard, Cleric, Druid, Warlock (Celestial)**  
+Classes: **Bard, Cleric, Druid, Warlock (Aeonian Flame)**  
 Level: **2**  
 
 School: **Necromancy (White)**  

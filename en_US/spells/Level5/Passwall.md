@@ -1,6 +1,6 @@
 ## Passwall
 
-Classes: **Druid (Mountain), Paladin (Treachery), Wizard, Warlock (Seeker)**  
+Classes: **Druid (Mountain), Paladin (Treachery), Warlock (Seeker), Wizard**  
 Level: **5**  
 
 School: **Transmutation**  

@@ -1,6 +1,6 @@
 ## Holy Weapon
 
-Classes: **Cleric, Paladin**  
+Classes: **Cleric, Paladin, Warlock (Aeonian Flame)**  
 Level: **5**  
 
 School: **Evocation**  

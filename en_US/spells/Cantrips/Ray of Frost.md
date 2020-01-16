@@ -1,6 +1,6 @@
 ## Ray of Frost
 
-Classes: **Wizard**  
+Classes: **Warlock (Undying), Warlock (Void), Wizard**  
 Level: **0**  
 
 School: **Evocation**  

@@ -1,6 +1,6 @@
 ## Nondetection
 
-Classes: **Bard, Cleric (Knowledge), Ranger, Wizard**  
+Classes: **Bard, Cleric (Knowledge), Ranger, Warlock (Void), Wizard**  
 Level: **3**  
 
 School: **Abjuration**  

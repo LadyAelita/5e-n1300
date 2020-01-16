@@ -1,6 +1,6 @@
 ## Commune
 
-Classes: **Cleric, Paladin (Devotion)**  
+Classes: **Cleric, Paladin (Devotion), Warlock (Seeker), Warlock (Undying)**  
 Level: **5**  
 
 School: **Divination**  

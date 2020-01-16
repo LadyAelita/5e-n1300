@@ -1,6 +1,6 @@
 ## Flame Shield
 
-Classes: **Warlock (Fiend), Wizard, Warlock (Eternal Flame), Cleric (Zeal)**  
+Classes: **Warlock (Aeonian Flame), Warlock (Fiend), Wizard, Cleric (Zeal)**  
 Level: **4**  
 
 School: **Evocation**  

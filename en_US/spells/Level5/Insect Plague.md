@@ -1,6 +1,6 @@
 ## Insect Plague
 
-Classes: **Cleric, Druid, Paladin**  
+Classes: **Cleric, Druid, Paladin, Warlock (Fiend)**  
 Level: **5**  
 
 School: **Conjuration (Summoning)**  

@@ -1,6 +1,6 @@
 ## Silence
 
-Classes: **Bard, Cleric, Ranger,  Druid (Desert), Warlock (Undying)**  
+Classes: **Bard, Cleric, Ranger, Druid (Desert), Warlock (Undying), Warlock (Void)**  
 Level: **2**  
 
 School: **Illusion (Glamer)**  

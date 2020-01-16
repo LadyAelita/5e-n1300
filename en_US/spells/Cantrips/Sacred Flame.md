@@ -1,6 +1,6 @@
 ## Sacred Flame
 
-Classes: **Cleric**  
+Classes: **Cleric, Warlock (Aeonian Flame)**  
 Level: **0**  
 
 School: **Evocation**  

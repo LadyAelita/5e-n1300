@@ -1,6 +1,6 @@
 ## Khaalt's Acid Arrow
 
-Classes: **Druid (Swamp), Wizard**  
+Classes: **Druid (Swamp), Warlock (Undying), Wizard**  
 Level: **2**  
 
 School: **Evocation**  

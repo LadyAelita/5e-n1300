@@ -1,6 +1,6 @@
 ## Cloudkill
 
-Classes: **Cleric (Death), Druid (Subterranean), Wizard**  
+Classes: **Cleric (Death), Druid (Subterranean), Warlock (Undying), Wizard**  
 Level: **5**  
 
 School: **Conjuration (Creation)**  

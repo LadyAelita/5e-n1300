@@ -1,6 +1,6 @@
 ## False Life
 
-Classes: **Cleric (Death), Cleric (Grave), Wizard**  
+Classes: **Cleric (Death), Cleric (Grave), Warlock (Undying), Wizard**  
 Level: **1**  
 
 School: **Necromancy (Black)**  

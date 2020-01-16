@@ -1,6 +1,6 @@
 ## Immolation
 
-Classes: **Wizard**  
+Classes: **Warlock (Fiend), Wizard**  
 Level: **5**  
 
 School: **Evocation**  

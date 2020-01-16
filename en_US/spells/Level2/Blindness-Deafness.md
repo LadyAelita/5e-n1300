@@ -1,6 +1,6 @@
 ## Blindness/Deafness
 
-Classes: **Bard, Cleric, Cleric (Death), Warlock (Fiend), Warlock (Undying), Wizard**  
+Classes: **Bard, Cleric, Cleric (Death), Warlock (Great Old One), Warlock (Undying), Warlock (Void), Wizard**  
 Level: **2**  
 
 School: **Necromancy (Black)**  

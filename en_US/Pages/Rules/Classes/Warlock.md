@@ -284,7 +284,7 @@ The following spells are added to the warlock spell list for you, giving you the
 | **1st** | Faerie Fire, Silent Image, Sleep                    |
 | **2nd** | Calm Emotions, Spike Growth, Phantasmal Force       |
 | **3rd** | Blink, Meld into Stone, Plant Growth                |
-| **4th** | Charm Monster, Dominate Beast, Greater Invisibility |
+| **4th** | Control Water, Dominate Beast, Greater Invisibility |
 | **5th** | Mislead, Seeming, Wrath of Nature                   |
 
 ### Fey Presence (1st Level)
@@ -323,7 +323,7 @@ The following spells are added to the warlock spell list for you, giving you the
 
 | Circle  | Spells                                        |
 | ------- | --------------------------------------------- |
-| **1st** | Bane, Burning Hands, Command                  |
+| **1st** | Bane, Burning Hands, Inflict Wounds           |
 | **2nd** | Blazing Burst, Cold Nova, Scorching Ray       |
 | **3rd** | Fireball, Sleet Storm, Protection from Energy |
 | **4th** | Flame Shield, Vitriolic Sphere, Wall of Fire  |
@@ -369,7 +369,7 @@ The following spells are added to the warlock spell list for you, giving you the
 | ------- | ----------------------------------------------------- |
 | **1st** | Dissonant Whispers, Hideous Laughter, Sanctuary       |
 | **2nd** | Blindness/Deafness, Detect Thoughts, Phantasmal Force |
-| **3rd** | Clairvoyance, Hypnotic Pattern, Sending               |
+| **3rd** | Bestow Curse, Clairvoyance, Sending                   |
 | **4th** | Black Tentacles, Confusion, Phantasmal Killer         |
 | **5th** | Dominate Person, Geas, Telepathic Bond                |
 
@@ -417,7 +417,7 @@ The following spells are added to the warlock spell list for you, giving you the
 | **2nd** | Augury, Levitate, Locate Object                 |
 | **3rd** | Clairvoyance, Malcolm's Minute Meteors, Sending |
 | **4th** | Arcane Eye, Arcane Sanctum, Locate Creature     |
-| **5th** | Animate Objects, Legend Lore, Passwall          |
+| **5th** | Animate Objects, Commune, Passwall              |
 
 ### Shielding Aurora (1st level)
 
@@ -459,7 +459,7 @@ The following spells are added to the warlock spell list for you, giving you the
 | **2nd** | Blindness/Deafness, Khaalt's Acid Arrow, Silence |
 | **3rd** | Feign Death, Speak with the Dead, Stinking Cloud |
 | **4th** | Corpse Explosion, Death Ward, Stoneskin          |
-| **5th** | Cloudkill, Contagion, Legend Lore                |
+| **5th** | Antilife Shell, Cloudkill, Commune               |
 
 ### One of Us (1st level)
 

@@ -1,6 +1,6 @@
 ## Magic Bolt
 
-Classes: **Wizard**  
+Classes: **Warlock (Seeker), Wizard**  
 Level: **0**  
 
 School: **Evocation**  

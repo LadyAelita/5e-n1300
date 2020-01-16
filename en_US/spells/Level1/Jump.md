@@ -1,6 +1,6 @@
 ## Jump
 
-Classes: **Druid, Ranger, Warlock (Seeker), Wizard**  
+Classes: **Druid, Ranger, Wizard**  
 Level: **1**  
 
 School: **Transmutation**  

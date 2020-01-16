@@ -1,6 +1,6 @@
 ## Burning Hands
 
-Classes: **Cleric (Light), Warlock (Fiend), Warlock (Eternal Flame), Wizard**  
+Classes: **Cleric (Light), Warlock (Aeonian Flame), Warlock (Fiend), Wizard**  
 Level: **1**  
 
 School: **Evocation**  

@@ -1,6 +1,6 @@
 ## Control Water
 
-Classes: **Cleric, Cleric (Tempest), Druid, Druid (Coast), Wizard**  
+Classes: **Cleric, Cleric (Tempest), Druid, Druid (Coast), Warlock (Archfey), Wizard**  
 Level: **4**  
 
 School: **Transmutation**  

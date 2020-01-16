@@ -1,6 +1,6 @@
 ## Sleet Storm
 
-Classes: **Cleric (Tempest), Druid, Druid (Arctic), Wizard**  
+Classes: **Cleric (Tempest), Druid, Druid (Arctic), Warlock (Fiend), Wizard**  
 Level: **3**  
 
 School: **Conjuration (Creation)**  

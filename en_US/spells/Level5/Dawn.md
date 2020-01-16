@@ -1,6 +1,6 @@
 ## Dawn
 
-Classes: **Cleric, Wizard**  
+Classes: **Cleric, Wizard, Warlock (Aeonian Flame)**  
 Level: **5**  
 
 School: **Evocation**  

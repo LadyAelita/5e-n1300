@@ -1,6 +1,6 @@
 ## Daylight
 
-Classes: **Cleric, Cleric (Light), Druid, Druid (Grassland), Paladin, Ranger, Sorcerer, Warlock (Eternal Flame)**  
+Classes: **Cleric, Cleric (Light), Druid, Druid (Grassland), Paladin, Ranger, Sorcerer, Warlock (Aeonian Flame)**  
 Level: **3**  
 
 School: **Evocation**  

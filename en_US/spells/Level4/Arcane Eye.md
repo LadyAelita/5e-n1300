@@ -1,6 +1,6 @@
 ## Arcane Eye
 
-Classes: **Cleric (Arcana), Cleric (Knowledge), Wizard, Warlock (Seeker)**  
+Classes: **Cleric (Arcana), Cleric (Knowledge), Warlock (Seeker), Wizard**  
 Level: **4**  
 
 School: **Divination (Scrying)**  

@@ -1,6 +1,6 @@
 ## Phantasmal Killer
 
-Classes: **Wizard**  
+Classes: **Warlock (Great Old One), Wizard**  
 Level: **4**  
 
 School: **Illusion (Phantasm)**  

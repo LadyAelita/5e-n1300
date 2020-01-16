@@ -1,6 +1,6 @@
 ## Fog Cloud
 
-Classes: **Cleric (Tempest), Druid, Ranger, Wizard**  
+Classes: **Cleric (Tempest), Druid, Ranger, Warlock (Void), Wizard**  
 Level: **1**  
 
 School: **Conjuration (Creation)**  

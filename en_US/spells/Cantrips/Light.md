@@ -1,6 +1,6 @@
 ## Light
 
-Classes: **Bard, Cleric, Wizard**  
+Classes: **Bard, Cleric, Warlock (Aeonian Flame), Wizard**  
 Level: **0**  
 
 School: **Evocation**  

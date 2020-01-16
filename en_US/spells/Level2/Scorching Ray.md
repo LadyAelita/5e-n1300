@@ -1,6 +1,6 @@
 ## Scorching Ray
 
-Classes: **Wizard, Cleric (Light), Warlock (Fiend)**  
+Classes: **Wizard, Cleric (Light), Warlock (Aeonian Flame), Warlock (Fiend)**  
 Level: **2**  
 
 School: **Evocation**  

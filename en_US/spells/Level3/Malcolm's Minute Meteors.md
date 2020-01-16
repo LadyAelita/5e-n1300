@@ -1,6 +1,6 @@
 ## Malcolm's Minute Meteors
 
-Classes: **Wizard**  
+Classes: **Warlock (Seeker), Wizard**  
 Level: **3**  
 
 School: **Conjuration (Creation)**  

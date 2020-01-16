@@ -1,6 +1,6 @@
 ## Mislead
 
-Classes: **Bard, Wizard**  
+Classes: **Bard, Warlock (Archfey), Warlock (Void), Wizard**  
 Level: **5**  
 
 School: **Illusion (Figment)**  

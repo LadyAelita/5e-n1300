@@ -1,6 +1,6 @@
 ## Silent Image
 
-Classes: **Bard, Wizard**  
+Classes: **Bard, Warlock (Archfey), Wizard**  
 Level: **1**  
 
 School: **Illusion (Figment)**  

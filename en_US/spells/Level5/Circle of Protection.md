@@ -1,6 +1,6 @@
 ## Circle of Protection
 
-Classes: **Paladin, Cleric (Solidarity)**  
+Classes: **Cleric (Solidarity), Paladin, Warlock (Void)**  
 Level: **5**  
 
 School: **Abjuration**  

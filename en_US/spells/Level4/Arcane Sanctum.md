@@ -1,6 +1,6 @@
 ## Arcane Sanctum
 
-Classes: **Wizard**  
+Classes: **Warlock (Seeker), Warlock (Void), Wizard**  
 Level: **4**  
 
 School: **Abjuration**  

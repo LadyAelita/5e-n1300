@@ -1,6 +1,6 @@
 ## Wall of Fire
 
-Classes: **Cleric (Light), Druid, Warlock (Fiend), Wizard, Cleric (Forge), Warlock (Eternal Flame)**  
+Classes: **Cleric (Forge), Cleric (Light), Druid, Warlock (Aeonian Flame), Warlock (Fiend), Wizard**  
 Level: **4**  
 
 School: **Evocation**  

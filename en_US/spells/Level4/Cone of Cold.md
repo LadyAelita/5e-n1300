@@ -1,6 +1,6 @@
 ## Cone of Cold
 
-Classes: **Druid (Arctic), Wizard, Warlock (Hexblade)**  
+Classes: **Druid (Arctic), Wizard**  
 Level: **4**  
 
 School: **Evocation**  

@@ -1,6 +1,6 @@
 ## Spare the Dying
 
-Classes: **Cleric, Sorcerer (Angel)**  
+Classes: **Cleric, Sorcerer (Angel), Warlock (Undying)**  
 Level: **0**  
 
 School: **Necromancy (White)**  

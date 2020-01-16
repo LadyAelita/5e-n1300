@@ -1,6 +1,6 @@
 ## Telekinesis
 
-Classes: **Warlock (Great Old One), Wizard**  
+Classes: **Wizard**  
 Level: **5**  
 
 School: **Evocation**  

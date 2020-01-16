@@ -1,6 +1,6 @@
 ## Animate Objects
 
-Classes: **Bard, Wizard, Cleric (Forge)**  
+Classes: **Bard, Warlock (Seeker), Wizard, Cleric (Forge)**  
 Level: **5**  
 
 School: **Transmutation**  

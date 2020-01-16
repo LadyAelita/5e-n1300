@@ -1,6 +1,6 @@
 ## Geas
 
-Classes: **Bard, Cleric, Druid, Paladin, Wizard**  
+Classes: **Bard, Cleric, Druid, Paladin, Warlock (Great Old One), Wizard**  
 Level: **5**  
 
 School: **Enchantment (Compulsion)**  

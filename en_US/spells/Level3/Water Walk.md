@@ -1,6 +1,6 @@
 ## Water Walk
 
-Classes: **Cleric, Druid, Druid (Coast), Druid (Swamp), Ranger, Sorcerer (Water Elemental)**  
+Classes: **Cleric, Druid, Druid (Coast), Druid (Swamp), Ranger, Sorcerer (Water Elemental), Warlock (Void)**  
 Level: **3**  
 
 School: **Transmutation**  

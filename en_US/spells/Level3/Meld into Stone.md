@@ -1,6 +1,6 @@
 ## Meld into Stone
 
-Classes: **Cleric, Druid, Druid (Mountain), Sorcerer (Earth Elemental)**  
+Classes: **Cleric, Druid, Druid (Mountain), Sorcerer (Earth Elemental), Warlock (Archfey)**  
 Level: **3**  
 
 School: **Transmutation**  

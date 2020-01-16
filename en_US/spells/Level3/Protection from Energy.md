@@ -1,6 +1,6 @@
 ## Protection from Energy
 
-Classes: **Cleric, Druid, Druid (Desert), Paladin (Ancients), Paladin (Vengeance), Ranger, Wizard, Cleric (Forge), Cleric (Protection), Cleric (Strength)**  
+Classes: **Cleric, Cleric (Forge), Cleric (Protection), Cleric (Strength), Druid, Druid (Desert), Paladin (Ancients), Paladin (Vengeance), Ranger, Warlock (Fiend), Wizard**  
 Level: **3**  
 
 School: **Abjuration**  

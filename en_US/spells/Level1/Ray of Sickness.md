@@ -1,6 +1,6 @@
 ## Ray of Sickness
 
-Classes: **Cleric (Death), Wizard**  
+Classes: **Cleric (Death), Warlock (Undying), Wizard**  
 Level: **1**  
 
 School: **Necromancy (Black)**  

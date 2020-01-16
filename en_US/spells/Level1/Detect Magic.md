@@ -1,6 +1,6 @@
 ## Detect Magic
 
-Classes: **Bard, Cleric, Cleric (Arcana), Druid, Paladin, Ranger, Sorcerer, Wizard**  
+Classes: **Bard, Cleric, Cleric (Arcana), Druid, Paladin, Ranger, Sorcerer, Warlock (Seeker), Wizard**  
 Level: **1**  
 
 School: **Divination**  

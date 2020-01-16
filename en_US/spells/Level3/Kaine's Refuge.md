@@ -1,6 +1,6 @@
 ## Kaine's Refuge
 
-Classes: **Bard, Wizard**  
+Classes: **Bard, Wizard, Warlock (Aeonian Flame)**  
 Level: **3**  
 
 School: **Evocation**  

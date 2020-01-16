@@ -1,6 +1,6 @@
 ## Dominate Beast
 
-Classes: **Cleric (Nature), Druid, Warlock (Archfey), Warlock (Great Old One), Paladin (Conquest), Cleric (Strength)**  
+Classes: **Cleric (Nature), Druid, Warlock (Archfey), Paladin (Conquest), Cleric (Strength)**  
 Level: **4**  
 
 School: **Enchantment (Compulsion)**  

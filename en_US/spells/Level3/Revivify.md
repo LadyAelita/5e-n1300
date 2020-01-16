@@ -1,6 +1,6 @@
 ## Revivify
 
-Classes: **Cleric, Cleric (Life), Paladin, Cleric (Grave), Warlock (Eternal Flame)**  
+Classes: **Cleric, Cleric (Life), Paladin, Cleric (Grave), Warlock (Aeonian Flame)**  
 Level: **3**  
 
 School: **Necromancy (White)**  

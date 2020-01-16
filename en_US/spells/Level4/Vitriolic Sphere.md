@@ -1,6 +1,6 @@
 ## Vitriolic Sphere
 
-Classes: **Wizard**  
+Classes: **Warlock (Fiend), Wizard**  
 Level: **4**  
 
 School: **Conjuration (Creation)**  

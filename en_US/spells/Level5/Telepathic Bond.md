@@ -1,6 +1,6 @@
 ## Telepathic Bond
 
-Classes: **Wizard**  
+Classes: **Warlock (Great Old One), Wizard**  
 Level: **5**  
 
 School: **Divination**  

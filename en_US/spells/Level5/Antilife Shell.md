@@ -1,6 +1,6 @@
 ## Antilife Shell
 
-Classes: **Cleric (Death), Cleric (Protection), Cleric (Grave), Druid**  
+Classes: **Cleric (Death), Cleric (Protection), Cleric (Grave), Druid, Warlock (Undying)**  
 Level: **5**  
 
 School: **Abjuration**  

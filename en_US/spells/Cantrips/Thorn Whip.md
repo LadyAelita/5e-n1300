@@ -1,6 +1,6 @@
 ## Thorn Whip
 
-Classes: **Druid**  
+Classes: **Druid, Warlock (Archfey)**  
 Level: **0**  
 
 School: **Transmutation**  

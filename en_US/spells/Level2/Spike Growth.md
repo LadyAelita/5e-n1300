@@ -1,6 +1,6 @@
 ## Spike Growth
 
-Classes: **Cleric (Nature), Druid, Druid (Arctic), Druid (Mountain), Ranger**  
+Classes: **Cleric (Nature), Druid, Druid (Arctic), Druid (Mountain), Ranger, Warlock (Archfey)**  
 Level: **2**  
 
 School: **Transmutation**  

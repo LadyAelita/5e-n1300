@@ -1,6 +1,6 @@
 ## Stinking Cloud
 
-Classes: **Bard, Druid (Swamp), Druid (Underdark), Warlock (Fiend), Wizard**  
+Classes: **Bard, Druid (Swamp), Druid (Underdark), Warlock (Fiend), Warlock (Undying), Wizard**  
 Level: **3**  
 
 School: **Conjuration (Creation)**  

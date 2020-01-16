@@ -1,6 +1,6 @@
 ## Cure Wounds
 
-Classes: **Bard, Cleric, Druid, Paladin, Ranger, Sorcerer (Angel), Warlock (Eternal Flame)**  
+Classes: **Bard, Cleric, Druid, Paladin, Ranger, Sorcerer (Angel), Warlock (Aeonian Flame)**  
 Level: **1**  
 
 School: **Necromancy (White)**  

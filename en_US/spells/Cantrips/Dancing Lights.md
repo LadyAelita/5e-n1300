@@ -1,6 +1,6 @@
 ## Dancing Lights
 
-Classes: **Bard, Wizard**  
+Classes: **Bard, Warlock (Seeker), Wizard**  
 Level: **0**  
 
 School: **Evocation**  

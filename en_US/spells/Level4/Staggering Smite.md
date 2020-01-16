@@ -1,6 +1,6 @@
 ## Staggering Smite
 
-Classes: **Paladin, Warlock (Hexblade)**  
+Classes: **Paladin**  
 Level: **4**  
 
 School: **Evocation**  

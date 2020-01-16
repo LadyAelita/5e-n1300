@@ -1,6 +1,6 @@
 ## Guardian of Faith
 
-Classes: **Cleric, Cleric (Life), Cleric (Light), Paladin (Crown), Paladin (Devotion), Cleric (Protection), Cleric (Solidarity), Warlock (Eternal Flame)**  
+Classes: **Cleric, Cleric (Life), Cleric (Light), Cleric (Protection), Cleric (Solidarity), Paladin (Crown), Paladin (Devotion), Warlock (Aeonian Flame)**  
 Level: **4**  
 
 School: **Conjuration (Summoning)**  
