@@ -68,6 +68,8 @@ You get **one** additional language, which you use for the verbal component of y
 
 You must have a **Charisma** score of **13 or higher** in order to multiclass into this class.
 
+---
+
 ## Pact Magic (1st level)
 
 | Property                  | Value/description                                            |
@@ -141,6 +143,8 @@ Choose **one 9th-level spell** from **any class' spell list** as your Transcende
 
 You regain your Transcendent Arcanum spell slot on a **long rest**.
 
+---
+
 # Pact Boons
 
 ## List of Pact Boons
@@ -148,6 +152,8 @@ You regain your Transcendent Arcanum spell slot on a **long rest**.
 * **Pact of the Blade:** You are given a weapon that makes use of your magic in order to boost your martial skills.
 * **Pact of the Chain:** An extraplanar creature serves you as a familiar with extended capabilities.
 * **Pact of the Tome:** A script of forgotten lore about spells that would otherwise be beyond your reach.
+
+---
 
 ## Pact Boon: Pact of the Blade
 
@@ -171,6 +177,8 @@ You can attack twice instead of once on each turn, as long as you're attacking w
 
 You add your Charisma modifier to the damage you deal with your pact weapon.
 
+---
+
 ## Pact Boon: Pact of the Chain
 
 ### Pact Servant (3rd Level)
@@ -191,6 +199,8 @@ Your familiar's maximum health is increased by your Warlock level.
 
 As long as your familiar is **within 5 feet of you**, you are **resistant** to everything your familiar is **resistant or immune** to, except for piercing, slashing or bludgeoning damage.
 
+---
+
 ## Pact Boon: Pact of the Tome
 
 ### Script of Shadows (3rd level)
@@ -209,6 +219,8 @@ You can choose **three spells with the ritual tag** from **any class' spell list
 
 You add **one spell of 6th or lower level** from **any class' spell list** to your Script of Shadows. As long as it's on your person, you can cast this spell **once a day without expending a spell slot**.
 
+---
+
 # Otherworldly Patrons
 
 ## List of Otherworldly Patrons
@@ -220,6 +232,8 @@ You add **one spell of 6th or lower level** from **any class' spell list** to yo
 * **The Seeker:** Your patron is an inscrutable being who seeks knowledge and secrets. In return for your patron’s gifts, you wander the world seeking lore that you can share with the Seeker.
 * **The Undying:** Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize – like all power – comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death.
 * **The Void:** You have made a pact with a creature from the Void, a personification of absence and nothingness, giving you command over those concepts.
+
+---
 
 ## Otherworldly Patron: The Aeonian Flame
 
@@ -269,6 +283,8 @@ Additionally, choose **up to five creatures** you can see **at the end of the re
 
 You regain **hit points** equal to **half your hit point maximum**, regaining complete consciousness, and then you **stand up** if you so choose. Each creature of your choice that is **within 30 feet** of you takes **radiant damage** equal to **2d8 + your Charisma modifier**, and **is blinded** until the **end of your next turn**.
 
+---
+
 ## Otherworldly Patron: The Archfey
 
 ### Bonus Cantrips
@@ -310,6 +326,8 @@ You are **immune** to being **charmed**, and when another creature **attempts to
 *In the darkest hour, you call upon the light of the stars.*
 
 **Once per day**, as an **action**, any number of creatures of your choice **within 30 feet** of you take **4d12 + your Charisma modifier radiant damage** and are **blinded** until the **end of your next turn**.
+
+---
 
 ## Otherworldly Patron: The Fiend
 
@@ -354,6 +372,8 @@ You can choose **one damage type** when you **finish** a short or long **rest**.
 At the **start of your next turn**, you take **5d8 bludgeoning damage** and **5d8** of either **hellfire** or **supernatural cold** damage (for Hell and Abyss respectively). Your target instead takes **5d10 bludgeoning**, **5d10 hellfire/supernatural cold**, and **5d10 psychic** damage. If the target is a creature **native** to the plane of **Hell**, it **doesn't take** the **psychic** damage.
 
 If **any** of you **survive** the damage, another portal opens in a **location of your choice within 30 feet of the previous one**, and those that have **survived** the infernal voyage **drop out**, falling **prone** in the nearest unoccupied space (you choose for both creatures if there are many such spaces). Those that have **dropped to 0 hit** points **remain in Hell**.
+
+---
 
 ## Otherworldly Patron: The Great Old One
 
@@ -401,6 +421,8 @@ You can use your **action** to touch an **incapacitated** or **willing** **human
 
 You can **communicate telepathically** with the charmed creature as long as the two of you are on **the same plane** of existence. The charmed creature **isn't forced** to obey you **directly**, however it grows **increasingly fascinated** with you over time, **slowly turning** into a loyal servant. It **never** becomes **mindlessly** loyal, though.
 
+---
+
 ## Otherworldly Patron: The Seeker
 
 ### Bonus Cantrips
@@ -442,6 +464,8 @@ You no longer need to breathe, and you gain **resistance** to **fire** damage an
 **Once per day**, by performing a special **ritual** over the course of **1 minute**, you shift **yourself** and **up to ten willing creatures** you can see to the Ethereal Plane. You and those creatures gain the **benefits of a long rest**, other than refreshing this feature's cooldown, while sequestered. You then return to the spaces you all occupied when you used this ability, with **no time having passed** in the world.
 
 During this long rest, you and the creatures you sequester can make use of any options available during a rest that affect only you and the creatures you sequester.
+
+---
 
 ## Otherworldly Patron: The Undying
 
@@ -488,6 +512,8 @@ Moreover, you are **resistant** to **necrotic** damage.
 At the **start of your turn**, if you have **0 hit points**, you can **regain a hit point** and **immediately rise up**, even if your body has been mutilated, as long as it still has enough parts to let you perform any type of action.
 
 You can use this feature a number of times equal to **your Charisma modifier per day**.
+
+---
 
 ## Otherworldly Patron: The Void
 

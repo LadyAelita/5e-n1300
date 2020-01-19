@@ -56,6 +56,8 @@ Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefica
 
 You must have an **Intelligence** score of **13 or higher** in order to multiclass into this class.
 
+---
+
 ## Spellcasting (1st level)
 
 | Property                  | Value/description                                            |
@@ -122,6 +124,8 @@ Choose **two 3rd-level** Wizard spells **in your spellbook** as your **signature
 
 If you want to cast either spell at a **higher level**, you must **expend a spell slot** as normal.
 
+---
+
 # Arcane Traditions
 
 ## List of Arcane Traditions
@@ -140,6 +144,8 @@ If you want to cast either spell at a **higher level**, you must **expend a spel
 * **Theurgy:** Deities usually have clerics, but many gods of magic bid their followers to take up the study of wizardry. These religious magic-users follow the arcane tradition of Theurgy, and are commonly known as theurgists. Such spellcasters are as dedicated and scholarly as any other wizard, but they blend their arcane study with religious devotion.
 * **Transmutation:** You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality's forge.
 * **War Magic:** A variety of arcane colleges specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration, rather than specializing in either of those schools. It teaches techniques that empower a caster’s spells, while also providing methods for wizards to bolster their own defenses. Evokers sometimes tease war mages for splitting their attention between offense and defense. A war mage's typical response: "*What good is being able to throw a Fireball if I die before I can cast it?*"
+
+---
 
 ## Arcane Tradition: School of Abjuration
 
@@ -166,6 +172,8 @@ When you cast an Abjuration spell that requires you to make an **ability check**
 ### Spell Resistance (14th level)
 
 You have **advantage** on **saving throws against spells**. Furthermore, you have **resistance** against the **damage of spells**.
+
+---
 
 ## Arcane Tradition: School of Bladesinging
 
@@ -202,6 +210,8 @@ When you **take damage**, you can use your **reaction** to **expend one spell sl
 
 You add your **Intelligence modifier** (minimum of +1) to the **damage** of your **melee weapon attacks** while your **Bladesong is active**.
 
+---
+
 ## Arcane Tradition: School of Conjuration
 
 ### Conjuration Savant (2nd level)
@@ -229,6 +239,8 @@ While you are **concentrating** on a **Conjuration spell**, your **concentration
 ### Durable Summons (14th level)
 
 Any **creature** that you **summon** or **create** with a **Conjuration spell** has **30 temporary hit points**.
+
+---
 
 ## Arcane Tradition: School of Divination
 
@@ -264,6 +276,8 @@ When you cast a **Divination spell** of **2nd level or higher** using a **spell 
 *The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come.*
 
 You roll **three d20s** for your **Portent** feature, rather than two.
+
+---
 
 ## Arcane Tradition: School of Dread Magic
 
@@ -315,6 +329,8 @@ Whenever you have to make a **Corruption saving throw**, you can **change the ta
 
 If you see your ability score sapped after **failing a save** for which **you have used this feature**, the sap becomes **temporary** rather than permanent. Whenever you take a **long rest**, you can **revoke a point of sap** attached to one of your abilities. This is **the only way** for you to remove this effect.
 
+---
+
 ## Arcane Tradition: School of Enchantment
 
 ### Enchantment Savant (2nd level)
@@ -351,6 +367,8 @@ When you cast an **Enchantment spell** to **charm** one or more creatures, you c
 
 Additionally, **once** before the spell expires, you can use your **action** to try to make the chosen creature **forget some** of the time it spent charmed. The creature must **succeed** on an **Intelligence saving throw** against your **Wizard spell save DC** or **lose a number of hours of its memories** equal to **1 + your Charisma modifier** (minimum 1). You can make the creature forget less time, and the amount of time **can't exceed the duration** of your Enchantment spell.
 
+---
+
 ## Arcane Tradition: School of Evocation
 
 ### Evocation Savant (2nd level)
@@ -380,6 +398,8 @@ You can add your **Intelligence modifier** (minimum of +1) to the **damage roll*
 When you cast an **Evocation spell** of **5th level or lower** that **deals damage** and **isn't a cantrip**, you can **deal maximum damage** with that spell.
 
 The **first time** you do so, you suffer **no adverse effect**. If you use this feature **again** before you finish a **long rest**, you take **2d12 true damage times level of the spell**, immediately after you cast it. **Each time** you use this feature **again** before finishing a long rest, the **damage per spell level increases by 1d12**.
+
+---
 
 ## Arcane Tradition: School of Illusion
 
@@ -414,6 +434,8 @@ When you cast an **Illusion spell** of **1st level or higher**, you can choose *
 **Hint:** For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.
 
 The object **can't deal damage** or otherwise **directly harm** anyone.
+
+---
 
 ## Arcane Tradition: School of Invention
 
@@ -542,6 +564,8 @@ A **2nd-level** slot increases the spell’s raw force. If you **roll damage** f
 
 Whenever you roll on a **Reckless Casting** table for a spell **other than a cantrip**, you **can roll** on the table that is **one level higher than the expended spell slot**.
 
+---
+
 ## Arcane Tradition: School of Lore Mastery
 
 ### Lore Mastery (2nd level)
@@ -619,6 +643,8 @@ Once per day, as a **bonus action**, you can call to mind the ability to cast **
 
 You can also use this feature as an **action** after the **enemy casts a spell** instead. You then make an **Arcana check** in attempt to identify the spell, with the **DC** equal to **15 + the spell's level**. If you **succeed**, you can **later attempt to recreate the spell** (this takes **twice the time of normal spell addition**). The spell is **fresh** in your memory **until the next long rest**. Past that point, you need to make an **Intelligence check** in order to recall the details, against the **DC of 10 + twice the number of long rests since identifying the spell**. On a **failure**, you **forget the spell**, however you keep the progress achieved up to this point (in hours). On a success, you can continue the process.
 
+---
+
 ## Arcane Tradition: School of Necromancy
 
 ### Necromancy Savant (2nd level)
@@ -653,6 +679,8 @@ You have **resistance** to **necrotic damage**, and your **hit point maximum** c
 As an **action**, you can **choose one undead** that you can see **within 60 feet** of you. That creature must make a **Charisma saving throw** against your **Wizard spell save DC**. If it **succeeds**, you **can't use this feature on it again**. If it **fails**, it becomes friendly to you and o**beys your commands** until **you use this feature again**.
 
 **Intelligent undead** are harder to control in this way. If the target has an **Intelligence of 8 or higher**, it has **advantage** on the saving throw. If it **fails** the saving throw and has an **Intelligence of 12 or higher**, it can **repeat** the saving throw at the **end of every hour** until it succeeds and breaks free.
+
+---
 
 ## Arcane Tradition: School of Theurgy
 
@@ -704,6 +732,8 @@ You gain your chosen domain’s **17th-level** benefits.
 
 **Note:** **Domain Feature III** being skipped is not an error - Cleric domains provide a feature at 8th level, which theurgists **don't** acquire.
 
+---
+
 ## Arcane Tradition: School of Transmutation
 
 ### Transmutation Savant (2nd level)
@@ -745,6 +775,8 @@ You can use your **action** to consume the reserve of Transmutation magic stored
 * **Panacea:** You remove **all curses**, **diseases**, and **poisons** affecting a creature that you **touch** with the **transmuter's stone**. The creature also **regains all its hit points**.
 * **Restore Life:** You cast the **Raise Dead** spell on a creature you **touch** with the **transmuter's stone**, **without expending a spell slot** or **needing to have the spell** in your spellbook.
 * **Restore Youth:** You **touch** the **transmuter's stone** to a **willing** creature, and that creature's **apparent age is reduced** by **3d10 years**, to a **minimum of 13 years**. This effect **doesn't extend** the creature's **lifespan**.
+
+---
 
 ## Arcane Tradition: School of War Magic
 

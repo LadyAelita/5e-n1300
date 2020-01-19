@@ -56,6 +56,8 @@ You get no additional languages.
 
 You must have a **Strength** score of **13 or higher** in order to multiclass into this class.
 
+---
+
 ## Rage (1st level)
 
 In battle, you fight with primal ferocity. A number of times per day specified in the Barbarian table, on your turn, you can **enter a rage** as a **bonus action**.
@@ -128,6 +130,8 @@ If your **total** for a **Strength check** is **less than your Strength score**,
 
 Your **Strength** and **Constitution** scores **increase by 4**. Your **maximum** for those scores is now **24**.
 
+---
+
 # Primal Paths
 
 ## List of Primal Paths
@@ -138,6 +142,8 @@ Your **Strength** and **Constitution** scores **increase by 4**. Your **maximum*
 * **Storm Herald:** Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.
 * **Totem Warrior:** The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
 * **Zealot:** Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots – warriors who channel their rage into powerful displays of divine power.
+
+---
 
 ## Primal Path: Ancestral Guardian
 
@@ -165,6 +171,8 @@ When you reach certain levels in this class, you reduce the damage by more: by *
 
 When you use your **Spirit Shield** to reduce the damage of an attack, the **attacker** takes an **amount of ethereal damage** equal to the **reduction** of your Spirit Shield.
 
+---
+
 ## Primal Path: Berserker
 
 ### Frenzy (3rd level)
@@ -188,6 +196,8 @@ If the creature **succeeds** on its saving throw, you can't use this feature on 
 ### Retaliation (14th level)
 
 When you **take damage** from a creature that is **within your reach**, you can use your **reaction** to **make an opportunity attack** against that creature.
+
+---
 
 ## Primal Path: Juggernaut
 
@@ -218,6 +228,8 @@ When you **make a weapon attack** while **raging**, you can **make another attac
 ### Unstoppable (14th level)
 
 You can choose to become **unstoppable** when you enter a **rage**. If you do so, for the duration of the rage your **speed cannot be reduced**, and you are **immune** to the **dazed**, **fear**, **paralyzed**, **slowed** and **stunned** conditions. If you are affected by any of these conditions, you can **still take your bonus action** to enter your **rage** and **suspend** the effects for the duration of the rage. When your **rage ends**, you suffer **one level of exhaustion**.
+
+---
 
 ## Primal Path: Storm Herald
 
@@ -262,6 +274,8 @@ The effect is based on the environment you chose for your Storm Aura.
 | **Desert**  | Immediately after a creature **in your aura** **hits you with an attack**, you can use your **reaction** to force that creature to make a **Dexterity saving throw**. On a **failed** save, the creature takes **fire damage** equal to your **Barbarian level**. |
 | **Sea**     | When you **hit a creature in your aura** with an **attack**, you can use your **reaction** to force that creature to make a **Strength saving throw**. On a **failed** save, the creature is **knocked prone**, as if struck by a wave. |
 | **Tundra**  | Whenever the effect of your **Storm Aura** is **activated**, you can choose **one creature** you can see **in the aura**. That creature must succeed on a **Strength saving throw**, or its **speed is reduced to 0** until the **start of your next turn**, as magical frost covers it. |
+
+---
 
 ## Primal Path: Totem Warrior
 
@@ -312,6 +326,8 @@ You gain a magical benefit based on the totem animal of your choice. You can cho
 | **Elk**      | While **raging**, you can use **a bonus action** during your move to **pass through the space of a Large or smaller creature**. That creature must succeed on a **Strength saving throw** (DC **8 + your Strength modifier + your proficiency bonus**) or be knocked **prone** and take **bludgeoning damage** equal to **1d12 + your Strength modifier**. |
 | **Tiger**    | While you're **raging**, when you **charge** a creature, you can use a **bonus action** to make an **additional melee weapon attack** against it. |
 | **Wolf**     | While you're **raging**, you can use a **bonus action** on your turn to **knock a Large or smaller creature prone** when you **hit it** with a **melee weapon attack**. |
+
+---
 
 ## Primal Path: Zealot
 

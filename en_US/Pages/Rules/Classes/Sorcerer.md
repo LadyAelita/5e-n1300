@@ -56,6 +56,8 @@ Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefica
 
 You must have a **Charisma** score of **13 or higher** in order to multiclass into this class.
 
+---
+
 ## Spellcasting (1st level)
 
 | Property                  | Value/description                                            |
@@ -119,6 +121,8 @@ You learn a fourth **Metamagic modifier** from the same list.
 
 You regain **5** of the expended **Sorcery Points** on a **short rest**.
 
+---
+
 # Sorcerous Origins
 
 ## List of Sorcerous Origins
@@ -126,6 +130,8 @@ You regain **5** of the expended **Sorcery Points** on a **short rest**.
 * **Planar Bloodline:** Your talent comes from having a creature from another plane among your ancestors. 
 * **Roaring Rampage:** Your emotions are the trigger to your unlimited destructive power – provided that you manage to control them.
 * **Dream Walker:** Your dreams are always meaningful – you see the past, the present and the future. The door is open for you to invade other people’s dreams, as you learn how to control this power.
+
+---
 
 ## Sorcerous Origin: Planar Bloodline
 
@@ -285,6 +291,8 @@ You can now spend 5 Sorcery Points rather than 1, to activate a more powerful, b
 | **Efreeti**            | You become proficient in **Intelligence** saving throws. Whenever you deal damage, there is a **50% chance** you regain **1 Sorcery Point** (this can only activate once per turn). |
 | **Desire demon**       | Your flying speed is doubled. Your **fire** spells deal **hellfire** damage instead. |
 
+---
+
 ## Sorcerous Origin: Roaring Rampage
 
 ### Exceptional
@@ -398,6 +406,8 @@ All restrictions stating you *cannot* commit certain acts during *Unleash* or *S
 During *Unleash*, you also shed light of your unique color (15/30 ft) and you have expertise in Charisma saving throws.
 
 During *Suppress*, you have expertise in Wisdom saving throws.
+
+---
 
 ## Sorcerous Origin: Dream Walker
 
