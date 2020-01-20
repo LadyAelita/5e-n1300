@@ -1,6 +1,6 @@
 ## Life Transference
 
-Classes: **Cleric, Wizard**  
+Classes: **Cleric, Warlock, Wizard**  
 Level: **3**  
 
 School: **Necromancy (White)**  

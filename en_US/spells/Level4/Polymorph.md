@@ -1,6 +1,6 @@
 ## Polymorph
 
-Classes: **Bard, Cleric (Trickery), Druid, Wizard**  
+Classes: **Bard, Cleric (Trickery), Druid, Warlock, Wizard**  
 Level: **4**  
 
 School: **Transmutation**  
