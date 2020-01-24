@@ -287,7 +287,7 @@ You can use a **melee weapon** you're **proficient** as your **spellcasting focu
 Choose **one** of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 * **Dueling:** When you are wielding a **melee weapon in one hand** and **no other weapons**, you gain a **+2 bonus to damage rolls** with that weapon.
-* **Two-Weapon Fighting:** While **dual wielding**, you can **add your ability modifier** to the **damage of the offhand attack**.
+* **Two-Weapon Fighting:** While **dual wielding**, whenever you **miss** a **main hand** attack and your **next attack** within the **same turn** is an **offhand** attack, you have **advantage** on **that offhand attack**.
 
 ### Blade Flourish (3rd level)
 

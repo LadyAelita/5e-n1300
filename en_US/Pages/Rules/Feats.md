@@ -1,4 +1,5 @@
 [gimmick:title](Feats)
+
 # Feats
 
 ## General feats
@@ -395,6 +396,7 @@ When you are wielding a finesse weapon with which you are proficient and another
 • You gain a +2 bonus to AC while you are wielding a separate melee weapon in each hand.
 • You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren’t light.
 • You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+• You can add your ability modifier to the damage of your offhand attack.
 
 ### Fell Handed
 
