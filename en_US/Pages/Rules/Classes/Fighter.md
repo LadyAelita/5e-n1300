@@ -73,3 +73,31 @@ Choose **one** of the following options. You can't take a Fighting Style option 
 * **Protection:** When a **creature you can see** **attacks** a **target other than you** that is **within 5 feet of you**, you can use your **reaction** to impose **disadvantage** on the **attack roll**. You **must** be **wielding a** shield.
 * **Tunnel Fighter:** As a **bonus action**, you can **enter a defensive stance** until the **start of your next turn**. While **in that stance**, you can make **opportunity attacks** for free, **without** using your **reaction**, and creatures **within your reach** **provoke** opportunity attacks **from you** whenever **they move more than 5 feet**, regardless of whether they leave your reach or not.
 * **Two-Weapon Fighting:** While **dual wielding**, whenever you **miss** a **main hand** attack and your **next attack** within the **same turn** is an **offhand** attack, you have **advantage** on **that offhand attack**.
+
+## Second Wind (1st level)
+
+*You have a limited well of stamina that you can draw on to protect yourself from harm.* 
+
+**Once between rests**, you can use a **bonus action** to **regain hit points** equal to **1d10 + your Fighter level**.
+
+## Action Surge (2nd, 17th level)
+
+*You can push yourself beyond your normal limits for a moment.*
+
+**Once between rests**, on your turn, you can take **one additional main action** on top of your regular main action and a possible bonus action.
+
+Starting at **17th level**, you can use it **twice between rests**, but still **only once within one turn**.
+
+## Extra Attack (5th, 11th, 20th level)
+
+You can attack **twice**, instead of once, whenever you take the Attack action on your turn.
+
+The number of attacks increases to **three** at **11th level**, and **four** at **20th level**.
+
+If you have chosen **Two Weapon Fighting** as your **Fighting Style**, starting at **11th level**, you can make **two offhand attacks** within your bonus action, rather than one.
+
+## Indomitable (9th, 13th, 17th level)
+
+**Once per day**, you can **reroll** a **saving throw** that you fail. If you do so, you must use the new roll.
+
+Starting at **13th level**, you can do so **twice per day**, and **three times per day** starting at **17th level**.
