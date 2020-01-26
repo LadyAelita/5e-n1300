@@ -718,19 +718,19 @@ If you gain additional Channel Divinity options from your domain, you can employ
 
 You gain your chosen domain’s **1st-level** benefits. However, you do not gain any weapon or armor **proficiencies** from the domain.
 
-### Domain Feature II (10th level)
+### Domain Feature III (10th level)
 
 *Your faith and your understanding of magic allow you to delve into your god’s secrets.*
 
 You gain your chosen domain’s **6th-level** benefits.
 
-### Domain Feature IV (14th level)
+### Domain Feature V (14th level)
 
 *Your academic nature and understanding of magic and doctrine allow you to master this ability sooner than a cleric of your domain.*
 
 You gain your chosen domain’s **17th-level** benefits.
 
-**Note:** **Domain Feature III** being skipped is not an error - Cleric domains provide a feature at 8th level, which theurgists **don't** acquire.
+**Note:** **Domain Feature II** and **IV** being skipped is not an error - Cleric domains provide a feature at 8th level, which theurgists **don't** acquire. Meanwhile, **Domain Feature II** is being granted as part of the **Channel Arcana** feature.
 
 ---
 
