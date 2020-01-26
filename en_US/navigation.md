@@ -43,6 +43,7 @@
   * # Core classes
   * [Barbarian](Pages/Rules/Classes/Barbarian.md)
   * [Bard](Pages/Rules/Classes/Bard.md)
+  * [Cleric](Pages/Rules/Classes/Cleric.md)
   * [Fighter](Pages/Rules/Classes/Fighter.md)
   * [Sorcerer (Prophetus)](Pages/Rules/Classes/Sorcerer.md)
   * [Warlock (Vilos)](Pages/Rules/Classes/Warlock.md)

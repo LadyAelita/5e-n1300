@@ -44,6 +44,7 @@
   * [Barbarzyńca](../en_US/Pages/Rules/Classes/Barbarian.md)
   * [Bard](../en_US/Pages/Rules/Classes/Bard.md)
   * [Inkantator](../en_US/Pages/Rules/Classes/Wizard.md)
+  * [Kleryk](../en_US/Pages/Rules/Classes/Cleric.md)
   * [Profeta](../en_US/Pages/Rules/Classes/Sorcerer.md)
   * [Vilos](../en_US/Pages/Rules/Classes/Warlock.md)
   * [Wojownik](../en_US/Pages/Rules/Classes/Fighter.md)
