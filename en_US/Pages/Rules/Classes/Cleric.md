@@ -121,6 +121,7 @@ When using **Divine Intervention**, you can **expend** a **9th-level Cleric spel
 * **Light Domain:** Clerics of a god of light are enlightened souls infused with radiance and the power oftheir gods' discerning vision, charged with chasing away lies and burning away darkness. Gods of light – including Ariel, The Guardian of Fire, Kaine and The Nameless Keeper – promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun, the moon or the stars in general. Surprisingly, Light is also a domain of the vainglorious demon Naberius.
 * **Nature Domain:** Gods of nature are as varied as the natural world itself, including Khaalt, Valerya and The Wanderer. Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 * **Obedience Domain:** The Obedience domain represents discipline, as well as general devotion to a society or an institution and strict obedience to the laws governing it. The domain is favored by clerics who use it to benevolently maintain and enforce the law, or simply command obedience in the name of their god or for their own personal gain. Gods who grant access to this domain include Belial, The Guardian of Frost and M'lghorg, as well as the demons Naberius, Verdelet, Jezebeth and The Sovereign.
+* **Preservation Domain:** The preservation domain focuses on using the positive energy of the Light to bolster the vitality of the living, saving them from an untimely demise. Gods related to this domain include Ariel, Kaine and The Nameless Keeper.
 * **Protection Domain:** The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods’ faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind. Deities who grant this domain include Kaine, The Nameless Keeper and Valerya.
 * **Tempest Domain:** Gods whose portfolios include the Tempest domain – including Shavoy and the demon Leviathan – govern storms, sea, and, sky. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 * **Trickery Domain:** Gods of trickery – such as Belial, Dar'Zath, D'horainn, Khaalt, M'lghorg, Nebula, U'mar, Yva and the demoness Jezebeth – are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, liberators, as well as assassins. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer stealth, subterfuge, pranks, deception, and theft rather than direct confrontation.
@@ -620,6 +621,60 @@ When you reach **14th level**, the **extra damage** increases to **2d8**.
 *Enemies you designate for destruction wilt under the combined efforts of you and your allies.*
 
 **Once per turn**, if you deal your **Divine Strike** damage to a creature on your turn, you can **curse that creature** until the **start of your next turn**. The **next time** one of your allies **hits the cursed** creature with an **attack**, the target **takes your Divine Strike damage**, and the curse ends.
+
+---
+
+## Divine Domain: Preservation
+
+### Bonus Proficiencies
+
+You gain **proficiency** with **heavy armor**.
+
+### Domain Spells
+
+| Cleric Level | Spells                                 |
+| ------------ | -------------------------------------- |
+| 1st          | Bless, Cure Wounds                     |
+| 3rd          | Lesser Restoration, Healing Word       |
+| 5th          | Beacon of Hope, Protection from Energy |
+| 7th          | Death Ward, Guardian of Faith          |
+| 9th          | Mass Cure Wounds, Greater Restoration  |
+
+### Heavenly Virtues (1st level)
+
+You learn the **Virtue** cantrip, and it does not count against the maximum number of cantrips you know. You can cast it as either an **action** or a **bonus action** (or both), and the **maximum number of targets** that it can be active on **simultaneously** is increased to **3**.
+
+### Channel Divinity: Invoke Preservation (2nd level)
+
+*You can use your Channel Divinity to briefly empower your holy barriers.*
+
+As a **bonus action**, **until** the **beginning of your next turn**, **all creatures** (including yourself) that are **within 30 feet** of you and **have at least one temporary hit point** from one of **your spells or abilities**, gain the following benefits:
+
+* **Advantage** on all **saving throws**.
+* **Resistance to all damage** (unless the damage is explicitly unresistable).
+* The effect of the **Sanctuary** spell (it is automatically **lost** if they use any **attack**, **ability**, or **spell** that **affects an enemy**).
+* Any **attacks against them** are made with **disadvantage**.
+* If an **instance of damage** results in the **complete depletion** of a target's **temporary hit points** while **this** effect is **active**, the **excess damage** taken by the target, if any, is reduced to **zero**, but the target loses all the benefits of this feature.
+
+These effects persist even if you become incapacitated before the beginning your next turn.
+
+### Shielding Heal (6th level)
+
+*The healing spells you cast on others also provide them with a divine shield.*
+
+A **number of times per day**, equal to your **Wisdom modifier** (minimum of once), when you **cast a spell** of **8st level or lower** that **restores hit points**, you can grant a number of **temporary hit points** to **each creature** affected by it, equal to **half of the hit points regained** by the given target (rounded down).
+
+### Divine Strike (8th, 14th level)
+
+*You gain the ability to infuse your weapon strikes with divine energy.*
+
+**Once** on **each of your turns** when you **hit** a creature with a **weapon attack**, you can cause the attack to **deal** an **additional 1d8 radiant damage** to the target.
+
+When you reach **14th level**, the **extra damage** increases to **2d8**.
+
+### Improved Shielding Heal (17th level)
+
+Whenever you use your **Shielding Heal** feature, the number of **temporary points** granted is equal to the **full number of hit points regained** by each given target, rather than half of that.
 
 ---
 
