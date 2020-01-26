@@ -1,4 +1,4 @@
-[your study of the supernatural gives you a limited ability to use magic. You can cast Detect Magic as a ritual. You can cast Protection from Evil and Good, but you cannot cast it again with this feature until you finish a long rest. Wisdom is your spellcasting ability for these spells.gimmick:title](Fighter)
+[gimmick:title](Fighter)
 
 # Fighter
 
@@ -76,7 +76,7 @@ Choose **one** of the following options. You can't take a Fighting Style option 
 
 ## Second Wind (1st level)
 
-*You have a limited well of stamina that you can draw on to protect yourself from harm.* 
+*You have a limited well of stamina that you can draw on to protect yourself from harm.*
 
 **Once between rests**, you can use a **bonus action** to **regain hit points** equal to **1d10 + your Fighter level**.
 
