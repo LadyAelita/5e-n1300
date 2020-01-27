@@ -111,6 +111,7 @@ no conc,no concentration,no ritual,Wizard*;Ray of Sickness;1;Necromancy (Black);
 no ritual,Wizard*;Remote Access;1;Transmutation;Aether;1 action;Concentration;;Concentration, up to 10 minutes;V, S;Cleric (City), Warlock (Ghost in the Machine), Wizard;#!spells/Level1/Remote Access.md
 no conc,no concentration,no ritual,Wizard*;Repair Damage;1;Transmutation;Aether;1 action;;;Instantaneous;V, S;Cleric (City), Wizard;#!spells/Level1/Repair Damage.md
 no conc,no concentration,no ritual,Cleric*;Sanctuary;1;Abjuration;Light;1 bonus action;;;1 minute;V, S, F;Cleric, Paladin (Devotion), Warlock (Great Old One);#!spells/Level1/Sanctuary.md
+no conc,no concentration,no ritual;Sanguine Mist;1;Hemomancy;Water;1 action;;;Instantaneous;S;Cleric (Blood);#!spells/Level1/Sanguine Mist.md
 no conc,no concentration,no ritual,Paladin*;Searing Smite;1;Evocation;Fire;1 bonus action;Optional;;1 round / Concentration, up to 1 minute;V;Cleric (Forge), Cleric (Zeal), Paladin, Sorcerer (Fire Elemental);#!spells/Level1/Searing Smite.md
 no ritual,Warlock*,Wizard*;Sense Emotion;1;Divination;Water;1 action;Concentration;;Concentration, up to 10 minutes;V, S;Warlock, Wizard;#!spells/Level1/Sense Emotion.md
 no ritual,Cleric*,Paladin*;Shield of Faith;1;Abjuration;Light;1 bonus action;Concentration;;1 minute;V, S, F;Cleric, Cleric (Strength), Cleric (War), Paladin;#!spells/Level1/Shield of Faith.md
@@ -139,6 +140,7 @@ no conc,no concentration,no ritual,Druid*,Ranger*;Barkskin;2;Transmutation;Earth
 Druid*,Ranger*;Beast Sense;2;Divination;Fire;1 action;Concentration;Ritual;Concentration, up to 1 hour;S;Druid, Ranger;#!spells/Level2/Beast Sense.md
 no conc,no concentration,no ritual,Wizard*;Blazing Burst;2;Evocation;Fire;1 action;;;Instantaneous;V, S, F;Warlock (Fiend), Wizard;#!spells/Level2/Blazing Burst.md
 no conc,no concentration,no ritual,Bard*,Cleric*,Wizard*;Blindness/Deafness;2;Necromancy (Black);Death;1 action;;;1 minute;V;Bard, Cleric, Cleric (Death), Warlock (Great Old One), Warlock (Undying), Warlock (Void), Wizard;#!spells/Level2/Blindness-Deafness.md
+no conc,no concentration,no ritual;Blood Burst;2;Hemomancy;Water;1 reaction;;;Instantaneous;V, S;Cleric (Blood);#!spells/Level2/Blood Burst.md
 no ritual,Wizard*;Blur;2;Illusion (Glamer);Darkness;1 action;Concentration;;Concentration, up to 1 minute;V, S;Druid (Desert), Warlock (Void), Wizard;#!spells/Level2/Blur.md
 no conc,no concentration,no ritual,Paladin*;Branding Smite;2;Evocation;Light;1 bonus action;Optional;;1 round / Concentration, up to 1 minute;V;Paladin;#!spells/Level2/Branding Smite.md
 no ritual,Bard*,Cleric*;Calm Emotions;2;Enchantment (Compulsion);Water;1 action;Concentration;;Concentration, up to 1 minute;V, S;Bard, Cleric, Sorcerer (Water Elemental), Warlock (Archfey);#!spells/Level2/Calm Emotions.md
@@ -319,6 +321,7 @@ no conc,no concentration,no ritual,Druid*,Wizard*;Summon Minor Elementals;4;Conj
 no conc,no concentration,no ritual,Druid*,Ranger*;Summon Woodland Beings;4;Conjuration (Summoning);Light;1 action;;;1 hour;V, S, F, M (diaspore dust, which the spell consumes, or a whole diaspore gemstone);Druid, Ranger;#!spells/Level4/Summon Woodland Beings.md
 no ritual,Warlock*,Wizard*;Synchronicity;4;Divination;Aether;1 action;Concentration;;Concentration, up to 1 hour;V, S;Warlock, Wizard, Cleric (City), Warlock (Ghost in the Machine);#!spells/Level4/Synchronicity.md
 no ritual,Warlock*,Wizard*;System Backdoor;4;Transmutation;Aether;1 minute;Concentration;;Concentration, up to 10 minutes;V, S, M (a computer-like device);Warlock, Wizard, Warlock (Ghost in the Machine);#!spells/Level4/System Backdoor.md
+no conc,no concentration,no ritual;Vascular Vitriol;4;Hemomancy;Water;1 action;;;10 minutes;V, S, F;Cleric (Blood);#!spells/Level4/Vascular Vitriol.md
 no conc,no concentration,no ritual,Wizard*;Vitriolic Sphere;4;Conjuration (Creation);Earth;1 action;;;Instantaneous;V, S, F;Warlock (Fiend), Wizard;#!spells/Level4/Vitriolic Sphere.md
 no ritual,Druid*,Wizard*;Wall of Fire;4;Evocation;Fire;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Cleric (Forge), Cleric (Light), Druid, Warlock (Aeonian Flame), Warlock (Fiend), Wizard;#!spells/Level4/Wall of Fire.md
 no ritual,Druid*,Wizard*;Watery Sphere;4;Conjuration (Creation);Water;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (an aquamarine worth at least 100 gp);Druid, Wizard;#!spells/Level4/Watery Sphere.md
@@ -341,6 +344,7 @@ no ritual,Cleric*,Wizard*;Dawn;5;Evocation;Light;1 action;Concentration;;Concent
 no conc,no concentration,no ritual,Paladin*;Destructive Wave;5;Evocation;Earth;1 action;;;Instantaneous;V, S;Cleric (Tempest), Cleric (Strength), Cleric (Zeal), Warlock (The Sentient Sword), Paladin;#!spells/Level5/Destructive Wave.md
 no ritual,Cleric*,Paladin*;Dispel Evil or Good;5;Abjuration;Water;1 action;Concentration;;Concentration, up to 1 minute;V, S, M (holy or unholy water, which this spell consumes);Cleric, Paladin;#!spells/Level5/Dispel Evil or Good.md
 no conc,no concentration,no ritual,Bard*,Wizard*;Dominate Person;5;Enchantment (Compulsion);Darkness;1 action;;;1 minute;V, S;Bard, Cleric (Ambition), Cleric (Trickery), Warlock (Great Old One), Paladin (Conquest), Paladin (Oathbreaker), Paladin (Treachery), Warlock (Great Old One), Wizard;#!spells/Level5/Dominate Person.md
+no conc,no concentration,no ritual;Draining Thread;5;Hemomancy;Water;1 action;;;Instantaneous;V, S, F;Cleric (Blood);#!spells/Level5/Draining Thread.md
 no conc,no concentration,no ritual,Bard*,Warlock*,Wizard*;Dream;5;Illusion (Phantasm);Aether;1 minute;;;8 hours;V, S, F;Bard, Druid (Grassland), Warlock, Wizard;#!spells/Level5/Dream.md
 no conc,no concentration,no ritual,Warlock*,Wizard*;Enervation;5;Necromancy (Black);Death;1 action;Optional;;Instantaneous / Concentration, up to 1 minute;V, S;Warlock, Wizard;#!spells/Level5/Enervation.md
 no ritual,Warlock*,Wizard*;Far Step;5;Conjuration (Teleportation);Aether;1 action;Concentration;;Concentration, up to 1 minute;V;Warlock, Wizard;#!spells/Level5/Far Step.md
