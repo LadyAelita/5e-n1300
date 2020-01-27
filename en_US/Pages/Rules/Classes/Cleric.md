@@ -180,8 +180,6 @@ You gain **proficiency** with **martial** weapons.
 
 ### Domain Spells
 
-TODO: Make those bloody spells
-
 | Cleric Level | Spells                           |
 | ------------ | -------------------------------- |
 | 1st          | Sanguine Mist, Sleep             |
