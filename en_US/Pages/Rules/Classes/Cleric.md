@@ -239,7 +239,7 @@ You gain **proficiency** with **martial** weapons.
 | 1st          | False Life, Ray of Sickness             |
 | 3rd          | Blindness/Deafness, Ray of Enfeeblement |
 | 5th          | Animate Dead, Vampiric Touch            |
-| 7th          | Blight, Death Ward                      |
+| 7th          | Blight, Corpse Explosion                |
 | 9th          | Antilife Shell, Cloudkill, Enervation   |
 
 ### Reaper (1st level)
@@ -633,7 +633,7 @@ You gain **proficiency** with **heavy armor**.
 | Cleric Level | Spells                                 |
 | ------------ | -------------------------------------- |
 | 1st          | Bless, Cure Wounds                     |
-| 3rd          | Lesser Restoration, Healing Word       |
+| 3rd          | Aid, Lesser Restoration                |
 | 5th          | Beacon of Hope, Protection from Energy |
 | 7th          | Death Ward, Guardian of Faith          |
 | 9th          | Mass Cure Wounds, Greater Restoration  |
