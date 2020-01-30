@@ -1,6 +1,6 @@
 ## Gentle Repose
 
-Classes: **Cleric, Wizard, Cleric (Grave)**  
+Classes: **Cleric, Druid (Spores), Wizard, Cleric (Grave)**  
 Level: **2**  
 
 School: **Necromancy (White)**  

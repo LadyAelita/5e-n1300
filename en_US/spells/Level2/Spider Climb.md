@@ -1,6 +1,6 @@
 ## Spider Climb
 
-Classes: **Warlock, Wizard, Druid (Forest), Druid (Mountain), Druid (Underdark)**  
+Classes: **Warlock, Wizard, Druid (Forest), Druid (Mountain), Druid (Subterra)**  
 Level: **2**  
 
 School: **Transmutation**  

@@ -1,6 +1,6 @@
 ## Stone Shape
 
-Classes: **Cleric, Druid, Druid (Mountain), Druid (Underdark), Wizard**  
+Classes: **Cleric, Druid, Druid (Mountain), Druid (Subterra), Wizard**  
 Level: **4**  
 
 School: **Transmutation**  

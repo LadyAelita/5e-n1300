@@ -1,6 +1,6 @@
 ## Summon Elemental
 
-Classes: **Druid, Wizard**  
+Classes: **Druid, Druid (Coast), Wizard**  
 Level: **5**  
 
 School: **Conjuration (Summoning)**  

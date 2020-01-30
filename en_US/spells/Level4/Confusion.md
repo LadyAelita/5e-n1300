@@ -1,6 +1,6 @@
 ## Confusion
 
-Classes: **Bard, Cleric (Knowledge), Druid, Paladin (Oathbreaker), Warlock (Great Old One), Wizard, Paladin (Treachery)**  
+Classes: **Bard, Cleric (Knowledge), Druid, Druid (Spores), Paladin (Oathbreaker), Warlock (Great Old One), Wizard, Paladin (Treachery)**  
 Level: **4**  
 
 School: **Enchantment (Compulsion)**  

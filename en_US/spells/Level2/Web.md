@@ -1,6 +1,6 @@
 ## Web
 
-Classes: **Druid (Underdark), Wizard**  
+Classes: **Druid, Wizard**  
 Level: **2**  
 
 School: **Conjuration (Creation)**  

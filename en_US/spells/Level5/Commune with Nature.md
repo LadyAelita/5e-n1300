@@ -1,6 +1,6 @@
 ## Commune with Nature
 
-Classes: **Druid, Paladin (Ancients), Ranger**  
+Classes: **Druid, Druid (Arctic), Druid (Forest), Paladin (Ancients), Ranger**  
 Level: **5**  
 
 School: **Divination**  

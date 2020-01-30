@@ -1,6 +1,6 @@
 ## Gaseous Form
 
-Classes: **Druid (Underdark), Warlock, Wizard, Paladin (Treachery)**  
+Classes: **Druid, Druid (Spores), Warlock, Wizard, Paladin (Treachery)**  
 Level: **3**  
 
 School: **Transmutation**  

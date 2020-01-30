@@ -1,6 +1,6 @@
 ## Greater Invisibility
 
-Classes: **Bard, Druid (Underdark), Warlock (Archfey), Warlock (Void), Wizard, Paladin (Treachery)**  
+Classes: **Bard, Druid (Subterra), Warlock (Archfey), Warlock (Void), Wizard, Paladin (Treachery)**  
 Level: **4**  
 
 School: **Illusion (Glamer)**  

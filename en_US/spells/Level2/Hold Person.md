@@ -1,6 +1,6 @@
 ## Hold Person
 
-Classes: **Bard, Cleric, Cleric (Obedience), Druid, Warlock, Wizard, Druid (Arctic), Paladin (Vengeance), Paladin (Conquest)**  
+Classes: **Bard, Cleric, Cleric (Obedience), Druid, Druid (Arctic), Druid (Swamp), Warlock, Wizard, Paladin (Vengeance), Paladin (Conquest)**  
 Level: **2**  
 
 School: **Enchantment**  

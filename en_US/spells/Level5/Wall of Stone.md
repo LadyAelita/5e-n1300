@@ -1,6 +1,6 @@
 ## Wall of Stone
 
-Classes: **Druid, Wizard**  
+Classes: **Druid, Druid (Desert), Druid (Mountain), Wizard**  
 Level: **5**  
 
 School: **Evocation**  

@@ -1,6 +1,6 @@
 ## Fear
 
-Classes: **Bard, Warlock, Wizard, Paladin (Conquest)**  
+Classes: **Bard, Druid (Subterra), Warlock, Wizard, Paladin (Conquest)**  
 Level: **3**  
 
 School: **Illusion (Phantasm)**  

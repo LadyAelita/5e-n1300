@@ -1,6 +1,6 @@
 ## Animate Dead
 
-Classes: **Cleric, Cleric (Death), Paladin (Oathbreaker), Wizard**  
+Classes: **Cleric, Cleric (Death), Druid (Spores), Paladin (Oathbreaker), Wizard**  
 Level: **3**  
 
 School: **Necromancy (Black)**  

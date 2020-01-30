@@ -1,6 +1,6 @@
 ## Darkness
 
-Classes: **Warlock, Wizard, Druid (Swamp), Paladin (Oathbreaker)**  
+Classes: **Warlock, Wizard, Druid (Subterra), Paladin (Oathbreaker)**  
 Level: **2**  
 
 School: **Evocation**  

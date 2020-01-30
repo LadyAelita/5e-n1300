@@ -1,6 +1,6 @@
 ## Tree Stride
 
-Classes: **Cleric (Nature), Druid, Paladin (Ancients), Ranger**  
+Classes: **Cleric (Nature), Druid, Druid (Forest), Paladin (Ancients), Ranger**  
 Level: **5**  
 
 School: **Conjuration (Teleportation)**  

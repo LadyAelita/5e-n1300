@@ -1,6 +1,6 @@
 ## Contagion
 
-Classes: **Cleric, Druid, Paladin (Oathbreaker), Warlock**  
+Classes: **Cleric, Druid, Druid (Spores), Paladin (Oathbreaker), Warlock**  
 Level: **5**  
 
 School: **Necromancy (Black)**  
