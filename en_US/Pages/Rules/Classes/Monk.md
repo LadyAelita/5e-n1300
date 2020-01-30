@@ -45,7 +45,7 @@ For some, their rage springs from a communion with fierce animal spirits. Others
 | ----------------- | ------------------------------------------ |
 | **Armor**         | None                                       |
 | **Weapons**       | All **simple** weapons and **shortswords** |
-| **Saving throws** | **Strength**, **Constitution**             |
+| **Saving throws** | **Strength**, **Dexterity**                |
 | **Skills**        | Choose **3 + Intelligence modifier**       |
 
 ### Languages
