@@ -54,7 +54,7 @@ You know **Druidic**, the secret language of druids. You can speak the language 
 
 ### Multiclass requirement
 
-You must have an **Intelligence** score of **13 or higher** in order to multiclass into this class.
+You must have a **Wisdom** score of **13 or higher** in order to multiclass into this class.
 
 ---
 
