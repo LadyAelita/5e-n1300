@@ -69,7 +69,7 @@ Choose **one** of the following options. You can't take a Fighting Style option 
 * **Defense:** While you're wearing any armor, you gain +1 to AC.
 * **Dueling:** When you are wielding a **melee weapon in one hand** and **no other weapons**, you gain a **+2 bonus to damage rolls** with that weapon.
 * **Great Weapon Fighting:** Whenever you roll a **1** or **2** on a damage die for an attack you make with a **two-handed weapon** or a **versatile** weapon you're wielding with **two-hands**, you can **reroll the die** and **must use the new** roll.
-* **Mariner:** If you're **not** wearing **heavy armor** or using a **shield**, you have a **swim
+* **Mariner:** If you're **not** wearing **heavy armor** or using a **shield**, you have a **swimming speed** and a **climbing speed** equal to your **normal speed**, and you gain a **+1** bonus to **AC**.
 * **Protection:** When a **creature you can see** **attacks** a **target other than you** that is **within 5 feet of you**, you can use your **reaction** to impose **disadvantage** on the **attack roll**. You **must** be **wielding a** shield.
 * **Tunnel Fighter:** As a **bonus action**, you can **enter a defensive stance** until the **start of your next turn**. While **in that stance**, you can make **opportunity attacks** for free, **without** using your **reaction**, and creatures **within your reach** **provoke** opportunity attacks **from you** whenever **they move more than 5 feet**, regardless of whether they leave your reach or not.
 * **Two-Weapon Fighting:** While **dual wielding**, whenever you **miss** a **main hand** attack and your **next attack** within the **same turn** is an **offhand** attack, you have **advantage** on **that offhand attack**.
