@@ -43,6 +43,7 @@
   * # Podstawowe klasy
   * [Barbarzyńca](../en_US/Pages/Rules/Classes/Barbarian.md)
   * [Bard](../en_US/Pages/Rules/Classes/Bard.md)
+  * [Druid](../en_US/Pages/Rules/Classes/Druid.md)
   * [Inkantator](../en_US/Pages/Rules/Classes/Wizard.md)
   * [Kleryk](../en_US/Pages/Rules/Classes/Cleric.md)
   * [Profeta](../en_US/Pages/Rules/Classes/Sorcerer.md)
