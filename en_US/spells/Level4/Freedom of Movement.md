@@ -1,6 +1,6 @@
 ## Freedom of Movement
 
-Classes: **Bard, Cleric, Cleric (War), Cleric (Zeal) Druid, Druid (Arctic), Druid (Coast), Druid (Forest), Druid (Grassland), Druid (Swamp), Paladin (Devotion), Ranger, Sorcerer (Air Elemental), Warlock (Void)**  
+Classes: **Bard, Cleric, Cleric (War), Cleric (Zeal), Druid, Druid (Arctic), Druid (Coast), Druid (Forest), Druid (Grassland), Druid (Swamp), Paladin (Devotion), Ranger, Sorcerer (Air Elemental), Warlock (Void)**  
 Level: **4**  
 
 School: **Abjuration**  
