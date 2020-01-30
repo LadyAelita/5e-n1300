@@ -46,6 +46,7 @@
   * [Cleric](Pages/Rules/Classes/Cleric.md)
   * [Druid](Pages/Rules/Classes/Druid.md)
   * [Fighter](Pages/Rules/Classes/Fighter.md)
+  * [Monk](Pages/Rules/Classes/Monk.md)
   * [Sorcerer (Prophetus)](Pages/Rules/Classes/Sorcerer.md)
   * [Warlock (Vilos)](Pages/Rules/Classes/Warlock.md)
   * [Wizard (Incantator)](Pages/Rules/Classes/Wizard.md)

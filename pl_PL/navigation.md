@@ -46,6 +46,7 @@
   * [Druid](../en_US/Pages/Rules/Classes/Druid.md)
   * [Inkantator](../en_US/Pages/Rules/Classes/Wizard.md)
   * [Kleryk](../en_US/Pages/Rules/Classes/Cleric.md)
+  * [Mnich](../en_US/Pages/Rules/Classes/Monk.md)
   * [Profeta](../en_US/Pages/Rules/Classes/Sorcerer.md)
   * [Vilos](../en_US/Pages/Rules/Classes/Warlock.md)
   * [Wojownik](../en_US/Pages/Rules/Classes/Fighter.md)
