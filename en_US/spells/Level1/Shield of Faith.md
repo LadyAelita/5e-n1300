@@ -1,6 +1,6 @@
 ## Shield of Faith
 
-Classes: **Cleric, Cleric (Strength), Cleric (War), Paladin**  
+Classes: **Cleric, Cleric (War), Paladin**  
 Level: **1**  
 
 School: **Abjuration**  

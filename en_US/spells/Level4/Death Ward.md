@@ -1,6 +1,6 @@
 ## Death Ward
 
-Classes: **Cleric, Cleric (Death), Cleric (Life), Paladin, Warlock (Undying), Cleric (Grave), Cleric (Ambition)**  
+Classes: **Cleric, Cleric (Grave), Cleric (Life), Cleric (Preservation), Paladin, Warlock (Undying)**  
 Level: **4**  
 
 School: **Abjuration**  

@@ -1,6 +1,6 @@
 ## Locate Creature
 
-Classes: **Bard, Cleric, Cleric (City), Druid, Druid (Swamp), Paladin, Ranger, Warlock (Seeker), Wizard**  
+Classes: **Bard, Cleric, Cleric (City), Cleric (Obedience), Druid, Druid (Swamp), Paladin, Ranger, Warlock (Seeker), Wizard**  
 Level: **4**  
 
 School: **Divination**  

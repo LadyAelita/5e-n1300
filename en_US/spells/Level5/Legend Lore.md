@@ -1,6 +1,6 @@
 ## Legend Lore
 
-Classes: **Bard, Cleric, Warlock, Wizard**  
+Classes: **Bard, Cleric, Cleric (Knowledge), Warlock, Wizard**  
 Level: **5**  
 
 School: **Divination**  

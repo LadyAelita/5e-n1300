@@ -1,6 +1,6 @@
 ## Protection from Poison
 
-Classes: **Cleric, Druid, Paladin, Ranger, Cleric (Strength)**  
+Classes: **Cleric, Cleric (Protection), Druid, Paladin, Ranger**  
 Level: **2**  
 
 School: **Abjuration**  

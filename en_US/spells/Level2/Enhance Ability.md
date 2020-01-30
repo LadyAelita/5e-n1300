@@ -1,6 +1,6 @@
 ## Enhance Ability
 
-Classes: **Bard, Cleric, Druid, Cleric (Strength), Sorcerer (Djinni)**  
+Classes: **Bard, Cleric, Druid, Sorcerer (Djinni)**  
 Level: **2**  
 
 School: **Transmutation**  

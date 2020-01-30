@@ -1,6 +1,6 @@
 ## Mirror Image
 
-Classes: **Warlock, Wizard, Cleric (Ambition), Cleric (Trickery), Druid (Coast), Paladin (Treachery)**  
+Classes: **Warlock, Wizard, Cleric (Trickery), Druid (Coast), Paladin (Treachery)**  
 Level: **2**  
 
 School: **Illusion (Figment)**  

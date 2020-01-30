@@ -1,6 +1,6 @@
 ## Beacon of Hope
 
-Classes: **Cleric, Cleric (Life), Paladin (Devotion), Cleric (Solidarity), Sorcerer (Angel)**  
+Classes: **Cleric, Cleric (Life), Cleric (Preservation), Paladin (Devotion), Sorcerer (Angel)**  
 Level: **3**  
 
 School: **Evocation**  

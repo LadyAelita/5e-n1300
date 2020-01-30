@@ -1,6 +1,6 @@
 ## Corpse Explosion
 
-Classes: **Warlock (Undying), Wizard, Cleric (Death)**  
+Classes: **Cleric (Death), Warlock (Undying), Wizard**  
 Level: **4**  
 
 School: **Necromancy (Black)**  

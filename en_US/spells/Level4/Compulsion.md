@@ -1,6 +1,6 @@
 ## Compulsion
 
-Classes: **Bard, Sorcerer (Desire Demon), Warlock**  
+Classes: **Bard, Cleric (Obedience), Sorcerer (Desire Demon), Warlock**  
 Level: **4**  
 
 School: **Enchantment (Compulsion)**  

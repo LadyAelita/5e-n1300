@@ -1,6 +1,6 @@
 ## Heroism
 
-Classes: **Bard, Paladin**  
+Classes: **Bard, Cleric (Obedience), Paladin**  
 Level: **1**  
 
 School: **Enchantment (Compulsion)**  

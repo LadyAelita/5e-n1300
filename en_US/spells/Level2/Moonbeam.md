@@ -1,6 +1,6 @@
 ## Moonbeam
 
-Classes: **Druid, Paladin (Ancients)**  
+Classes: **Cleric (Light), Druid, Paladin (Ancients)**  
 Level: **2**  
 
 School: **Evocation**  

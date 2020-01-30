@@ -1,6 +1,6 @@
 ## Aura of Life
 
-Classes: **Paladin, Cleric (Solidarity)**  
+Classes: **Paladin**  
 Level: **4**  
 
 School: **Abjuration**  

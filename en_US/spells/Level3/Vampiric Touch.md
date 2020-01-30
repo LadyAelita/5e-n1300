@@ -1,6 +1,6 @@
 ## Vampiric Touch
 
-Classes: **Cleric (Death), Warlock, Wizard, Cleric (Grave), Cleric (Ambition)**  
+Classes: **Cleric (Death), Warlock, Wizard, Cleric (Grave)**  
 Level: **3**  
 
 School: **Necromancy (Black)**  

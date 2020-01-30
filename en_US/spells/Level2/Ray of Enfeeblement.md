@@ -1,6 +1,6 @@
 ## Ray of Enfeeblement
 
-Classes: **Cleric (Death), Warlock, Wizard, Cleric (Grave), Cleric (Ambition)**  
+Classes: **Cleric (Blood), Cleric (Death), Warlock, Wizard, Cleric (Grave)**  
 Level: **2**  
 
 School: **Necromancy (Black)**  

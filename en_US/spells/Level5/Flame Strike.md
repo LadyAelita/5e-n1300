@@ -1,6 +1,6 @@
 ## Flame Strike
 
-Classes: **Cleric, Warlock, Paladin (Devotion)**  
+Classes: **Cleric, Cleric (Light), Cleric (War), Cleric (Zeal), Warlock, Paladin (Devotion)**  
 Level: **5**  
 
 School: **Evocation**  

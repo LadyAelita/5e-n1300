@@ -1,6 +1,6 @@
 ## Aid
 
-Classes: **Cleric, Paladin, Cleric (Protection), Cleric (Solidarity)**  
+Classes: **Cleric, Paladin, Cleric (Preservation), Cleric (Protection)**  
 Level: **2**  
 
 School: **Abjuration**  

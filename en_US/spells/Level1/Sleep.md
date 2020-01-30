@@ -1,6 +1,6 @@
 ## Sleep
 
-Classes: **Bard, Warlock (Archfey), Warlock (Void), Wizard**  
+Classes: **Bard, Cleric (Blood), Warlock (Archfey), Warlock (Void), Wizard**  
 Level: **1**  
 
 School: **Enchantment (Compulsion)**  

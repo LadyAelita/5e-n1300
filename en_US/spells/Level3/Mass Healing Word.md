@@ -1,6 +1,6 @@
 ## Mass Healing Word
 
-Classes: **Bard, Cleric, Druid**  
+Classes: **Bard, Cleric, Cleric (Obedience), Druid**  
 Level: **3**  
 
 School: **Necromancy (White)**  

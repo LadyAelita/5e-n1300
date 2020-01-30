@@ -1,6 +1,6 @@
 ## Disguise Self
 
-Classes: **Bard, Cleric (Ambition), Cleric (Trickery), Wizard**  
+Classes: **Bard, Cleric (Trickery), Wizard**  
 Level: **1**  
 
 School: **Illusion (Glamer)**  

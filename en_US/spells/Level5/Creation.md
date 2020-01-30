@@ -1,6 +1,6 @@
 ## Creation
 
-Classes: **Druid, Wizard**  
+Classes: **Cleric (Forge), Druid, Wizard**  
 Level: **5**  
 
 School: **Illusion (Shadow)**  

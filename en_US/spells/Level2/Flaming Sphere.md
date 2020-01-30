@@ -1,6 +1,6 @@
 ## Flaming Sphere
 
-Classes: **Cleric (Light), Druid, Wizard, Warlock (Eternal Flame)**  
+Classes: **Druid, Wizard, Warlock (Eternal Flame)**  
 Level: **2**  
 
 School: **Conjuration**  

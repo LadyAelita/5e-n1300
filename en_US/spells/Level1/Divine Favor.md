@@ -1,6 +1,6 @@
 ## Divine Favor
 
-Classes: **Cleric (Strength), Cleric (War), Paladin**  
+Classes: **Cleric (War), Paladin**  
 Level: **1**  
 
 School: **Evocation**  

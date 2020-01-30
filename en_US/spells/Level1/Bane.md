@@ -1,6 +1,6 @@
 ## Bane
 
-Classes: **Bard, Cleric, Paladin (Vengeance), Sorcerer (Efreeti), Warlock (Fiend), Warlock (Undying), Warlock (Void)**  
+Classes: **Bard, Cleric, Cleric (Grave), Paladin (Vengeance), Sorcerer (Efreeti), Warlock (Fiend), Warlock (Undying), Warlock (Void)**  
 Level: **1**  
 
 School: **Evocation**  

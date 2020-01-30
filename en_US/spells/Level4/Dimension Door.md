@@ -1,6 +1,6 @@
 ## Dimension Door
 
-Classes: **Bard, Cleric (Trickery), Paladin (Vengeance), Warlock, Wizard, Cleric (Ambition)**  
+Classes: **Bard, Cleric (Trickery), Paladin (Vengeance), Warlock, Wizard**  
 Level: **4**  
 
 School: **Conjuration (Teleportation)**  

@@ -1,6 +1,6 @@
 ## Destructive Wave
 
-Classes: **Cleric (Tempest), Cleric (Strength), Cleric (Zeal), Warlock (The Sentient Sword), Paladin**  
+Classes: **Cleric (Tempest), Cleric (Zeal), Warlock (The Sentient Sword), Paladin**  
 Level: **5**  
 
 School: **Evocation**  

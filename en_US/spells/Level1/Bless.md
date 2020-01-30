@@ -1,6 +1,6 @@
 ## Bless
 
-Classes: **Cleric, Cleric (Life), Cleric (Solidarity), Paladin**  
+Classes: **Cleric, Cleric (Life), Cleric (Preservation), Paladin**  
 Level: **1**  
 
 School: **Evocation**  

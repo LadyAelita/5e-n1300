@@ -1,6 +1,6 @@
 ## Warding Bond
 
-Classes: **Cleric, Paladin (Crown), Cleric (Solidarity)**  
+Classes: **Cleric, Paladin (Crown)**  
 Level: **2**  
 
 School: **Abjuration**  

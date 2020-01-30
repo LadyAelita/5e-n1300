@@ -1,6 +1,6 @@
 ## Crusader's Mantle
 
-Classes: **Cleric (War), Paladin, Cleric (Solidarity)**  
+Classes: **Cleric (War), Paladin**  
 Level: **3**  
 
 School: **Evocation**  

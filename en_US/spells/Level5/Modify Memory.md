@@ -1,6 +1,6 @@
 ## Modify Memory
 
-Classes: **Bard, Cleric (Ambition), Cleric (Trickery), Warlock (Void), Wizard**  
+Classes: **Bard, Cleric (Trickery), Warlock (Void), Wizard**  
 Level: **5**  
 
 School: **Enchantment (Charm)**  

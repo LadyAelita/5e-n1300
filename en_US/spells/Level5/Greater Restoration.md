@@ -1,6 +1,6 @@
 ## Greater Restoration
 
-Classes: **Bard, Cleric, Druid, Warlock (Aeonian Flame)**  
+Classes: **Bard, Cleric, Cleric (Preservation), Druid, Warlock (Aeonian Flame)**  
 Level: **5**  
 
 School: **Abjuration**  

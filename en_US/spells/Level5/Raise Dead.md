@@ -1,6 +1,6 @@
 ## Raise Dead
 
-Classes: **Bard, Cleric, Paladin**  
+Classes: **Bard, Cleric, Cleric (Grave), Cleric (Life), Paladin**  
 Level: **5**  
 
 School: **Necromancy (White)**  

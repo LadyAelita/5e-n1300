@@ -1,6 +1,6 @@
 ## Enervation
 
-Classes: **Warlock, Wizard**  
+Classes: **Cleric (Death), Warlock, Wizard**  
 Level: **5**  
 
 School: **Necromancy (Black)**  

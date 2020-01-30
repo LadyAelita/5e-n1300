@@ -1,6 +1,6 @@
 ## Haste
 
-Classes: **Druid (Grassland), Paladin (Vengeance), Wizard, Paladin (Treachery), Cleric (Strength), Cleric (Zeal)**  
+Classes: **Cleric (Blood), Cleric (Zeal), Druid (Grassland), Paladin (Vengeance), Wizard, Paladin (Treachery)**  
 Level: **3**  
 
 School: **Transmutation**  

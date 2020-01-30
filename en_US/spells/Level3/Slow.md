@@ -1,6 +1,6 @@
 ## Slow
 
-Classes: **Druid (Arctic), Warlock, Wizard, Cleric (Protection)**  
+Classes: **Cleric (Blood), Cleric (Obedience), Cleric (Protection), Druid (Arctic), Warlock, Wizard**  
 Level: **3**  
 
 School: **Transmutation**  

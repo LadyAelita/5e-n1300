@@ -1,6 +1,6 @@
 ## Zone of Truth
 
-Classes: **Bard, Cleric, Paladin, Paladin (Devotion), Paladin (Crown)**  
+Classes: **Bard, Cleric, Cleric (Obedience), Paladin, Paladin (Devotion), Paladin (Crown)**  
 Level: **2**  
 
 School: **Enchantment (Compulsion)**  

@@ -1,6 +1,6 @@
 ## Mass Cure Wounds
 
-Classes: **Warlock, Wizard**  
+Classes: **Cleric (Life), Cleric (Preservation), Warlock, Wizard**  
 Level: **5**  
 
 School: **Necromancy (White)**  

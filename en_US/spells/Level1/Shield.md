@@ -1,6 +1,6 @@
 ## Shield
 
-Classes: **Cleric (Forge), Wizard**  
+Classes: **Wizard**  
 Level: **1**  
 
 School: **Abjuration**  

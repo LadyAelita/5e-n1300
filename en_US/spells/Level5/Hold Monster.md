@@ -1,6 +1,6 @@
 ## Hold Monster
 
-Classes: **Bard, Cleric (War), Paladin (Vengeance), Warlock, Wizard**  
+Classes: **Bard, Cleric (Blood), Cleric (War), Paladin (Vengeance), Warlock, Wizard**  
 Level: **5**  
 
 School: **Enchantment (Compulsion)**  

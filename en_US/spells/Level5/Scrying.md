@@ -1,6 +1,6 @@
 ## Scrying
 
-Classes: **Bard, Cleric, Druid, Paladin (Vengeance), Warlock, Wizard**  
+Classes: **Bard, Cleric, Cleric (Knowledge), Druid, Paladin (Vengeance), Warlock, Wizard**  
 Level: **5**  
 
 School: **Divination (Scrying)**  

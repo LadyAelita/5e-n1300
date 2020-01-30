@@ -1,6 +1,6 @@
 ## Dominate Person
 
-Classes: **Bard, Cleric (Ambition), Cleric (Trickery), Warlock (Great Old One), Paladin (Conquest), Paladin (Oathbreaker), Paladin (Treachery), Warlock (Great Old One), Wizard**  
+Classes: **Bard, Cleric (Obedience), Cleric (Trickery), Warlock (Great Old One), Paladin (Conquest), Paladin (Oathbreaker), Paladin (Treachery), Warlock (Great Old One), Wizard**  
 Level: **5**  
 
 School: **Enchantment (Compulsion)**  

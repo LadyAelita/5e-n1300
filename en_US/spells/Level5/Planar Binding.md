@@ -1,6 +1,6 @@
 ## Planar Binding
 
-Classes: **Bard, Cleric, Druid, Wizard**  
+Classes: **Bard, Cleric, Cleric (Arcana), Druid, Wizard**  
 Level: **5**  
 
 School: **Abjuration**  

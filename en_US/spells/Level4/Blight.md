@@ -1,6 +1,6 @@
 ## Blight
 
-Classes: **Cleric (Death), Druid, Druid (Desert), Paladin (Oathbreaker), Warlock, Wizard, Cleric (Grave), Paladin (Conquest)**  
+Classes: **Cleric (Blood), Cleric (Death), Cleric (Grave), Druid, Druid (Desert), Paladin (Conquest), Paladin (Oathbreaker), Warlock, Wizard**  
 Level: **4**  
 
 School: **Necromancy (Black)**  

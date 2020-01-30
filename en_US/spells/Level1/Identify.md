@@ -1,6 +1,6 @@
 ## Identify
 
-Classes: **Bard, Cleric (Knowledge), Warlock (Seeker), Wizard**  
+Classes: **Bard, Cleric (Forge), Cleric (Knowledge), Warlock (Seeker), Wizard**  
 Level: **1**  
 
 School: **Divination**  

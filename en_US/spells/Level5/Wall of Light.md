@@ -1,6 +1,6 @@
 ## Wall of Light
 
-Classes: **Warlock, Wizard**  
+Classes: **Cleric (Light), Warlock, Wizard**  
 Level: **5**  
 
 School: **Evocation**  

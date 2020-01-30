@@ -1,6 +1,6 @@
 ## Command
 
-Classes: **Cleric, Cleric (Knowledge), Paladin (Crown), Paladin (Conquest), Warlock**  
+Classes: **Cleric, Cleric (Knowledge), Cleric (Obedience), Paladin (Crown), Paladin (Conquest), Warlock**  
 Level: **1**  
 
 School: **Enchantment (Compulsion)**  
