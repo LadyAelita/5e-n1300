@@ -192,7 +192,7 @@ The tenets of the Oath of the Ancients have been preserved for uncounted centuri
 | 13th          | Hailstorm, Stoneskin                 |
 | 17th          | Commune with Nature, Tree Stride     |
 
-### Channel Divinity (3rd level)
+### Channel Divinity
 
 You gain the following two Channel Divinity options.
 
@@ -258,7 +258,7 @@ A paladin who takes this oath has the tenets of conquest seared on the upper arm
 | 13th          | Dominate Beast, Stoneskin     |
 | 17th          | Dominate Person, Immolation   |
 
-### Channel Divinity (3rd level)
+### Channel Divinity
 
 You gain the following two Channel Divinity options.
 
@@ -324,7 +324,7 @@ The tenets of the Oath of the Crown are often set by the sovereign to which thei
 | 13th          | Banishment, Guardian of Faith      |
 | 17th          | Circle of Protection, Geas         |
 
-### Channel Divinity (3rd level)
+### Channel Divinity
 
 You gain the following two Channel Divinity options.
 
