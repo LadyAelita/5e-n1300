@@ -1,6 +1,6 @@
 ## Hypnotic Pattern
 
-Classes: **Bard, Warlock, Wizard**  
+Classes: **Bard, Paladin (Redemption), Warlock, Wizard**  
 Level: **3**  
 
 School: **Illusion (Pattern)**  

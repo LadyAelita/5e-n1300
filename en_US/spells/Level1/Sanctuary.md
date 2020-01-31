@@ -1,6 +1,6 @@
 ## Sanctuary
 
-Classes: **Cleric, Paladin (Devotion), Warlock (Great Old One)**  
+Classes: **Cleric, Paladin (Devotion), Paladin (Redemption), Warlock (Great Old One)**  
 Level: **1**  
 
 School: **Abjuration**  

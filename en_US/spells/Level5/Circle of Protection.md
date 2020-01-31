@@ -1,6 +1,6 @@
 ## Circle of Protection
 
-Classes: **Paladin, Warlock (Void)**  
+Classes: **Paladin, Paladin (Crown), Warlock (Void)**  
 Level: **5**  
 
 School: **Abjuration**  

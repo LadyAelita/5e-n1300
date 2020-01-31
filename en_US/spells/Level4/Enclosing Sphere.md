@@ -1,6 +1,6 @@
 ## Enclosing Sphere
 
-Classes: **Wizard, Cleric (Protection)**  
+Classes: **Wizard, Cleric (Protection), Paladin (Redemption)**  
 Level: **4**  
 
 School: **Evocation**  

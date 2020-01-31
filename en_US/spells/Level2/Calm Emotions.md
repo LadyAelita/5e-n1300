@@ -1,6 +1,6 @@
 ## Calm Emotions
 
-Classes: **Bard, Cleric, Sorcerer (Water Elemental), Warlock (Archfey)**  
+Classes: **Bard, Cleric, Paladin (Redemption), Sorcerer (Water Elemental), Warlock (Archfey)**  
 Level: **2**  
 
 School: **Enchantment (Compulsion)**  

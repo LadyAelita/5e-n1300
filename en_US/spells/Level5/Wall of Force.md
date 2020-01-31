@@ -1,6 +1,6 @@
 ## Wall of Force
 
-Classes: **Cleric (Protection), Wizard**  
+Classes: **Cleric (Protection), Paladin (Redemption), Wizard**  
 Level: **5**  
 
 School: **Evocation**  

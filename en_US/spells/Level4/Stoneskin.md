@@ -1,6 +1,6 @@
 ## Stoneskin
 
-Classes: **Cleric (War), Druid, Druid (Mountain), Paladin (Ancients), Ranger, Warlock (Undying), Wizard**  
+Classes: **Cleric (War), Druid, Druid (Mountain), Paladin (Ancients), Paladin (Redemption), Ranger, Warlock (Undying), Wizard**  
 Level: **4**  
 
 School: **Abjuration**  

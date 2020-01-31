@@ -1,6 +1,6 @@
 ## Counterspell
 
-Classes: **Warlock, Wizard**  
+Classes: **Paladin (Redemption), Warlock, Wizard**  
 Level: **3**  
 
 School: **Abjuration**  
