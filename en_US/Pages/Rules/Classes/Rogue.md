@@ -64,7 +64,7 @@ You must have a **Dexterity** score of **13 or higher** in order to multiclass i
 
 Choose **two** of your **skill proficiencies**. You gain **expertise** in those two skills instead.
 
-At **6th level**, you can choose two additional skills this way.
+At **6th level**, you can choose **two additional skills** this way.
 
 ## Sneak Attack (1st level)
 
