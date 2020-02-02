@@ -389,7 +389,7 @@ You are **immune** to **poison** and **disease**.
 
 As an **action**, choose a **creature** that you can see and that **has at least one of your seals**, **burning one seal** on them. That creature must make a **Wisdom saving throw** against your **spell save DC**. On a **failed** save, they **attack their closest ally**.
 
-**Malady of Sight (14th level)**
+### Malady of Sight (14th level)
 
 You are **invisible** to **creatures** that **have at least one of your seals**.
 
@@ -433,7 +433,7 @@ Whenever you **curse** a creature in **any way other than** the **Voodoo Seal** 
 
 ### Abandon Hope (6th level)
 
-**Creatuers** that **have at least one of your seals** on them have **disadvantage** on **saving throws against your spells**.
+**Creatures** that **have at least one of your seals** on them have **disadvantage** on **saving throws against your spells**.
 
 ### The Prophecy (10th level)
 
