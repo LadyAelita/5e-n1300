@@ -149,7 +149,7 @@ Once between rests, if **your attack misses** a target, you **can turn the miss 
 | **Spellcasting focus**    | **None**, you always automatically satisfy the Focus component of every spell. |
 | **Spellcasting resource** | **Regular spell slots** which refresh on a **long rest**.    |
 | **Cantrips**              | **Yes**, as per the Arcane Trickster table. You learn your cantrips from the **Wizard/Sorcerer spell list**. Moreover, you **know** the **Mage Hand cantrip** for free. |
-| **Learning spells**       | You learn spells from the **Wizard/Sorcerer spell list**, as per the Arcane Trickster table. Each of these spells must be from the **Enchantment** or **Illusion** school (**except** for spells that you learn at **8th**, **14th** and **20th level**), of an order for which you have Arcane Trickster spell slots. |
+| **Learning spells**       | You learn spells from the **Wizard/Sorcerer spell list**, as per the Arcane Trickster table. Each of these spells must be from the **Enchantment** or **Illusion** school (**except** for spells that you learn at **8th**, **14th** and **20th level**), of an order for which you have Arcane Trickster spell slots.<br />Additionally, every time you **gain a level** in this class, you **can replace one** of the Wizard spells you know with another spell from the Wizard/Sorcerer spell list, which must be of an order for which you have Arcane Trickster spell slots at the **newly acquired level**. It must also be from the **Enchantment** or **Illusion** school, **unless** the **spell being replaced** was the one gained at 8th, 14th or 20th level, **from any school** of magic. |
 | **Preparing spells**      | You **don't prepare spells**, you have access to all your known spells at all times. |
 
 ### The Arcane Trickster's spellcasting table
@@ -363,7 +363,7 @@ If you take the **Attack action** on your turn, you can **make one additional at
 | **Spellcasting focus**    | **None**, you always automatically satisfy the Focus component of every spell. |
 | **Spellcasting resource** | **Regular spell slots** which refresh on a **long rest**.    |
 | **Cantrips**              | **Yes**, as per the Shadow table. You learn your cantrips from the **Wizard/Sorcerer spell list**. |
-| **Learning spells**       | You learn spells from the **Wizard/Sorcerer spell list**, as per the Shadow table. Each of these spells must be of the **Darkness** element (**except** for spells that you learn at **8th**, **14th** and **20th level**), of an order for which you have Shadow spell slots. |
+| **Learning spells**       | You learn spells from the **Wizard/Sorcerer spell list**, as per the Shadow table. Each of these spells must be of the **Darkness** element (**except** for spells that you learn at **8th**, **14th** and **20th level**), of an order for which you have Shadow spell slots.<br />Additionally, every time you **gain a level** in this class, you **can replace one** of the Wizard spells you know with another spell from the Wizard/Sorcerer spell list, which must be of an order for which you have Shadow spell slots at the **newly acquired level**. It must also be of the **Darkness** element, **unless** the **spell being replaced** was the one gained at 8th, 14th or 20th level, **of any element**. |
 | **Preparing spells**      | You **don't prepare spells**, you have access to all your known spells at all times. |
 
 ### The Shadow's spellcasting table

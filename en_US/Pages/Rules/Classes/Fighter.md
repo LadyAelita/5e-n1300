@@ -419,7 +419,7 @@ If you **make an attack** and **have advantage** on the attack roll, you can **f
 | **Spellcasting focus**    | **None**, you always automatically satisfy the Focus component of every spell. |
 | **Spellcasting resource** | **Regular spell slots** which refresh on a **long rest**.    |
 | **Cantrips**              | **Yes**, as per the Eldritch Knight table.                   |
-| **Learning spells**       | You learn spells from the **Wizard/Sorcerer spell list**, as per the Eldritch Knight table. Each of these spells must be from the **Abjuration** or **Evocation** school (**except** for spells that you learn at **8th**, **14th** and **20th level**), of an order for which you have Eldritch Knight spell slots. |
+| **Learning spells**       | You learn spells from the **Wizard/Sorcerer spell list**, as per the Eldritch Knight table. Each of these spells must be from the **Abjuration** or **Evocation** school (**except** for spells that you learn at **8th**, **14th** and **20th level**), of an order for which you have Eldritch Knight spell slots.<br />Additionally, every time you **gain a level** in this class, you **can replace one** of the Wizard spells you know with another spell from the Wizard/Sorcerer spell list, which must be of an order for which you have Eldritch Knight spell slots at the **newly acquired level**. It must also be from the **Abjuration** or **Evocation** school, **unless** the **spell being replaced** was the one gained at 8th, 14th or 20th level, **from any school** of magic. |
 | **Preparing spells**      | You **don't prepare spells**, you have access to all your known spells at all times. |
 
 ### The Eldritch Knight's spellcasting table

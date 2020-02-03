@@ -70,7 +70,7 @@ You must have a **Charisma** score of **13 or higher** in order to multiclass in
 | **Spellcasting focus**    | Your **musical instrument**.                                 |
 | **Spellcasting resource** | **Regular spell slots** which refresh on a **long rest**.    |
 | **Cantrips**              | **Yes**, as per the Bard table.                              |
-| **Learning spells**       | You learn spells from the **Bard spell list**, as per the Bard table. Each of these spells must be of a level for which you have Bard spell slots. |
+| **Learning spells**       | You learn spells from the **Bard spell list**, as per the Bard table. Each of these spells must be of a level for which you have Bard spell slots.<br />Additionally, every time you **gain a level** in this class, you **can replace one** of the Bard spells you know with another spell from the Bard spell list, which must be of an order for which you have Bard spell slots at the **newly acquired level**. |
 | **Preparing spells**      | You **don't prepare spells**, you have access to all your known spells at all times. |
 
 ## Bardic Inspiration (1st, 5th, 10th, 15th level)

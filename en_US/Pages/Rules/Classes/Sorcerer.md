@@ -68,7 +68,7 @@ You must have a **Charisma** score of **13 or higher** in order to multiclass in
 | **Spellcasting focus**    | **None**, you always automatically satisfy the Focus component of every spell. |
 | **Spellcasting resource** | **Regular spell slots** which refresh on a **long rest**.    |
 | **Cantrips**              | **Yes**, as per the Sorcerer table.                          |
-| **Learning spells**       | You learn spells from the **Wizard/Sorcerer spell list**, as per the Sorcerer table. Each of these spells must be of a level for which you have Sorcerer spell slots. |
+| **Learning spells**       | You learn spells from the **Wizard/Sorcerer spell list**, as per the Sorcerer table. Each of these spells must be of a level for which you have Sorcerer spell slots.<br />Additionally, every time you **gain a level** in this class, you **can replace one** of the Sorcerer spells you know with another spell from the Wizard/Sorcerer spell list, which must be of an order for which you have Sorcerer spell slots at the **newly acquired level**. |
 | **Preparing spells**      | You **don't prepare spells**, you have access to all your known spells at all times. |
 
 ## Font of Magic (2nd level)

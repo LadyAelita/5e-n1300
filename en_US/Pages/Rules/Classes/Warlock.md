@@ -80,7 +80,7 @@ You must have a **Charisma** score of **13 or higher** in order to multiclass in
 | **Spellcasting focus**    | **Pact Boon item** or **any arcane focus**                   |
 | **Spellcasting resource** | **Pact Magic spell slots** which refresh on a **short rest**. All those spell slots are of the same level, as per the Warlock table. At higher levels you also gain **Mystic Arcana spell slots**, which refresh on a **long rest**, work similar to regular spell slots, and can also be used to up-cast Pact Magic spells. |
 | **Cantrips**              | **Yes**, as per the Warlock table.                           |
-| **Learning spells**       | You learn spells from the **Warlock spell list**, as per the Warlock table. Each of these spells must be of a level not higher than the level of your Pact Magic spell slots. |
+| **Learning spells**       | You learn spells from the **Warlock spell list**, as per the Warlock table. Each of these spells must be of a level not higher than the level of your Pact Magic spell slots.<br />Additionally, every time you **gain a level** in this class, you **can replace one** of the Warlock spells you know with another spell from the Warlock spell list, which must be of an order not higher than the order of your Pact Magic spell slots at the **newly acquired level**. |
 | **Preparing spells**      | You **don't prepare spells**, you have access to all your known spells at all times. |
 
 ## Eldrtich Invocations (2nd level)
