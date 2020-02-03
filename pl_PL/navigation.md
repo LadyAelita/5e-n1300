@@ -52,6 +52,9 @@
   * [Profeta](../en_US/Pages/Rules/Classes/Sorcerer.md)
   * [Vilos](../en_US/Pages/Rules/Classes/Warlock.md)
   * [Wojownik](../en_US/Pages/Rules/Classes/Fighter.md)
+  - - - -
+  * # Dodatkowe klasy
+  * [Biczownik](../en_US/Pages/Rules/Classes/Extra/Flagellant.md)
 
 [Przygody]()
 
