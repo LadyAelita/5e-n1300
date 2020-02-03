@@ -62,7 +62,7 @@
   * [Człowiek](../en_US/Pages/Rules/Races/Human.md)
   * [Elf](../en_US/Pages/Rules/Races/Elf.md)
   * [Krasnolud](../en_US/Pages/Rules/Races/Dwarf.md)
-  * [Ork](../en_US/Pages/Rules/Races/Ork.md)
+  * [Ork](../en_US/Pages/Rules/Races/Orc.md)
   * [Półelf](../en_US/Pages/Rules/Races/Half-Elf.md)
 
 [Przygody]()
