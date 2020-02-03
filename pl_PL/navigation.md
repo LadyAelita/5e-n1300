@@ -56,6 +56,15 @@
   * # Dodatkowe klasy
   * [Biczownik](../en_US/Pages/Rules/Classes/Extra/Flagellant.md)
 
+[Rasy]()
+
+  * # Podstawowe rasy
+  * [Człowiek](../en_US/Pages/Rules/Races/Human.md)
+  * [Elf](../en_US/Pages/Rules/Races/Elf.md)
+  * [Krasnolud](../en_US/Pages/Rules/Races/Dwarf.md)
+  * [Ork](../en_US/Pages/Rules/Races/Ork.md)
+  * [Półelf](../en_US/Pages/Rules/Races/Half-Elf.md)
+
 [Przygody]()
 
   * [Odpoczynek](../en_US/Pages/Rules/Adventuring/Resting.md)

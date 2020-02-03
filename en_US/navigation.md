@@ -56,6 +56,15 @@
   * # Additional classes
   * [Flagellant](Pages/Rules/Classes/Extra/Flagellant.md)
 
+[Races]()
+
+  * # Core races
+  * [Dwarf](Pages/Rules/Races/Dwarf.md)
+  * [Elf](Pages/Rules/Races/Elf.md)
+  * [Half-Elf](Pages/Rules/Races/Half-Elf.md)
+  * [Human](Pages/Rules/Races/Human.md)
+  * [Orc](Pages/Rules/Races/Orc.md)
+
 [Adventuring]()
 
   * [Environment](Pages/Rules/Adventuring/Environment.md)
