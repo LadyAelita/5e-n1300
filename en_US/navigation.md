@@ -64,6 +64,9 @@
   * [Half-Elf](Pages/Rules/Races/Half-Elf.md)
   * [Human](Pages/Rules/Races/Human.md)
   * [Orc](Pages/Rules/Races/Orc.md)
+  - - - -
+  * # Additional races
+  * [Undead](Pages/Rules/Races/Extra/Undead.md)
 
 [Adventuring]()
 

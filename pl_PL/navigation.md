@@ -64,6 +64,9 @@
   * [Krasnolud](../en_US/Pages/Rules/Races/Dwarf.md)
   * [Ork](../en_US/Pages/Rules/Races/Orc.md)
   * [Półelf](../en_US/Pages/Rules/Races/Half-Elf.md)
+  - - - -
+  * # Dodatkowe rasy
+  * [Nieumarły](../en_US/Pages/Rules/Races/Extra/Undead.md)
 
 [Przygody]()
 
