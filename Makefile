@@ -34,3 +34,6 @@ spells:
 	@git add "en_US/indices/Ranger Spells.csv"
 	@git add "en_US/indices/Warlock Spells.csv"
 	@git add "en_US/indices/Wizard & Sorcerer Spells.csv"
+
+host:
+	python -m SimpleHTTPServer 8080
