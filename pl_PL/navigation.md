@@ -68,6 +68,10 @@
   * # Dodatkowe rasy
   * [Nieumarły](../en_US/Pages/Rules/Races/Extra/Undead.md)
 
+[Przedmioty]()
+
+  * [Broń](../en_US/Pages/Rules/Items/Weapons.md)
+
 [Przygody]()
 
   * [Odpoczynek](../en_US/Pages/Rules/Adventuring/Resting.md)

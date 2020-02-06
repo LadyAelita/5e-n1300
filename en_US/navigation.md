@@ -68,6 +68,10 @@
   * # Additional races
   * [Undead](Pages/Rules/Races/Extra/Undead.md)
 
+[Items]()
+
+  * [Weapons](Pages/Rules/Items/Weapons.md)
+
 [Adventuring]()
 
   * [Environment](Pages/Rules/Adventuring/Environment.md)
