@@ -72,6 +72,7 @@
 
   * [Adventuring gear](Pages/Rules/Items/Adventuring gear.md)
   * [Armor](Pages/Rules/Items/Armor.md)
+  * [Gemstones](Pages/Rules/Items/Gemstones.md)
   * [Money](Pages/Rules/Items/Money.md)
   * [Weapons](Pages/Rules/Items/Weapons.md)
 

@@ -71,6 +71,7 @@
 [Przedmioty]()
 
   * [Broń](../en_US/Pages/Rules/Items/Weapons.md)
+  * [Kamienie szlachetne](../en_US/Pages/Rules/Items/Gemstones.md)
   * [Pancerz](../en_US/Pages/Rules/Items/Armor.md)
   * [Pieniądze](../en_US/Pages/Rules/Items/Money.md)
   * [Użytkowe](../en_US/Pages/Rules/Items/Adventuring gear.md)
