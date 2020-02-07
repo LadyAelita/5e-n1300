@@ -75,6 +75,7 @@
   * [Pancerz](../en_US/Pages/Rules/Items/Armor.md)
   * [Pieniądze](../en_US/Pages/Rules/Items/Money.md)
   * [Użytkowe](../en_US/Pages/Rules/Items/Adventuring gear.md)
+  * [Zasoby](../en_US/Pages/Rules/Items/Resources.md)
 
 [Przygody]()
 
