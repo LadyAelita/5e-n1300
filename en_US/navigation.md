@@ -75,6 +75,7 @@
   * [Gemstones](Pages/Rules/Items/Gemstones.md)
   * [Money](Pages/Rules/Items/Money.md)
   * [Resources](Pages/Rules/Items/Resources.md)
+  * [Services and lifestyle](Pages/Rules/Items/Services and lifestyle.md)
   * [Weapons](Pages/Rules/Items/Weapons.md)
 
 [Adventuring]()
