@@ -70,6 +70,7 @@
 
 [Items]()
 
+  * [Armor](Pages/Rules/Items/Armor.md)
   * [Weapons](Pages/Rules/Items/Weapons.md)
 
 [Adventuring]()

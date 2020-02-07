@@ -71,6 +71,7 @@
 [Przedmioty]()
 
   * [Broń](../en_US/Pages/Rules/Items/Weapons.md)
+  * [Pancerz](../en_US/Pages/Rules/Items/Armor.md)
 
 [Przygody]()
 
