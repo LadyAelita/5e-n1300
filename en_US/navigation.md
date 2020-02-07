@@ -71,6 +71,7 @@
 [Items]()
 
   * [Armor](Pages/Rules/Items/Armor.md)
+  * [Money](Pages/Rules/Items/Money.md)
   * [Weapons](Pages/Rules/Items/Weapons.md)
 
 [Adventuring]()
