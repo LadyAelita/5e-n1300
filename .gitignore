@@ -1,6 +1,11 @@
 # Spell index hook indicator
 .spellIndicesRebuilt
 
+# Images directory and files
+Images
+*.jpg
+*.png
+
 ## =============================================================================
 ##                !!! STOP. DO NOT MODIFY BELOW THIS LINE. !!!
 ## =============================================================================
