@@ -11,7 +11,7 @@
 | **Gender**                                                   | Female                                                       |
 | **Born**                                                     | 1279 (age 21)                                                |
 | **Status**                                                   | alive                                                        |
-| **Origin**                                                   | [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
+| **Origin**                                                   | [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland.md) |
 | **Race**                                                     | Human                                                        |
 | **Class**                                                    | probably Rogue or Fighter                                    |
 | **Alignment**                                                | Chaotic Neutral                                              |
