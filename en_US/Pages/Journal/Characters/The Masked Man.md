@@ -14,8 +14,8 @@
 | **Origin**                                                   | potentially [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
 | **Race**                                                     | likely Human, but there is no certainty                      |
 | **Class**                                                    | unknown                                                      |
-| **Alignment**                                                |                                                              |
-| **Disposition**                                              |                                                              |
+| **Alignment**                                                | likely non-lawful, non-good                                  |
+| **Disposition**                                              | unknown                                                      |
 | **Weapon of choice**                                         | unknown                                                      |
 | **Profession**                                               | unknown                                                      |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |

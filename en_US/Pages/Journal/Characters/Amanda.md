@@ -15,7 +15,7 @@
 | **Race**                                                     | Human                                                        |
 | **Class**                                                    | probably Rogue or Fighter                                    |
 | **Alignment**                                                | Chaotic Neutral                                              |
-| **Disposition**                                              |                                                              |
+| **Disposition**                                              | Face leaning                                                 |
 | **Weapon of choice**                                         | rapier, longsword                                            |
 | **Profession**                                               | fencer, leatherworker, tailor                                |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md)<br />[Iartar Swordsfighting Federation](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) |

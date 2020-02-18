@@ -15,7 +15,7 @@
 | **Race**                                                     | Fire Leed'he                                                 |
 | **Class**                                                    | Fighter/Sorceress (Prophetusa)                               |
 | **Alignment**                                                | Chaotic Good                                                 |
-| **Disposition**                                              |                                                              |
+| **Disposition**                                              | Tweener                                                      |
 | **Weapon of choice**                                         | longsword, fire magic                                        |
 | **Profession**                                               | unknown                                                      |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md)<br />[Infallible](#!Pages/Journal/Organizations/Infallible.md) (formerly) |

@@ -15,7 +15,7 @@
 | **Race**                                                     | Orc                                                          |
 | **Class**                                                    | Monk (Psi-Warrior)                                           |
 | **Alignment**                                                | Lawful Evil                                                  |
-| **Disposition**                                              |                                                              |
+| **Disposition**                                              | unknown                                                      |
 | **Weapon of choice**                                         | unarmed strikes                                              |
 | **Profession**                                               | unknown                                                      |
 | **Affiliation**                                              | [Infallible](#!Pages/Journal/Organizations/Infallible.md) (formerly) |

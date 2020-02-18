@@ -15,7 +15,7 @@
 | **Race**                                                     | Human                                                        |
 | **Class**                                                    | Bard                                                         |
 | **Alignment**                                                | Chaotic Neutral                                              |
-| **Disposition**                                              |                                                              |
+| **Disposition**                                              | Tweener                                                      |
 | **Weapon of choice**                                         | probably bardic sorcery                                      |
 | **Profession**                                               | bard, innkeeper                                              |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |
