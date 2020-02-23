@@ -779,6 +779,12 @@ def convertSpellToCSVIndexRow(spell, skipClass=False):
 	# Add the {element}* tag, for example Water*
 	tags.append(spell.element + CLASS_POINTER_CHARACTER)
 
+	# Add the level tags
+	tags.append(u'level {}'.format(spell.level))
+	tags.append(u'level{}'.format(spell.level))
+	tags.append(u'lv{}'.format(spell.level))
+	tags.append(u'lvl{}'.format(spell.level))
+
 	levelSubdir = u'Cantrips' if spell.level == 0 else u'Level{}'.format(spell.level)
 	columns.append(unicode('#!spells/{}/{}.md'.format(levelSubdir, validateFilename(spell.name))))
 
