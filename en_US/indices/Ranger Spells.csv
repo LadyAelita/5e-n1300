@@ -11,7 +11,7 @@ no conc,no concentration,no ritual,Ranger*;Ensnaring Strike;1;Conjuration (Creat
 no ritual,Druid*,Ranger*,Wizard*;Fog Cloud;1;Conjuration (Creation);Air;1 action;Concentration;;1 hour;V, S;Cleric (Tempest), Druid, Ranger, Warlock (Void), Wizard;#!spells/Level1/Fog Cloud.md
 no conc,no concentration,no ritual,Druid*,Ranger*;Goodberry;1;Transmutation;Light;1 action;;;Instantaneous;V, S, F;Druid, Ranger;#!spells/Level1/Goodberry.md
 no conc,no concentration,no ritual,Ranger*;Hail of Thorns;1;Conjuration (Creation);Earth;1 bonus action;Optional;;1 round / Concentration, up to 1 minute;V;Ranger;#!spells/Level1/Hail of Thorns.md
-no ritual,Ranger*;Hunter's Mark;1;Divination;Fire;1 bonus action;Concentration;;Concentration, up to 1 hour;V;Paladin (Vengeance), Ranger;#!spells/Level1/Hunters Mark.md
+no ritual,Ranger*;Hunter's Mark;1;Divination;Fire;1 bonus action;Concentration;;Concentration, up to 1 hour;V;Paladin (Vengeance), Ranger;#!spells/Level1/Hunter's Mark.md
 no conc,no concentration,no ritual,Druid*,Ranger*,Wizard*;Jump;1;Transmutation;Air;1 action;;;1 minute;V, S, F;Druid, Ranger, Wizard;#!spells/Level1/Jump.md
 no conc,no concentration,no ritual,Bard*,Druid*,Ranger*,Wizard*;Longstrider;1;Transmutation;Air;1 action;;;1 hour;V, S, F;Bard, Druid, Ranger, Wizard;#!spells/Level1/Longstrider.md
 no conc,no concentration,no ritual,Druid*,Ranger*,Wizard*;Snare;1;Transmutation;Darkness;1 minute;;;1 day;V, S, M (25 feet of rope, which the spell consumes);Druid, Ranger, Wizard;#!spells/Level1/Snare.md
@@ -35,7 +35,7 @@ Bard*,Cleric*,Ranger*;Silence;2;Illusion (Glamer);Darkness;1 action;Concentratio
 no ritual,Druid*,Ranger*;Spike Growth;2;Transmutation;Earth;1 action;Concentration;;Concentration, up to 10 minutes;V, S, F;Cleric (Nature), Druid, Druid (Arctic), Druid (Mountain), Ranger, Warlock (Archfey);#!spells/Level2/Spike Growth.md
 no conc,no concentration,no ritual,Cleric*,Druid*,Paladin*,Ranger*;Daylight;3;Evocation;Light;1 action;;;1 hour;V, S;Cleric, Cleric (Light), Druid, Druid (Grassland), Paladin, Ranger, Sorcerer (Angel), Warlock (Aeonian Flame);#!spells/Level3/Daylight.md
 no conc,no concentration,no ritual,Ranger*;Direct Barrage;3;Transmutation;Air;1 action;;;Instantaneous;V, S, M (pieces of ammunition or thrown weapons);Ranger;#!spells/Level3/Direct Barrage.md
-no conc,no concentration,no ritual,Druid*,Ranger*,Wizard*;Endurion's Cold Arrows;3;Transmutation;Water;1 action;;;1 hour;V, S;Druid, Ranger, Wizard;#!spells/Level3/Endurions Cold Arrows.md
+no conc,no concentration,no ritual,Druid*,Ranger*,Wizard*;Endurion's Cold Arrows;3;Transmutation;Water;1 action;;;1 hour;V, S;Druid, Ranger, Wizard;#!spells/Level3/Endurion's Cold Arrows.md
 no conc,no concentration,no ritual,Druid*,Ranger*,Wizard*;Flame Arrows;3;Transmutation;Fire;1 action;;;1 hour;V, S;Druid, Ranger, Wizard;#!spells/Level3/Flame Arrows.md
 no ritual,Ranger*;Lightning Arrow;3;Transmutation;Air;1 bonus action;Concentration;;1 round;V, S, M (a piece of ammunition that the spell consumes);Ranger;#!spells/Level3/Lightning Arrow.md
 no conc,no concentration,no ritual,Bard*,Ranger*,Wizard*;Nondetection;3;Abjuration;Darkness;1 action;;;8 hours;V, S, M (apatite dust worth at least 25 gp sprinkled over the target, which the spell consumes);Bard, Cleric (Knowledge), Ranger, Warlock (Void), Wizard;#!spells/Level3/Nondetection.md
