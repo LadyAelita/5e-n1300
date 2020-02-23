@@ -776,6 +776,9 @@ def convertSpellToCSVIndexRow(spell, skipClass=False):
 			if not ('(' in className or ')' in className):
 				tags.append(className + CLASS_POINTER_CHARACTER)
 
+	# Add the {element}* tag, for example Water*
+	tags.append(spell.element + CLASS_POINTER_CHARACTER)
+
 	levelSubdir = u'Cantrips' if spell.level == 0 else u'Level{}'.format(spell.level)
 	columns.append(unicode('#!spells/{}/{}.md'.format(levelSubdir, validateFilename(spell.name))))
 
