@@ -368,7 +368,7 @@ def validateFilename(filename):
 	newname = newname.replace('?', '')
 	newname = newname.replace('|', '')
 	newname = newname.replace('"', '')
-	newname = newname.replace('\'', '')
+	# newname = newname.replace('\'', '')
 
 	return newname
 
