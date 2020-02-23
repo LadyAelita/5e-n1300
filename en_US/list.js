@@ -8,7 +8,9 @@ const TAG_SEPARATOR = ',';
 const SEARCH_CRITERIA_SEPARATOR = ',';
 const ERROR_HEADER = 'Fuck that shit';
 const LOCALE = window.location.pathname.split('/')[1];
-const URL_BASE = window.location.protocol + '//' + window.location.hostname + '/' + LOCALE;
+const PORT = window.location.port;
+const FULL_HOST = window.location.hostname + (PORT ? ':' + PORT : '');
+const URL_BASE = window.location.protocol + '//' + FULL_HOST + '/' + LOCALE;
 
 // ### Helper functions ###
 
