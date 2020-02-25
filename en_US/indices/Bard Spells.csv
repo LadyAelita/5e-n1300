@@ -125,3 +125,7 @@ no conc,no concentration,no ritual,Bard*,Druid*,Warlock*,Wizard*,Darkness*,level
 no conc,no concentration,no ritual,Bard*,Warlock*,Darkness*,level 8,level8,lv8,lvl8;Glibness;8;Illusion (Glamer);Darkness;1 action;;;8 hours;V;Bard, Warlock;#!spells/Level8/Glibness.md
 no conc,no concentration,no ritual,Bard*,Wizard*,Water*,level 8,level8,lv8,lvl8;Mind Blank;8;Abjuration;Water;1 action;;;24 hours;V, S;Bard, Wizard;#!spells/Level8/Mind Blank.md
 no conc,no concentration,no ritual,Bard*,Warlock*,Wizard*,Darkness*,level 8,level8,lv8,lvl8;Power Word: Stun;8;Divination;Darkness;1 action;;;1 round / Infinite;V;Bard, Warlock, Wizard;#!spells/Level8/Power Word Stun.md
+no conc,no concentration,no ritual,Bard*,Druid*,Warlock*,Wizard*,Aether*,level 9,level9,lv9,lvl9;Foresight;9;Divination;Aether;1 minute;;;8 hours;V, S, F;Bard, Druid, Warlock, Wizard;#!spells/Level9/Foresight.md
+no conc,no concentration,no ritual,Bard*,Light*,level 9,level9,lv9,lvl9;Power Word: Heal;9;Divination;Light;1 action;;;Instantaneous;V, S;Bard;#!spells/Level9/Power Word Heal.md
+no conc,no concentration,no ritual,Bard*,Warlock*,Wizard*,Death*,level 9,level9,lv9,lvl9;Power Word: Kill;9;Divination;Death;1 action;;;Instantaneous;V;Bard, Warlock, Wizard;#!spells/Level9/Power Word Kill.md
+no ritual,Bard*,Warlock*,Wizard*,Aether*,level 9,level9,lv9,lvl9;True Polymorph;9;Transmutation;Aether;1 action;Concentration;;Concentration, up to 1 hour;V, S, F;Bard, Warlock, Wizard;#!spells/Level9/True Polymorph.md
