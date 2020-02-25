@@ -4,7 +4,7 @@ Classes: **Cleric, Wizard**
 Level: **8**  
 
 School: **Abjuration**  
-Element: **Aether**  
+Element: **Water**  
 
 Casting Time: **1 action**  
 Duration: **Concentration, up to 1 hour**  

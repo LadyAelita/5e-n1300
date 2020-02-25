@@ -4,7 +4,7 @@ Classes: **Wizard**
 Level: **7**  
 
 School: **Transmutation**  
-Element: **Aether**  
+Element: **Water**  
 
 Casting Time: **1 action**  
 Duration: **Until dispelled**  
