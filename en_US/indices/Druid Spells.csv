@@ -171,3 +171,10 @@ no conc,no concentration,no ritual,Cleric*,Druid*,Warlock*,Wizard*,Aether*,level
 no conc,no concentration,no ritual,Bard*,Cleric*,Druid*,Light*,level 7,level7,lv7,lvl7;Regenerate;7;Transmutation;Light;1 action;;;30 seconds;V, S, F;Bard, Cleric, Druid;#!spells/Level7/Regenerate.md
 no ritual,Druid*,Wizard*,Aether*,level 7,level7,lv7,lvl7;Reverse Gravity;7;Transmutation;Aether;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Druid, Wizard;#!spells/Level7/Reverse Gravity.md
 no ritual,Druid*,Wizard*,Air*,level 7,level7,lv7,lvl7;Whirlwind;7;Evocation;Air;1 action;Concentration;;Concentration, up to 1 minute;V, F;Druid, Wizard;#!spells/Level7/Whirlwind.md
+no ritual,Druid*,Fire*,level 8,level8,lv8,lvl8;Animal Shapes;8;Transmutation;Fire;1 action;Concentration;;Concentration, up to 24 hours;V, S;Druid;#!spells/Level8/Animal Shapes.md
+no conc,no concentration,no ritual,Druid*,Wizard*,Fire*,level 8,level8,lv8,lvl8;Antipathy/Sympathy;8;Enchantment (Compulsion);Fire;1 hour;;;10 days;V, S, F;Druid, Wizard;#!spells/Level8/Antipathy-Sympathy.md
+no conc,no concentration,no ritual,Cleric*,Druid*,Wizard*,Air*,level 8,level8,lv8,lvl8;Control Weather;8;Transmutation;Air;10 minutes;Optional;;8 hours;V, S, F;Cleric, Druid, Wizard;#!spells/Level8/Control Weather.md
+no ritual,Cleric*,Druid*,Earth*,level 8,level8,lv8,lvl8;Earthquake;8;Evocation;Earth;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Cleric, Druid;#!spells/Level8/Earthquake.md
+no conc,no concentration,no ritual,Bard*,Druid*,Warlock*,Wizard*,Darkness*,level 8,level8,lv8,lvl8;Feeblemind;8;Enchantment (Compulsion);Darkness;1 action;;;Instantaneous;V, S, F;Bard, Druid, Warlock, Wizard;#!spells/Level8/Feeblemind.md
+no conc,no concentration,no ritual,Druid*,Wizard*,Light*,level 8,level8,lv8,lvl8;Sunburst;8;Evocation;Light;1 action;;;Instantaneous;V, S, M (a fiery beryl);Druid, Wizard;#!spells/Level8/Sunburst.md
+no ritual,Druid*,Water*,level 8,level8,lv8,lvl8;Tsunami;8;Conjuration (Creation);Water;1 minute;Concentration;;Concentration, up to 6 rounds;V, S;Druid;#!spells/Level8/Tsunami.md

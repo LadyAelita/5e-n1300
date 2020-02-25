@@ -9,7 +9,7 @@ Element: **Death**
 Casting Time: **1 minute**  
 Duration: **Until dispelled or triggered**  
 Range: **Touch**  
-Components: **V, S, M (mercury, phosphorus, and powdered emerald and opal with a total value of at least 1,000 gp, which the spell consumes)**  
+Components: **V, S, M (mercury, phosphorus, and powdered emerald and opal with a total value of at least 500 gp, which the spell consumes)**  
 Ritual: **False**  
 Concentration: **False**  
 
