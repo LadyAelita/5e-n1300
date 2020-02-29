@@ -105,6 +105,9 @@
   * [Inspiration](Pages/Rules/Mechanics/Inspiration.md)
   * [Proficiency and expertise](Pages/Rules/Mechanics/Proficiency and Expertise.md)
 
+[Extended]()
+
+  * [Advanced combat maneuvers](Pages/Rules/Extended/Advanced Combat Maneuvers.md)
 
 <!--
   -- Let the user choose a theme
