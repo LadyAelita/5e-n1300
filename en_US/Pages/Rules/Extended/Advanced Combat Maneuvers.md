@@ -12,7 +12,7 @@ Advanced maneuver points are a **resource** that can be expended to use ACMs. Ea
 
 ACM points **refresh** at the end of a **long rest**.
 
-The number of **Dexterity points** that a character has per day is equal to **half its total level rounded up** or **its Dexterity modifier**, whichever of the two **lower**.
+The number of **Dexterity points** that a character has per day is equal to **half its total level rounded up** or **its Dexterity modifier**, whichever of the two is **lower**.
 
 The number of **Strength points** (the **sum** of the numbers of **Strength Offensive and Strength Defensive** points) that a character has per day **cannot be greater** than **half its total level rounded up**. Moreover, the number of **Strength Offensive points** and the number of **Strength Defensive points** per day, **individually** are **not greater** than the character's **Strength modifier**. In other words: **S<sub>off</sub> + S<sub>def</sub> ≤ ceil(level / 2)** and **S<sub>off</sub> ≤ Str mod** and **S<sub>def</sub> ≤ Str mod**.
 
