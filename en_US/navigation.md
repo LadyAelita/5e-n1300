@@ -22,7 +22,7 @@
 [Spells]()
 
   * [All spells](../en_US/list.html?indexName=Spells)
-  - - - -
+- - - -
   * # Spells by class
   * [Bard](../en_US/list.html?indexName=Bard Spells)
   * [Cleric](../en_US/list.html?indexName=Cleric Spells)
@@ -52,7 +52,7 @@
   * [Sorcerer (Prophetus)](Pages/Rules/Classes/Sorcerer.md)
   * [Warlock (Vilos)](Pages/Rules/Classes/Warlock.md)
   * [Wizard (Incantator)](Pages/Rules/Classes/Wizard.md)
-  - - - -
+- - - -
   * # Additional classes
   * [Flagellant](Pages/Rules/Classes/Extra/Flagellant.md)
 
@@ -64,7 +64,7 @@
   * [Half-Elf](Pages/Rules/Races/Half-Elf.md)
   * [Human](Pages/Rules/Races/Human.md)
   * [Orc](Pages/Rules/Races/Orc.md)
-  - - - -
+- - - -
   * # Additional races
   * [Undead](Pages/Rules/Races/Extra/Undead.md)
 
@@ -113,10 +113,10 @@
   * # SubMenu Heading 1
   * [SubMenu Item 1](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
-  - - - -
+- - - -
   * # SubMenu Heading 2
   * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
+- - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](pages/subitem3.md)
 
@@ -125,16 +125,6 @@
 [Menu Item 3](pages/item3.md)
 
 ---------------------------------------------------------------------------- -->
-
-<!--
-  -- Change the Language
-  -- Could be useful when there's more than one language wiki.
-  -->
-
-[Language]()
-
-  * [English (United States)](#)
-  * [Polish](/pl_PL/)
 
 
 <!--
