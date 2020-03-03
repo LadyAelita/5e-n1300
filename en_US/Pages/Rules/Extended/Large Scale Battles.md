@@ -85,11 +85,11 @@ TODO: List situations that change morale
 
 In mass combat, **there are no Initiative rolls**, each Unit instead using its **Initiative score**, which is equal to **10 + Initiative modifier **of the creature composing the unit.
 
+---
+
 ## Example unit: Guard
 
-Medium humanoid (any race) unit, any alignment
-
----
+*Medium humanoid (any race) unit, any alignment*
 
 **Armor Class** 16 (Chain Shirt, Shield)
 **Touch AC** 13 (Shield)
@@ -101,24 +101,20 @@ Medium humanoid (any race) unit, any alignment
 
 **Speed** 6 sq.
 
----
-
 |              | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------------ | ------- | ------- | ------- | ------- | ------- | ------- |
 | Attribute    | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 | Saving throw | +1      | +1      | +1      | 0       | 0       | 0       |
 
----
-
 **Passive Perception** 12
 **Challenge Rating** 1/8 (25 XP)
-
----
 
 ### Attack actions
 
 **Spear:** *Melee Weapon Attack:* +3 to hit. *Hit:* 1 Casualty.
 **Spear (throw):** *Ranged Weapon Attack:* +3 to hit, range 4/12 sq. *Hit:* 1 Casualty.
+
+---
 
 ## Scaling Factor
 
