@@ -8,6 +8,12 @@ In some instances, fights might involve tens of thousands of creatures. Playing 
 
 A **Unit** is a group of creatures of the same type, which collectively is treated as a single entity in mass combat. Units work differently to regular creatures - they do not use **Hit Points**, which are replaced with **Vitality** and **Fortitude**. Instead of dealing damage, they inflict **Casualties**, and each Unit has variable morale, represented by **Fear** points.
 
+Each Unit also has an **Initiative score** rather than a modifier.
+
+In addition to **regular AC** and **touch AC**, Units also have **flatfooted AC**.
+
+All Units can assume two most basic formations: Loose and Tight. The formations are assigned at the beginning of Unit placement, but Units can switch formations later.
+
 ## Vitality
 
 **Vitality** is a **resource** corresponding to the number of creatures remaining in a given Unit, more specifically, the number of rows of creatures remaining. The **number of creatures** in a Unit is equal to **Vitality squared**.
@@ -70,6 +76,49 @@ Each unit starts the combat with initial Fear equal to **2 minus Charisma saving
 If a Unit **has positive Fear**, it's considered to have a **number of fear condition levels** equal to their **Fear value**, meaning that it suffers from the related condition.
 
 TODO: List situations that change morale
+
+## Flatfooted Armor Class
+
+**Flatfooted AC** is an Armor Class score that **ignores positive Dexterity modifiers** (and other modifiers resulting from dodge). It's used mostly for the Tight formation, when the creatures of the Unit cannot benefit from their Dexterity toward their Armor Class.
+
+## Initiative
+
+In mass combat, **there are no Initiative rolls**, each Unit instead using its **Initiative score**, which is equal to **10 + Initiative modifier **of the creature composing the unit.
+
+## Example unit: Guard
+
+Medium humanoid (any race) unit, any alignment
+
+---
+
+**Armor Class** 16 (Chain Shirt, Shield)
+**Touch AC** 13 (Shield)
+**Flatfooted AC** 15 (Chain Shirt, Shield)
+
+**Fortitude** 8
+**Initiative** 11
+**Starting Fear** 2
+
+**Speed** 6 sq.
+
+---
+
+|              | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------------ | ------- | ------- | ------- | ------- | ------- | ------- |
+| Attribute    | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
+| Saving throw | +1      | +1      | +1      | 0       | 0       | 0       |
+
+---
+
+**Passive Perception** 12
+**Challenge Rating** 1/8 (25 XP)
+
+---
+
+### Attack actions
+
+**Spear:** *Melee Weapon Attack:* +3 to hit. *Hit:* 1 Casualty.
+**Spear (throw):** *Ranged Weapon Attack:* +3 to hit, range 4/12 sq. *Hit:* 1 Casualty.
 
 ## Scaling Factor
 
