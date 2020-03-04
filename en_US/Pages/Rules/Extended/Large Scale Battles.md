@@ -20,7 +20,7 @@ All Units can assume two most basic formations: Loose and Tight. The formations 
 
 Vitality works in a manner similar to Hit Points, in that a Unit starts with full Vitality, which depletes when the Unit takes **Casualties**. When Vitality reaches 0, the Unit is removed from battle.
 
-The **Vitality** of Units and the **number of creatures** the Unit can contain is based on the Scaling Factor (described further on this page), as per the table below. Fractional results are **rounded down**, to a minimum of 1.
+The **Vitality** of Units and the **number of creatures** the Unit can contain is based on the Scaling Factor (described further on this page), the **size** of creatures composing the Unit and the current formation used by the Unit as per the table below. Fractional results are **rounded down**, to a minimum of 1.
 
 | Unit formation | Unit creature size    | Vitality                 |
 | -------------- | --------------------- | ------------------------ |
@@ -111,7 +111,7 @@ In mass combat, **there are no Initiative rolls**, each Unit instead using its *
 
 ### Attack actions
 
-**Spear:** *Melee Weapon Attack:* +3 to hit. *Hit:* 1 Casualty.
+**Spear:** *Melee Weapon Attack:* +3 to hit, reach 1 sq. *Hit:* 1 Casualty.
 **Spear (throw):** *Ranged Weapon Attack:* +3 to hit, range 4/12 sq. *Hit:* 1 Casualty.
 
 ---
@@ -124,4 +124,51 @@ An important concept to consider for large scale battles is the **Scaling Factor
 - **One battle round** is assumed to last **6 seconds times Scaling Factor**. This **doesn't increase** the number of actions that can be taken by each Unit in a single turn.
 - The **movement speed** of a **Unit**, in **feet**, is its **walking speed times Scaling Factor**. Therefore, the movement speed in **squares** on the grid doesn't change.
 - The **range** of all **spells** and **attacks**, in **feet**, is **multiplied by the Scaling Factor**. Therefore, the ranges in **squares** don't change.
+- The **reach** of **melee attacks**, if **smaller than 1 square**, is increased to **1 square**. Otherwise, it's **rounded** to the **nearest integer** number of **squares**, but **is not multiplied** by the Scaling Factor.
+- The **minimal number of feet** that must be traveled in a straight line **before a charging attack** is **multiplied by the Scaling Factor**, therefore the distance in **squares** doesn't change.
 - The **Vitality** and **number of creatures** in Units.
+
+## Formations
+
+There exist two basic formations: **Tight** and **Loose**, which impose a variety of effects on the Unit. Each Unit can start with either formation and it can be later changed by taking the Change Formation action. Some Units might also learn other Formations as special abilities.
+
+### Tight formation
+
+* **Cannot cast spells** or **use spell attacks**.
+* Has to **use flatfooted AC** (in other words, cannot benefit from Dexterity/dodge based bonuses to AC).
+* **Cannot** take **Dodge** action.
+* **Automatically fails Dexterity saving throws**.
+* Has **advantage** on **Casualty checks** against **Loose** formation.
+* **Loose** formation has **disadvantage** on **Casualty checks** against it.
+* **Better Vitality** compared to **Loose**.
+
+### Loose formation
+
+* Has **disadvantage** on **Casualty checks** against **Tight** formation.
+* **Tight** formation has **advantage** on **Casualty checks** against it.
+* **Weaker Vitality** compared to **Tight**.
+
+## Battle actions
+
+The actions that a Unit can take in battle are very similar to those that can be taken by a creature in regular combat, although there exist differences described below. Moreover, Units **cannot** take the **Help** action, and they have access to the **Change Formation** action.
+
+### Attack
+
+When a Unit **attacks** another one with a **melee attack** as **part of the Attack action** (for example: opportunity attacks do not count), it **engages** in melee combat with the target Unit, meaning that **both Units attack each other at the same time** as a result. The **attack from the target** Unit is called **retaliation attack**.
+
+A Unit **cannot make special attacks**, such as grappling or shoving. The only special attack accessible to a Unit is **Charge**. **Charging attacks** exceptionally provoke **no retaliation**.
+
+Once a Unit makes such an attack, both the attacker and the target are considered to be **in melee** with each other. Two Units are **no longer in melee** if **one of them goes a turn without attacking the other**.
+
+### Cast a spell
+
+Units can potentially cast spells and the Cast Spell action itself didn't change. However, there are differences in how spells work, described in a separate section.
+
+### Change formation
+
+Changing formation is a **full round action** (meaning the Unit cannot do anything else on that turn), unless the description of the given formation says otherwise.
+
+### Disengage
+
+Units **cannot** take **Disengage** actions **to get up** from being prone.
+
