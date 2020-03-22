@@ -60,7 +60,7 @@ You must have a **Dexterity** score **and** a **Wisdom** score of **13 or higher
 
 ## Unarmored Defense (1st level)
 
-Wwhile you are **wearing no armor** and **not wielding a shield**, your **AC** equals **10 + your Dexterity modifier + your Wisdom modifier**.
+While you are **wearing no armor** and **not wielding a shield**, your **AC** equals **10 + your Dexterity modifier + your Wisdom modifier**.
 
 ## Martial Arts (1st level)
 
