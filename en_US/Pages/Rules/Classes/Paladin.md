@@ -6,7 +6,7 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 
 ## The Paladin's leveling table
 
-| Level  | Proficiency Bonus | Class Features                                        | 1st   | 3rd   | 5th   | 7th   | 9th   |
+| Level  | Proficiency Bonus | Class Features                                        | 1st   | 2nd   | 3rd   | 4th   | 5th   |
 | ------ | ----------------- | ----------------------------------------------------- | ----- | ----- | ----- | ----- | ----- |
 | **1**  | **+2 (up)**       | Divine Sense, Lay on Hands                            | -     | -     | -     | -     | -     |
 | **2**  | +2                | Fighting Style, Spellcasting, Divine Smite            | **2** | -     | -     | -     | -     |
