@@ -25,7 +25,7 @@
 | **15** | +5                | -                                  | **8**                     | 15             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | **1** | -     |
 | **16** | +5                | **+ Ability**                      | 8                         | 16             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
 | **17** | **+6 (up)**       | -                                  | **9**                     | 17             | 6              | 15           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | **1** |
-| **18** | +6                | -                                  | 9                         | 18             | 6              | 15           | 4     | 3     | 3     | 3     | **3** | 1     | 1     | 1     | 1     |
+| **18** | +6                | Meta Mastery                       | 9                         | 18             | 6              | 15           | 4     | 3     | 3     | 3     | **3** | 1     | 1     | 1     | 1     |
 | **19** | +6                | **+ Ability**                      | 9                         | 19             | 6              | 15           | 4     | 3     | 3     | 3     | 3     | **2** | 1     | 1     | 1     |
 | **20** | +6                | *Subclass Feature IV*              | 9                         | 20             | 6              | 15           | 4     | 3     | 3     | 3     | 3     | 2     | **2** | 1     | 1     |
 
@@ -110,6 +110,10 @@ You get to learn **two** of the following **Metamagic modifiers**, which you can
 * **Twinned Spell (X):** A spell that targets only 1 target and doesn’t have a range of self now affects a second creature in range. **X** is equal to the level at which the spell is cast, with 1 for cantrips.
 
 At higher levels, you learn more Metamagic modifiers, as per the Sorcerer table.
+
+## Meta Mastery (18th level)
+
+You can now use **any number** of Metamagic modifiers on the same spell at the same time.
 
 ---
 
