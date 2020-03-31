@@ -20,3 +20,5 @@ Concentration: **Optional**
 The next time you hit a creature with a melee weapon attack during this spell's duration, you weapon flares with a bright light, and the attack deals an extra 3d8 radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be blinded until the spell ends. You might optionally concentrate to extend the spell's duration.
 
 A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
+
+**At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher, the initial extra damage dealt by the attack increases by 1d8 for each slot level above the 3rd.
