@@ -17,7 +17,7 @@
 | **7**  | +3                | -                                  | **4**                     | 7              | 5              | 8            | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
 | **8**  | +3                | **+ Ability**                      | 4                         | 8              | 5              | 9            | 4     | 3     | 3     | **2** | -     | -     | -     | -     | -     |
 | **9**  | **+4 (up)**       | -                                  | **5**                     | 9              | 5              | 10           | 4     | 3     | 3     | **3** | **1** | -     | -     | -     | -     |
-| **10** | +4                | -                                  | 5                         | 10             | **6 (up)**     | 11           | 4     | 3     | 3     | 3     | **2** | -     | -     | -     | -     |
+| **10** | +4                | Extra Cantrip                      | 5                         | 10             | **6 (up)**     | 11           | 4     | 3     | 3     | 3     | **2** | -     | -     | -     | -     |
 | **11** | +4                | -                                  | **6**                     | 11             | 6              | 12           | 4     | 3     | 3     | 3     | 2     | **1** | -     | -     | -     |
 | **12** | +4                | **+ Ability**                      | 6                         | 12             | 6              | 12           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
 | **13** | **+5 (up)**       | -                                  | **7**                     | 13             | 6              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
@@ -110,6 +110,12 @@ You get to learn **two** of the following **Metamagic modifiers**, which you can
 * **Twinned Spell (X):** A spell that targets only 1 target and doesn’t have a range of self now affects a second creature in range. **X** is equal to the level at which the spell is cast, with 1 for cantrips.
 
 At higher levels, you learn more Metamagic modifiers, as per the Sorcerer table.
+
+## Extra Cantrip (10th level)
+
+*You are able to dash out multiple instances of simple magic in rapid succession.*
+
+Whenever you cast a cantrip as an Action, you can cast an additional cantrip as part of the same action.
 
 ## Meta Mastery (18th level)
 
