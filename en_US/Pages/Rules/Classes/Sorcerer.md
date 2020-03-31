@@ -6,28 +6,28 @@
 
 ## The Sorcerer's leveling table
 
-| Level  | Proficiency Bonus | Class Features                     | Sorcery Points | Cantrips Known | Spells Known | 1st   | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
-| ------ | ----------------- | ---------------------------------- | -------------- | -------------- | ------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| **1**  | **+2 (up)**       | Spellcasting, *Subclass Feature I* | -              | 4              | 2            | **2** | -     | -     | -     | -     | -     | -     | -     | -     |
-| **2**  | +2                | Font of Magic                      | 2              | 4              | 3            | **3** | -     | -     | -     | -     | -     | -     | -     | -     |
-| **3**  | +2                | Metamagic I & II                   | 3              | 4              | 4            | **4** | **2** | -     | -     | -     | -     | -     | -     | -     |
-| **4**  | +2                | **+ Ability**                      | 4              | **5 (up)**     | 5            | 4     | **3** | -     | -     | -     | -     | -     | -     | -     |
-| **5**  | **+3 (up)**       | -                                  | 5              | 5              | 6            | 4     | 3     | **2** | -     | -     | -     | -     | -     | -     |
-| **6**  | +3                | *Subclass Feature II*              | 6              | 5              | 7            | 4     | 3     | **3** | -     | -     | -     | -     | -     | -     |
-| **7**  | +3                | -                                  | 7              | 5              | 8            | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
-| **8**  | +3                | **+ Ability**                      | 8              | 5              | 9            | 4     | 3     | 3     | **2** | -     | -     | -     | -     | -     |
-| **9**  | **+4 (up)**       | -                                  | 9              | 5              | 10           | 4     | 3     | 3     | **3** | **1** | -     | -     | -     | -     |
-| **10** | +4                | Metamagic III                      | 10             | **6 (up)**     | 11           | 4     | 3     | 3     | 3     | **2** | -     | -     | -     | -     |
-| **11** | +4                | -                                  | 11             | 6              | 12           | 4     | 3     | 3     | 3     | 2     | **1** | -     | -     | -     |
-| **12** | +4                | **+ Ability**                      | 12             | 6              | 12           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| **13** | **+5 (up)**       | -                                  | 13             | 6              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
-| **14** | +5                | *Subclass Feature III*             | 14             | 6              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
-| **15** | +5                | -                                  | 15             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | **1** | -     |
-| **16** | +5                | **+ Ability**                      | 16             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
-| **17** | **+6 (up)**       | Metamagic IV                       | 17             | 6              | 15           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | **1** |
-| **19** | +6                | **+ Ability**                      | 19             | 6              | 15           | 4     | 3     | 3     | 3     | 3     | **2** | 1     | 1     | 1     |
-| **20** | +6                | *Subclass Feature IV*              | 20             | 6              | 15           | 4     | 3     | 3     | 3     | 3     | 2     | **2** | 1     | 1     |
-| **18** | +6                | -                                  | 18             | 6              | 15           | 4     | 3     | 3     | 3     | **3** | 1     | 1     | 1     | 1     |
+| Level  | Proficiency Bonus | Class Features                     | Metamagic Modifiers Known | Sorcery Points | Cantrips Known | Spells Known | 1st   | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
+| ------ | ----------------- | ---------------------------------- | ------------------------- | -------------- | -------------- | ------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **1**  | **+2 (up)**       | Spellcasting, *Subclass Feature I* | -                         | -              | 4              | 2            | **2** | -     | -     | -     | -     | -     | -     | -     | -     |
+| **2**  | +2                | Font of Magic                      | -                         | 2              | 4              | 3            | **3** | -     | -     | -     | -     | -     | -     | -     | -     |
+| **3**  | +2                | Metamagic                          | **2**                     | 3              | 4              | 4            | **4** | **2** | -     | -     | -     | -     | -     | -     | -     |
+| **4**  | +2                | **+ Ability**                      | 2                         | 4              | **5 (up)**     | 5            | 4     | **3** | -     | -     | -     | -     | -     | -     | -     |
+| **5**  | **+3 (up)**       | -                                  | **3**                     | 5              | 5              | 6            | 4     | 3     | **2** | -     | -     | -     | -     | -     | -     |
+| **6**  | +3                | *Subclass Feature II*              | 3                         | 6              | 5              | 7            | 4     | 3     | **3** | -     | -     | -     | -     | -     | -     |
+| **7**  | +3                | -                                  | **4**                     | 7              | 5              | 8            | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
+| **8**  | +3                | **+ Ability**                      | 4                         | 8              | 5              | 9            | 4     | 3     | 3     | **2** | -     | -     | -     | -     | -     |
+| **9**  | **+4 (up)**       | -                                  | **5**                     | 9              | 5              | 10           | 4     | 3     | 3     | **3** | **1** | -     | -     | -     | -     |
+| **10** | +4                | -                                  | 5                         | 10             | **6 (up)**     | 11           | 4     | 3     | 3     | 3     | **2** | -     | -     | -     | -     |
+| **11** | +4                | -                                  | **6**                     | 11             | 6              | 12           | 4     | 3     | 3     | 3     | 2     | **1** | -     | -     | -     |
+| **12** | +4                | **+ Ability**                      | 6                         | 12             | 6              | 12           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
+| **13** | **+5 (up)**       | -                                  | **7**                     | 13             | 6              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
+| **14** | +5                | *Subclass Feature III*             | 7                         | 14             | 6              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
+| **15** | +5                | -                                  | **8**                     | 15             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | **1** | -     |
+| **16** | +5                | **+ Ability**                      | 8                         | 16             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
+| **17** | **+6 (up)**       | -                                  | **9**                     | 17             | 6              | 15           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | **1** |
+| **18** | +6                | -                                  | 9                         | 18             | 6              | 15           | 4     | 3     | 3     | 3     | **3** | 1     | 1     | 1     | 1     |
+| **19** | +6                | **+ Ability**                      | 9                         | 19             | 6              | 15           | 4     | 3     | 3     | 3     | 3     | **2** | 1     | 1     | 1     |
+| **20** | +6                | *Subclass Feature IV*              | 9                         | 20             | 6              | 15           | 4     | 3     | 3     | 3     | 3     | 2     | **2** | 1     | 1     |
 
 ## Basic class features
 
@@ -93,7 +93,7 @@ A single **spell slot** is worth **1 Sorcery Point per spell slot’s level**.
 | **4th**          | 6                  |
 | **5th**          | 7                  |
 
-## Metamagic I & II (3rd level)
+## Metamagic (3rd level)
 
 *You learn how to manipulate your energy in a more precise way in order to modify spells.*
 
@@ -109,14 +109,7 @@ You get to learn **two** of the following **Metamagic modifiers**, which you can
 * **Subtle Spell (1):** The spell doesn’t require the somatic component. This can be used along with any other modifier.
 * **Twinned Spell (X):** A spell that targets only 1 target and doesn’t have a range of self now affects a second creature in range. **X** is equal to the level at which the spell is cast, with 1 for cantrips.
 
-## Metamagic III (10th level)
-
-You learn a third **Metamagic modifier** from the same list.
-
-## Metamagic IV (17th level)
-
-You learn a fourth **Metamagic modifier** from the same list.
-
+At higher levels, you learn more Metamagic modifiers, as per the Sorcerer table.
 
 ---
 
