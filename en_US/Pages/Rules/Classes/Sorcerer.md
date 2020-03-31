@@ -367,7 +367,7 @@ Whenever you're under the effect of either *Unleash* or *Suppress*, you have adv
 
 ### Supernatural Metamagic (14th level)
 
-You can now combine two metamagic modifiers together. If you are under the effect of the *Suppress* feature while doing this, the total cost of the combined metamagic is decreased by **1 Sorcery Point**.
+You can now combine two metamagic modifiers together. If you are under the effect of the *Suppress* feature while combining multiple metamagic modifiers, the total cost of the combined metamagic is decreased by **1 Sorcery Point**.
 
 You can also learn two of the following additional metamagic modifiers, which can only be used while under the effect of the *Unleash* feature.
 
