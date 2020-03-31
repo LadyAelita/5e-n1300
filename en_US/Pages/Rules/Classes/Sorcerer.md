@@ -25,9 +25,9 @@
 | **15** | +5                | -                                  | 15             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | **1** | -     |
 | **16** | +5                | **+ Ability**                      | 16             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
 | **17** | **+6 (up)**       | Metamagic IV                       | 17             | 6              | 15           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | **1** |
-| **18** | +6                | Sorcerous Restoration              | 18             | 6              | 15           | 4     | 3     | 3     | 3     | **3** | 1     | 1     | 1     | 1     |
 | **19** | +6                | **+ Ability**                      | 19             | 6              | 15           | 4     | 3     | 3     | 3     | 3     | **2** | 1     | 1     | 1     |
 | **20** | +6                | *Subclass Feature IV*              | 20             | 6              | 15           | 4     | 3     | 3     | 3     | 3     | 2     | **2** | 1     | 1     |
+| **18** | +6                | -                                  | 18             | 6              | 15           | 4     | 3     | 3     | 3     | **3** | 1     | 1     | 1     | 1     |
 
 ## Basic class features
 
@@ -75,9 +75,9 @@ You must have a **Charisma** score of **13 or higher** in order to multiclass in
 
 *You become proficient in controlling your magical energy.*
 
-The additional energy is represented by **Sorcery Points**, which serve as a resource for other features.
+The additional energy is represented by **Sorcery Points**, which serve as a resource for other features. You **regain all** your Sorcery Points on a **long rest** and **half of them (rounded up)** on a **short rest**.
 
-**As a bonus action** you can **convert** Sorcery Points to spell slots or vice versa.
+You can **convert** Sorcery Points to spell slots or vice versa **at any time**.
 
 #### Spell slots to Sorcery Points
 
@@ -117,9 +117,6 @@ You learn a third **Metamagic modifier** from the same list.
 
 You learn a fourth **Metamagic modifier** from the same list.
 
-## Sorcerous Restoration (18th level)
-
-You regain **5** of the expended **Sorcery Points** on a **short rest**.
 
 ---
 
