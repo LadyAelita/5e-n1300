@@ -102,6 +102,7 @@ You get to learn **two** of the following **Metamagic modifiers**, which you can
 * **Careful Spell (1):** You force the energy of the spell to omit a number of creatures of your choice, smaller than or equal to your Charisma modifier.
 * **Distant Spell (1):** Increase the range of the spell to the larger of the two values: the double of the spell’s normal range or 30 feet.
 * **Empowered Spell (1):** You get advantage on all rolls that are used directly in the spell’s description.
+* **Exploding Spell (1):** All rolls used directly in the spell's description are exploding.
 * **Extended Spell (1):** Double the duration of the spell.
 * **Penetrative Spell (3):** The spell’s targets have disadvantage on the first saving throw made against the spell.
 * **Quickened Spell (2):** Change the spell’s casting time from 1 action to 1 bonus action.
