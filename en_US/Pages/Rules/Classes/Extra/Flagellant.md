@@ -204,17 +204,19 @@ Moreover, you may **ask your deity** for a **Wish**, **once**. That wish cannot 
 | **19** | 3              | **12** | 4     | 3     | 3     |
 | **20** | 3              | **13** | 4     | 3     | 3     |
 
-### Ordeal (3rd, 11th level)
+### Ordeal (3rd)
 
 *You learn to use pain to call forth divine healing from your deity.*
 
 A **number of times per day** equal to your **Constitution modifier** (minimum of once), as an **action**, you can sacrifice a number of hit points up to **your Flagellant level + your Constitution modifier**, to **heal another** creature **within 30 feet** of you for **the same amount**.
 
-Starting at **11th level**, this feature **heals** for **twice the number of sacrificed Hit Points**, instead of once.
-
 ### Sanguine Transfer (7th level)
 
 Whenever you use your **Ordeal** feature, you can **spend any number** of **Sanguinity Points**, to **increase** that feature's **heal** by **that number**.
+
+### Sanguine Magic (11th level)
+
+Whenever you take damage while **concentrating** on a spell, **for the purpose of determining** the Concentration saving throw **DC**, the **damage is reduced** by **your Flagellant level**.
 
 ### Divine Zeal (14th level)
 
