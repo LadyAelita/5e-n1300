@@ -130,7 +130,7 @@ Whenever you **roll a Hit Die** to **regain hit points** during a **short rest**
 
 *Your body is completely covered in ritual scars and abrasions and your perseverance is steadfast from the years of punishment you endured.*
 
-You have **advantage** on **Wisdom** and **Charisma saving throws**. Moreover, whenever **your scars are visible** and not hidden, you have **advantage** on **Intimidation checks**.
+You have **advantage** on **Wisdom** and **Constitution saving throws**. Moreover, whenever **your scars are visible** and not hidden, you have **advantage** on **Intimidation checks**.
 
 ## Unwavering Fervor (17th level)
 
