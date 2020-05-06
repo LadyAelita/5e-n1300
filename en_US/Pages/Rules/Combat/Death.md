@@ -76,13 +76,4 @@ Coup de Grâce **provokes opportunity attacks**. If you get hit with an opportun
 
 If nobody interrupts your Coup de Grâce, you make an attack roll against the target, **without any advantages** that come with the target being helpless. If you **hit**, the target **dies**. If you **miss**, you "only" **hit the target critically** and deal appropriate damage.
 
-Coup de Grâce can only be attempted using the following weapons:
-
-* any martial weapon, save for lance, whip, blowgun and net,
-* dagger,
-* handaxe,
-* sickle,
-* spear,
-* light crossbow.
-
-**Warning:** If you're using an **exotic** weapon, it's best to ask your GM if it can be used to perform a Coup de Grâce. Or simply carry a spare dagger on you at all times. Also, bear in mind that any weapon can be used to finish somebody off given enough time (through attacking them, thus triggering a death save on each attack), it's just that Coup de Grâce lets you do this within a single turn.
+Coup de Grâce can only be attempted using any weapon in which you're proficient (it can also be an unarmed attack).
