@@ -105,6 +105,7 @@
   * [Inspiration](Pages/Rules/Mechanics/Inspiration.md)
   * [Languages](Pages/Rules/Mechanics/Languages.md)
   * [Proficiency and expertise](Pages/Rules/Mechanics/Proficiency and Expertise.md)
+  * [Spellcasting](Pages/Rules/Mechanics/Spellcasting.md)
 
 [Extended]()
 
