@@ -32,7 +32,7 @@
 • An unconscious creature is **incapacitated** (see the condition), can’t move or speak, and is unaware of its surroundings.
 • The creature drops whatever it’s holding and falls **prone**.
 • The creature regains consciousness after 1d8 hours, when it's firmly woken up, or when it regains a positive amount of HP.
-• Upon regaining consciousness, the creature still remains **incapacitated** and is now **dazed**. On its first turn since regaining consciousness, the creature makes a **DC 10** **Constitution saving throw** to try and compose itself. On a success, it's no longer incapacitated and dazed. On a failure, it remains incapacitated and dazed until the start of its next turn.
+• Upon regaining consciousness, the creature still remains **incapacitated** and is now **dazed**. On its first turn since regaining consciousness, the creature makes a **DC 15** **Constitution saving throw** to try and compose itself. On a success, it's no longer incapacitated and dazed. On a failure, it remains incapacitated and dazed until the start of its next turn.
 • During battle, an unconscious creature can roll a d20 on its turn. On a 20, it regains 1 hit point, becoming conscious again. It then still must compose itself as per usual, making the Constitution saving throw immediately, on the same turn as it managed to stabilize itself.
 • If the creature takes damage, it becomes **dying**.
 

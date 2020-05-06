@@ -66,7 +66,7 @@ Finally, during battle, an unconscious creature can roll a d20 on each of its tu
 
 ## Regaining consciousness
 
-When a creature **stops being unconscious**, it's initially **incapacitated** and **dazed**. On its first turn since regaining consciousness, the creature makes a **DC 10** **Constitution saving throw** to try and compose itself. On a success, it can act normally. On a failure, it **remains** **incapacitated** and **dazed** until the start of its next turn.
+When a creature **stops being unconscious**, it's initially **incapacitated** and **dazed**. On its first turn since regaining consciousness, the creature makes a **DC 15** **Constitution saving throw** to try and compose itself. On a success, it can act normally. On a failure, it **remains** **incapacitated** and **dazed** until the start of its next turn.
 
 ## Coup de Grâce
 
