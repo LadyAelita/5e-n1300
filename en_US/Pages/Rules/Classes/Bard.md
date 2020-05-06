@@ -14,13 +14,13 @@ Whether scholar, skald, or scoundrel, a **bard** weaves their innate magic, quit
 | **4**  | +2                | **+ Ability**                                       | d6                     | **3 (up)**     | 7            | 4     | **3** | -     | -     | -     | -     | -     | -     | -     |
 | **5**  | **+3 (up)**       | Font of Inspiration                                 | **d8 (up)**            | 3              | 8            | 4     | 3     | **2** | -     | -     | -     | -     | -     | -     |
 | **6**  | +3                | Countercharm, *Subclass Feature II*                 | d8                     | 3              | 9            | 4     | 3     | **3** | -     | -     | -     | -     | -     | -     |
-| **7**  | +3                | -                                                   | d8                     | 3              | 10           | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
+| **7**  | +3                | *Language Passability*                              | d8                     | 3              | 10           | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
 | **8**  | +3                | **+ Ability**                                       | d8                     | 3              | 11           | 4     | 3     | 3     | **2** | -     | -     | -     | -     | -     |
 | **9**  | **+4 (up)**       | Song of Rest (d8)                                   | d8                     | 3              | 12           | 4     | 3     | 3     | **3** | **1** | -     | -     | -     | -     |
 | **10** | +4                | Expertise, Magical Secrets (5th order)              | **d10 (up)**           | **4 (up)**     | 12           | 4     | 3     | 3     | 3     | **2** | -     | -     | -     | -     |
 | **11** | +4                | -                                                   | d10                    | 4              | 13           | 4     | 3     | 3     | 3     | 2     | **1** | -     | -     | -     |
 | **12** | +4                | **+ Ability**                                       | d10                    | 4              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| **13** | **+5 (up)**       | Song of Rest (d10)                                  | d10                    | 4              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
+| **13** | **+5 (up)**       | Song of Rest (d10), *Language Fluency*              | d10                    | 4              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
 | **14** | +5                | Magical Secrets (7th order), *Subclass Feature III* | d10                    | 4              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
 | **15** | +5                | -                                                   | **d12 (up)**           | 4              | 15           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | **1** | -     |
 | **16** | +5                | **+ Ability**                                       | d12                    | 4              | 15           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
@@ -50,9 +50,11 @@ Whether scholar, skald, or scoundrel, a **bard** weaves their innate magic, quit
 
 ### Languages
 
-Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefical**. You know that language and it becomes the language that you use for the verbal component of your spells.
+Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefical**. You know the **Basics** of that language and it becomes the language that you use for the verbal component of your spells (which can be satisfied either by said language or your musical instrument).
 
-On top of that, you also know **one** additional language of your choice.
+At **7th level**, you gain the **Passable** level in that language. At **13th level**, you become **Fluent** in it.
+
+On top of that, you also know **one** additional language of your choice at the **Passable** level.
 
 ### Multiclass requirement
 

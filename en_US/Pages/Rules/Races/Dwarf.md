@@ -13,7 +13,7 @@
 * **Size:** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 * **Speed:** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 * **Stonecunning:** Whenever you make a History check related to the origin of stonework, you are considered to have expertise in History for the purposes of that check.
-* **Languages:** You can speak, read, and write **Common** and **Dwarvish**. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+* **Languages:** You can **Fluently** speak, read, and write **Common** and **Dwarvish**. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak. Optionally, you can know one of those languages at only a **Passable** level instead of **Fluent**.
 
 ---
 

@@ -12,4 +12,4 @@
 * **Menacing:** You gain **proficiency** in the **Intimidation** skill.
 * **Relentless Endurance:** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
 * **Savage Attacks:** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
-* **Languages:** You can speak, read, and write **Common** and **Orcish**. Orcish is a harsh, grating language with hard consonants.
+* **Languages:** You can **Fluently** speak, read, and write **Common** and **Orcish**. Orcish is a harsh, grating language with hard consonants. Optionally, you can know one of those languages at only a **Passable** level instead of **Fluent**.

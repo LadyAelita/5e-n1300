@@ -8,28 +8,28 @@ Vilosi invoke their pacts to regain their strength, fuel their magic. To reach t
 
 ## The Warlock's leveling table
 
-| Level  | Proficiency Bonus | Class Features                   | Cantrips Known | Spells Known | Spell Slots Level | Spell Slots | Invocations |
-| ------ | ----------------- | -------------------------------- | -------------- | ------------ | ----------------- | ----------- | ----------- |
-| **1**  | **+2 (up)**       | Pact Magic, *Subclass Feature I* | **2 (up)**     | 2            | **1st (up)**      | **1 (up)**  | -           |
-| **2**  | +2                | Eldritch Invocations             | 2              | 3            | 1st               | **2 (up)**  | **2 (up)**  |
-| **3**  | +2                | *Pact Boon Feature I*            | 2              | 4            | **2nd (up)**      | 2           | 2           |
-| **4**  | +2                | **+ Ability**                    | **3 (up)**     | 5            | 2nd               | 2           | 2           |
-| **5**  | **+3 (up)**       | Pact Inquiry (1/day)             | 3              | 6            | **3rd (up)**      | 2           | **3 (up)**  |
-| **6**  | +3                | *Subclass Feature II*            | 3              | 7            | 3rd               | 2           | 3           |
-| **7**  | +3                | *Pact Boon Feature II*           | 3              | 8            | **4th (up)**      | 2           | 3           |
-| **8**  | +3                | **+ Ability**                    | 3              | 9            | 4th               | 2           | **4 (up)**  |
-| **9**  | **+4 (up)**       | Pact Inquiry (2/day)             | **4 (up)**     | 10           | **5th (up)**      | 2           | 4           |
-| **10** | +4                | *Subclass Feature III*           | 4              | 11           | 5th               | 2           | 4           |
-| **11** | +4                | Mystic Arcanum (6th circle)      | 4              | 12           | 5th               | **3 (up)**  | 4           |
-| **12** | +4                | **+ Ability**                    | 4              | 12           | 5th               | 3           | **5 (up)**  |
-| **13** | **+5 (up)**       | Mystic Arcanum (7th circle)      | 4              | 13           | 5th               | 3           | 5           |
-| **14** | +5                | *Pact Boon Feature III*          | 4              | 13           | 5th               | 3           | 5           |
-| **15** | +5                | Mystic Arcanum (8th circle)      | 4              | 14           | 5th               | 3           | 5           |
-| **16** | +5                | **+ Ability**                    | 4              | 14           | 5th               | 3           | **6 (up)**  |
-| **17** | **+6 (up)**       | Mystic Arcanum (9th circle)      | 4              | 15           | 5th               | **4 (up)**  | 6           |
-| **18** | +6                | *Subclass Feature IV*            | 4              | 15           | 5th               | 4           | 6           |
-| **19** | +6                | **+ Ability**                    | 4              | 15           | 5th               | 4           | **7 (up)**  |
-| **20** | +6                | Transcendant Arcanum             | 4              | 15           | 5th               | 4           | 7           |
+| Level  | Proficiency Bonus | Class Features                                  | Cantrips Known | Spells Known | Spell Slots Level | Spell Slots | Invocations |
+| ------ | ----------------- | ----------------------------------------------- | -------------- | ------------ | ----------------- | ----------- | ----------- |
+| **1**  | **+2 (up)**       | Pact Magic, *Subclass Feature I*                | **2 (up)**     | 2            | **1st (up)**      | **1 (up)**  | -           |
+| **2**  | +2                | Eldritch Invocations                            | 2              | 3            | 1st               | **2 (up)**  | **2 (up)**  |
+| **3**  | +2                | *Pact Boon Feature I*                           | 2              | 4            | **2nd (up)**      | 2           | 2           |
+| **4**  | +2                | **+ Ability**                                   | **3 (up)**     | 5            | 2nd               | 2           | 2           |
+| **5**  | **+3 (up)**       | Pact Inquiry (1/day)                            | 3              | 6            | **3rd (up)**      | 2           | **3 (up)**  |
+| **6**  | +3                | *Subclass Feature II*                           | 3              | 7            | 3rd               | 2           | 3           |
+| **7**  | +3                | *Pact Boon Feature II*, *Language Passability*  | 3              | 8            | **4th (up)**      | 2           | 3           |
+| **8**  | +3                | **+ Ability**                                   | 3              | 9            | 4th               | 2           | **4 (up)**  |
+| **9**  | **+4 (up)**       | Pact Inquiry (2/day)                            | **4 (up)**     | 10           | **5th (up)**      | 2           | 4           |
+| **10** | +4                | *Subclass Feature III*                          | 4              | 11           | 5th               | 2           | 4           |
+| **11** | +4                | Mystic Arcanum (6th circle)                     | 4              | 12           | 5th               | **3 (up)**  | 4           |
+| **12** | +4                | **+ Ability**                                   | 4              | 12           | 5th               | 3           | **5 (up)**  |
+| **13** | **+5 (up)**       | Mystic Arcanum (7th circle), *Language Fluency* | 4              | 13           | 5th               | 3           | 5           |
+| **14** | +5                | *Pact Boon Feature III*                         | 4              | 13           | 5th               | 3           | 5           |
+| **15** | +5                | Mystic Arcanum (8th circle)                     | 4              | 14           | 5th               | 3           | 5           |
+| **16** | +5                | **+ Ability**                                   | 4              | 14           | 5th               | 3           | **6 (up)**  |
+| **17** | **+6 (up)**       | Mystic Arcanum (9th circle)                     | 4              | 15           | 5th               | **4 (up)**  | 6           |
+| **18** | +6                | *Subclass Feature IV*                           | 4              | 15           | 5th               | 4           | 6           |
+| **19** | +6                | **+ Ability**                                   | 4              | 15           | 5th               | 4           | **7 (up)**  |
+| **20** | +6                | Transcendant Arcanum                            | 4              | 15           | 5th               | 4           | 7           |
 
 ## Basic class features
 
@@ -52,17 +52,19 @@ Vilosi invoke their pacts to regain their strength, fuel their magic. To reach t
 
 ### Languages
 
-You get **one** additional language, which you use for the verbal component of your spells. You can choose from a set that depends on your patron.
+You know the **Basics** of **one** additional language, which you use for the verbal component of your spells. You can choose from a set that depends on your patron.
 
-| Patron type           | Available languages                    |
-| --------------------- | -------------------------------------- |
-| **The Aeonian Flame** | Celestial, Ignan, Venefical            |
-| **The Archfey**       | Aelven, Celestial, Neritian, Venefical |
-| **The Fiend**         | Infernal, Ignan, Venefical             |
-| **The Great Old One** | Deep Speech, Venefical                 |
-| **The Seeker**        | Petran, Caelian, Venefical             |
-| **The Undying**       | Black Speech, Venefical                |
-| **The Void**          | Umbral, Venefical                      |
+| Patron type           | Available languages                   |
+| --------------------- | ------------------------------------- |
+| **The Aeonian Flame** | Lucernal, Ignan, Venefical            |
+| **The Archfey**       | Aelven, Lucernal, Neritian, Venefical |
+| **The Fiend**         | Infernal, Ignan, Venefical            |
+| **The Great Old One** | Deep Speech, Venefical                |
+| **The Seeker**        | Petran, Caelian, Venefical            |
+| **The Undying**       | Black Speech, Venefical               |
+| **The Void**          | Umbral, Venefical                     |
+
+At **7th level**, you gain the **Passable** level in that language. At **13th level**, you become **Fluent** in it.
 
 ### Multiclass requirement
 

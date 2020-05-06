@@ -103,6 +103,7 @@
   * [Checks](Pages/Rules/Mechanics/Checks.md)
   * [Experience and levels](Pages/Rules/Mechanics/Experience and Levels.md)
   * [Inspiration](Pages/Rules/Mechanics/Inspiration.md)
+  * [Languages](Pages/Rules/Mechanics/Languages.md)
   * [Proficiency and expertise](Pages/Rules/Mechanics/Proficiency and Expertise.md)
 
 [Extended]()

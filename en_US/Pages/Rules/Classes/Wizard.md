@@ -14,13 +14,13 @@
 | **4**  | +2                | **+ Ability**                                     | **4 (up)**     | 12                | 4     | **3** | -     | -     | -     | -     | -     | -     | -     |
 | **5**  | **+3 (up)**       | -                                                 | 4              | 14                | 4     | 3     | **2** | -     | -     | -     | -     | -     | -     |
 | **6**  | +3                | *Subclass Feature II*                             | 4              | 16                | 4     | 3     | **3** | -     | -     | -     | -     | -     | -     |
-| **7**  | +3                | -                                                 | 4              | 18                | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
+| **7**  | +3                | *Language Passability*                            | 4              | 18                | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
 | **8**  | +3                | **+ Ability**                                     | 4              | 20                | 4     | 3     | 3     | **2** | -     | -     | -     | -     | -     |
 | **9**  | **+4 (up)**       | -                                                 | 4              | 22                | 4     | 3     | 3     | **3** | **1** | -     | -     | -     | -     |
 | **10** | +4                | *Subclass Feature III*                            | **5 (up)**     | 24                | 4     | 3     | 3     | 3     | **2** | -     | -     | -     | -     |
 | **11** | +4                | -                                                 | 5              | 26                | 4     | 3     | 3     | 3     | 2     | **1** | -     | -     | -     |
 | **12** | +4                | **+ Ability**                                     | 5              | 28                | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| **13** | **+5 (up)**       | -                                                 | 5              | 30                | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
+| **13** | **+5 (up)**       | *Language Fluency*                                | 5              | 30                | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
 | **14** | +5                | *Subclass Feature IV*                             | 5              | 32                | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
 | **15** | +5                | -                                                 | 5              | 34                | 4     | 3     | 3     | 3     | 2     | 1     | 1     | **1** | -     |
 | **16** | +5                | **+ Ability**                                     | 5              | 36                | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
@@ -50,7 +50,9 @@
 
 ### Languages
 
-Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefical**. You know that language and it becomes the language that you use for the verbal component of your spells.
+Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefical**. You know that language at the **Basic** level and it becomes the language that you use for the verbal component of your spells.
+
+At **7th level**, you gain the **Passable** level in that language. At **13th level**, you become **Fluent** in it.
 
 ### Multiclass requirement
 

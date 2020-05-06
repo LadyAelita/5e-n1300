@@ -14,13 +14,13 @@
 | **4**  | +2                | **+ Ability**                                     | -                 | **4 (up)**     | 4     | **3** | -     | -     | -     | -     | -     | -     | -     |
 | **5**  | **+3 (up)**       | Destroy Undead                                    | **1/2 (up)**      | 4              | 4     | 3     | **2** | -     | -     | -     | -     | -     | -     |
 | **6**  | +3                | Channel Divinity (2/rest), *Subclass Feature III* | 1/2               | 4              | 4     | 3     | **3** | -     | -     | -     | -     | -     | -     |
-| **7**  | +3                | -                                                 | 1/2               | 4              | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
+| **7**  | +3                | *Language Passability*                            | 1/2               | 4              | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
 | **8**  | +3                | **+ Ability**, *Subclass Feature IV*              | **1 (up)**        | 4              | 4     | 3     | 3     | **2** | -     | -     | -     | -     | -     |
 | **9**  | **+4 (up)**       | -                                                 | 1                 | 4              | 4     | 3     | 3     | **3** | **1** | -     | -     | -     | -     |
 | **10** | +4                | Divine Intervention                               | 1                 | **5 (up)**     | 4     | 3     | 3     | 3     | **2** | -     | -     | -     | -     |
 | **11** | +4                | -                                                 | **2 (up)**        | 5              | 4     | 3     | 3     | 3     | 2     | **1** | -     | -     | -     |
 | **12** | +4                | **+ Ability**                                     | 2                 | 5              | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| **13** | **+5 (up)**       | -                                                 | 2                 | 5              | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
+| **13** | **+5 (up)**       | *Language Fluency*                                | 2                 | 5              | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
 | **14** | +5                | -                                                 | **3 (up)**        | 5              | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
 | **15** | +5                | -                                                 | 3                 | 5              | 4     | 3     | 3     | 3     | 2     | 1     | 1     | **1** | -     |
 | **16** | +5                | **+ Ability**                                     | 3                 | 5              | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
@@ -50,7 +50,9 @@
 
 ### Languages
 
-Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefical**. You know that language and it becomes the language that you use for the verbal component of your spells.
+You know the **Basics** of **one** additional language, determined by your deity. It becomes the language that you use for the verbal component of your spells.
+
+At **7th level**, you gain the **Passable** level in that language. At **13th level**, you become **Fluent** in it.
 
 ### Multiclass requirement
 

@@ -14,13 +14,13 @@
 | **4**  | +2                | **+ Ability**                      | 2                         | 4              | **5 (up)**     | 5            | 4     | **3** | -     | -     | -     | -     | -     | -     | -     |
 | **5**  | **+3 (up)**       | -                                  | **3**                     | 5              | 5              | 6            | 4     | 3     | **2** | -     | -     | -     | -     | -     | -     |
 | **6**  | +3                | *Subclass Feature II*              | 3                         | 6              | 5              | 7            | 4     | 3     | **3** | -     | -     | -     | -     | -     | -     |
-| **7**  | +3                | -                                  | **4**                     | 7              | 5              | 8            | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
+| **7**  | +3                | *Language Passability*             | **4**                     | 7              | 5              | 8            | 4     | 3     | 3     | **1** | -     | -     | -     | -     | -     |
 | **8**  | +3                | **+ Ability**                      | 4                         | 8              | 5              | 9            | 4     | 3     | 3     | **2** | -     | -     | -     | -     | -     |
 | **9**  | **+4 (up)**       | -                                  | **5**                     | 9              | 5              | 10           | 4     | 3     | 3     | **3** | **1** | -     | -     | -     | -     |
 | **10** | +4                | Extra Cantrip                      | 5                         | 10             | **6 (up)**     | 11           | 4     | 3     | 3     | 3     | **2** | -     | -     | -     | -     |
 | **11** | +4                | -                                  | **6**                     | 11             | 6              | 12           | 4     | 3     | 3     | 3     | 2     | **1** | -     | -     | -     |
 | **12** | +4                | **+ Ability**                      | 6                         | 12             | 6              | 12           | 4     | 3     | 3     | 3     | 2     | 1     | -     | -     | -     |
-| **13** | **+5 (up)**       | -                                  | **7**                     | 13             | 6              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
+| **13** | **+5 (up)**       | *Language Fluency*                 | **7**                     | 13             | 6              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | **1** | -     | -     |
 | **14** | +5                | *Subclass Feature III*             | 7                         | 14             | 6              | 13           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | -     | -     |
 | **15** | +5                | -                                  | **8**                     | 15             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | **1** | -     |
 | **16** | +5                | **+ Ability**                      | 8                         | 16             | 6              | 14           | 4     | 3     | 3     | 3     | 2     | 1     | 1     | 1     | -     |
@@ -50,7 +50,9 @@
 
 ### Languages
 
-Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefical**. You know that language and it becomes the language that you use for the verbal component of your spells.
+Choose one of the following languages: **Aelven**, **Dark Aelven** or **Venefical**. You know that language at the **Basic** level and it becomes the language that you use for the verbal component of your spells.
+
+At **7th level**, you gain the **Passable** level in that language. At **13th level**, you become **Fluent** in it.
 
 ### Multiclass requirement
 
@@ -158,7 +160,7 @@ You can speak, read and write the following language:
 | ---------------------- | --------- |
 | **Fire elemental**     | Ignan     |
 | **Earth elemental**    | Petran    |
-| **Angel**              | Celestial |
+| **Angel**              | Lucernal  |
 | **Darkness elemental** | Umbral    |
 | **Djinni**             | Venefical |
 | **Air elemental**      | Caelian   |
