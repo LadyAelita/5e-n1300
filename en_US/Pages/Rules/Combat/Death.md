@@ -22,51 +22,51 @@ The GM might just **announce** that your character **dies** as a result of somet
 
 ## Going down
 
-If damage reduces you to 0 hit points without instantly killing you, you go into one of three unconscious states, each more severe than the previous one. The three states are **unconscious**, **battered** and **dying**. If you're in any of those states, you're considered to be "**down**".
+If damage reduces you to 0 hit points without instantly killing you, you go into one of two states - **unconscious** or **dying**. If you're in any of those states, you're considered to be "**down**".
 
-If you get reduced to 0 hit points by either an attack thrown with the **intent to only knock you out** without killing you, or a **non-magical unarmed strike** that deals **bludgeoning** damage, you become **unconscious**.
+If you get reduced to 0 hit points by either an attack thrown with the **intent to only knock you out** without killing you, or a **non-magical unarmed strike** that deals **bludgeoning** damage, you become **unconscious**. Otherwise, you become **dying**.
 
-If you get reduced to 0 hit points by a **non-magical weapon** attack that deals **physical** (slashing, piercing or bludgeoning) damage, or a **non-magical unarmed attack** that deals **slashing** or **piercing** damage (such as a claw or bite attack), and the attack **was not a critical hit** you become **battered**.
-
-If you get reduced to 0 hit points by an attack that doesn't make you unconscious or battered, you become **dying**.
-
-**Note:** You're considered "**stable**" if you're neither **battered** nor **dying**, given how both of those states have the character make **death saving throws** in regular intervals. Being stable/unstable is not a mechanic, just a way to denote that a character is at a risk of passing away if no action is taken to prevent that.
+You're considered "**stable**" if you're **unconscious**, but **not dying**.
 
 ## Getting worse
 
-Whenever an **unconscious** creature takes damage, it becomes **battered**, if the damage was from a **non-magical weapon** attack that deals **physical** (slashing, piercing or bludgeoning) damage, or a **non-magical unarmed attack** that deals **slashing** or **piercing** damage (such as a claw or bite attack), and the attack **was not a critical hit**. Otherwise, it becomes **dying**.
-
-Whenever a **battered** creature takes damage, it becomes **dying**.
+Whenever an **unconscious** creature takes damage, it becomes **dying**.
 
 Whenever a **dying** creature takes damage, it makes a **death saving throw**.
 
 ## Death saving throws
 
-A **death saving throw** is a **Constitution** saving throw against the **DC** of **10**. Every time you **fail** a death saving throw, you mark it on your character sheet. Once you accumulate **three failures**, you **die**.
+A **death saving throw** is a **special** saving throw against the **DC** of **10**. Death saving throws are **modified** by your **Constitution modifier**, but **do not count as Constitution saving throws**. Every time you **fail** a death saving throw, you mark a failure on your character sheet. Likewise, every time you **succeed** a death saving throw, you mark a success. 
 
-When you make a death saving throw and roll a **natural 1**, it counts as **two failures**. If you roll a natural 20, and have marked failures, you **remove one failure**. If you don't have any failures, you **regain 1 hit point**, which stabilizes you.
+Once you accumulate **five failures**, you **die**. Once you accumulate **five successes**, you **become stable**, becoming merely **unconscious** instead of dying.
 
-Every time you **succeed** on a death saving throw, mark a success on your sheet. If you manage to accumulate **three successes** before you get three failures, **you regain 1 hit point**, which stabilizes you. Once this happens, you stop marking successes until you finish a long rest - you **cannot** self-stabilize this way again. You still regain 1 hit point if you roll a natural 20 and have no failures, though.
+When you make a death saving throw and roll a **natural 1**, it counts as **two failures**. If you roll a **natural 20**, it counts as **two successes**, and if you don't have any death saving throw failures at the moment of rolling the natural 20, you immediately **regain 1 hit point** and become **conscious** again.
 
-You make a death saving throw at the start of **every 10 minutes** if you're **battered**, or at the start of **each turn** if you're **dying**. You can get advantage on these death saving throws if someone successfully provides you with **makeshift first aid** (without a healing kit).
+You make a death saving throw immediately whenever you go into the **dying** state, and then at the start of **each of your turns** for as long as you're **dying**. You can get **advantage** on these death saving throws if someone successfully provides you with **makeshift first aid** (without a healing kit).
 
 **Dying** creatures also make a **death saving throw** whenever they **take damage**.
 
-You erase all accumulated death saving throw failures once you become conscious again.
+You **erase** all accumulated death saving throw failures and successes once you leave the **dying** state.
+
+**Warning:** Bear in mind, that you do **not** include Constitution saving throw proficiency for death saving throws.
 
 ## Saving dying creatures
 
-**Healing** is the most reliable and effective way to get a dying creature back up. If a creature that's **dying** or **battered** regains a positive number of hit points, it becomes only **unconscious**, keeping the hit points regained as a result of the heal. If an **unconscious** creature regains a positive number of hit points, it becomes conscious again.
+**Healing** is the most reliable and effective way to get a dying creature back up. If a creature that's **dying** regains a positive number of hit points, it becomes only **unconscious**, keeping the hit points regained as a result of the heal. If the heal is greater than or equal to **10 + the dying creature's level**, the creature becomes conscious instead.
 
-Alternatively, you can provide **first aid** to a **dying** or **battered** creature using a **healer's kit**. In such case, you make a Medicine or a Survival check **with advantage** against the DC of 10. A success improves the creature's state by **one degree**, meaning it goes from **dying** to **battered**, or from **battered** to **unconscious**. The creature also makes the death saving throws with **advantage**.
+If an **unconscious** creature regains a positive number of hit points, it becomes conscious again.
 
-A **healer's kit** can be used to improve a creature's state only **once** - you **can't** use it **twice in a row** on a dying creature to get it back to unconscious. This condition resets on a creature once it becomes conscious again.
+Alternatively, you can provide **first aid** to a **dying** creature using a **healer's kit**. In such case, you make a Medicine or a Survival check **with advantage** against the DC of 10. A success stabilizes the creature.
 
-If you don't have a healer's kit, you can attempt **makeshift first aid**. You make the same Medicine/Survival check against DC of 10, but **without advantage**. If you succeed, the target creature's state doesn't get better, but it still gets advantage on **death saving throws**.
+If you don't have a healer's kit, you can attempt **makeshift first aid**. You make the same Medicine/Survival check against DC of 10, but **without advantage**. If you succeed, the target creature's state doesn't get better, but it gets advantage on **death saving throws**.
+
+An unconscious creature also **automatically regains consciousness** after **1d8 hours**.
+
+Finally, during battle, an unconscious creature can roll a d20 on each of its turn, immediately becoming conscious again if the result is a natural 20.
 
 ## Regaining consciousness
 
-When a creature **stops being unconscious**, it is still **stunned** until it spends its **entire turn** to compose itself by making a Composure check against DC 10. Such attempts can be repeated until success.
+When a creature **stops being unconscious**, it's initially **incapacitated** and **dazed**. On its first turn since regaining consciousness, the creature makes a **DC 10** **Constitution saving throw** to try and compose itself. On a success, it can act normally. On a failure, it **remains** **incapacitated** and **dazed** until the start of its next turn.
 
 ## Coup de Grâce
 
