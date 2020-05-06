@@ -204,7 +204,7 @@ Moreover, you may **ask your deity** for a **Wish**, **once**. That wish cannot 
 | **19** | 3              | **12** | 4     | 3     | 3     |
 | **20** | 3              | **13** | 4     | 3     | 3     |
 
-### Ordeal (3rd)
+### Ordeal (3rd, 11th level)
 
 *You learn to use pain to call forth divine healing from your deity.*
 
@@ -214,9 +214,15 @@ A **number of times per day** equal to your **Constitution modifier** (minimum o
 
 Whenever you use your **Ordeal** feature, you can **spend any number** of **Sanguinity Points**, to **increase** that feature's **heal** by **that number**.
 
-### Sanguine Magic (11th level)
+### Sanguine Smite (11th level)
 
-Whenever you take damage while **concentrating** on a spell, **for the purpose of determining** the Concentration saving throw **DC**, the **damage is reduced** by **your Flagellant level**.
+As an **action**, when you have a number of **Sanguinity Points**, you can imbue your weapon with **one Cleric spell** of **1st or higher order** that either has a **casting time** of **1 action** or is an **already active concentration spell** that requires an **action** to **activate**. It must either be a spell that you  **can cast**, in which case you expend a spell slot accordingly, or one that is **already active**.
+
+You make a single attack with that weapon in the process. If the attack **hits**, all **spell attack rolls** for the applied spell **hit** the target automatically and are considered part of the single weapon attack. The target of the attack is subject to the effects of the spell. If the attack **misses**, the spell has **no effect**.
+
+If the **imbued attack has advantage**, the **first saving throw** the target makes against the applied spell has **disadvantage**.
+
+Any area spells originate from the target's space.
 
 ### Divine Zeal (14th level)
 
