@@ -70,7 +70,7 @@ When a creature **stops being unconscious**, it's initially **incapacitated** an
 
 ## Coup de Grâce
 
-If a creature **within 5 feet of you** is **helpless** (which it is if it's **down**), you can take a **full round action** to execute a single weapon attack (melee or ranged) in an attempt to finish it off. This is called Coup de Grâce.
+If a creature **within 5 feet of you** is **helpless** (which it is if it's **down** or **paralyzed**), you can take a **full round action** to execute a single weapon attack (melee or ranged) in an attempt to finish it off. This is called Coup de Grâce.
 
 Coup de Grâce **provokes opportunity attacks**. If you get hit with an opportunity attack provoked by your attempt at a Coup de Grâce, the Coup de Grâce is **interrupted** and **has no effect**.
 
