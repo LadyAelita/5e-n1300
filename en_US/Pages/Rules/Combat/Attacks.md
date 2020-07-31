@@ -77,6 +77,10 @@ Instead of using a weapon to make a melee weapon attack, you can use an unarmed 
 
 You can spend your **reaction** to make an opportunity attack against a creature that moves **out of your reach**. Note how this also includes a creature moving **through your reach**, for example, by trying to run past you to get to your backline.
 
+Moreover, when one creature enters the reach of another combatant, and the combatant's reach is greater than the creature's, the entering creature provokes an opportunity attack from the combatant.
+
+**Note:** "Entering the reach" only constitutes for the instant the border of the reach radius is being crossed, not for movement within that reach.
+
 Creatures that are lying prone and are trying to stand up, also provoke opportunity attacks. If you hit such a creature with an opportunity attack and beat their AC by more than 5, they get knocked right back down.
 
 You can avoid provoking an opportunity attack for the rest of your turn by taking the **Disengage** action. You also **don't provoke** an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
