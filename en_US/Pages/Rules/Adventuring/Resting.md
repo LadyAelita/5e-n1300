@@ -16,6 +16,8 @@ A long rest is a period of extended downtime, **at least 8 hours long**, during 
 
 **At the end** of a long rest, a character regains **all lost hit points**. The character also regains spent Hit Dice, up to a number of dice equal to **half of the character's total number** of them (**minimum of one** die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
 
+Moreover, finishing a long rest **reduces** your **exhaustion** level (if any) by **1**, provided that you have ingested some food and drink.
+
 A character can't benefit from more than one long rest in a **24-hour period**, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
 
 If an effect or ability is described as available a given number of times "**per day**", that means its cooldown refreshes at the end of a **long rest**.

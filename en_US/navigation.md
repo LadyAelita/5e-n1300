@@ -80,6 +80,7 @@
 [Adventuring]()
 
   * [Environment](Pages/Rules/Adventuring/Environment.md)
+  * [Exhaustion](Pages/Rules/Adventuring/Exhaustion.md)
   * [Food and Water](Pages/Rules/Adventuring/Food and Water.md)
   * [Resting](Pages/Rules/Adventuring/Resting.md)
   * [Travel](Pages/Rules/Adventuring/Travel.md)
