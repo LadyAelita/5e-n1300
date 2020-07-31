@@ -110,7 +110,7 @@ Whenever a creature that has fear levels is subject to yet another fear-inducing
 
 ## Paralyzed
 
-• A paralyzed creature is **incapacitated** (see the condition) and can’t move or speak.
+• A paralyzed creature is **helpless** (see the condition).
 • The creature is unable to move at all. As a result, their field of view is restricted and cannot be changed by turning around.
 
 ## Petrified
