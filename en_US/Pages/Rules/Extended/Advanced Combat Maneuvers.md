@@ -116,9 +116,9 @@ As a **reaction** to either **you** or a **creature within 5 feet** of you being
 
 ### Adrenaline Rush (2)
 
-As a **bonus action**, you can **prevent going down** due to **your hit points dropping to zero** until the end of your next turn (this does not prevent effects that would specifically instantly kill the character). For that duration, you **remain conscious even at zero** hit points. Taking **additional damage** when **already at zero** hit points **has no effect**.
+As a **bonus action**, you can **prevent going down** due to **your hit points dropping to zero** until the end of your next turn (this does not prevent effects that would specifically instantly kill the character). For that duration, you **remain conscious even at zero** hit points. Taking **additional damage** when **already at zero** hit points gives you a **death saving throw failure**.
 
-If you **still have zero hit points** when **this effect ends**, you **go down** and are **battered**.
+If you **still have zero hit points** when **this effect ends**, you **go down** and are **dying**. If you have accumulated **at least 5** death saving throw failures by that point, you **die**.
 
 ---
 
