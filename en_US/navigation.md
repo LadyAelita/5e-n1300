@@ -111,6 +111,7 @@
 [Extended]()
 
   * [Advanced combat maneuvers](Pages/Rules/Extended/Advanced Combat Maneuvers.md)
+  * [Arena combat](Pages/Rules/Extended/Arena Combat.md)
 
 <!--
   -- Let the user choose a theme
