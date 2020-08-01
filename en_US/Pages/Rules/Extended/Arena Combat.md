@@ -41,7 +41,7 @@ Buffs applied in the ritual phase retain their full duration until the first rou
 
 ### 2: Initiative phase
 
-Each team chooses a character to lead them in the initiative contest. Both leaders (and **only** them) **roll initiative**, determining which **team** goes first. Unless a combatant dies, the two team will always alternate when taking turns (as in, the same team does not take two turns in a row).
+Each team chooses a character to lead them in the initiative contest. Both leaders (and **only** them) **roll initiative**, determining which **team** goes first. Unless a combatant dies, the two teams will always alternate when taking turns (as in, the same team does not take two turns in a row).
 
 Both teams then decide their internal order, in which their own combatants will take turns, from among the set of turns available to the team. However, the leader must be either **first** or **second** within their own team.
 
