@@ -32,6 +32,8 @@ A **buff** is any **spell or special ability**, that:
 * does not target enemies,
 * has a **casting time up to 10 minutes**.
 
+Additionally, **Dodge**, **Dash** or **Disengage** actions each **count as a buff**.
+
 During the ritual phase, each team might administer **up to 3 buffs**, provided by any combination of its combatants. Buffs applied in this phase are further restricted:
 
 * the buff cannot leave an effect on the ground, unless the effect is centered around the caster and follows them around, or is a summon,
@@ -64,7 +66,7 @@ Moreover, on their turn, **each combatant** can apply **one buff** (one througho
 * the buff cannot have a cast time longer than 1 turn,
 * if the buff creates effects on the ground, it must be placed in such a way, that the effect does not intersect with the enemy deployment area.
 
-**Note:** The buff restrictions specific to the ritual phase **do not hold** in the tension phrase. In other words, you can cast Invisibility and create effects on the ground, be it helpful or damaging. However, the buff still has to satisfy the definition of a buff.
+**Note:** The buff restrictions specific to the ritual phase **do not hold** in the tension phrase. In other words, you can cast Invisibility and create effects on the ground, be it helpful or damaging. However, the buff still has to satisfy the definition of a buff. You can still use **Dodge**, **Dash** or **Disengage** as a buff.
 
 ### 5: Combat
 
