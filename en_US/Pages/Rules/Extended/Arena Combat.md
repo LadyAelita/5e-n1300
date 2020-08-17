@@ -8,7 +8,7 @@ In certain situations, groups of combatants face each other in a more orderly se
 
 The arena is a **cylinder** with a **diameter** of **300 feet** (radius 150) and **height** of **100 feet**. The entire area is a flat, non-difficult terrain.
 
-Around the center, there are **two deployment areas**, one for each team. Both of these areas are **100 ft x 20 ft** **rectangles** and are separated by a **100 ft x 10 ft rectangular no man's land**. The respective rectangles touch at the **longer**, 100-foot edges.
+Around the center, there are **two deployment areas**, one for each team. Both of these areas are **100 ft x 40 ft** **rectangles** and are separated by a **100 ft x 10 ft rectangular no man's land**. The respective rectangles touch at the **longer**, 100-foot edges.
 
 ## Magic items
 
