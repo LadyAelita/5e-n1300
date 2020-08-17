@@ -14,7 +14,7 @@
 | **Origin**                                                   | unknown                                                      |
 | **Race**                                                     | unknown                                                      |
 | **Class**                                                    | unknown                                                      |
-| **Alignment**                                                | unknown                                                      |
+| **Alignment**                                                | probably Chaotic Evil                                        |
 | **Disposition**                                              | Heel                                                         |
 | **Weapon of choice**                                         | an exceptionally powerful sniper rifle                       |
 | **Profession**                                               | unknown                                                      |

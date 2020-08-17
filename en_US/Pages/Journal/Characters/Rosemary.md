@@ -20,18 +20,18 @@
 | **Profession**                                               | unknown                                                      |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |
 | **Position**                                                 | member                                                       |
-| **Residence**                                                | Defiant District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
+| **Residence**                                                | Defiance District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
 | **Love interests**                                           | [Brittany](Brittany.md) (girlfriend)                         |
 | **Allies**                                                   | [Amanda](Amanda.md) (friend)<br />[Abigail](Abigail.md) (friend) |
-| **Enemies**                                                  | [Dionistic Church](Nameless Keeper.md)                       |
+| **Enemies**                                                  | [<img src="https://i.imgur.com/mU5mAl5.png" height="16px"></img> Dionistic Church](Nameless Keeper.md#Worshippers) |
 
 **Rosemary** is a young girl from a small village of Wolfville near [Dimok](#!Pages/Journal/Locations/Dimok.md), from which she ran away. She's currently affiliated with [Defiant](#!Pages/Journal/Organizations/Defiant.md), just like her girlfriend, [Brittany](Brittany.md).
 
 ## History
 
-According to Rosemary, she was miserable in her village, notably due to the local [dionistic](Nameless Keeper.md) priest, [Father Romuald](Father Romuald.md), illegally attempting an exorcism on her, nearly killing her in the process. She was saved from that fate by [Brittany](Brittany.md), who threatened to take the priest's life if he didn't back down. The two girls have since fallen in love.
+According to Rosemary, she was miserable in her village, notably due to the local [Dionistic](Nameless Keeper.md) priest, [Father Romuald](Father Romuald.md), illegally attempting an exorcism on her, nearly killing her in the process. She was saved from that fate by [Brittany](Brittany.md), who threatened to take the priest's life if he didn't back down. The two girls have since fallen in love.
 
-She first met [Infallible](Pages/Journal/Organizations/Infallible.md) in its original iteration of [Reymar](Reymar.md), [Yalhra](Yalhra.md) and [Kahrl](Kahrl.md) in early June 1300, when they saw her and Brittany vandalizing [Malcolm](Malcolm Lefort.md)'s chapel with graffiti. The girls were then followed by them all the way to Defiant District.
+She first met [Infallible](Pages/Journal/Organizations/Infallible.md) in its original iteration of [Reymar](Reymar.md), [Yalhra](Yalhra.md) and [Kahrl](Kahrl.md) in early June 1300, when they saw her and Brittany vandalizing [Malcolm](Malcolm Lefort.md)'s chapel with graffiti. The girls were then followed by them all the way to Defiance District.
 
 ## Personality
 

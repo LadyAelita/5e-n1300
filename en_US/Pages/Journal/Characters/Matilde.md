@@ -21,7 +21,7 @@
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) (unconfirmed)<br />[Dimokian University of Magi](#!Pages/Journal/Organizations/Dimokian University of Magi.md) (formerly) |
 | **Position**                                                 | Defiant's Five combatant<br />receptionist at the University |
 | **Residence**                                                | somewhere in [Dimok](#!Pages/Journal/Locations/Dimok.md)     |
-| **Love interests**                                           | --                                                           |
+| **Love interests**                                           | unknown                                                      |
 | **Allies**                                                   | [Amanda](Amanda.md) (Defiant's Five teammate)<br />[Abigail](Abigail.md) (Defiant's Five teammate)<br />[Brittany](Brittany.md) (Defiant's Five teammate)<br />[Master Endurion](Endurion.md) (university teacher)<br />[Nathaniel](Nathaniel.md) (university colleague)<br />[Yalhra](Yalhra.md) (Defiant's Five teammate) |
 | **Enemies**                                                  | --                                                           |
 

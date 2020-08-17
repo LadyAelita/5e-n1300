@@ -20,18 +20,19 @@
 | **Profession**                                               | unknown                                                      |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |
 | **Position**                                                 | member                                                       |
-| **Residence**                                                | Defiant District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
+| **Residence**                                                | Defiance District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
 | **Love interests**                                           | [Rosemary](Rosemary.md) (girlfriend)                         |
+| **Family**                                                   | [Edmund Claville](Edmund Claville.md) (father, denounced her)<br />[Ivette Claville](Ivette Claville.md) (mother, denounced her)<br />Adrian Claville (brother, she denounced him) |
 | **Allies**                                                   | [Amanda](Amanda.md) (mentor)<br />[Abigail](Abigail.md) (friend)<br />[Yalhra](Yalhra.md) (Defiant's Five teammate)<br />[Matilde](Matilde.md) (Defiant's Five teammate) |
-| **Enemies**                                                  | [Dionistic Church](Nameless Keeper.md)                       |
+| **Enemies**                                                  | [<img src="https://i.imgur.com/mU5mAl5.png" height="16px"></img> Dionistic Church](Nameless Keeper.md#Worshippers) |
 
 **Brittany** is a young fire mage, possibly a Prophetusa, affiliated with [Defiant](#!Pages/Journal/Organizations/Defiant.md). She is an amateur swordsfighter, training under [Amanda](Amanda.md). She's also [Rosemary](Rosemary.md)'s girlfriend.
 
 ## History
 
-According to Brittany, she's ran away from her previous life, having been disowned by her parents, although she's never specified her origin. She's had an unpleasant confrontation with a priest of the [Nameless Keeper](Nameless Keeper.md), who has assaulted her on the grounds of her being a lesbian. Acting in self-defense, Brittany killed him using her magic. Later on, she went on to save Rosemary from a similar fate at hands of [Father Romuald](Father Romuald.md), although this time no blood was shed, as intimidation turned out to be enough.
+According to Brittany, she's ran away from her previous life, having been disowned by her parents, [Edmund](Edmund Claville.md) and [Ivette Claville](Ivette Claville.md). She's had an unpleasant confrontation with a priest of the [Nameless Keeper](Nameless Keeper.md), who has assaulted her on the grounds of her being a lesbian. Acting in self-defense, Brittany killed him using her magic. Later on, she went on to save Rosemary from a similar fate at hands of [Father Romuald](Father Romuald.md), although this time no blood was shed, as intimidation turned out to be enough.
 
-She first met [Infallible](Pages/Journal/Organizations/Infallible.md) in its original iteration of [Reymar](Reymar.md), [Yalhra](Yalhra.md) and [Kahrl](Kahrl.md) in early June 1300, when they saw her and [Rosemary](Rosemary.md) vandalizing [Malcolm](Malcolm Lefort.md)'s chapel with graffiti. The girls were then followed by them all the way to Defiant District.
+She first met [Infallible](Pages/Journal/Organizations/Infallible.md) in its original iteration of [Reymar](Reymar.md), [Yalhra](Yalhra.md) and [Kahrl](Kahrl.md) in early June 1300, when they saw her and [Rosemary](Rosemary.md) vandalizing [Malcolm](Malcolm Lefort.md)'s chapel with graffiti. The girls were then followed by them all the way to Defiance District.
 
 ## Personality
 

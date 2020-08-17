@@ -15,13 +15,14 @@
 | **Race**                                                     | Human                                                        |
 | **Class**                                                    | probably Rogue or Fighter                                    |
 | **Alignment**                                                | Chaotic Neutral                                              |
-| **Disposition**                                              | Face leaning                                                 |
+| **Disposition**                                              | Face/Tweener                                                 |
 | **Weapon of choice**                                         | rapier, longsword                                            |
 | **Profession**                                               | fencer, leatherworker, tailor                                |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md)<br />[Iartar Swordsfighting Federation](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) |
 | **Position**                                                 | the leader of Defiant's Five                                 |
-| **Residence**                                                | her shop in Defiant District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
+| **Residence**                                                | her shop in Defiance District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
 | **Love interests**                                           | [Nathaniel](Nathaniel.md) (boyfriend, trainer)               |
+| **Family**                                                   | unknown                                                      |
 | **Allies**                                                   | [Brittany](Brittany.md) (trainee)<br />[Chloe](Chloe.md) (friend, employee)<br />[Abigail](Abigail.md) (friend)<br />[Rosemary](Rosemary.md) (friend)<br />[Yalhra](Yalhra.md) (lives in her shop)<br />[Matilde](Matilde.md) (Defiant's Five teammate) |
 | **Enemies**                                                  | [Baltrin Arion](Baltrin.md) (rival)                          |
 
@@ -31,13 +32,15 @@ She currently competes for the [Iartar Swordsfighting Federation](#!Pages/Journa
 
 Along with [Brittany](Brittany.md), [Abigail](Abigail.md), [Yalhra](Yalhra.md) and [Matilde](Matilde.md), she's a part of the Defiant's Five, which is the third ever female-only team in the history of The Grand Tournament. Their goal is to become the first such team ever to go on and win the grand prize.
 
-She also owns an apparel shop in the Defiant District, known for an extravagant, alternative, looks-over-comfort style, which has become synonymous with the faction.
+She also owns an apparel shop in the Defiance District, known for an extravagant, alternative, looks-over-comfort style, which has become synonymous with the faction.
 
 ## History
 
-Amanda first met [Infallible](#!Pages/Journal/Factions/Infallible.md) in its original iteration of [Reymar](Reymar.md), [Yalhra](Yalhra.md) and [Kahrl](Kahrl.md) in early June 1300, when her [Defiant](#!Pages/Journal/Organizations/Defiant.md) friends, [Brittany](Brittany.md) and [Rosemary](Rosemary.md), were seen painting graffiti on a [Malcolm](Malcolm Lefort.md) chapel, prompting Infallible to follow them. Although Kahrl mysteriously vanished, Reymar and Yalhra stayed in the Defiant District to talk to them. As a priest of a popular church, Reymar was initially met with mistrust by the young, progressive girls, but eventually earned a degree of respect and appreciation among them, due to his somewhat similarly chaotic attitude and his efforts toward punishing the priest that had wronged Rosemary in the past. Yalhra especially took a liking to Amanda's clothes shop, and Amanda let her take one of the free rooms in the shop's building as her own.
+Amanda first met [Infallible](#!Pages/Journal/Organizations/Infallible.md) in its original iteration of [Reymar](Reymar.md), [Yalhra](Yalhra.md) and [Kahrl](Kahrl.md) in early June 1300, when her [Defiant](#!Pages/Journal/Organizations/Defiant.md) friends, [Brittany](Brittany.md) and [Rosemary](Rosemary.md), were seen painting graffiti on a [Malcolm](Malcolm Lefort.md) chapel, prompting Infallible to follow them. Although Kahrl mysteriously vanished, Reymar and Yalhra stayed in the Defiance District to talk to them. As a priest of a popular church, Reymar was initially met with mistrust by the young, progressive girls, but eventually earned a degree of respect and appreciation among them, due to his somewhat similarly chaotic attitude and his efforts toward punishing the priest that had wronged Rosemary in the past. Yalhra especially took a liking to Amanda's clothes shop, and Amanda let her take one of the free rooms in the shop's building as her own.
 
 Outside of being seen training with Brittany or [Nathaniel](Nathaniel.md) (who technically went on to become a member of Infallible), Amanda didn't interact much with the protagonists until the 11th of June, 1300, when the Defiant Five bumped into the Infallible team, which was about to officially sign up for the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament) in the foyer of the City Hall. [Baltrin Arion](Baltrin.md), a member of Infallible, went into a verbal fight with Amanda, where both fighters taunted each other. Eventually, Amanda spat in Baltrin's face and walked away, which prompted Baltrin to recklessly throw one of his handaxes in her direction. The throw completely missed, though, and the axe knocked an innocent bystander out instead of the intended target, with Amanda audibly laughing at the orc from afar and loudly proclaiming she'd never miss like that.
+
+On the 15th of June, 1300, she competed in the first round of the [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) tournament, defeating Maximilien Pasteur by technical victory in six seconds.
 
 ## Personality
 
@@ -79,7 +82,7 @@ She was defeated by [Nathaniel](Nathaniel.md) during one of their training sessi
 >
 > – *Nathaniel do Baltrin regarding Amanda*
 
-Not much is known about the nature of Amanda's relationship with [Nathaniel](Nathaniel.md). Despite them living in vastly different districts of [Dimok](#!Pages/Journal/Locations/Dimok.md) and representing different teams on the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament), their bond is evidently very strong and both lovers have had massive influence on the other. It is due to having become Nathaniel's only sparring partner in 1295, during the day of the [ISF World Championship](#!Pages/Journal/Factions/Iartar Swordsfighting Federation.md) tournament, that she became fascinated with fencing and dedicated her efforts to becoming the best at it. Meanwhile, Nathaniel's entire wardrobe is composed of apparel handmade by Amanda, and he does tend to swear in Common relatively often for a half-elf.
+Not much is known about the nature of Amanda's relationship with [Nathaniel](Nathaniel.md). Despite them living in vastly different districts of [Dimok](#!Pages/Journal/Locations/Dimok.md) and representing different teams on the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament), their bond is evidently very strong and both lovers have had massive influence on the other. It is due to having become Nathaniel's only sparring partner in 1295, during the day of the [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) tournament, that she became fascinated with fencing and dedicated her efforts to becoming the best at it. Meanwhile, Nathaniel's entire wardrobe is composed of apparel handmade by Amanda, and he does tend to swear in Common relatively often for a half-elf.
 
 The typical male and female roles seem to be reversed in their relationship, with Amanda being an aggressive, brash, strong, no-nonsense fighter, and Nathaniel being a more amiable, soft-spoken and reasonable scientist, serving as the voice of reason and having mostly foregone fencing years ago, on top of his rather feminine appearance.
 
@@ -88,7 +91,7 @@ While Nathaniel is clearly confident in Amanda's toughness and combat prowess, h
 ### With Brittany
 
 > \- I'll beat you next time!
-> \- That's what you've said the last time.
+> \- That's what you said the last time.
 >
 > – *Brittany and Amanda*
 

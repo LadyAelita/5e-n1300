@@ -10,7 +10,8 @@
 | **Type**                                                     | sports promotion                              |
 | **Leaders**                                                  | unknown                                       |
 | **Secondary leaders**                                        | unknown                                       |
-| **Form of government**                                       | unknown                                       |
+| **Founder**                                                  | unknown                                       |
+| **Organization**                                             | unknown                                       |
 | **Estabilished**                                             | likely during the 11th century                |
 | **Status**                                                   | active                                        |
 | **Birthplace**                                               | unknown                                       |
@@ -48,8 +49,14 @@ The ISF World Championship is contested in a single-elimination tournament, held
 
 ### Current
 
-* [Amanda](#!Pages/Journal/Characters/Amanda.md), one of the few female competitors, currently holds a record of 1-0-0, having scored her sole victory within 6 seconds.
-* [Baron Sylvester le Vaque](#!Pages/Journal/Characters/Sylvester le Vaque.md), a southern nobleman who leads the team representing ISF in the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament).
+* [Amanda](#!Pages/Journal/Characters/Amanda.md), one of the few female competitors, currently holds a record of 1-0-0, having scored her sole victory over Maximilien Pasteur within 6 seconds (technical).
+* [Baron Sylvester le Vaque](#!Pages/Journal/Characters/Sylvester le Vaque.md), a southern nobleman who leads the team representing ISF in the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament), along with his teammates:
+  * Alfred LeBeau,
+  * Frederic Devereaux,
+  * Jean de la Croix,
+  * Robert Bachelet,
+  * Sebastian le Courgis.
+* Stroggik of Notar, a dwarven swordsfighter who uses a rather simplistic approach based on strength and wrestling techniques, which contrast the typically graceful, finesse fencing that ISF is known for.
 
 ### Former
 

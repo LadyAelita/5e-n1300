@@ -14,15 +14,16 @@
 | **Origin**                                                   | somewhere in [Iartar](#!Pages/Journal/Locations/Iartar.md)   |
 | **Race**                                                     | Human                                                        |
 | **Class**                                                    | Bard                                                         |
-| **Alignment**                                                | Chaotic Neutral                                              |
-| **Disposition**                                              | Tweener                                                      |
+| **Alignment**                                                | Chaotic Good                                                 |
+| **Disposition**                                              | Face                                                         |
 | **Weapon of choice**                                         | probably bardic sorcery                                      |
 | **Profession**                                               | bard, innkeeper                                              |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |
 | **Position**                                                 | innkeeper of Defiant Inn                                     |
-| **Residence**                                                | currently Defiant Inn, Defiant District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
-| **Love interests**                                           | --                                                           |
-| **Allies**                                                   | [Amanda](Amanda.md) (friend)<br />[Brittany](Brittany.md) (friend)<br />[Matilde](Matilde.md) (Defiant's Five teammate)<br />[Rosemary](Rosemary.md) (friend)<br />[Yalhra](Yalhra.md) (Defiant's Five teammate) |
+| **Residence**                                                | currently Defiant Inn, Defiance District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
+| **Love interests**                                           | unknown                                                      |
+| **Family**                                                   | unknown                                                      |
+| **Allies**                                                   | [Amanda](Amanda.md) (friend)<br />[Brittany](Brittany.md) (friend)<br />[Curt](Curt.md) (fellow cards player)<br />[Matilde](Matilde.md) (Defiant's Five teammate)<br />[Rosemary](Rosemary.md) (friend)<br />[Yalhra](Yalhra.md) (Defiant's Five teammate) |
 | **Enemies**                                                  | --                                                           |
 
 **Abigail** is a bard affiliated with [Defiant](#!Pages/Journal/Organizations/Defiant.md) and the current innkeeper of the Defiant Inn, where she regularly performs and takes care of distribution of the [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) drink.
@@ -47,10 +48,16 @@ After the death of Terry, who used to be Defiant Inn's innkeeper, she is the one
 
 Abigail is an extremely fierce, defiant, artistic, emotional and driven person. She's perpetually serious, only occasionally resorting to humor in form of sarcasm. She's very clearly confident that she'll shock the world during the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament). Despite her drive, she seems not to value her own life, admitting not to truly care about the possibility of being murdered. She only decided to pay attention to [the mysterious murderer](The Murderer.md) after realizing she would prefer to continue her existence at least long enough to prove that she's the best musician in the world.
 
-Despite being largely sceptical towards religion, Abigail seems to have some kind of respect for prophecies, especially those presented through art, such as the irehonian [Flames of War](#!Pages/Journal/Music/Flames of War.md) song. She's disapprovingly mentioned how the irehonian [Legacy](#!Pages/Journal/Organizations/Legacy.md) team didn't even recognize that song being played despite it having been the irehonian anthem.
+Despite being largely sceptical towards religion, Abigail seems to have some kind of respect for prophecies, especially those presented through art, such as the irehonian [Flames of War](#!Pages/Journal/Music/Flames of War.md) song. She's disapprovingly mentioned how the irehonian [Legacy](#!Pages/Journal/Events/The Grand Tournament.md#Rankings) team didn't even recognize that song being played despite it having been the irehonian anthem.
+
+She also enjoys drinking [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) excessively often.
 
 ## Abilities
 
 Abigail plays a guitar which doesn't have to be tuned and produces an eerily reverberating, multi-layered sound, which suggests that it might be magical. However, when [Aithem](Aithem.md) has attempted to use her guitar, it didn't sound up to par, even compared to a regular acoustic guitar, let alone a magical one, suggesting that Abigail herself aids her performances with her own magic.
 
-She also enjoys drinking [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) excessively often.
+Despite not being a master strategist, she's an extremely proficient card player, to the extent of frequently being accused by her opponents of having cheated.
+
+## Quotes
+
+* "The best way to win is simple - be as talented as me. So, just *be me*." - to [Curt](Curt.md) regarding card games.

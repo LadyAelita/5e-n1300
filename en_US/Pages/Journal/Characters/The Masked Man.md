@@ -15,14 +15,14 @@
 | **Race**                                                     | likely Human, but there is no certainty                      |
 | **Class**                                                    | unknown                                                      |
 | **Alignment**                                                | likely non-lawful, non-good                                  |
-| **Disposition**                                              | unknown                                                      |
+| **Disposition**                                              | Heel                                                         |
 | **Weapon of choice**                                         | unknown                                                      |
 | **Profession**                                               | unknown                                                      |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |
 | **Position**                                                 | spiritual leader                                             |
 | **Residence**                                                | potentially [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
 | **Love interests**                                           | --                                                           |
-| **Allies**                                                   | [Reymar](Reymar.md) (possibly, when investigating <br />[the murder mystery](The Murderer.md)) |
+| **Allies**                                                   | --                                                           |
 | **Enemies**                                                  | [Dionistic Church](Nameless Keeper.md) (has shown no respect <br />for it)<br />[Nathaniel](Nathaniel.md) (seems one-sided, Nathaniel<br />wants to keep him away from [Amanda](Amanda.md))<br />[The Murderer](The Murderer.md) (intended to shoot him) |
 
 **The Masked Man** is arguably the spiritual leader of [Defiant](#!Pages/Journal/Organizations/Defiant.md), who conceals his identity behind a mask. 
@@ -33,13 +33,15 @@ He has strong influence over the faction, as nearly all of its members carefully
 
 The teachings of The Masked Man are what is said to have started the [Defiant](#!Pages/Journal/Organizations/Defiant.md) movement in [Dimok](#!Pages/Journal/Locations/Dimok.md), back in 1299, when it was yet to even have a name or any semblance of structure or leadership.
 
-The Masked Man has first met [Infallible](#!Pages/Journal/Organizations/Infallible.md), when he encountered [Reymar](Reymar.md) and [Yalhra](Yalhra.md) in one of their first visits to Defiant's Inn. He stopped Reymar as he was about to leave and began a conversation with him, referring to him as "Mr Cleric". Minutes later, he became the first target of [the mysterious murderer](The Murderer.md), although he managed to dodge the bullet on his own, leading to Terry becoming a collateral victim, as his head exploded. This prompted The Masked Man to ask Reymar for assistance with catching the murderer.
+The Masked Man has first met [Infallible](#!Pages/Journal/Organizations/Infallible.md), when he encountered [Reymar](Reymar.md) and [Yalhra](Yalhra.md) in one of their first visits to Defiant's Inn. He stopped Reymar as he was about to leave and began a conversation with him, referring to him as "Sir Cleric". Minutes later, he became the first target of [the mysterious murderer](The Murderer.md), although he managed to dodge the bullet on his own, leading to Terry becoming a collateral victim, as his head exploded. This prompted The Masked Man to ask Reymar for assistance with catching the murderer.
 
-Their next encounter took place in a confessional of the [dionistic](Namless Keeper.md) temple in Dimok, when Reymar was hearing confessions during the mass. He clearly recognized The Masked Man from among the queue of confessors by his voice. The Masked Man then defiled the sacred ritual of confession, reciting a warped version of select lines from the official confession formula. He confessed that he has sinned, but boasted that he has no regrets and that he will not be punished despite of that. Afterwards, he conversed with Reymar about the murderer, vaguely warning him, that he believed the murderer "is closer to [Reymar] than [he] might expect", before leaving the building. The reasoning behind those assumptions remains unknown.
+Their next encounter took place in a confessional of the [Dionistic](Namless Keeper.md) temple in Dimok, when Reymar was hearing confessions during the mass. He clearly recognized The Masked Man from among the queue of confessors by his voice. The Masked Man then defiled the sacred ritual of confession, reciting a warped version of select lines from the official confession formula. He confessed that he has sinned, but boasted that he has no regrets and that he will not be punished despite of that. Afterwards, he conversed with Reymar about the murderer, vaguely warning him, that he believed the murderer "is closer to [Reymar] than [he] might expect", before leaving the building. The reasoning behind those assumptions remains unknown.
 
 When Infallible, now consisting of Reymar, [Baltrin Arion](Baltrin.md), [Aithem](Aithem.md) and [Leonard Laszlo](Leonard Laszlo.md), were visiting Defiant's Inn to listen to [Abigail](Abigail.md)'s performance, The Masked Man happened to enter the building soon afterwards. He gave a speech, to which all members of Defiant have listened, except for [Brittany](Brittany.md), who seemingly ignored him.
 
 The Masked Man has since sent a "gift" to [Reymar](Reymar.md), which was a spell scroll written in an unindentified language.
+
+After Infallible had managed to incapacitate [Belial](Belial.md) and put him under a geas, the returning Aithem killed him using his [soul-stealing rapier](#!Pages/Journal/Items/The Soul-Stealing Rapier.md) before he could reveal   the information that [Nathaniel](Nathaniel.md) was after. Then, Aithem would reveal himself to be The Masked Man in disguise, prompting Nathaniel to furiously charge him with a lightning blade spell. The Masked Man calmly left Belial's throne room, shutting the gate with telekinesis, denying Infallible passage long enough for him to escape.
 
 ## Personality
 
@@ -49,7 +51,7 @@ The Masked Man has since sent a "gift" to [Reymar](Reymar.md), which was a spell
 
 The Masked Man is most certainly an individual shrouded with mystery and eerieness. While he's attained the following of some, he invokes mistrust in others, such as [Nathaniel](Nathaniel.md), who specifically considers him a danger to his girlfirend, [Amanda](Amanda.md). 
 
-He is well-spoken and polite, notably referring to [Reymar](Reymar.md) as "Mr Cleric". Despite that, there seems to be a perpetual underlying malice in his voice, and his politeness seems to come from a place of vitriolic intent, often coming off as a sarcastic mockery. Even in the face of possibly considering [Reymar](Reymar.md) an ally, due to a common enemy in [the murderer](The Murderer.md), he still disrespected [his religion](Nameless Keeper.md) and made sure it was evident that he was enjoying every second of it.
+He is well-spoken and polite, notably referring to [Reymar](Reymar.md) as "Sir Cleric". Despite that, there seems to be a perpetual underlying malice in his voice, and his politeness seems to come from a place of vitriolic intent, often coming off as a sarcastic mockery. Even in the face of possibly considering [Reymar](Reymar.md) an ally, due to a common enemy in [the murderer](The Murderer.md), he still disrespected [his religion](Nameless Keeper.md) and made sure it was evident that he was enjoying every second of it.
 
 The ideology that he preaches is mostly focused around rebelling against the system, strength in numbers and the downsides of religion.
 
@@ -81,10 +83,14 @@ The Masked Man is a very skilled and charismatic talker, to the point where the 
 
 ### With Reymar
 
-> I wholeheartedly hope that our collaborative efforts shall bear fruit, Mr Cleric.
+> I wholeheartedly hope that our collaborative efforts shall bear fruit, Sir Cleric.
 >
 > – *The Masked Man to Reymar*
 
 Despite apparently treating [Reymar](Reymar.md) as an ally in the investigation of [the mysterious murders](The Murderer.md), he definitely considers him an outsider and more of a business partner than a friend. He shamelessly disrespected [his religion](Nameless Keeper.md) and made sure it was evident that he was enjoying every second of it.
 
 Simultaneously, Reymar seemingly agrees with [Nathaniel](Nathaniel.md) and considers The Masked Man to be a very suspicious and potentially dangerous individual.
+
+## Quotes
+
+* "[Sir Cleric](Reymar.md), [Sir Nathaniel](Nathaniel.md). A truly ambitious attempt, yet ultimately... pointless. And now behold, the [bishop](Belial.md) has departed the battlefield. Not unlike the pawn, one ever so close to defying destiny and reaching the [other side](#!Pages/Journal/Locations/Plane of Death.md), mind you. What an irony, isn't it? All the while the final drop of [Blood leaks out of the Order](#!Pages/Journal/Organizations/The Blood Order.md), tantamount to the probability of your triumph in our little game, Mr. Nathaniel. *Checkmate*. You're a worthy adversary, although you've nearly exhausted your resources. There is but a king on your side, one without a crown, at that. Oh, and your [queen](Amanda.md), of course. The queen, whom you cannot even move." - to Nathaniel, after killing Belial.

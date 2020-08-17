@@ -27,11 +27,36 @@ The start of the 28th Grand Tournament in June 1300 was delayed due to the wait 
 
 ### ISF World Championship 1300
 
-The [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) is being contested between 64 competitors this year.
+The [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) is being contested between 32 competitors this year.
 
-#### Round 1 (15th of June)
+#### Round 1, Group 1 (15th of June)
 
-* [Amanda of Dimok](#!Pages/Journal/Characters/Amanda.md) def. a southern swordsman
+* Alfred LeBeau def. Cyril Houdin
+* Bastien Boutet def. Serge Donnet
+* [Amanda of Dimok](#!Pages/Journal/Characters/Amanda.md) def. Maximilien Pasteur
+* Jean de la Croix def. Leonard Campbell
+* Thomas of Noar def. Ignace Dean
+* William Gavreau def. Gael Guilloux
+* Stuart Bennet def. Jayden Murray
+* Ginzer Fivet def. Mebrom Sagehair
+
+#### Round 1, Group 2 (16th of June)
+
+* Robert Bachelet def. Edward Poole
+* Stroggik of Notar def. Dillon Smith
+* [Sylvester le Vaque](#!Pages/Journal/Characters/Sylvester le Vaque.md) def. Marcus Miller
+* Frederic Devereaux def. Ahmed ibn Yasin al Besh
+* Elliot of Tendor def. Calvin Gray
+* Uzoma of Eastport def. Mario Miller
+* Sebastian le Courgis def. Clayton Brooke
+* Richard of Guille def. Adrian of Tricy
+
+#### Round 2, Group 1 (17th of June)
+
+* Alfred LeBeau def. Bastien Boutet
+* Amanda of Dimok def. Jean de la Croix
+* William Gavreau def. Thomas of Noar
+* Ginzer Fivet def. Stuart Bennet
 
 ### The 28th Team Games
 
@@ -39,25 +64,25 @@ The [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting
 
 | Rank | Team                                                         | Members                                                      | Affiliation                                                  | Record | Points | Wins vs tied | Pts diff. |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ------ | ------------ | --------- |
-| -    | **Legacy**                                                   | [Bagrag II](#!Pages/Journal/Characters/Bagrag II.md) (captain)<br />Lakjin<br />Malik<br />Ormar<br />Rumbi | [Irehonian tribes](#!Pages/Journal/Organizations/Irehonia.md) | 0-0-0  | 0      | 0            | 0         |
-| -    | **I.S.F.**                                                   | [Sylvester le Vaque](#!Pages/Journal/Characters/Sylvester le Vaque.md) (captain)<br />5 other members of ISF<br />(one in reserves) | [ISF](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) | 0-0-0  | 0      | 0            | 0         |
-| -    | **Defiant's Five**                                           | [Amanda](#!Pages/Journal/Characters/Amanda.md) (captain)<br />[Abigail](#!Pages/Journal/Characters/Abigail.md)<br />[Brittany](#!Pages/Journal/Characters/Brittany.md)<br />[Matilde](#!Pages/Journal/Characters/Matilde.md)<br />[Yalhra](#!Pages/Journal/Characters/Yalhra.md) | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) | 0-0-0  | 0      | 0            | 0         |
-| -    | **Vitriol**                                                  | [Aiden](#!Pages/Journal/Characters/Aiden.md) (captain)<br />[Nyloth](#!Pages/Journal/Characters/Nyloth.md)<br />A sailor<br />Two dwarven mercenaries | Independent                                                  | 0-0-0  | 0      | 0            | 0         |
-| -    | **Adventure**                                                | Human fighter (captain)<br />Dwarven cleric<br />Elven ranger<br />Tiefling rogue<br />Undead wizard | Independent                                                  | 0-0-0  | 0      | 0            | 0         |
-| -    | **U'rati**                                                   | 5 U'rati                                                     | [U'ire U'rati](#!Pages/Journal/Locations/U'ire.md)           | 0-0-0  | 0      | 0            | 0         |
-| -    | [**Infallible**](#!Pages/Journal/Organizations/Infallible.md) | [Nathaniel](#!Pages/Journal/Characters/Nathaniel.md) (captain)<br />[Baltrin Arion](#!Pages/Journal/Characters/Baltrin.md)<br />[Eve](#!Pages/Journal/Characters/Eve.md)<br />[Leonard Laszlo](#!Pages/Journal/Characters/Leonard Laszlo.md)<br />[Reymar](#!Pages/Journal/Characters/Reymar.md)<br />[Darrius](#!Pages/Journal/Characters/Darrius.md) (reserves) | Independent                                                  | 0-0-0  | 0      | 0            | 0         |
+| 1    | **Legacy**                                                   | [Bagrag II](#!Pages/Journal/Characters/Bagrag II.md) (captain)<br />Lakjin<br />Malik<br />Ormar<br />Rumbi | [Irehonian tribes](#!Pages/Journal/Organizations/Irehonia.md) | 1-0-0  | 2      | 0            | 2         |
+| 1    | **U'rati**                                                   | 5 U'rati                                                     | [U'ire U'rati](#!Pages/Journal/Locations/U'ire.md)           | 1-0-0  | 0      | 0            | 2         |
+| 1    | [<img src="https://i.imgur.com/irvSr2O.png" height="16px"></img> **Infallible**](#!Pages/Journal/Organizations/Infallible.md) | [Nathaniel](#!Pages/Journal/Characters/Nathaniel.md) (captain, reserves)<br />[Baltrin Arion](#!Pages/Journal/Characters/Baltrin.md)<br />[Curt](#!Pages/Journal/Characters/Curt.md)<br />[Eve](#!Pages/Journal/Characters/Eve.md)<br />[Reymar](#!Pages/Journal/Characters/Reymar.md)<br />[Shiro](#!Pages/Journal/Characters/Shiro.md) | Independent                                                  | 1-0-0  | 0      | 0            | 2         |
+| 4    | **<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant's Five** | [Amanda](#!Pages/Journal/Characters/Amanda.md) (captain)<br />[Abigail](#!Pages/Journal/Characters/Abigail.md)<br />[Brittany](#!Pages/Journal/Characters/Brittany.md)<br />[Matilde](#!Pages/Journal/Characters/Matilde.md)<br />[Yalhra](#!Pages/Journal/Characters/Yalhra.md) | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) | 0-0-0  | 0      | 0            | 0         |
+| 5    | **I.S.F.**                                                   | [Sylvester le Vaque](#!Pages/Journal/Characters/Sylvester le Vaque.md) (captain)<br />Frederic Devereaux<br />Jean de la Croix<br />Robert Bachelet<br />Sebastian le Courgis<br />Alfred LeBeau (reserves) | [ISF](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) | 0-1-0  | 0      | 0            | -2        |
+| 5    | **Vitriol**                                                  | [Aiden](#!Pages/Journal/Characters/Aiden.md) (captain)<br />[Nyloth](#!Pages/Journal/Characters/Nyloth.md)<br />A sailor<br />Two dwarven mercenaries | Independent                                                  | 0-1-0  | 0      | 0            | -2        |
+| 5    | **Courage**                                                  | Human fighter (captain)<br />Dwarven cleric<br />Elven ranger<br />Tiefling rogue<br />Undead wizard | Independent                                                  | 0-1-0  | 0      | 0            | -2        |
 
 #### Schedule
 
 | Round | Date                 | Matches (no particular order)                                | Not competing  |
 | ----- | -------------------- | ------------------------------------------------------------ | -------------- |
-| 1     | 17th June 1300 (Wed) | • Legacy vs Adventure<br />• Vitriol vs U'rati<br />• ISF vs **Infallible** | Defiant's Five |
-| 2     | 18th June 1300 (Thu) | • Legacy vs U'rati<br />• Defiant vs Adventure<br />• Vitriol vs **Infallible** | I.S.F.         |
-| 3     | 19th June 1300 (Fri) | • Legacy vs **Infallible**<br />• Defiant vs U'rati<br />• ISF vs Vitriol | Adventure      |
-| 4     | 20th June 1300 (Sat) | • Legacy vs Vitriol<br />• Defiant vs ISF<br />• Adventure vs **Infallible** | U'rati         |
-| 5     | 21st June 1300 (Sun) | • Defiant vs Vitriol<br />• ISF vs Adventure<br />• U'rati vs **Infallible** | Legacy         |
-| 6     | 22nd June 1300 (Mon) | • Legacy vs ISF<br />• Defiant vs **Infallible**<br />• Adventure vs U'rati | Vitriol        |
-| 7     | 23rd June 1300 (Tue) | • Legacy vs Defiant<br />• ISF vs U'rati<br />• Vitriol vs Adventure | **Infallible** |
+| 1     | 17th June 1300 (Wed) | • Legacy vs Bravery<br />• Vitriol vs U'rati<br />• ISF vs **Infallible** | Defiant's Five |
+| 2     | 18th June 1300 (Thu) | • Legacy vs U'rati<br />• Defiant vs Bravery<br />• Vitriol vs **Infallible** | I.S.F.         |
+| 3     | 19th June 1300 (Fri) | • Legacy vs **Infallible**<br />• Defiant vs U'rati<br />• ISF vs Vitriol | Bravery        |
+| 4     | 20th June 1300 (Sat) | • Legacy vs Vitriol<br />• Defiant vs ISF<br />• Bravery vs **Infallible** | U'rati         |
+| 5     | 21st June 1300 (Sun) | • Defiant vs Vitriol<br />• ISF vs Bravery<br />• U'rati vs **Infallible** | Legacy         |
+| 6     | 22nd June 1300 (Mon) | • Legacy vs ISF<br />• Defiant vs **Infallible**<br />• Bravery vs U'rati | Vitriol        |
+| 7     | 23rd June 1300 (Tue) | • Legacy vs Defiant<br />• ISF vs U'rati<br />• Vitriol vs Bravery | **Infallible** |
 
 ## Competitions
 

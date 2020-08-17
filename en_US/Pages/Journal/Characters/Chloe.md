@@ -17,19 +17,20 @@
 | **Alignment**                                                | Chaotic Good                                                 |
 | **Disposition**                                              | Face                                                         |
 | **Weapon of choice**                                         | none                                                         |
-| **Profession**                                               | unknown                                                      |
+| **Profession**                                               | checkout girl                                                |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |
 | **Position**                                                 | tailor, checkout girl                                        |
-| **Residence**                                                | Amanda's Shop, Defiant District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
-| **Love interests**                                           | --                                                           |
+| **Residence**                                                | Amanda's Shop, Defiance District, [Dimok](#!Pages/Journal/Locations/Dimok.md) |
+| **Love interests**                                           | unknown                                                      |
+| **Family**                                                   | unknown                                                      |
 | **Allies**                                                   | [Amanda](Amanda.md) (friend, employer)<br />[Yalhra](Yalhra.md) (friend) |
 | **Enemies**                                                  | [Dimokian Government](#!Pages/Journal/Locations/Dimok.md) (tax collectors) |
 
-**Chloe** is the checkout girl working at [Amanda](Amanda.md)'s shop in the Defiant District in [Dimok](#!Pages/Journal/Locations/Dimok.md).
+**Chloe** is the checkout girl working at [Amanda](Amanda.md)'s shop in the Defiance District in [Dimok](#!Pages/Journal/Locations/Dimok.md).
 
 ## History
 
-She met [Yalhra](Yalhra.md) when she, along with [Reymar](Reymar.md), followed [Brittany](Brittany.md) and [Rosemary](Rosemary.md) to the Defiant District and Yalhra decided to visit [Amanda](Amanda)'s shop.
+She met [Yalhra](Yalhra.md) when she, along with [Reymar](Reymar.md), followed [Brittany](Brittany.md) and [Rosemary](Rosemary.md) to the Defiance District and Yalhra decided to visit [Amanda](Amanda)'s shop.
 
 She posted an announcement in the 1300-06-09 issue of [The Northern Courier](#!Pages/Journal/Organizations/Northern Courier.md) newspaper, where she was looking for a proficent lawyer to assist her with tax issues.
 

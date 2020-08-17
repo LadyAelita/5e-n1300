@@ -18,7 +18,7 @@
 | **Disposition**                                              | Face                                                         |
 | **Weapon of choice**                                         | meteor hammer, knife                                         |
 | **Profession**                                               | church disciple                                              |
-| **Affiliation**                                              | [Infallible](#!Pages/Journal/Organizations/Infallible.md)<br />[Dionistic Church](Nameless Keeper.md)<br />[<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) (formerly) |
+| **Affiliation**                                              | [<img src="https://i.imgur.com/irvSr2O.png" height="16px"></img> Infallible](#!Pages/Journal/Organizations/Infallible.md)<br />[<img src="https://i.imgur.com/mU5mAl5.png" height="16px"></img> Dionistic Church](Nameless Keeper.md#Worshippers)<br />[<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) (formerly) |
 | **Position**                                                 | retainer<br />church disciple                                |
 | **Residence**                                                | Dionistic Church, [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom <br />of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
 | **Love interests**                                           | --                                                           |
@@ -31,13 +31,13 @@
 
 ### Defiant
 
-No-one used to be a member of [Defiant](#!Pages/Journal/Organizations/Defiant.md), infamous for performing flashy tricks with his sharp, magic knife. On one occasion, he cut one of his fingers in the process. [Reymar](Reymar.md), a [dionistic](Nameless Keeper.md) priest, approached him, as he begged for somebody to heal his wound. Reymar cauterized it in response, to which the knife guy reacted with anger, going on a very emotion-driven anti-religious rant, claiming that Reymar didn't heal him harmlessly with his magic, because his god isn't real and thus he has no magic.
+No-one used to be a member of [Defiant](#!Pages/Journal/Organizations/Defiant.md), infamous for performing flashy tricks with his sharp, magic knife. On one occasion, he cut one of his fingers in the process. [Reymar](Reymar.md), a [Dionistic](Nameless Keeper.md) priest, approached him, as he begged for somebody to heal his wound. Reymar cauterized it in response, to which the knife guy reacted with anger, going on a very emotion-driven anti-religious rant, claiming that Reymar didn't heal him harmlessly with his magic, because his god isn't real and thus he has no magic.
 
 When he witnessed Terry's death at the hands of [the mysterious shooter](The Murderer.md), he said it "looked cool".
 
 ### Conversion
 
-One day, under the [dionistic temple](Nameless Keeper.md) in [Dimok](#!Pages/Journal/Locations/Dimok.md), "the guy with the knife" approached [Reymar](Reymar.md), accompanied at the time by [Baltrin](Baltrin.md), with a new, extremely humble and selfless attitude. He exposed his newly shaved head, having stripped himself of all that had defined him in the past, seeking atonement for his past sins. Baltrin was quick to take advantage of that and berate him for having been a "heretic". Reymar accepted his conversion, and asked him for his name, to which he replied that his name doesn't matter, just as his existence. Reymar went on to name him "**no-one**".
+One day, under the [Dionistic temple](Nameless Keeper.md) in [Dimok](#!Pages/Journal/Locations/Dimok.md), "the guy with the knife" approached [Reymar](Reymar.md), accompanied at the time by [Baltrin](Baltrin.md), with a new, extremely humble and selfless attitude. He exposed his newly shaved head, having stripped himself of all that had defined him in the past, seeking atonement for his past sins. Baltrin was quick to take advantage of that and berate him for having been a "heretic". Reymar accepted his conversion, and asked him for his name, to which he replied that his name doesn't matter, just as his existence. Reymar went on to name him "**no-one**".
 
 From that point on, No-one would accompany Reymar, obediently following his every order, even after Reymar was relieved of his duties as priest of the [Nameless Keeper](Nameless Keeper.md), in order to pursue a career as a [guild](#!Pages/Journal/Organizations/Guild of Magi.md) Incantator, studying at the  [Dimokian University of Magi](#!Pages/Journal/Organizations/Dimokian University of Magi.md).
 

@@ -10,12 +10,13 @@
 | **Type**                                                     | informal youth movement                                      |
 | **Leaders**                                                  | [The Masked Man](#!Pages/Journal/Characters/The Masked Man.md) (probably)<br />[Amanda](#!Pages/Journal/Characters/Amanda.md) (face of the faction) |
 | **Secondary leaders**                                        | [Abigail](#!Pages/Journal/Characters/Abigail.md) (informal innkeeper at <br />the Defiant Inn) |
-| **Form of government**                                       | anarchy                                                      |
+| **Founder**                                                  | [The Masked Man](#!Pages/Journal/Characters/The Masked Man.md) |
+| **Organization**                                             | anarchy                                                      |
 | **Estabilished**                                             | around 1299-1300                                             |
 | **Status**                                                   | active                                                       |
 | **Birthplace**                                               | [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
-| **Headquarters**                                             | Defiant Inn, Defiant District, [Dimok](#!Pages/Journal/Locations/Dimok.md), <br />[Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
-| **Theater of operations**                                    | Defiant District, [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom <br />of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
+| **Headquarters**                                             | Defiant Inn, Defiance District, [Dimok](#!Pages/Journal/Locations/Dimok.md), <br />[Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
+| **Theater of operations**                                    | Defiance District, [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom <br />of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
 | **Races**                                                    | all races, mostly Humans                                     |
 | **Classes**                                                  | mostly Rogues, possibly a few<br />Fighters and Propheti     |
 | **Alignment**                                                | Chaotic Neutral                                              |
@@ -26,13 +27,15 @@
 | **Allies**                                                   | --                                                           |
 | **Enemies**                                                  | --                                                           |
 
-**Defiant**, formerly known as **Change and Freedom**, is a chaotic neutral informal youth movement based in [Dimok](#!Pages/Journal/Locations/Dimok.md). Their numbers aren't significant, as they occupy merely a few abandoned buildings in the northern part of the city, which was deemed the Defiant District after the faction's name. Their members stand out in a crowd, though, mainly through their alternative, rebellious look, and every member also wearing a patch with the faction's symbol. Their main "headquarters" is the Defiant Inn, where they enjoy alternative music and the [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) drink.
+**Defiant**, formerly known as **Change and Freedom**, is a chaotic neutral informal youth movement based in [Dimok](#!Pages/Journal/Locations/Dimok.md). Their numbers aren't significant, as they occupy merely a few abandoned buildings in the northern part of the city, which was deemed the Defiance District after the faction's name. Their members stand out in a crowd, though, mainly through their alternative, rebellious look, and every member also wearing a patch with the faction's symbol. Their main "headquarters" is the Defiant Inn, where they enjoy alternative music and the [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) drink.
 
 ## History
 
-The slow formation of the faction is said to have begun in 1299, driven by the teachings of [The Masked Man](#!Pages/Journal/Characters/The Masked Man.md). It began to take a more defined shape and form in 1300, when Terry introduced the brand new [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) drink and [Amanda](#!Pages/Journal/Characters/Amanda.md) opened her shop with clothing that has become synonymous with the faction. It also wasn't until June 1300 when she introduced the "Defiant" name.
+The slow formation of the faction is said to have begun in 1299, driven by the teachings of [The Masked Man](#!Pages/Journal/Characters/The Masked Man.md). It began to take a more defined shape and form in 1300, when Terry introduced the brand new [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) drink and [Amanda](#!Pages/Journal/Characters/Amanda.md) opened her shop with clothing that has become synonymous with the faction. It also wasn't until June 1300 when she introduced the *"Defiant"* name.
 
-[Infallible](Infallible.md) have first encountered Defiant by following [Brittany](#!Pages/Journal/Characters/Brittany.md) and [Rosemary](#!Pages/Journal/Characters/Rosemary.md) to the Defiant District. Since then, they have visited the Defiant Inn a few times, mostly in order to research the [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) drink and listen to [Abigail](#!Pages/Journal/Characters/Abigail.md)'s performances.
+Defiant went on to unofficially claim control over the Desolace District in [Dimok](#!Pages/Journal/Locations/Dimok.md), renaming it *"Defiance"*.
+
+[Infallible](Infallible.md) have first encountered Defiant by following [Brittany](#!Pages/Journal/Characters/Brittany.md) and [Rosemary](#!Pages/Journal/Characters/Rosemary.md) to the Defiance District. Since then, they have visited the Defiant Inn a few times, mostly in order to research the [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) drink and listen to [Abigail](#!Pages/Journal/Characters/Abigail.md)'s performances.
 
 During one of his earliest visits to the Inn, [Reymar](#!Pages/Journal/Characters/Reymar.md) healed a [fanatical atheist](#!Pages/Journal/Characters/No-one.md)'s severed finger (although doing so with fire, rather than a harmless spell), despite him showing no respect to Reymar's religion. A few times, Reymar happened to encounter The Masked Man, even witnessing him almost being murdered by [the mysterious shooter](#!Pages/Journal/Characters/The Murderer.md). He was then tasked by The Masked Man with finding out the murderer's identity, vaguely justifying it with the murderer being a common enemy of both himself and Infallible.
 
@@ -48,7 +51,7 @@ Members of Defiant often commit minor acts of vandalism, mostly painting graffit
 
 ## Appearance
 
-Defiant's members share an extravagant, alternative, looks-over-comfort style, which has become synonymous with the faction. The pioneer of that style is [Amanda](#!Pages/Journal/Characters/Amanda.md), who owns an apparel shop in the Defiant District.
+Defiant's members share an extravagant, alternative, looks-over-comfort style, which has become synonymous with the faction. The pioneer of that style is [Amanda](#!Pages/Journal/Characters/Amanda.md), who owns an apparel shop in the Defiance District.
 
 Every member of the faction also wears a patch with the faction's symbols
 
@@ -75,4 +78,4 @@ Every member of the faction also wears a patch with the faction's symbols
 
 ### Former
 
-* [No-one](#!Pages/Journal/Characters/No-one.md), left in process of converting to [dionism](#!Pages/Journal/Characters/The Nameless Keeper.md).
+* [No-one](#!Pages/Journal/Characters/No-one.md), left in process of converting to [Dionism](#!Pages/Journal/Characters/The Nameless Keeper.md).
