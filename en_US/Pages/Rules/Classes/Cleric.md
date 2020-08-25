@@ -838,11 +838,11 @@ You gain **proficiency** with **heavy armor** and **martial weapons**.
 | 7th          | Freedom of Movement, Stoneskin      |
 | 9th          | Flame Strike, Hold Monster          |
 
-### War Priest (1st level)
+### Roaring Retaliation (1st level)
 
-*Your god delivers bolts of inspiration to you while you are engaged in battle.*
+*You can rebuke attackers, fiercely roaring right back at them instead of cowering in pain.*
 
-A **number of times per day** equal to your **Wisdom modifier** (minimum of once), when you use the **Attack action**, you can **make one weapon attack** as a **bonus action**.
+A **number of times** per day equal to your **Wisdom modifier** (a minimum of once), when a creature **within 5 feet** of you that you can see **hits you** with an attack, you can use your **reaction** to cause the creature to make a **Charisma saving throw**. The creature takes **2d8 psychic damage** on a **failed** saving throw, and **half** as much damage on a **successful** one.
 
 ### Channel Divinity: Guided Strike (2nd level)
 
@@ -886,11 +886,11 @@ You gain **proficiency** with **heavy armor** and **martial weapons**.
 | 7th          | Flame Shield (warm shield only), Freedom of Movement |
 | 9th          | Destructive Wave, Flame Strike                       |
 
-### War Priest (1st level)
+### Wrath of the Flame (1st level)
 
-*Your god delivers bolts of inspiration to you while you are engaged in battle.*
+*You can rebuke attackers, conjuring a combustion right as they connect.*
 
-A **number of times per day** equal to your **Wisdom modifier** (minimum of once), when you use the **Attack action**, you can **make one weapon attack** as a **bonus action**.
+A **number of times** per day equal to your **Wisdom modifier** (a minimum of once), when a creature **within 5 feet** of you that you can see **hits you** with an attack, you can use your **reaction** to cause the creature to make a **Dexterity saving throw**. The creature takes **2d8 fire** or **sonic** damage (your choice) on a **failed** saving throw, and **half** as much damage on a **successful** one.
 
 ### Channel Divinity: Consuming Fervor (2nd level)
 
