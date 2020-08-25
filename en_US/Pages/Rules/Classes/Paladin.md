@@ -319,7 +319,7 @@ The tenets of the Oath of the Crown are often set by the sovereign to which thei
 | Paladin Level | Spells                             |
 | ------------- | ---------------------------------- |
 | 3rd           | Command, Compelled Duel            |
-| 5th           | Warding Bond, Zone of Truth        |
+| 5th           | Aid, Zone of Truth                 |
 | 9th           | Aura of Vitality, Spirit Guardians |
 | 13th          | Banishment, Guardian of Faith      |
 | 17th          | Circle of Protection, Geas         |
