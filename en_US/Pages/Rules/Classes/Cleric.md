@@ -400,7 +400,7 @@ You gain **expertise** with **three Knowledge skills** of your choice.
 
 ### Blessing of Knowledge (1st level)
 
-You learn **two languages** of your choice.
+You become **Passable** with **two languages** of your choice.
 
 ### Channel Divinity: Knowledge of the Ages (2nd level)
 
