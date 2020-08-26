@@ -1,6 +1,6 @@
 ## Aura of Life
 
-Classes: **Paladin**  
+Classes: **Cleric, Paladin**  
 Level: **4**  
 
 School: **Abjuration**  

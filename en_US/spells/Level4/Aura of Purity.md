@@ -1,6 +1,6 @@
 ## Aura of Purity
 
-Classes: **Cleric (Light), Paladin**  
+Classes: **Cleric, Cleric (Light), Paladin**  
 Level: **4**  
 
 School: **Abjuration**  
