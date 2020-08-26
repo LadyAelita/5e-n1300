@@ -57,7 +57,7 @@ no ritual,Druid*,Ranger*,Fire*,level 1,level1,lv1,lvl1;Beast Bond;1;Divination;F
 no ritual,Cleric*,Paladin*,Light*,level 1,level1,lv1,lvl1;Bless;1;Evocation;Light;1 action;Concentration;;Concentration, up to 1 minute;V, S, F;Cleric, Cleric (Life), Cleric (Preservation), Paladin;#!spells/Level1/Bless.md
 no conc,no concentration,no ritual,Wizard*,Fire*,level 1,level1,lv1,lvl1;Burning Hands;1;Evocation;Fire;1 action;;;Instantaneous;V, S;Cleric (Light), Warlock (Aeonian Flame), Warlock (Fiend), Wizard;#!spells/Level1/Burning Hands.md
 no conc,no concentration,no ritual,Wizard*,Earth*,level 1,level1,lv1,lvl1;Catapult;1;Transmutation;Earth;1 action;;;Instantaneous;S;Wizard;#!spells/Level1/Catapult.md
-no conc,no concentration,no ritual,Warlock*,Wizard*,Death*,level 1,level1,lv1,lvl1;Cause Fear;1;Enchantment (Compulsion);Death;1 action;;;1 minute;V;Warlock, Wizard;#!spells/Level1/Cause Fear.md
+no conc,no concentration,no ritual,Cleric*,Warlock*,Wizard*,Death*,level 1,level1,lv1,lvl1;Cause Fear;1;Enchantment (Compulsion);Death;1 action;;;1 minute;V;Cleric, Warlock, Wizard;#!spells/Level1/Cause Fear.md
 no conc,no concentration,no ritual,Warlock*,Wizard*,Fire*,level 1,level1,lv1,lvl1;Cauterize Wounds;1;Transmutation;Fire;1 action;;;1d6 - 2 rounds;V, S;Warlock, Wizard;#!spells/Level1/Cauterize Wounds.md
 no conc,no concentration,Cleric*,Paladin*,Light*,level 1,level1,lv1,lvl1;Ceremony;1;Evocation;Light;1 hour;;Ritual;Instantaneous;V, S, F, M (25 gp worth of powdered silver, which the spell consumes);Cleric, Paladin;#!spells/Level1/Ceremony.md
 no conc,no concentration,no ritual,Wizard*,Aether*,level 1,level1,lv1,lvl1;Chaos Bolt;1;Evocation;Aether;1 action;;;Instantaneous;V, S, M (a kaosite worth at least 25 gp);Wizard;#!spells/Level1/Chaos Bolt.md

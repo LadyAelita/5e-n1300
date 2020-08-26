@@ -1,6 +1,6 @@
 ## Cause Fear
 
-Classes: **Warlock, Wizard**  
+Classes: **Cleric, Warlock, Wizard**  
 Level: **1**  
 
 School: **Enchantment (Compulsion)**  
