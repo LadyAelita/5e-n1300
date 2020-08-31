@@ -53,7 +53,11 @@ Ever since his conversion, No-one has been ascetic in his approach to life. He h
 
 ## Abilities
 
+No-one possesses many abilities, most of them are combat-oriented. He has a tendency to inflict harm upon himself, on the battlefield and during his prayers alike, as his fighting style reflects his personal beliefs.
 
+His main weapon of choice is a unique meteor hammer - a weapon that's very difficult to wield, requiring brutal practice in order to start using it effectively. The meteor hammer would relatively often backfire on No-one, resulting in him injuring himself rather than the intended target. This, however, did not discourage him one bit.
+
+As an echo of his past, No-one is skilled with knives, with which he used to play when he was still a member of [Defiant](#!Pages/Journal/Organizations/Defiant.md). As a result, he possesses quite dexterous and precise hands, despite having lost one finger.
 
 ## Quotes
 
