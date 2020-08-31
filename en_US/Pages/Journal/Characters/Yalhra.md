@@ -55,6 +55,8 @@ Yalhra has since then been arrested once again for reasons currently unknown. Th
 
 She likely got a pass to temporarily leave arrest in order to compete in the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament), for the purposes of which she registered as part of the [Defiant's Five](#!Pages/Journal/Organizations/Defiant.md), jumping ship from Infallible with no explaination.
 
+She's since appeared in the same room as Reymar, most notably during the banquet at [Alfred Kerraman](Alfred Kerraman.md)'s mansion. She was one of the people the governor was suspicious of, as he was expecting [Amelia](Amelia Kerraman.md) to enter his house disguised as one of the invitees. Yalhra herself ended up attracting very little attention, though, due to everybody being focused on her friend, [Chloe](Chloe.md), instead. The girls were kicked out of the place along with all the other guests, before it was revealed that Amelia had been disguised as [Matilde](Matilde.md) throughout the night, as she murdered her father.
+
 ## Personality
 
 Yalhra is a Prophetusa Ultima who has very limited control over her powers, which are triggered mostly by emotion. She tries her best to keep her composure and use her powers for good, but sometimes can't control herself, which leads to accidents.

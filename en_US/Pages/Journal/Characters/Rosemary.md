@@ -39,7 +39,7 @@ She first met [Infallible](Pages/Journal/Organizations/Infallible.md) in its ori
 
 ## Appearance
 
-Rosemary has warm beige skin and long, dark brown hair. She's a few inches taller than [Brittany](Brittany.md) and her choice of clothing is more conservative compared to her girlfriend's, although she keeps introducing more alternative elements to her style one at a time. She wears her [Defiant](#!Pages/Journal/Organizations/Defiant.md) symbol patch on one of her dress belts.
+Rosemary has warm beige skin and long, raspberry hair. Her hair is naturally dark brown, but she's had it painted sometime during the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament). She's a few inches taller than [Brittany](Brittany.md) and her choice of clothing is more conservative compared to her girlfriend's, although she keeps introducing more alternative elements to her style one at a time, such as a red leather jacket, matching her hair color. She wears her [Defiant](#!Pages/Journal/Organizations/Defiant.md) symbol patch on one of her dress belts.
 
 ## Abilities
 
