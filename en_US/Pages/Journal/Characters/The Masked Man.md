@@ -16,14 +16,14 @@
 | **Class**                                                    | unknown                                                      |
 | **Alignment**                                                | likely non-lawful, non-good                                  |
 | **Disposition**                                              | Heel                                                         |
-| **Weapon of choice**                                         | unknown                                                      |
+| **Weapon of choice**                                         | katana and a soul-stealing rapier                            |
 | **Profession**                                               | unknown                                                      |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |
 | **Position**                                                 | spiritual leader                                             |
 | **Residence**                                                | potentially [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
 | **Love interests**                                           | --                                                           |
 | **Allies**                                                   | --                                                           |
-| **Enemies**                                                  | [Dionistic Church](Nameless Keeper.md) (has shown no respect <br />for it)<br />[Nathaniel](Nathaniel.md) (seems one-sided, Nathaniel<br />wants to keep him away from [Amanda](Amanda.md))<br />[The Murderer](The Murderer.md) (intended to shoot him) |
+| **Enemies**                                                  | [Dionistic Church](Nameless Keeper.md) (has shown no respect <br />for it)<br />[Nathaniel](Nathaniel.md) (they are fighting each other for [Amanda](Amanda.md)'s <br />free will, which the Masked Man is restricting)<br />[The Murderer](The Murderer.md) (intended to shoot him) |
 
 **The Masked Man** is arguably the spiritual leader of [Defiant](#!Pages/Journal/Organizations/Defiant.md), who conceals his identity behind a mask. 
 
@@ -63,6 +63,8 @@ The Masked Man dresses in a very modest, unspectacular manner, with his clothes 
 
 The Masked Man is a very skilled and charismatic talker, to the point where the ease with which he influences people seems supernatural. It currently remains unknown whether that's the case.
 
+He's also been able to produce various mixtures that affect the mind of the consumers, bringing them under The Masked Man's influence, such as [Iodine 53](#!Pages/Journal/Items/Iodine 53.md), whose effects have proven extremely difficult to dispel.
+
 ## Relations
 
 ### With Brittany
@@ -73,13 +75,23 @@ The Masked Man is a very skilled and charismatic talker, to the point where the 
 
 [Brittany](Brittany.md) seems to be the sole member of [Defiant](#!Pages/Journal/Organizations/Defiant.md) that absolutely disregards The Masked Man's speeches, not being impressed with him at all. She seems annoyed with him at times, although she doesn't act on that in any practical way.
 
+### With Curt
+
+> He's already attempted to control *me* through drinks.
+>
+> – *Curt to Matilde, about The Masked Man*
+
+[Curt](Curt.md) has a longer history of hostilities with The Masked Man than any other affiliate of [Infallible](#!Pages/Journal/Organizations/Infallible.md). He's mentioned him being his fake "mentor", while seeking to establish mind control over him through spiked mixtures, not unlike his recent [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) creation. However, Curt, with assistance from his now-deceased friend, Mawitt, and his new mentor, [Cassandra](Cassandra.md), has managed to snap out of that condition.
+
+Curt and [Nathaniel](Nathaniel.md) remained the only two members of [Infallible](#!Pages/Journal/Organizations/Infallible.md) hell-bent on immediately pursuing The Masked Man after his assassination of [Belial](Belial.md), whereas everyone else intended to rest. By luck as much as by design, Curt managed to warn [Matilde](Matilde.md) about the truth behind Iodine 53 before she'd manage to taste it. Curt has been following the trail of the treacherous drink as part of his personal investigation since then.
+
 ### With Nathaniel
 
 > No wonder why Nathaniel wants to keep this guy away from Amanda...
 >
 > – *Reymar to Baltrin, about Nathaniel's attitude toward The Masked Man*
 
-[Nathaniel](Nathaniel.md) clearly doesn't trust The Masked Man, as he finds him potentially dangerous. Given how close The Masked Man is to [Defiant](#!Pages/Journal/Organizations/Defiant.md), Nathaniel is worried about his girlfriend, [Amanda](Amanda.md), who is another prominent member of that faction.
+[Nathaniel](Nathaniel.md) despises The Masked Man. Given how close The Masked Man is to [Defiant](#!Pages/Journal/Organizations/Defiant.md), Nathaniel's girlfriend, [Amanda](Amanda.md), has fallen under his influence by drinking [Iodine 53](#!Pages/Journal/Items/Iodine 53.md). Nathaniel himself has been suffering from psychological trauma as a result of his feud with The Masked Man, a battle in which he feels helpless, outmatched and quite often isolated, and his condition has been getting worse ever since his failed quest to forcefully acquire aid from [Belial](Belial.md).
 
 ### With Reymar
 
@@ -89,7 +101,7 @@ The Masked Man is a very skilled and charismatic talker, to the point where the 
 
 Despite apparently treating [Reymar](Reymar.md) as an ally in the investigation of [the mysterious murders](The Murderer.md), he definitely considers him an outsider and more of a business partner than a friend. He shamelessly disrespected [his religion](Nameless Keeper.md) and made sure it was evident that he was enjoying every second of it.
 
-Simultaneously, Reymar seemingly agrees with [Nathaniel](Nathaniel.md) and considers The Masked Man to be a very suspicious and potentially dangerous individual.
+Simultaneously, Reymar seemingly agrees with [Nathaniel](Nathaniel.md) and considers The Masked Man to be a very suspicious and potentially dangerous individual. However, he is rather reluctant to keep pursuing him, having said that The Masked Man had a chance to kill [Infallible](#!Pages/Journal/Organizations/Infallible.md) if he truly wanted to.
 
 ## Quotes
 
