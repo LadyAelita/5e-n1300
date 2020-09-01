@@ -1101,6 +1101,7 @@ $(document).ready(function() {
 				if (!(castingResources || []).length) {
 					// Empty result
 					alert('Dafuq you mean "spellcasting"? You ain\'t got no caster levels!')
+					return;
 				}
 				const castingClasses = (metadata.casterClasses || []);
 
