@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Northland 1300 - Calculator</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="../yeti.min.css" type="text/css"></link>
+	<link rel="stylesheet" href="calc.css" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="calc.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<header>
+			<h1>D&D 5e N1300 Calculator</h1>
+		</header>
+
+		<section>
+			<p>This tool seeks to help you - a person that can't remember the spell DC formula.</p>
+		</section>
+
+		<section>
+			<h2>Tell me what you know</h2>
+			<p>What you write in here will be stored in your browser's local storage for your convenience. Which means it will not be deleted (unless it will).</p>
+
+			<div class="row">
+				<div class="col-md-4 text-center">
+					<h3>Attributes</h3> Put <b>values</b>, not modifiers.
+					<div class="row py-1">
+						<div class="col-sm-6">
+							<b>Strength</b>
+							<input type="number" class="form-control attribute-input" id="inputStrength" attributeName="str" min="0" aria-label="Strength" />
+						</div>
+						<div class="col-sm-6">
+							<b>Intelligence</b>
+							<input type="number" class="form-control attribute-input" id="inputIntelligence" attributeName="int" min="0" aria-label="Intelligence" />
+						</div>
+					</div>
+					<div class="row py-1">
+						<div class="col-sm-6">
+							<b>Dexterity</b>
+							<input type="number" class="form-control attribute-input" id="inputDexterity" attributeName="dex" min="0" aria-label="Dexterity" />
+						</div>
+						<div class="col-sm-6 text-center">
+							<b>Wisdom</b>
+							<input type="number" class="form-control attribute-input" id="inputWisdom" attributeName="wis" min="0" aria-label="Wisdom" />
+						</div>
+					</div>
+					<div class="row pt-1 pb-3">
+						<div class="col-sm-6 text-center">
+							<b>Constitution</b>
+							<input type="number" class="form-control attribute-input" id="inputConstitution" attributeName="con" min="0" aria-label="Constitution" />
+						</div>
+						<div class="col-sm-6 text-center">
+							<b>Charisma</b>
+							<input type="number" class="form-control attribute-input" id="inputCharisma" attributeName="cha" min="0" aria-label="Charisma" />
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-8 text-center">
+					<h3>Levels</h3> The first class is the one you took your first level in.
+					<div class="row py-1">
+						<div class="col-md-5 text-center">
+							<b>Class</b>
+							<select class="form-control class-selection" classIdx=0 subclassInputId="inputPrimarySubclass">
+								<option></option>
+							</select>
+						</div>
+						<div class="col-md-5 text-center">
+							<b>Subclass</b>
+							<select class="form-control subclass-selection" classIdx=0 id="inputPrimarySubclass">
+								<option></option>
+							</select>
+						</div>
+						<div class="col-md-2 text-center">
+							<b>Level</b>
+							<input type="number" class="form-control class-level-input" classIdx=0 min="1" max="20" aria-label="Primary class levels" />
+						</div>
+					</div>
+					<div class="row py-1">
+						<div class="col-md-5 text-center">
+							<b>Class</b>
+							<select class="form-control class-selection" classIdx=1 subclassInputId="inputSecondarySubclass">
+								<option></option>
+							</select>
+						</div>
+						<div class="col-md-5 text-center">
+							<b>Subclass</b>
+							<select class="form-control subclass-selection" classIdx=1 id="inputSecondarySubclass">
+								<option></option>
+							</select>
+						</div>
+						<div class="col-md-2 text-center">
+							<b>Level</b>
+							<input type="number" class="form-control class-level-input" classIdx=1 min="0" max="20" aria-label="Primary class levels" />
+						</div>
+					</div>
+					<div class="row pt-1 pb-3">
+						<div class="col-md-5 text-center">
+							<b>Class</b>
+							<select class="form-control class-selection" classIdx=2 subclassInputId="inputTetriarySubclass">
+								<option></option>
+							</select>
+						</div>
+						<div class="col-md-5 text-center">
+							<b>Subclass</b>
+							<select class="form-control subclass-selection" classIdx=2 id="inputTetriarySubclass">
+								<option></option>
+							</select>
+						</div>
+						<div class="col-md-2 text-center">
+							<b>Level</b>
+							<input type="number" class="form-control class-level-input" classIdx=2 min="0" max="20" aria-label="Primary class levels" />
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+		<section>
+			<h2>What's your problem?</h2>
+
+			<div class="form-check">
+				<input class="form-check-input" type="checkbox" id="spellcastingCheckbox" value="">
+				<label class="form-check-label" for="spellcastingCheckbox">
+					Explain to me some stuff about all that spellcastin' shit
+				</label>
+			</div>
+
+			<button type="button" id="submitButton" class="btn btn-primary btn-block float-right mt-2 mb-3"><b>Blimey</b></br>(yes this is a bloody button, just press it)</button>
+		</section>
+
+		<section id="resultsSection" style="display: none">
+			<h2>A'ight, listen up:</h2>
+
+			<div id="resultsSpellcasting" style="display: none">
+				<ul id="resultsSpellcastingList">
+					<li class="single-caster-class">Your <b>only caster class</b> is <b><span class="ph-class1-name">Class Name</span></b>, in which you have <b><span class="ph-class1-level">N</span></b> levels.</li>
+					<li class="multi-caster-class">You have the following spellcasting classes:</li>
+					<ul id="castingClassesList" class="multi-caster-class">
+						<div id="castingClassListItemTemplate">
+							<li><b><span class="ph-class-level">N</span></b> levels of <b><span class="ph-class-subclass">Path of Subclass</span> <span class="ph-class-name">Class</span></b></li>
+							<ul>
+								<li>Your <b><span class="ph-class-casting-descr">Something</span> spells</b> have a <b>DC</b> of <b><span class="ph-class-spelldc">N</span></b></li>
+								<li>Your <b><span class="ph-class-casting-descr">Something</span> spell attacks</b> use an attack modifier of <b><span class="ph-class-spell-attack-mod">N</span></b></li>
+								<li>Your <b>spellcasting ability</b> for <b><span class="ph-class-casting-descr">Something</span> spells</b> is <b><span class="ph-class-casting-ability-name">Attribute name</span></b> - your spell attack modifier and spell DC both scale with your
+									<span class="ph-class-casting-ability-name">Attribute name</span> modifier</li>
+								<li class="ph-class-prepares-spells">You can <b>prepare</b> <b><span class="ph-class-spells-prepared-number">N</span></b> <b><span class="ph-class-casting-descr">Something</span> spells</b></li>
+								<li class="ph-class-does-not-prepare">You don't have to prepare <b><span class="ph-class-casting-descr">Something</span> spells</b>, you always have all <span class="ph-class-casting-descr">Something</span> spells that you <b>know</b></li>
+							</ul>
+						</div>
+					</ul>
+					<li class="single-caster-class">Your <b>spell DC</b> is equal to <b><span class="ph-class1-spelldc">N</span></b>.</li>
+					<ul class="single-caster-class">
+						<li>This means that when it says someone makes a saving throw in the description of your spell, they must get at least <span class="ph-class1-spelldc">N</span> or higher.</li>
+						<li class="single-caster-class">This is always the same for all spells you cast, because you only have one caster class.</li>
+						<li>This scales with your Proficiency, and therefore with your level.</li>
+						<li class="single-caster-class">This also scales with your <span class="ph-class1-casting-ability-name">Attribute name</span> modifier, so bump some points into that attribute if you want your spells tougher to resist.</li>
+					</ul>
+					<li class="single-caster-class">Your <b>spell attack modifier</b> is equal to <b><span class="ph-class1-spell-attack-mod">+N</span></b>.</li>
+					<ul class="single-caster-class">
+						<li>This means that when you use a spell or some special ability, and it says something about you making a "spell attack" (nevermind ranged or melee, touch or not), you roll d20<span class="ph-class1-spell-attack-mod">+N</span> and must hit like with
+							a normal attack.</li>
+						<li>Remember what I said about spell DC and scaling and stuff? All of that applies to this as well. This and spell DC go together.</li>
+					</ul>
+					<li>You <b>know</b> the following spells:</li>
+					<ul id="spellsKnownList">
+						<span id="spellsKnownListItemCantripTemplate">
+							<li><b><span class="ph-cantrips-known-number">N</span></b> <span class="ph-cantrips-known-descr">Class name Cantrips</span></li>
+						</span>
+						<span id="spellsKnownListItemSpellTemplate">
+							<li><b><span class="ph-spells-known-number">N</span></b> <span class="ph-spells-known-descr">Class name spells</span> of order <b><span class="ph-spells-known-order-relation">not greater than</span> <span class="ph-spells-known-max-order">X</span></b></li>
+						</span>
+					</ul>
+					<li class="single-caster-class ph-class1-prepares-spells">You can <b>prepare</b> <b><span class="ph-class1-spells-prepared-number">N</span></b> <span class="ph-class1-spells-prepared-descr">Class name spells</span>.</li>
+					<ul class="single-caster-class ph-class1-prepares-spells">
+						<li>Preparing spells makes it so that you can cast those spells. You can't cast a spell that you don't have prepared.</li>
+						<li>You can only prepare spells that you <b>know</b>.</li>
+						<li>You don't prepare Cantrips. You always have all of them ready.</li>
+						<li>You set your <span class="ph-class1-spells-prepared-number">N</span> prepared spells <b>on long rest</b>. It's supposed to take some extra time or whatever, but usually nobody gives a shit about counting that.</li>
+					</ul>
+					<li class="single-caster-class ph-class1-does-not-prepare">You hear some pepole taking about <b>preparing</b> spells? You don't care about that. Your class does not prepare spells, you always have all the spells that you <b>know</b>.</li>
+					<div id='spellSlotsTableTemplate'>
+						<li>You have the following number of <b><span class="ph-spellslot-descr">Class resource name</span></b>, which you expend to cast your spells:</li>
+						<table class="table">
+							<thead>
+								<tr class="ph-spellslot-order-row">
+									<th scope="col">Spell slot order</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr class="ph-spellslot-number-row">
+									<th scope="row">Number of slots</th>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+				</ul>
+			</div>
+		</section>
+	</div>
+</body>
+
+</html>
