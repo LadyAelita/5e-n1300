@@ -154,7 +154,7 @@ You choose one type of creature as your ancestor.  You later gain features depen
 
 #### Otherworldly Dialect
 
-You can speak, read and write the following language:
+You are **Passable** with the following language. At **13th level**, you become **Fluent** with it. The selected language can be used by you for spellcasting.
 
 | Ancestor               | Language  |
 | ---------------------- | --------- |
