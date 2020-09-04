@@ -485,7 +485,7 @@ You gain **proficiency** in **Arcana**, **Nature** and **another skill** of your
 
 ### Bonus Languages
 
-You learn one of the following languages: Epidian, Ignan, Petran, Lucernal, Black Speech, Umbral, Venefical, Caelian, Neritian, Infernal.
+You learn one of the following languages: Ignan, Petran, Lucernal, Black Speech, Umbral, Venefical, Caelian, Neritian, Infernal.
 
 ### Combat Superiority (3rd, 7th, 10th, 15th, 18th level)
 
