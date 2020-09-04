@@ -291,9 +291,11 @@ Your GM can lift this restriction to better suit the campaign. In the world of N
 
 Alternatively, your GM can allow you to begin as a living creature and only turn undead at the 14th level.
 
-### Speech of Horror (2nd level)
+### Speech of Horror (2nd, 13th level)
 
-You can speak, read and write in **Black Speech**. Whenever you speak this language, you have advantage on **Intimidation** checks.
+You are **Passable** with **Black Speech**. Whenever you speak this language, you have advantage on **Intimidation** checks.
+
+At **13th level**, you become **Fluent** in Black Speech.
 
 ### Wizard's Grimoire (2nd level)
 
