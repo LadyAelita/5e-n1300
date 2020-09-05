@@ -5,7 +5,7 @@
 
 [gimmick:floatnext](right, table)
 
-| <a href="https://i.imgur.com/1C2vx7t.png"><img src="https://i.imgur.com/1C2vx7t.png" width="345px" alt="Eve" title="Eve"></img></a><br />Baltrin Arion [gimmick:attribute](th, colspan, 2, style, text-align: center) | [gimmick:del]()                                              |
+| <a href="https://i.imgur.com/1C2vx7t.png"><img src="https://i.imgur.com/1C2vx7t.png" width="345px" alt="Eve" title="Eve"></img></a><br />Eve [gimmick:attribute](th, colspan, 2, style, text-align: center) | [gimmick:del]()                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Alternative names**                                        | *„The Golem”* (by [Infallible](#!Pages/Journal/Organizations/Infallible.md)) |
 | **Gender**                                                   | Female                                                       |
