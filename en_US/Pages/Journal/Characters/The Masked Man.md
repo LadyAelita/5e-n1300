@@ -16,14 +16,14 @@
 | **Class**                                                    | unknown                                                      |
 | **Alignment**                                                | likely non-lawful, non-good                                  |
 | **Disposition**                                              | Heel                                                         |
-| **Weapon of choice**                                         | katana and a soul-stealing rapier                            |
+| **Weapon of choice**                                         | katana and [a soul-stealing rapier](#!Pages/Journal/Items/The Soul-Stealing Rapier.md) |
 | **Profession**                                               | unknown                                                      |
 | **Affiliation**                                              | [<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant](#!Pages/Journal/Organizations/Defiant.md) |
 | **Position**                                                 | spiritual leader                                             |
 | **Residence**                                                | potentially [Dimok](#!Pages/Journal/Locations/Dimok.md), [Kingdom of Northland](#!Pages/Journal/Organizations/Kingdom of Northland) |
 | **Love interests**                                           | --                                                           |
 | **Allies**                                                   | --                                                           |
-| **Enemies**                                                  | [Dionistic Church](Nameless Keeper.md) (has shown no respect <br />for it)<br />[Nathaniel](Nathaniel.md) (they are fighting each other for [Amanda](Amanda.md)'s <br />free will, which the Masked Man is restricting)<br />[The Murderer](The Murderer.md) (intended to shoot him) |
+| **Enemies**                                                  | [Curt](Curt.md) (tried to mind-control him)<br />[Dionistic Church](Nameless Keeper.md) (has shown no respect <br />for it)<br />[Nathaniel](Nathaniel.md) (they are fighting each other for [Amanda](Amanda.md)'s <br />free will, which the Masked Man is restricting)<br />[The Murderer](The Murderer.md) (intended to shoot him) |
 
 **The Masked Man** is arguably the spiritual leader of [Defiant](#!Pages/Journal/Organizations/Defiant.md), who conceals his identity behind a mask. 
 
