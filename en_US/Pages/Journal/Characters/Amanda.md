@@ -40,7 +40,7 @@ Amanda first met [Infallible](#!Pages/Journal/Organizations/Infallible.md) in it
 
 Outside of being seen training with Brittany or [Nathaniel](Nathaniel.md) (who technically went on to become a member of Infallible), Amanda didn't interact much with the protagonists until the 11th of June, 1300, when the Defiant Five bumped into the Infallible team, which was about to officially sign up for the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament) in the foyer of the City Hall. [Baltrin Arion](Baltrin.md), a member of Infallible, went into a verbal fight with Amanda, where both fighters taunted each other. Eventually, Amanda spat in Baltrin's face and walked away, which prompted Baltrin to recklessly throw one of his handaxes in her direction. The throw completely missed, though, and the axe knocked an innocent bystander out instead of the intended target, with Amanda audibly laughing at the orc from afar and loudly proclaiming she'd never miss like that.
 
-On the 15th of June, 1300, she competed in the first round of the [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) tournament, defeating Maximilien Pasteur by technical victory in six seconds.
+On the 15th of June, 1300, she competed in the first round of the [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) tournament, defeating Maximilien Pasteur by technical victory in six seconds. In the second round of the tournament, she defeated [Jean de la Croix](Jean de la Croix.md) by referee stoppage as she was viciously stomping his head.
 
 ## Personality
 
@@ -62,6 +62,8 @@ While she doesn't seem keen on following any rules, she's rational enough not to
 
 She seems to quite enjoy using the runic devices. She owns a TSR phone, as per her announcement in the newspaper, where it was provided as one of the ways to contact her. She also has a radio receiver in her shop.
 
+Throughout the [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) tournament, she began to show her mean streak, given the brutal nature of her victory over [Jean de la Croix](Jean de la Croix.md).
+
 ## Appearance
 
 Amanda is easily recognizable due to her pale skin, black makeup and her sidecut hairstyle, combined with alternative apparel, based mostly on black studded leather, which doubles down as light armor - a modern style which she pioneered. She always wears a patch with a Defiant symbol on her jacket, as do many other members of the faction.
@@ -80,13 +82,15 @@ She was defeated by [Nathaniel](Nathaniel.md) during one of their training sessi
 
 > Don't you **ever** take a swing at her ever again.
 >
-> – *Nathaniel do Baltrin regarding Amanda*
+> – *Nathaniel to Baltrin regarding Amanda*
 
 Not much is known about the nature of Amanda's relationship with [Nathaniel](Nathaniel.md). Despite them living in vastly different districts of [Dimok](#!Pages/Journal/Locations/Dimok.md) and representing different teams on the [28th Grand Tournament](#!Pages/Journal/Events/The Grand Tournament.md#28th_Grand_Tournament), their bond is evidently very strong and both lovers have had massive influence on the other. It is due to having become Nathaniel's only sparring partner in 1295, during the day of the [ISF World Championship](#!Pages/Journal/Organizations/Iartar Swordsfighting Federation.md) tournament, that she became fascinated with fencing and dedicated her efforts to becoming the best at it. Meanwhile, Nathaniel's entire wardrobe is composed of apparel handmade by Amanda, and he does tend to swear in Common relatively often for a half-elf.
 
 The typical male and female roles seem to be reversed in their relationship, with Amanda being an aggressive, brash, strong, no-nonsense fighter, and Nathaniel being a more amiable, soft-spoken and reasonable scientist, serving as the voice of reason and having mostly foregone fencing years ago, on top of his rather feminine appearance.
 
-While Nathaniel is clearly confident in Amanda's toughness and combat prowess, he's very protective of her and doesn't like seeing her in any form of danger. He usually lays low in his efforts to protect her, doing so rather quietly. It wasn't until Amanda left the building, that he sternly and threateningly told [Baltrin](Baltrin.md) to never swing at her, even dropping his usual soft-spoken, somewhat apprehensive and panicky attitude. Moreover, Nathaniel has been evidently attempting to keep Amanda away from [The Masked Man](The Masked Man.md), whom he sees as very dangerous, especially to her.
+While Nathaniel is clearly confident in Amanda's toughness and combat prowess, he's very protective of her and doesn't like seeing her in any form of danger. He usually lays low in his efforts to protect her, doing so rather quietly. It wasn't until Amanda left the building, that he sternly and threateningly told [Baltrin](Baltrin.md) to never swing at her, even dropping his usual soft-spoken, somewhat apprehensive and panicky attitude. Moreover, Nathaniel has been evidently attempting to keep Amanda away from [The Masked Man](The Masked Man.md), whom he sees as very dangerous, especially to her. Amanda is aware of The Masked Man's corruption, but due to [Iodine 53](#!Pages/Journal/Items/Iodine 53.md) having already compromised her free will, she cannot act on that knowledge, only being able to helplessly shed tears.
+
+Nathaniel prioritizes Amanda over everyone else, having referred to her as the only person he's got.
 
 ### With Brittany
 
