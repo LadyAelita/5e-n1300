@@ -1,20 +1,20 @@
 # The 28th Grand Tournament
 
-**Date:** 19 VI 1300 (ongoing)
+**Date:** 20 VI 1300
 
 ### Team Games
 
 #### Rankings
 
-| Rank | Team                                                         | Matches fought | Matches remaining | Record | Points | Wins vs tied | Points difference |
-| ---- | ------------------------------------------------------------ | -------------- | ----------------- | ------ | ------ | ------------ | ----------------- |
-| 1    | **U'rati**                                                   | 2              | 4                 | 2-0-0  | 4      | 1            | 4                 |
-| 2    | **Legacy**                                                   | 3              | 3                 | 2-1-0  | 4      | 1            | 2                 |
-| 3    | <img src="https://i.imgur.com/irvSr2O.png" height="16px"></img> **Infallible** | 3              | 3                 | 2-1-0  | 4      | 0            | 2                 |
-| 4    | **<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant's Five** | 1              | 5                 | 1-0-0  | 2      | 0            | 2                 |
-| 5    | **ISF**                                                      | 2              | 4                 | 1-1-0  | 2      | 0            | 0                 |
-| 6    | **Courage**                                                  | 2              | 4                 | 0-2-0  | 0      | 0            | -4                |
-| DQ   | **Vitriol\***                                                | 3              | 3                 | 0-3-0  | 0      | 0            | -6                |
+| Rank     | Team                                                         | Matches fought | Matches remaining | Record | Points | Wins vs tied | Points difference |
+| -------- | ------------------------------------------------------------ | -------------- | ----------------- | ------ | ------ | ------------ | ----------------- |
+| 1        | **<img src="https://i.imgur.com/ZVeztfS.png" height="16px"></img> Defiant's Five** | 2              | 4                 | 2-0-0  | 4      | 1            | 4                 |
+| 2 (tied) | **U'rati**                                                   | 3              | 3                 | 2-1-0  | 4      | 1            | 2                 |
+| 2 (tied) | **Legacy**                                                   | 3              | 3                 | 2-1-0  | 4      | 1            | 2                 |
+| 4        | <img src="https://i.imgur.com/irvSr2O.png" height="16px"></img> **Infallible** | 3              | 3                 | 2-1-0  | 4      | 0            | 2                 |
+| 5        | **ISF**                                                      | 2              | 4                 | 1-1-0  | 2      | 0            | 0                 |
+| 6        | **Courage**                                                  | 2              | 4                 | 0-2-0  | 0      | 0            | -4                |
+| DQ       | **Vitriol\***                                                | 3              | 3                 | 0-3-0  | 0      | 0            | -6                |
 
 <sup>\* **Vitriol** initially won their match against **Infallible** by forfeit, although the team was then disqualified as a result of Vitriol's Aiden assaulting Infallible's Eve with tsavoritic acid after the match had already ended. Their subsequent matches will not be fought and will instead be replaced by announcements of their opponents automatic victories by virtue of the tournament-long disqualification. </sup>
 
@@ -22,7 +22,7 @@
 
 | Date                         | 17 VI (Wed)                                                  | 18 VI (Thu)                                                  | 19 VI (Fri)                                                  | 20 VI (Sat)                                                  | 21 VI (Sun)                                                  | 22 VI (Mon)                                                  | 23 VI (Tue)                                                  |
 | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Matches**<br />(unordered) | • Courage vs **Legacy**<br />• Vitriol vs **U'rati**<br />• ISF vs **Infallible** | • Legacy vs **U'rati**<br />• Courage vs **Defiant**<br />• **Infallible** vs Vitriol | • Infallible vs **Legacy**<br />• Defiant vs U'rati<br />• ~~**ISF** vs Vitriol~~ | • ~~Legacy vs Vitriol~~<br />• Defiant vs ISF<br />• Courage vs Infallible | • ~~Defiant vs Vitriol~~<br />• ISF vs Courage<br />• Infallible vs U'rati | • ISF vs Legacy<br />• Defiant vs Infallible<br />• Courage vs U'rati | • Defiant vs Legacy<br />• ISF vs U'rati<br />• ~~Courage vs Vitriol~~ |
+| **Matches**<br />(unordered) | • Courage vs **Legacy**<br />• Vitriol vs **U'rati**<br />• ISF vs **Infallible** | • Legacy vs **U'rati**<br />• Courage vs **Defiant**<br />• **Infallible** vs Vitriol | • Infallible vs **Legacy**<br />• **Defiant** vs U'rati<br />• ~~**ISF** vs Vitriol~~ | • ~~Legacy vs Vitriol~~<br />• Defiant vs ISF<br />• Courage vs Infallible | • ~~Defiant vs Vitriol~~<br />• ISF vs Courage<br />• Infallible vs U'rati | • ISF vs Legacy<br />• Defiant vs Infallible<br />• Courage vs U'rati | • Defiant vs Legacy<br />• ISF vs U'rati<br />• ~~Courage vs Vitriol~~ |
 | **Day off**                  | Defiant's Five                                               | ISF                                                          | Courage                                                      | U'rati                                                       | Legacy                                                       | Vitriol                                                      | Infallible                                                   |
 
 ### Iartar Swordsfighting Federation World Championship
